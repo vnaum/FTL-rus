@@ -208,7 +208,7 @@ msgid "After the battle the Rock ship hails you. Their captain simply says, \"Th
 msgstr ""
 msgid "It appears the Rock ship was long since abandoned. You strip what you can from it."
 msgstr ""
-msgid "You arrive near near the distress beacon's signal."
+msgid "You arrive near the distress beacon's signal."
 msgstr ""
 msgid "You track the distress beacon with difficulty to one of the seven moons of a planet hidden in the nebula."
 msgstr ""

@@ -218,7 +218,7 @@ msgid "You're not going to leave anyone behind. You pull away from the station w
 msgstr ""
 msgid "This nebula turns out to be the hiding place of a terrified rock crew taking refuge from the Zoltan border police. They don't seem prepared to risk your leaving with their co-ordinates, and open fire!"
 msgstr ""
-msgid "Inside this nebula you detect a rogue planet drifting through space, on its surface a huge monolith visible at this distance even to the naked eye. A Zoltan elder hails you from the planet. \"Through luck or intent, you have discovered the Great Eye. Look into its depths and receive your just desert.\""
+msgid "Inside this nebula you detect a rogue planet drifting through space, on its surface a huge monolith visible at this distance even to the naked eye. A Zoltan elder hails you from the planet. \"Through luck or intent, you have discovered the Great Eye. Look into its depths and receive your just dessert.\""
 msgstr ""
 msgid "Pull the ship in closer."
 msgstr ""
