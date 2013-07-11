@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+# this extracts strings from XML files
+
 import sys
 from BeautifulSoup import BeautifulSoup
 
