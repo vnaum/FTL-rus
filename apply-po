@@ -25,9 +25,25 @@ close F;
 
 # die;
 
+my $trans = 0;
+my $untrans = 0;
 # read STDIN
 while(<STDIN>)
 {
-  s!(<text\b[^>]*>)\s*(\S.*\S)\s*(</text\b)!$1$xlat{$2}$3!;
+  if(m!(<text\b[^>]*>)\s*(\S.*\S)\s*(</text\b)!)
+  {
+    if($xlat{$2})
+    {
+      s!(<text\b[^>]*>)\s*(\S.*\S)\s*(</text\b)!$1$xlat{$2}$3!;
+      $trans++;
+    }
+    else
+    {
+      $untrans++;
+    }
+  }
   print;
 }
+
+warn "Translated: $trans\n";
+warn "Untranslated: $untrans\n";
