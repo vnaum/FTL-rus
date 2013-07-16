@@ -2,10 +2,12 @@
 
 use warnings;
 use strict;
+use Text::Iconv;
+my $converter = Text::Iconv->new("UTF8", "CP1251");
 
 my %xlat;
 # load po
-warn "reading $ARGV[0]";
+# warn "reading $ARGV[0]";
 open F, '<', $ARGV[0] or die;
 my ($id, $str) = (undef, undef);
 while(<F>)
@@ -16,7 +18,7 @@ while(<F>)
   {
     $id =~ s/\\"/"/g;
     $str =~ s/\\"/"/g;
-    $xlat{$id} = $str;
+    $xlat{$id} = $converter->convert($str);
     # warn "$id, $str";
     ($id, $str) = (undef, undef);
   }
