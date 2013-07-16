@@ -21,6 +21,6 @@ done
 TESTGAMEDIR=$HOME/games/FTL_rus_test
 
 cd build-tmp
-zip $TESTGAMEDIR/data/mods/rus_test.ftl *
+zip -r $TESTGAMEDIR/data/mods/rus_test.ftl *
 cd $TESTGAMEDIR/data
-# ./modman
+./modman
