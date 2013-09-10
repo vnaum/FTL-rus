@@ -284,20 +284,17 @@ You find yourself surrounded by a group of mysterious alien vessels. They hail y
 A transmission from the nearby planet indicates an outpost below which offers supplies to travelers. You send down an away party to check it out.
 The space station here has a traveling merchant who shows you his wares.
 There is only one other ship at this beacon, and it is showing heavy damage. You receive a message on your console: "Greetings traveler. We were crippled by a band of pirates and are now forced to sell our remaining valuable equipment to acquire the necessary supplies to get home."
-drone
 When you ask a nearby station for aid, a friendly programmer gives you the schematics for a drone!
 An abandoned space station circles a lonely planet. A quick check yields schematics for a drone. You bring it aboard the ship.
 Federation sympathizers contact you as you arrive. "We know your mission should be secret, so don't ask how we know about it. Take this schematic, it's all we can do to help."
 A small Engi research vessel is trying to fend off a Mantis ship. You move in to engage but after a quick scan of your ship the Mantis ship retreats. The Engi offer you a drone schematic as thanks for your timely arrival.
 You find an abandoned mining station on a nearby moon. A quick scan shows no life forms however you discover a usable drone schematic!
-weapon
 Holy crap! A weapon is just floating in space!
 You inform a nearby station of your flight from the Rebels. They offer to outfit your ship with a weapon and wish you well.
 A settlement still loyal to the Federation hails your ship. They have prepared a weapon to aid your escape from the Rebels.
 As soon as you arrive a small Mantis ship detaches from a wreck and jumps away.  You must have interrupted their salvage operation because you find a weapon ready to be installed!
 A small merchant ship messages you, "Underground Federation comm channels are all talking about your 'secret' mission. Let us install a weapon to help. Good luck!"
 Debris from a battle is scattered around this system. A few pieces bounce against your ship. You passively scan them and discover there is a functioning weapon among them!
-standard
 You arrive in a system and immediately discover a pirate ship nearby. Strangely, scans indicate there are no lifeforms aboard. You salvage anything useful, but find no clue as to the whereabouts of the former crew.
 Not much remains in this abandoned system; however, scans reveal a nearby mining platform with some salvageable materials.
 As you arrive in the system you are hailed by a loyalist settlement. Upon learning of your quest, they offer you supplies.
@@ -627,7 +624,7 @@ You follow their directions and discover an ancient Engi ship. You find a deacti
 Ignore it.
 You ignore the readings and prepare to move on.
 None of your attempts to communicate seem to work: they just stare at you silently. As you prepare to leave, one of the creatures canters forward and forcefully nudges you away from the ship. He seems to want you to follow him. Eventually, the creatures guide you to an old Engi ship's crash site. Inside you are able to find and reactivate an Engi!
-You try to communicate in every possible way you can but they just stand there, silently judging you with their large, expressionless eyes. You prepare to leave.
+You try to communicate in every possible way you can but they just stand there, silently judging you with their large, expressionless eyes. You prepare to leave. 
 The seemingly docile creatures quickly turn violent when you reveal your hostile intentions. Their well-organized stampede forces you to draw weapons and make a rushed and shambolic retreat to the shuttle.
 The seemingly docile creatures quickly turn violent when you show your hostile intentions. They stampede with terrifying force, trampling one of your crew before you have time to react. You fight your way back to the shuttle and prepare to jump.
 As you jump in, you immediately see an impressive Slug pirate ship with "The Black Raven" painted on one side. They hail you, "Greetingsss.  I am the dreaded pirate, Captain Nights. You mussst be full of fear, no? You have heard of me... no?"
@@ -637,7 +634,7 @@ Accept his challenge.
 Decline.
 "I sssee... However you have no choice in the matter!" They move in to attack.
 (Slugman Crew) Engage in a duel of the mind.
-Your Slug crewman's eyes glaze over as the two telepaths concentrate. You can only wonder what is happening. After a short time your comrade grunts in pain and collapses onto the floor, stunned. Nights responds, "Hah! It'll take more than that to defeat me! Let the real battle begin!"
+Your Slug crewman's eyes glaze over as the two telepaths concentrate. You can only wonder what is happening. After a short time your comrade grunts in pain and collapses onto the floor, stunned. Nights responds, "Hah! It'll take more than that to defeat me! Let the real battle begin!"  
 Your Slug crewman's eyes glaze over as the two telepaths concentrate. You are powerless to help, but after a short time your comrade shakes off the daze and appears victorious.
 Continue...
 His face contorted with pain, Nights concedes his defeat: "If this is the caliber of subordinatesss you keep, there iss no way we can defeat you. Take thisss and let us leave in shame."
