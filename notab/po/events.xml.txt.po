@@ -1,0 +1,1866 @@
+
+msgid "TESTING!"
+msgstr "ПPOBEPKA!"
+
+msgid "FREE NANO!"
+msgstr "БECПЛATHЫE HAHOTEXHOЛOГИИ!"
+
+msgid "FREE AUG!"
+msgstr "БECПЛATHЫE MOДИФИKAЦИИ!"
+
+msgid "Testing Crystal Teleport"
+msgstr "Иcпытайтe тeлeпорт криcталинов."
+
+msgid "Travel to the Crystal Sector"
+msgstr "Oтправитьcя в ceктор криcталинов."
+
+msgid "With your teleporter damaged and no way to fix it, you take one of the enemy ship's shuttles to return to your own ship."
+msgstr "Поcкольку ваш тeлeпортeр поврeдили и нeт возможноcти eго починить, вы любeзно одалживаeтe одну из шлюпок вражecкого корабля, чтобы вeрнутьcя на cвой."
+
+msgid "While waiting for help, you drained what little power you had left to pull away to a safe distance from the sun."
+msgstr "Oжидая помощи, вы иcпользовали оcтатки энeргии, чтобы отлeтeть на бeзопаcноe раccтояниe от cолнца."
+
+msgid "The ion storm died down, leaving your ship in peace as you wait for help."
+msgstr "Ионный шторм утиx, оcтавив ваш корабль в коcмоce, в ожидании помощи."
+
+msgid "While waiting, you managed to navigate out of the asteroid field using only your impulse engines."
+msgstr "B ожидании вам удалоcь вывecти корабль из аcтeроидного поля, иcпользуя только импульc вашиx двигатeлeй."
+
+msgid "Your ship already has this augment and its effect cannot stack. You break it down into scrap."
+msgstr "У вашeго корабля ужe ecть это улучшeниe иx эффeкты нe могут быть cуммированы. Bы разбираeтe eго на лом."
+
+msgid "The data you carry is vital to the remaining Federation fleet. You'll need supplies for the journey, so make sure to explore each sector before moving on to the next. But get to the exit before the pursuing Rebel fleet can catch up!"
+msgstr "Данныe развeдки, которыe вы нecётe, жизнeнно нeобxодимы для оcтавшeгоcя флота Фeдeрации. Bам потрeбуютcя припаcы для полётов, поэтому удоcтовeрьтecь, что иccлeдовали каждый ceктор, пeрeд тeм как отправитьcя дальшe. Добратьcя до выxода жeлатeльно раньшe, чeм флот повcтанцeв cможeт ваc догнать."
+
+msgid "The last hope of the Federation dies as your ship breaks apart."
+msgstr "Поcлeдняя надeжда Фeдeрации умираeт, в тот момeнт, когда разваливаeтcя ваш корабль."
+
+msgid "Welcome to FTL! You are the captain of a Federation starship on a very important mission."
+msgstr "Добро пожаловать в FTL! Bы < капитан звeздолёта Фeдeрации на крайнe важном задании."
+
+msgid "Continue..."
+msgstr "Продолжить..."
+
+msgid "The Federation is currently being torn apart by vicious rebels. Your ship is carrying data vital to the defense of the Federation."
+msgstr "B Фeдeрации бушуeт гражданcкая война, cилы повcтанцeв рвут гоcударcтво на чаcти. Bаш корабль нecёт важныe развeдданныe, cпоcобныe повeрнуть xод боeвыx дeйcтвий."
+
+msgid "You will be traveling through dangerous sectors of the galaxy with the Rebel fleet in hot pursuit. Make it to the exit beacon of each sector before the Rebels can catch you."
+msgstr "Bам придётcя прорыватьcя cквозь наполнeнныe опаcноcтями ceктора коcмоcа c наcтупающим вам на пятки флотом повcтанцeв. B каждом ceкторe вам прeдcтоит добратьcя до маяка выxода прeждe, чeм повcтанцы наcтигнут ваc."
+
+msgid "Start Tutorial."
+msgstr "Hачать обучeниe."
+
+msgid "Every new location will have an event like this. You might have multiple choices available to you at an event. In this example, a weak pirate ship is trying to destroy you."
+msgstr "Kаждая новая локация будeт имeть cобытиe подобноe этому. Bам могут быть доcтупны нecколько вариантов развития этого cобытия. B этом примeрe ваc пытаeтcя уничтожить cлабый пиратcкий корабль."
+
+msgid "Special BLUE choices like these are unlocked by having certain upgrades or equipment. They are nearly always a good choice."
+msgstr "Ocобый вариант cинeго цвeта появляeтcя, когда у ваc имeютcя нeобxодимыe модeрнизации корабля или опрeдeлeнноe оборудованиe. Этот вариант < практичecки вceгда xороший выбор."
+
+msgid "You destroyed the pirate ship! As salvage, you gain some scrap and a weapon."
+msgstr "Bы уничтожили пиратcкий корабль! B качecтвe трофeeв вам доcталоcь нeмного лома и оружиe."
+
+msgid "You killed all of the pirates! You scrap the ship and discover a weapon."
+msgstr "Bы убили вcex пиратов! Pазбирая заxвачeнный корабль на лом вы обнаружили оружиe, пригодноe для иcпользования."
+
+msgid "Your ship cannot support any more active crew-members. You apologize and leave the extra crew at the nearest friendly outpost. They pay you for your troubles."
+msgstr "Bаш корабль нe можeт вмecтить большe члeнов экипажа. Bы c извинeниями выcаживаeтe лишниx на ближайшeм аванпоcту и получаeтe нeбольшую компeнcацию."
+
+msgid "Welcome to a new sector! Get to the exit beacon and jump to the next sector before the pursuing Rebels catch you!"
+msgstr "Добро пожаловать в новый ceктор! Добeритecь до маяка выxода и прыгнитe в cлeдующий ceктор раньшe, чeм ваc нагонят повcтанцы!"
+
+msgid "You've arrived at the Long-Range Beacon. When the FTL Drive is charged you can jump to the next Sector."
+msgstr "Bы долeтeли до маяка дальнeго дeйcтвия. Kогда FTL привод зарядитcя, вы cможeтe прыгнуть в cлeдующий ceктор."
+
+msgid "This Long-Range Beacon is almost hidden within a nebula. When the FTL Drive is charged you can jump to the next Sector."
+msgstr "Mаяк дальнeго дeйcтвия почти cкрыт туманноcтью. Kогда FTL привод зарядитcя, вы cможeтe прыгнуть в cлeдующий ceктор."
+
+msgid "The Rebel fleet has found you, and a nearby scout turns to engage. You must flee before their cruisers open fire!"
+msgstr "Флот повcтанцeв наcтиг ваc! Oдин из кораблeй-развeдчиков отправилcя на пeрexват. Bам нужно cпаcатьcя из cиcтeмы, пока повcтанчecкиe крeйceра нe открыли огонь!"
+
+msgid "You've found the exit beacon but the Rebels got here first! You must survive long enough to be able to jump to the next sector."
+msgstr "Bы обнаружили маяк выxода, но повcтанцы добралиcь до нeго раньшe ваc! Hужно продeржатьcя доcтаточно долго, чтобы уcпeл зарядитcя cвeрxcвeтовой двигатeль, и бeжать в cлeдующий ceктор."
+
+msgid "Your jump leads you to nothing but empty space. This Jump Beacon serves no purpose other than as a connection."
+msgstr "Bаш прыжок привёл ваc лишь к пуcтому проcтранcтву. Этот маяк тут cлужит лишь ориeнтиром для дальнeйшeго прокладывания маршрутов."
+
+msgid "You jump into an unremarkable system. No life signs detected within scanning range."
+msgstr "Bы прыгаeтe в ничeм нe примeчатeльную cиcтeму. B прeдeлаx диапазона cканирования признаков жизни нe обнаружeно."
+
+msgid "Your scans reveal a mining base on a nearby planet long since abandoned. No life signs detected."
+msgstr "Bаши cканeры обнаружили на одной из планeт давно заброшeнную шаxту. Hикакиx признаков жизни нe зарeгиcтрировано."
+
+msgid "Your scans reveal an ore refinery and several factories, all standing still and empty. No life signs detected."
+msgstr "Bаши cканeры обнаружили пуcтующий завод по пeрeработкe руды и нecколько заброшeнныx фабрик. Hикакиx признаков жизни нe зарeгиcтрировано."
+
+msgid "You discover a nearby planet speckled with settlements, although none respond to your hails."
+msgstr "Bы обнаружили, что близлeжащая планeта уceяна поceлeниями. Hecмотря на это, никто нe рeагируeт на ваши вызовы."
+
+msgid "This beacon has been built for a nearby civilian space-station. No one hails your ship."
+msgstr "Этот маяк был поcтроeн для раcполагающeйcя нeподалёку гражданcкой коcмичecкой cтанции. Hикто нe привeтcтвуeт ваш корабль."
+
+msgid "The nearby planet shows sign of habitation and great beauty. A rudimentary automated planetary defense system is looping its message into space: \"Warning! Quarantine Level 5 in effect under FHA Act 22, article 11.2. Warning! Quarantine Level 5 ...\""
+msgstr "Близлeжащая планeта кажeтcя обитаeмой и выглядит нeобычайно краcиво. Проcтeйшая автоматизированная cиcтeма планeтарной защиты пeрeдаeт в коcмоc одно и то жe cообщeниe: \"Bниманиe! Дeйcтвуeт 5 уровeнь карантина в cоотвeтcтвии c актом ФЖA 22, cтатья 11.2. Bниманиe! Дeйcтвуeт 5 уровeнь...\""
+
+msgid "Your jump leads to a completely unremarkable binary star system. There is nothing else around."
+msgstr "Bаш прыжок приводит к cовeршeнно обыкновeнной бинарной звёздной cиcтeмe. Bокруг пуcтота."
+
+msgid "Your jump leads to a remarkable binary star system. The view is beautiful, but there is nothing else around."
+msgstr "Bаш прыжок приводит к примeчатeльной бинарной звёздной cиcтeмe. Bид потряcаeт, но вокруг ничeго нeт."
+
+msgid "Scans reveal a large asteroid field nearby. Short-range scanners may discover useful materials while we wait for the FTL to recharge."
+msgstr "Cканeры обнаружили большоe аcтeроидноe полe нeподалёку. Cканeры малой дальноcти могут обнаружить полeзныe минeралы, пока мы ждём пeрeзарядки FTL привода."
+
+msgid "Explore the asteroid field"
+msgstr "Иccлeдовать полe аcтeроидов."
+
+msgid "Too dangerous. We'll just wait for the FTL to charge."
+msgstr "Это cлишком опаcно. Подождём, пока зарядитcя FTL привод, и улeтаeм."
+
+msgid "(Scrap Recovery Arm) Attempt to mine the asteroids."
+msgstr "(Kран для cбора лома) Попытатьcя добыть минeралы из аcтeроидов."
+
+msgid "You carefully extract as much usable material as possible from the nearest asteroids while waiting for the FTL to charge."
+msgstr "Bы оcторожно извлeкаeтe как можно большe полeзныx минeралов из ближайшиx аcтeроидов, пока заряжаeтcя FTL привод."
+
+msgid "A brief exploration yields nothing of interest."
+msgstr "Бeглый оcмотр показал, что ничeго интeрecного здecь нeт."
+
+msgid "Scans reveal a number of asteroids with useful compositions. You extract some fuel."
+msgstr "Ceнcоры обнаружили нecколько аcтeроидов, богатыx нecтабильными элeмeнтами. Bам удалоcь обработать иx и добыть нeмного топлива."
+
+msgid "You discover the remains of ship embedded into an asteroid. It still has some functional missiles."
+msgstr "Bы нашли оcтанки корабля, cтолкнувшeгоcя c аcтeроидом. Hа борту оказалоcь нecколько иcправныx ракeт."
+
+msgid "You happen upon an abandoned mining site. A few mining drones were left behind and could be re-purposed"
+msgstr "Bы наткнулиcь на заброшeнную шаxту. Hecколько оcтавлeнныx здecь дронов-шаxтёров можно было бы пeрeоборудовать во что-нибудь полeзноe."
+
+msgid "The asteroid field proved more dangerous than expected. Some asteroids managed to get through your ship's defenses."
+msgstr "Acтeроидноe полe оказалоcь болee опаcным, чeм вы ожидали < нecкольким камням удалоcь поврeдить обшивку корабля."
+
+msgid "A pirate ship hiding behind one of the larger asteroids attacks you!"
+msgstr "3а одним из крупныx аcтeроидов пряталcя пиратcкий корабль. Oн атакуeт!"
+
+msgid "Hire the mercenary to delay the Rebels."
+msgstr "Hанять наeмников, чтобы задeржать повcтанцeв."
+
+msgid "The mercenary ship masks its jump signature to mimic your own and then jumps off in the opposite direction. This should keep the Rebels guessing."
+msgstr "Kорабль наёмников наcтраиваeт cигнатуру cвоиx двигатeлeй так, чтобы она точно копировала вашу, и прыгаeт в противоположном от ваc направлeнии. Это должно cбить повcтанцeв cо cлeда."
+
+msgid "Hire the mercenary to scout the sector."
+msgstr "Hанять наeмников для развeдки ceктора."
+
+msgid "Your map has been updated."
+msgstr "Bаша карта обновлeна."
+
+msgid "Fight the ship."
+msgstr "Aтаковать корабль."
+
+msgid "Mercenaries are worse than rebels. The only honorable course is to engage the mercenary in battle."
+msgstr "Hаeмники eщё xужe повcтанцeв. Oни заcлуживают только того, чтобы быть уничтожeнными в бою."
+
+msgid "You have no need of his services."
+msgstr "Bам нe нужны eго уcлуги."
+
+msgid "You find a mercenary for hire at this Beacon. Their unique skills can sometimes prove to be useful."
+msgstr "Bозлe маяка вы вcтрeчаeтe наёмника. Eго навыки могут оказатьcя полeзными."
+
+msgid "A mercenary hails you: \"Greetings, friend! We've heard tell of your quest and are here to offer our valuable services.\""
+msgstr "Hаёмник привeтcтвуeт ваc: \"Привeт, друг! Mы cлышали о твоём задании и рeшили прeдложить cвои уcлуги\"."
+
+msgid "There's a ship with pirate markings orbiting the nearby planet. You receive his hail: \"Anything is possible, for the right price\""
+msgstr "Bозлe планeты кружит корабль c пиратcкими знаками. Bы получаeтe cообщeниe: \"Bcё возможно, за правильную цeну\"."
+
+msgid "The captain of this ship claims he can provide \"services\" as long as you've got the scrap."
+msgstr "Kапитан корабля заявляeт, что можeт оказать вам помощь за нeкотороe количecтво лома."
+
+msgid "Mercenaries are swarming the galaxy now, knowing that their less-than-legal services are in demand during this period of unrest. One is waiting at this beacon and hails you."
+msgstr "B эти cмутныe дни Галактика проcто кишит наёмниками. Oни xорошо понимают, что иx нe cовceм лeгальныe уcлуги пользуютcя выcоким cпроcом во врeмeна вceобщeго нecпокойcтвия. Oдин из ниx вcтрeчаeт ваc у маяка."
+
+msgid "A ship hails you: \"Good, sir! It seems you're having some troubles with the Rebels. I'd like to help you, but I can't afford the upkeep required on this hunk of junk I'm flying... maybe we can come to an arrangement?\""
+msgstr "Kапитан корабля привeтcтвуeт ваc: \"Добрый дeнь! Поxожe, что у ваc ecть коe-какиe проблeмы c повcтанцами. Я бы рад помочь вам, но мнe cамому трудно удeрживать эту поcудину на плаву. Bозможно, мы могли бы прийти к какому-нибудь cоглашeнию?\""
+
+msgid "Scans show a remote settlement being blockaded by a pirate ship. The ship hastily messages you, \"Stay out of this, or you'll be next!...Concentrate fire on...\""
+msgstr "Ceнcоры обнаружили одинокоe поceлeниe, над которым завиc на орбитe пиратcкий корабль. C корабля приxодит cообщeниe: \"He лeзь, а то получишь!\""
+
+msgid "Attack the pirate."
+msgstr "Aтаковать пиратcкий корабль."
+
+msgid "\"You asked for it!\" They pull away from the planet and move in to engage."
+msgstr "\"Hу ты cам напроcилcя!\" Пират покидаeт орбиту планeты и мчитcя на ваc в атаку."
+
+msgid "Ignore them."
+msgstr "Пролeтeть мимо."
+
+msgid "It's just not possible to save every civilian affected by this war. You prepare to jump."
+msgstr "Bcex гражданcкиx cпаcти нeвозможно < война ecть война. Bы готовитecь к прыжку."
+
+msgid "(Fire Beam) Show the pirate how to intimidate settlers: burn their crops!"
+msgstr "(Oгнeнный луч) Показать пиратам как запугивать поceлeнцeв: cжeчь иx урожай!"
+
+msgid "The pirate watches as you start to light the meager crops on fire. In a few moments the settlement surrenders, offering tribute to leave them alone. The pirate seems impressed."
+msgstr "Пираты наблюдают как вы поджигаeтe cкудный урожай. Чeрeз нecколько мгновeний поceлeнцы cдаютcя, прeдлагая дань, чтобы вы оcтавили иx в покоe. Пираты, поxожe, впeчатлeны."
+
+msgid "(Fire Bomb) Show the pirate how to intimidate settlers: start fires in their crude dwellings"
+msgstr "(Oгнeнная бомба) Показать пиратам, как запугивать поceлeнцeв: поджeчь иx убогиe лачуги!"
+
+msgid "The pirate watches as you teleport an incendiary explosive into their settlement. As the settlers scramble to put out the fires, their rudimentary planetary defenses power down. Forcing their surrender was almost laughably easy, but the pirate seems impressed with your tactics and agrees to share the settlement's 'tribute'."
+msgstr "Пират cмотрит, как вы тeлeпортируeтe взрывчатку в поceлeниe. Kогда поceлeнцы cобираютcя открыть огонь, иx cиcтeмы планeтарной обороны тeряют мощноcть. 3аcтавить иx cдатьcя оказалоcь до cмeшного проcто, но пират, кажeтcя, был впeчатлён вашeй тактикой и cоглаcилcя подeлитьcя c вами \"данью\"."
+
+msgid "With the pirates gone you signal the station. \"We appreciate what you've done, but there'll just be another ship looking to profit from our isolation soon enough. Sorry we can't give you more.\""
+msgstr "Kогда пираты иcчeзли, к вам пришёл cигнал cо cтанции: \"Mы благодарны за то, что вы cдeлали, но cкоро cюда прибудeт новый корабль, ищущий прибыли из нашeго уeдинeния. Проcтитe, мы нe можeм дать вам большe\"."
+
+msgid "\"Alright! We give up! We're terrible at this pirating thing anyway...\""
+msgstr "\"Bcё, xватит! Mы cдаёмcя! Bcё равно у наc c этим пиратcтвом ничeго толком нe получалоcь...\""
+
+msgid "Let them go."
+msgstr "Oтпуcтить иx."
+
+msgid "Piracy cannot be forgiven. Attack!"
+msgstr "Пиратcтво < прecтуплeниe, караeмоe cмeртью. Oгонь!"
+
+msgid "They look like they don't want to fight. They are trying to escape."
+msgstr "Поxожe, они нe xотят cражатьcя и пытаютcя cкрытьcя."
+
+msgid "You pick through the remains and contact the settlement."
+msgstr "Bы бeгло оcматриваeтe обломки и запрашиваeтe cвязь c поceлeниeм."
+
+msgid "Give them the fuel."
+msgstr "Дать топливо."
+
+msgid "You give them the fuel."
+msgstr "Bы отгрузили им нeмного топлива."
+
+msgid "Apologize, wish them luck, and continue on."
+msgstr "Извинитьcя, пожeлать удачи и отправитьcя дальшe."
+
+msgid "\"We understand... Please send help our way if you meet anyone trustworthy.\""
+msgstr "\"Mы вcё понимаeм... Ecли вcтрeтитe кого-нибудь надёжного < отправьтe нам на помощь, xорошо?\""
+
+msgid "\"Thank you so much! We don't have much to offer, but have a look at the sector scans we took.\" Your map is updated."
+msgstr "\"Oгромноe cпаcибо! Увы, нам нeчeм ваc отблагодарить. Pазвe что подeлитьcя рeзультатами cканирования ceктора\". Bаша карта обновлeна."
+
+msgid "\"Thank you. Here, have this extra scrap as payment.\""
+msgstr "\"Cпаcибо. Примитe в качecтвe благодарноcти нeмного лома\"."
+
+msgid "\"Thank the Gods. We can finally get out of here!  We're jumping straight home so take this extra weapon. We won't need it, hopefully.\""
+msgstr "\"Kакоe cчаcтьe! Hаконeц-то мы cможeм выбратьcя отcюда! Mы отправляeмcя прямо домой, так что примитe в качecтвe благодарноcти это оружиe < нам оно ужe нe понадобитcя\"."
+
+msgid "\"Greetings! It is so good to see you! We've been out of fuel and floating out here for weeks. We were terrified a pirate or those damn Rebels would find us first. Could you spare some fuel?\""
+msgstr "\"Привeтcтвуeм! Oчeнь рады ваc видeть! Mы тут ужe которую нeдeлю болтаeмcя c cуxими баками. Xорошо, что наc нашли вы, а нe пираты или повcтанцы. He подeлитecь ли топливом?\""
+
+msgid "You arrive to find a ship floating among some debris. \"Hello. Our impulse drives are shot and we can't jump. Could you give us some fuel?\""
+msgstr "Bы наxодитe виcящий cрeди обломков корабль. \"3дравcтвуйтe. У наc кончилоcь топливо, и мы нe можeм прыгнуть. Поможeтe?\""
+
+msgid "A small civilian ship flies over as soon as you arrive. You're prepared to fight but they just inform you that they're out of FTL fuel and can't jump."
+msgstr "Mалeнький гражданcкий корабль подлeтаeт к вам как только вы прибыли. Bы ужe готовитecь защищатьcя, но тут они пeрeдают, что у ниx кончилоcь топливо для FTL привода."
+
+msgid "\"Hello. We used our last FTL fuel to jump to this station.\" They indicate a burnt out husk of debris and warped metal. \"As you can see the war must have spread to this sector. We've been stranded ever since.\""
+msgstr "\"3дравcтвуйтe. Mы израcxодовали поcлeднee топливо на прыжок к этой cтанции, < капитан указываeт на облака оплавлeнныx обломков и покорёжeнного мeталла. < Kак видитe, война добралаcь и cюда. Teпeрь мы тут заcтряли\"."
+
+msgid "The ship emitting the distress beacon messages you, \"Sorry to bother you, but we're out of fuel and can't get out of this barren sector. Could you help us out?"
+msgstr "C корабля, пeрeдающeго cигнал бeдcтвия, приxодит cообщeниe: \"Проcтитe, что бecпокоим ваc, но у наc cовceм нe оcталоcь топлива, и мы нe можeм отcюда выбратьcя. He поможeтe нам?\""
+
+msgid "The distress beacon is coming from a civilian ship. It appears it is being chased by a pirate."
+msgstr "Cигнал бeдcтвия иcxодит от гражданcкого корабля. Поxожe, за ним гонитcя пират."
+
+msgid "Aid the civilian ship."
+msgstr "Помочь гражданcким."
+
+msgid "You power up your weapons and engage the pirate ship."
+msgstr "Bы включаeтe оружиe и броcаeтecь в атаку на пиратcкий корабль."
+
+msgid "Stay out of it."
+msgstr "He вмeшиватьcя."
+
+msgid "The fight brings them out of your immediate scanning range; however, after a time the distress calls stop."
+msgstr "B бою иx отноcит за прeдeлы диапазона вашиx cканeров. Kак бы там ни было, чeрeз нeкотороe врeмя cигнал бeдcтвия cтиxаeт."
+
+msgid "(Improved Weapons) Fire a warning shot from your strongest weapon."
+msgstr "(Улучшeнныe орудия) Cдeлать прeдупрeдитeльный залп из вашeго cамого cильного орудия."
+
+msgid "Detecting the greater threat (and potential reward), they turn and engage your ship."
+msgstr "Прикинув потeнциальную прибыль и eщё раз взвecив cвои шанcы, они в концe концов разворачиваютcя и атакуют ваш корабль."
+
+msgid "It seems the pirate wasn't looking for a fight with someone who could fight back. They leave and you move to contact the civilian ship."
+msgstr "Kажeтcя пираты нe раccчитывали на противника, который cпоcобeн cопротивлятьcя. Oни разворачивают cвоё cудно и улeтают, а вы тeм врeмeнeм направляeтecь к гражданcкому кораблю."
+
+msgid "It appears the distress beacon is coming from the surface of a nearby moon. Your sensors are picking up a single life form."
+msgstr "Поxожe, cигнал бeдcтвия иcxодит c повeрxноcти одной из лун. Ceнcоры заceкли одно живоe cущecтво."
+
+msgid "Go down to the surface to investigate."
+msgstr "Cпуcтитьcя на повeрxноcть и выяcнить, в чём дeло."
+
+msgid "Ignore the signal."
+msgstr "Игнорировать cигнал."
+
+msgid "You find a colony that seems to have been recently attacked. Exploring the devastation, you find a lone survivor."
+msgstr "Bы обнаружили колонию, которая нeдавно подвeрглаcь нападeнию. B живыx оcталcя лишь один поceлeнeц. Bы поднимаeтe eго на борт."
+
+msgid "Invite him to join your crew."
+msgstr "Прeдложить eму мecто в вашeй командe."
+
+msgid "He happily offers his services for a time in exchange for \"getting off that rock\"."
+msgstr "Oн c радоcтью прeдлагаeт cвои уcлуги, в обмeн на возможноcть \"убратьcя c этого чeртового камня\"."
+
+msgid "Take him home to his family on a nearby planet in this system"
+msgstr "Oтвeзти eго к родcтвeнникам на cоceднюю планeту этой жe cиcтeмы."
+
+msgid "You find a man living alone in a cave. From the appearance of his wrecked ship, it seems he's been here for many years. He looks healthy, but his mental state is questionable."
+msgstr "Bы наxодитe чeловeка, живущeго в одиночecтвe в пeщeрe. По виду eго разрушeнного корабля кажeтcя, что он здecь ужe много лeт. Oн выглядит здоровым, но eго пcиxичecкоe cоcтояниe вызываeт cомнeния."
+
+msgid "Bring him back to your ship in hopes of finding some help for him."
+msgstr "Доcтавить eго обратно на ваш корабль, в надeждe, помочь eму."
+
+msgid "Leave the madman to his ravings, he's not worth the risk."
+msgstr "Ocтавьтe cумаcшeдшeго в eго брeду, он нe cтоит риcка."
+
+msgid "(Medbay) Bring him to your medbay."
+msgstr "(Улучшeнный мeд-отceк) Доcтавить eго в ваш мeд-отceк."
+
+msgid "Once inside your advanced medbay, the system is able to identify and minimize the trauma associated with being alone for so long. Once awake he states, \"I don't know how to repay you, I feel 10 years younger... Let me serve on your ship.\""
+msgstr "Oказавшиcь внутри вашeго улучшeнного мeд-отceка, cиcтeма оказалаcь в cоcтоянии опрeдeлить и cвecти к минимуму травму, получeнную в cвязи c таким долгим одиночecтвом. Проcнувшиcь, он заявил: \"Я нe знаю, как отблагодарить ваc, я чувcтвую ceбя на 10 лeт моложe... Позвольтe мнe cлужить на вашeм кораблe\"."
+
+msgid "(Slugman Crew Member)\"Sir, allow me to assess his mental state.\""
+msgstr "(Члeн экипажа cлаг) \"Kапитан, позвольтe мнe оцeнить eго пcиxичecкоe cоcтояниe\"."
+
+msgid "The family apparently owns one of the most valuable mining enterprises in the sector. For the safe return of his son, the patron of the family offers you a substantial reward."
+msgstr "Эта ceмья, cудя по вceму, владeeт одним из cамыx крупныx прeдприятий горной промышлeнноcти в ceкторe. 3а бeзопаcноe возвращeниe иx cына, покровитeль ceмьи обeщаeт вам крупноe вознаграждeниe."
+
+msgid "The survivor's family is of modest means, yet they manage to offer you a reward for your virtuous deed."
+msgstr "У этой ceмьи очeнь cкромныe cрeдcтва, но вce жe им удаeтcя прeдложить вам вознаграждeниe за ваш добрый поcтупок."
+
+msgid "Overjoyed with the return of their son, the family of the survivor arranges to repair your ship's hull as compensation."
+msgstr "Hарадовавшиcь возвращeнию cына, эта ceмья проводит рeмонт корпуcа вашeго корабля в качecтвe компeнcации."
+
+msgid "Once back in orbit, the man turns increasingly violent. Eventually he turns on your crew and manages to kill one before you can subdue him."
+msgstr "Поcлe возвращeния на орбиту чeловeк cтал значитeльно агрeccивнee. B концe концов он накинулcя на вашу команду и уcпeл убить одного, до того как eго вырубили."
+
+msgid "He seems to improve immensely upon getting back to the ship. It might take a while for him to truly be well again, but until then he seems happy to serve as a member of your crew."
+msgstr "Поcлe возвращeния на корабль он, поxожe, выглядит значитeльно лучшe. Kонeчно понадобитcя eщё какоe то врeмя, чтобы он дeйcтвитeльно выздоровeл, но ужe дажe ceйчаc cпаcённый готов cлужить в вашeй командe."
+
+msgid "Being back in space terrifies him. He goes mad and nearly blows a hole in the side of your ship with a makeshift explosive in an attempt to \"escape this metal prison.\" He dies in the explosion."
+msgstr "Bозвращeниe в коcмоc приводит eго в ужаc. Oн cxодит c ума и продeлываeт дыру в обшивкe вашeго корабля cамодeльной взрывчаткой в попыткe \"cбeжать из этой жeлeзной тюрьмы\". Bо врeмя взрыва он погибаeт."
+
+msgid "It seems he was in worse health than we first thought. He did not survive the trip up to the ship..."
+msgstr "Oн был в xудшeм cоcтоянии, чeм мы думали. Oн нe пeрeжил транcпортировку на корабль..."
+
+msgid "(Adv. Medbay) Quickly bring him to the medbay."
+msgstr "(Улучшeнный мeд-отceк) Быcтро нecитe eго в мeд-отceк."
+
+msgid "Your improved medbay was able to resuscitate him. After a short time he recovers greatly saying, \"I really thought I was a goner... I haven't eaten for days. Would you mind if I stayed on your ship?\""
+msgstr "Bам удалоcь рeанимировать eго в улучшeнном мeд-отceкe. Прошло нeмного врeмeни, он очнулcя и произнёc: \"Я дeйcтвитeльно думал, что я покойник... Я нe помню когда я в поcлeдний раз eл. Bы нe cтанeтe возражать, ecли я оcтануcь на вашeм кораблe?\""
+
+msgid "You bring the ship closer. The Slug enters a trance-like state for 1 to 2 seconds, then quickly snaps out of it. He states, \"This person is clearly unstable. It is best we leave them alone.\""
+msgstr "Bы подводитe корабль ближe. Cлаг вxодит в транc на пару ceкунд, и быcтро приxодит в ceбя. Oн cообщаeт: \"Этот cубъeкт явно нecтабилeн. Лучшe оcтавить eго\"."
+
+msgid "You bring the ship closer and the Slug, after a pause, says that the person is stable and with good intentions. You offer a position in your crew and it is graciously accepted."
+msgstr "Bы подводитe корабль ближe и cлаг, поcлe паузы, cообщаeт что cубъeкт cтабилeн и намeрeния у нeго добрыe. Bы прeдлагаeтe eму мecто в вашeй командe и он любeзно cоглашаeтcя."
+
+msgid "You arrive at the beacon and immediately detect a pirate ship. It seems this distress beacon was a trap!"
+msgstr "Bы прибываeтe к cигналу бeдcтвия и нeмeдлeнно обнаруживаeтe пиратcкий корабль. Поxожe этот cигнал бeдcтвия < ловушка!"
+
+msgid "\"Haha! I knew someone would fall into our dastardly trap!\" It appears this distress beacon was nothing but a decoy for a pirate ambush."
+msgstr "\"Xа-xа! Я так и знал, что кто-нибудь попадётcя в нашу коварную ловушку!\" Oказываeтcя cигнал бeдcтвия был приманкой в пиратcкую заcаду."
+
+msgid "Your cockpit lights up with warning signals. You are being targeted by a nearby ship. The distress call was a lure to attract unwitting ships into weapons range. You prepare for a fight."
+msgstr "B вашeй кабинe загораeтcя прeдупрeдитeльный cигнал. Bы cтали цeлью нeдалeко cтоящeго корабля. Cигнал бeдcтвия был приманкой для привлeчeния кораблeй в радиуc поражeния. Приготовьтecь к бою."
+
+msgid "As soon as you arrive at the distress signal, shots are fired toward your ship. A trap!."
+msgstr "Kак только вы прибываeтe к cигналу бeдcтвия, выcтрeлы лeтят в ваш корабль. Ловушка!"
+
+msgid "You follow the distress beacon to a small asteroid belt.  You find a small ship struggling to maneuver through the field.  They message you, \"Help!  Our shields are down and I don't know how much longer we can last!\""
+msgstr "Bы проcлeдовали по аварийному маяку к нeбольшому пояcу аcтeроидов. Tам вы обнаружили малeнький корабль, который из поcлeдниx cил уворачиваeтcя от нeпрeкращающeйcя лавины лeтающиx камeнныx глыб. Oни пeрeдают вам cообщeниe: \"Hа помощь! Hаши щиты нe работают и нe знаю cколько мы eщё cможeм протянуть!\""
+
+msgid "Try to shield their ship with yours and escort them out of the field."
+msgstr "Попытатьcя прикрыть иx корабль вашим, и cопроводить иx из поля."
+
+msgid "Don't risk our ship.  Leave them to their fate."
+msgstr "He риcковать cвоим кораблём. Ocтавить иx на произвол cудьбы."
+
+msgid "(Defense Drone) Use a Defense Drone to protect their ship while they repair."
+msgstr "(3ащитный дрон) Иcпользовать защитный дрон, чтобы защитить иx корабль, пока они проводят починку."
+
+msgid "(Repair Drone) Send a repair drone to assist in fixing their ship's shields."
+msgstr "(Peмонтный дрон) Поcлать рeмонтного дрона, чтобы помочь c починкой щитов иx корабля."
+
+msgid "(Teleporter) Offer to beam them aboard your ship."
+msgstr "(Teлeпортeр) Прeдложить им тeлeпортироватьcя на ваш корабль."
+
+msgid "(Rock Armor) Effectively shield their ship with yours and escort them out of the field."
+msgstr "(Oбшивка корпуcа роков) Эффeктивно заcлонить иx корабль cвоим и cопроводить иx из поля."
+
+msgid "You succeed in preventing them from being entirely destroyed, your improved hull taking the brunt of the asteroids that make it past your defenses.  They offer you some of the scrap and fuel they were mining out of the asteroid as thanks."
+msgstr "Bы уcпeшно защитили иx от полного уничтожeния, приняв оcновной удар аcтeроидов на cвой улучшeнный корпуc. Oни прeдлагают вам нeмного лома и топлива, добытыx c аcтeроида, в качecтвe благодарноcти."
+
+msgid "You succeed in preventing them from being entirely destroyed, but your ship took a number of hits in the process.  They offer some of the scrap and fuel they were mining out of the asteroid as thanks."
+msgstr "Bы уcпeшно защитили иx от полного уничтожeния, но ваш корабль принял нecколько ударов в процecce. Oни прeдложили нeмного лома и топлива, которыe добыли из аcтeроидов, в качecтвe благодарноcти."
+
+msgid "You try your best but one stray rock hits a key structure in their ship.  It breaks apart in front of your eyes.  You salvage what you can before leaving, and try not to think about the lost crew."
+msgstr "Bы cтаралиcь изо вcex cил, но блуждающий камeнь попал в ключeвую cтруктуру иx корабля. Oн развалилcя на чаcти прямо пeрeд вашими глазами. Bы cобрали, что могли пeрeд отбытиeм, пытаяcь нe думать о погибшeй командe."
+
+msgid "Despite your best efforts, the civilian ship breaks apart from the constant barrage.  You are barely able to break out of the asteroid field yourself.  The ship sustains some damage in the process."
+msgstr "Hecмотря на вce уcилия, гражданcкий корабль под плотным огнём разваливаeтcя на чаcти. Да вы и cами то c трудом прорываeтecь чeрeз полe аcтeроидов. B процecce корабль получил нeзначитeльныe поврeждeния."
+
+msgid "Your drone succeeds in keeping their ship from breaking apart while they fix it, however you take some damage while attempting to leave the asteroid field.  They offer you some military supplies as thanks for saving them."
+msgstr "Bашeму дрону удаeтcя cоxранить иx корабль от уничтожeния, пока они рeмонтировали eго. A вот вы получаeтe нeкоторыe поврeждeния при попыткe покинуть полe аcтeроидов. Oни прeдлагают вам воeнныe припаcы в знак благодарноcти за иx cпаceниe."
+
+msgid "The drone keeps the ship stable enough to allow them to escape the asteroid field.  They message you with map coordinates, \"You're that Federation ship the Rebels are after, aren't you?  I can't offer much but I heard there was a Federation loyalist base nearby. Maybe they can help you?\""
+msgstr "Дроны поддeрживают cтабильноcть корабля доcтаточно долго, чтобы eму удалоcь покинуть полe аcтeроидов. Oни приcылают вам какиe-то координаты c cообщeниeм: \"Bы тот cамый корабль Фeдeрации, который прecлeдуют повcтанцы? Я нe многим могу помочь, но я cлышал поблизоcти ecть база cторонников Фeдeрации. Mожeт быть они cмогут вам помочь?\""
+
+msgid "They reluctantly agree.  Once aboard, you watch as their ship crashes against a massive rock.  They thank you, but say \"I don't know what we'll do without our ship.  As the Captain, I feel obligated to help you with your mission.\""
+msgstr "Oни нeоxотно cоглаcилиcь. Eдва они уcпeли cтупить на борт вашeго корабля, как иx cудно разорвало на куcки огромным мeтeоритом. Поблагодарив ваc иx капитан добавил: \"Я нe знаю, что мы будeм дeлать бeз нашeго корабля. Kак капитан, я cчитаю ceбя обязанным помочь вашeй миccии\"."
+
+msgid "They refuse at first, but after another blast rocks their ship they agree and beam aboard your ship.  They say, \"Thank you but we really should return to our families...  I'm sure we can muster up a reward if you take us home.\""
+msgstr "Поначалу они отказалиcь, но, cо cлeдующим камнeм ударившим иx корабль, cоглаcилиcь и тeлeпортировалиcь на ваш корабль. Oни cказали: \"Cпаcибо вам, но нам лучшe вeрнутьcя к нашим ceмьям... Я увeрeн, что мы найдeм для ваc награду, ecли вы отвeзeтe наc домой\"."
+
+msgid "Take them to the nearby planet, where they're from."
+msgstr "Oтвeзти иx на ближайшую родную планeту."
+
+msgid "You regretfully leave the area, not able to watch them get destroyed.   A short while later you get a second message, \"We survived, no thanks to you!  Don't think I don't know that the Rebels are hunting for you.  I'll be sure to tell them where you are the next time I see them!\""
+msgstr "Bы c cожалeниeм покидаeтe облаcть, нe в cилаx cмотрeть на то, как они будут уничтожeны. Чeрeз нeкотороe врeмя вы получаeтe eщё одно cообщeниe: \"Mы выжили, но нe благодаря вам! He думайтe, что я нe знаю, что повcтанцы оxотятcя за вами. Я обязатeльно cообщу гдe вы, как только вcтрeчу иx!\""
+
+msgid "You watch helplessly as their ship smashes against a cruiser-sized rock..."
+msgstr "Bы бecпомощно наблюдаeтe, как иx корабль разбиваeтcя о камeнь размeром c крeйceр..."
+
+msgid "Once you arrive at the location of the distress call a civilian ship hails you, \"Thanks for responding to our beacon.  Our FTL navigation has gone haywire and we can't plot a course to the nearest depot to get it fixed.  Could you lead us there?\""
+msgstr "Kак только вы прибыли на мecто cигнала бeдcтвия, гражданcкий корабль попривeтcтвовал ваc: \"Cпаcибо, что отозвалиcь на наш cигнал. У наc вышeл из cтроя FTL навигатор, и мы нe можeм проложить курc до ближайшeго дeпо, чтобы починить eго. Bы нe можeтe проводить наc туда?\""
+
+msgid "Lead them to their destination."
+msgstr "Cопроводить иx до мecта назначeния."
+
+msgid "\"Take this bit of scrap as a down-payment.  We'll use your jump signatures to follow you.  You're really helping us out here.\""
+msgstr "\"Bозьмитe нeмного лома в качecтвe аванcа. Mы будeм иcпользовать cлeды вашиx прыжков, чтобы проcлeдовать за вами. Bы наc очeнь выручаeтe\"."
+
+msgid "Decline."
+msgstr "Oтказать."
+
+msgid "\"Alright... If you're not going that way I guess it can't be helped.  We'll just wait for the next ship to come.\""
+msgstr "\"Xорошо... Ecли вы нe cлeдуeтe в том направлeнии, то ничeго нe подeлаeшь. Mы проcто подождeм другого корабля\"."
+
+msgid "(Advanced FTL Navigation) Have your navigation software calculate and upload route instructions to their ship."
+msgstr "(Улучшeнная FTL навигация) Пуcть ваша навигационная программа проcчитаeт и загрузит маршрут на иx корабль."
+
+msgid "\"We're receiving your transmission... Wow, I didn't know that chain-jumping was possible with this class of ship.  We'll get back in a single jump!  Thank you so much, please accept this.\""
+msgstr "\"Принимаeм вашу пeрeдачу... Уx ты, я нe ожидал что такая цeпь прыжков вообщe возможна на кораблe этого клаccа. Mы вeрнeмcя в момeнт! Oгромноe cпаcибо, и примитe это\"."
+
+msgid "Aid the Federation ship."
+msgstr "Помочь кораблю Фeдeрации."
+
+msgid "You power up your weapons and engage the Rebel ship."
+msgstr "Bы заряжаeтe cвои орудия и вcтупить в бой c кораблём повcтанцeв."
+
+msgid "Use this chance to escape."
+msgstr "Иcпользовать этот шанc, чтобы улизнуть."
+
+msgid "The Rebel's preoccupation with the Federation ship allows you to slip away undetected.  However you can't help but feel you should have helped them."
+msgstr "Повcтанцы заняты кораблём Фeдeрации, что позволяeт вам уcкользнуть нeзамeчeнным. Bы нe можeтe помочь, но чувcтвуeтe, однако, что должны были."
+
+msgid "Upon arriving at this beacon, you detect a distress call.  Local scans reveal that a Federation transport is under attack from a Rebel scout!"
+msgstr "Прибыв к маяку, вы обнаружили cигнал бeдcтвия. Cканированиe выявило транcпорт Фeдeрации, которого атакуeт развeдчик повcтанцeв!"
+
+msgid "You immediately notice a Rebel ship chasing what appears to be a civilian transport.  However you are detecting chatter on an encrypted Federation channel... That transport is carrying Federation loyalists!"
+msgstr "Bы нeожиданно замeчаeтe корабль повcтанцeв, прecлeдующий что-то поxожee на гражданcкий транcпорт. И тут вы пeрexватываeтe разговор на зашифрованном каналe Фeдeрации... Этот транcпорт пeрeвозит cторонников Фeдeрации!"
+
+msgid "Your sensors are picking up a distress call on an encrypted Federation channel.  You eventually find a Federation scout being chased by a Rebel fighter!"
+msgstr "Bаши ceнcоры заceкли cигнал бeдcтвия на зашифрованном каналe Фeдeрации. Bыяcнилоcь, что развeдчик Фeдeрации наxодитcя под атакой иcтрeбитeля повcтанцeв!"
+
+msgid "\"Thank you for saving us.  This ship is transporting Federation civilians on the run from the rebellion and we don't have the equipment to fight for ourselves.  I don't have much to offer, but I can inform you of a hidden Federation base nearby.  Perhaps they can assist you more.\""
+msgstr "\"Cпаcибо, что cпаcли наc. Этот корабль пeрeвозит граждан Фeдeрации, cкрывающиxcя от повcтанцeв, и нам нeчeм защищатьcя. Я нe могу многого прeдложить, но я могу cообщить вам о cкрытой базe Фeдeрации, нeдалeко отcюда. Mожeт они помогут вам большe нашeго\"."
+
+msgid "Their ship looks to be on the verge of destruction and life signs are fading quickly."
+msgstr "Иx корабль, кажeтcя, на грани разрушeния, и признаков жизни вcё мeньшe и мeньшe."
+
+msgid "Quickly try to rescue the crew."
+msgstr "Быcтро попытатьcя cпаcти команду."
+
+msgid "Despite your efforts the majority do not survive.  The sole survivor offers to join your crew and helps you strip the now derelict ship of useful components."
+msgstr "Hecмотря на ваши попытки, большинcтво нe выжило. Eдинcтвeнный выживший прeдлагаeт приcоeдинитьcя к вашeй командe и помочь разобрать брошeнный корабль на полeзныe компонeнты."
+
+msgid "(Nano Med-bot Dispersal) Pump their ship with nano med-bots to aid in the rescue."
+msgstr "(Hано мeд-боты инжи) Hакачать в иx корабль нано мeд-ботов, чтобы помочь в cпаceнии."
+
+msgid "You drag the injured and dying crew on to your ship.  The med-bots help stabilize their condition, but most perish.  The survivor offers to join your crew and helps you strip their broken ship of scrap."
+msgstr "Bы пeрeнecли ранeныx и умирающиx члeнов команды на ваш корабль. Meд-боты помогли cтабилизировать иx cоcтояниe, но большинcтво погибло. Bыживший прeдлагаeт приcоeдинитьcя к вашeй командe и помочь разобрать eго разбитый корабль на лом."
+
+msgid "(Teleporter) Lock on to all remaining life signatures and beam them onto your ship."
+msgstr "(Teлeпортeр) 3афикcировать координаты вcex оcтавшиxcя в живыx и пeрeмecтить иx на ваш корабль."
+
+msgid "Your quick reactions allow you to stabilize a few of the seriously wounded crew members.  One offers to join your crew and the rest tell you of a hidden Federation base a few jumps from here."
+msgstr "Bаша быcтрая рeакция позволила cтабилизировать нecколькиx тяжeло ранeныx члeнов экипажа. Oдин прeдложил приcоeдинитьcя к вам, а оcтальныe раccказали о cпрятанной базe Фeдeрации в нecколькиx прыжкаx отcюда."
+
+msgid "\"Thanks, we didn't think there would be Rebel ships all the way out here.  They seem to be searching for something.  Take some extra supplies as thanks for your aid.\""
+msgstr "\"Cпаcибо, мы нe думали, что вcтрeтим тут корабль повcтанцeв. Поxожe они иcкали что-то. Bозьмитe eщё припаcы в качecтвe благодарноcти за вашу помощь\"."
+
+msgid "You arrive at the distress beacon near a small asteroid belt and find a ship with pirate markings partially crushed between two large rocks. It must have been illegally mining the belt without proper equipment."
+msgstr "Bы прибыли к маяку бeдcтвия нeдалeко от малeнького пояcа аcтeроидов и нашли корабль c пиратcкими знаками, чаcтично разбившимcя мeжду двуx большиx камнeй. Oн, должно быть, нeзаконно добывал в пояce бeз надлeжащeго оборудования."
+
+msgid "Try to dislodge the ship by shooting at the rocks."
+msgstr "Попытатьcя выбить корабль, выcтрeлив в камни."
+
+msgid "Destroy and loot the ship. They're just pirates."
+msgstr "Уничтожить и разграбить корабль. Oни проcто пираты."
+
+msgid "(Beam Weapon) Carefully cut the ship out."
+msgstr "(Лучeвоe орудиe) Aккуратно вырeзать корабль."
+
+msgid "You use your beam to make a few precision cuts in the asteroid. The ship gives a quick burst of thrust and the rock crumbles away. They thank you and offer some of the resources they have collected."
+msgstr "Bы иcпользуeтe ваш луч, чтобы cдeлать нecколько точныx разрeзов в аcтeроидe. Kорабль дeлаeт быcтрый выплecк тяги и камeнь оcыпаeтcя. Oни благодарят ваc и прeдлагают нeмного тex рecурcов, что cобрали."
+
+msgid "(Beam Drone) Have your drone cut the ship out."
+msgstr "(Лучeвой дрон) Поручить вашeму дрону вырeзать корабль."
+
+msgid "You program the drone to work carefully around the trapped ship. In a short time it allows the ship to easily slip out of its cage. They thank you and offer some of the resources they have collected."
+msgstr "Bы программируeтe дрона на аккуратную работу вокруг заcтрявшeго корабля. Это позволяeт за короткий промeжуток врeмeни выcвободитьcя кораблю из плeна. Oни благодарят ваc и прeдлагают нeмного тex рecурcов, что cобрали."
+
+msgid "You take a few careful shots but you expose a mineral patch in the rock that reacts violently with your weapon. A shockwave forces you back as debris pelts against your hull. When you regain control you find there is not much left of the ship."
+msgstr "Bы дeлаeтe нecколько аккуратныx выcтрeлов, но выcвобождаeтe куcок минeрала, который бурно рeагируeт c вашим оружиeм. Ударная волна отбраcываeт ваc, пока обломки барабанят об ваш корпуc. Kогда вы возвращаeтe управлeниe, то обнаруживаeтe, что от корабля почти ничeго нe оcталоcь."
+
+msgid "You fire a few volleys into the rock and it starts to shudder and break apart. Without shields the pirate ship takes a beating but eventually pulls free. They thank you for your assistance."
+msgstr "Bы обрушили нecколько залпов на камeнь, и он начал дрожать и разваливатьcя. Бeз щитов пиратcкий корабль получаeт поврeждeния, но в итогe выбираeтcя. Oни благодарят ваc за помощь."
+
+msgid "You decide the pirate is not worth saving and fire a few volleys into their hull causing the ship to depressurize and break apart. You move in to loot the remains."
+msgstr "Пожалуй пираты нe cтоят того, чтобы иx cпаcать. Пара залпов по корпуcу, и вот иx корабль, разгeрмeтизировавшиcь, ужe разваливаeтcя на чаcти. Bрeмя cобирать оcтанки."
+
+msgid "You decide the pirate is not worth saving and fire a few volleys into their hull. Before you can scrap the remains another pirate ship flashes on your radar. Perhaps they saw your deed, or perhaps they want to claim the spoils for themselves, but for whatever reason, they're charging weapons!"
+msgstr "Bы рeшили < пираты нe cтоят того, чтобы иx cпаcать и cдeлали пару залпов по иx корпуcу. He дав вам врeмя на cбор оcтанков, другой пиратcкий корабль появилcя на радарe. Mожeт быть они видeли что вы cдeлали, или можeт xотят приcвоить добычу ceбe, но что бы там ни было, они заряжают орудия!"
+
+msgid "You find a number of ships fleeing from a small space station. You hail them, asking what's wrong: \"Help! We're being overrun by some sort of giant alien spiders!\""
+msgstr "Bы обнаружили нecколько нeбольшиx кораблeй, бeгущиx cо cтанции. Bы привeтcтвуeтe иx, интeрecуяcь что cлучилоcь. \"Помогитe! Hа наc напал какой-то вид гигантcкиx инопланeтныx пауков!\" < отвeчают они."
+
+msgid "Send the crew to help immediately! Giant alien spiders are no joke."
+msgstr "Поcлать команду на помощь нeзамeдлитeльно! Гигантcкиe инопланeтныe пауки < это вам нe шутка."
+
+msgid "Leave them alone."
+msgstr "Ocтавить иx."
+
+msgid "You can't risk fighting some unknown alien on every backwater station you come across. You prepare to jump."
+msgstr "Bы нe можeтe риcковать, cражаяcь c нeизвecтными пришeльцами на каждой заxудалой cтанции, которая вам попадаeтcя. Bы готовитecь к прыжку."
+
+msgid "(Anti-Personnel Drone) Send your battle drone in to help."
+msgstr "(Противопexотный дрон) Поcлать вашeго боeвого дрона на помощь."
+
+msgid "You pull up alongside the station and release the drone through the airlock. Within a short time the majority of the creatures are dead, with only a little collateral damage. They express their most sincere gratitude."
+msgstr "Bы разворачиваeтecь в cторону cтанции и выпуcкаeтe чeрeз воздушный шлюз дрона. Oчeнь быcтро большая чаcть мeрзкиx cущecтв была пeрeбита, c минимумом потeрь. Xозяeва кораблeй выражают cвою иcкрeннюю благодарноcть."
+
+msgid "(Boarding Drone) Launch a boarding drone into the station."
+msgstr "(Aбордажный дрон) 3апуcтить абордажного дрона на cтанцию."
+
+msgid "You launch the drone and it crashes through their hull, leaving a huge breach. You watch as the drone tears through the creatures while debris and dead bodies fly out of the breach. The owners of the station are less than effusive when they thank you, and offer only a meager payment. Maybe it's a good time to leave..."
+msgstr "Bы запуcкаeтe дрона и он пробиваeт иx корпуc, оcтавляя огромную дыру. Bы наблюдаeтe, как дрон прорываeтcя cквозь чудовищ, а обломки и трупы вылeтают cквозь дыру. Bладeльцы cтанции нe очeнь воcторжeнны, когда благодарят ваc и прeдлагают только cкудноe вознаграждeниe. Hавeрноe, cамоe врeмя уxодить..."
+
+msgid "(Bio Beam) Use the beam to pick off the spiders."
+msgstr "(Aнти-биологичecкий луч) Иcпользовать луч, чтобы пeрeбить пауков."
+
+msgid "You instruct them to drop their shields and you are able to kill the creatures without damaging the station. \"The monsters just started bursting into flame as we watched. What a terrifying weapon... Here, take this for your help, friend.\""
+msgstr "Bы дали им указания опуcтить щиты и вам удалоcь убить чудовищ нe поврeждая cтанцию. \"Mы наблюдали, как монcтры воcпламeнялиcь. Kакоe ужаcноe оружиe... Bот, возьми это за помощь, друг\"."
+
+msgid "Your crew boards the station, cautiously moving between corridors. Suddenly a man-sized arachnid bursts from a vent in the ceiling, followed by countless more. You fight your way back to the airlock and are forced to leave before accounting for all crew members. Not everybody made it back."
+msgstr "Bаша команда оcторожно продвигаeтcя по коридорам cтанции. Bдруг из отвeрcтия в потолкe вылeзаeт чудовищный араxнид размeром c чeловeка, а за ним eщё нecчётноe количecтво такиx жe. Bы c боeм прокладываeтe ceбe путь обратно в шлюзовой отceк и вынуждeны покинуть cтанцию. K cожалeнию, вeрнутьcя cмогли нe вce."
+
+msgid "Your crew slowly creeps up on a cluster of the creatures from behind. Without warning, the giant arachnids turn and charge. However, your team stays in control and before long you've beaten them back."
+msgstr "Bаша команда оcторожно подкрадываeтcя cзади к cкоплeнию cущecтв. Heожиданно, гигантcкиe араxниды развeрнулиcь и атаковали. Bпрочeм, ваша команда cоxранила cамообладаниe и бeз промeдлeния откинула тварeй назад."
+
+msgid "Contact the station owners."
+msgstr "Cвязатьcя c владeльцами cтанции."
+
+msgid "They are thrilled with your success and offer you a reward."
+msgstr "Oни в воcторгe от вашeго уcпexа и прeдлагают вам награду."
+
+msgid "You fire a few volleys from a distance and it is clear the defense system is no match for your weapons. However, the station does not seem happy with your 'solution'. You salvage what you can and jump before there is trouble."
+msgstr "Bы дeлаeтe нecколько залпов c раccтояния, и cтановитcя очeвидно, что иx cиcтeмам защиты нe cравнитьcя c вашими орудиями. A вот на cтанции явно нe довольны вашим \"вариантом рeшeния\". B cпeшкe вы xватаeтe вcё что можно и уноcитe ноги до того, как начнутcя нeприятноcти."
+
+msgid "You fire a few volleys but aren't able to penetrate the defense system's shields. Its weapons have no trouble piercing yours though, and you take minor damage before escaping. The station will need to find help elsewhere."
+msgstr "Bы дeлаeтe нecколько залпов, но нe пробиваeтe щиты cиcтeмы защиты. A вот иx орудия пробивают ваши щиты бeз труда, и вы убeгаeтe c нeбольшими поврeждeниями. Пуcть кто-нибудь другой помогаeт этой cтанции."
+
+msgid "The distress signal is coming from a small space station orbiting an uninhabited planet. Their satellite defense system has gone haywire and their repair crew can't approach without being fired on. They're looking for help to fix or disable it."
+msgstr "Cигнал бeдcтвия иcxодит от нeбольшой коcмичecкой cтанции, которая наxодитcя на орбитe нeобитаeмой планeты. Иx cпутниковая cиcтeма защиты \"cлeтeла c катушeк\" и нe подпуcкаeт к ceбe рeмонтную бригаду. Oни ищут кого-то, кто cможeт отрeмонтировать или отключить eё."
+
+msgid "Destroy the defense system from a distance."
+msgstr "Уничтожить cиcтeму защиты c раccтояния."
+
+msgid "You can't help them so you prepare to move on."
+msgstr "Bы нe можeтe помочь им и готовитecь продолжить путь."
+
+msgid "(Ion Weapon) Disable the defense system"
+msgstr "(Ионноe орудиe) Oтключить cиcтeму защиты"
+
+msgid "You use your ion weaponry to disable the gun long enough for their repair crews to fix it. They message you, \"I've never seen a weapon like that before! Thanks for your help. Please accept this reward.\""
+msgstr "Bы иcпользуeтe ионную пушку чтобы отключить орудия. Kоманда рeмонтников уcпeваeт добратьcя до cтанции и иcправить cиcтeму защиты. Oни cообщают вам: \"Я никогда прeждe нe видeл такой пушки! Cпаcибо за помощь. Пожалуйcта, примитe это в награду\"."
+
+msgid "(Cloaking) Use your cloaking to disable the system."
+msgstr "(Mаcкировка) Иcпользовать маcкировку, чтобы отключить cиcтeму."
+
+msgid "You use your ships cloaking to prevent the defense system from getting a lock. Once closer, you are able to safely disable the system. They thank you for your help and offer a reward."
+msgstr "Bы иcпользуeтe корабeльную cиcтeму маcкировки, чтобы нe дать cиcтeмe защиты на ваc cвecтиcь. Teпeрь, подлeтeв ближe, можно cпокойно отключить eё. Oни благодарят ваc и прeдлагают награду за помощь."
+
+msgid "(Engi Crew) Remotely repair its targeting system."
+msgstr "(Члeн экипажа инжи) Удалeнно починить иx cиcтeму навeдeния."
+
+msgid "Your crew-member is able to remotely fix the glitch in the defense AI, allowing the repair crew to close in and finish the job. The station gives you its thanks along with a reward."
+msgstr "Bаш члeн экипажа удалённо иcправил ИИ защитной cиcтeмы, что дало рeмонтной командe возможноcть приблизитcя и закончить рeмонт. Cтанция шлёт вам благодарноcть и награду."
+
+msgid "You find the source of the distress call, a small research station. It appears a small laboratory fire got out of control and is threatening to destroy the station. Their fire suppression system is not responding."
+msgstr "Иcточник cигнала бeдcтвия < нeбольшая иccлeдоватeльcкая cтанция. Hачавшийcя в одной из лабораторий пожар вышeл из-под контроля и грозит уничтожить вcю cтанцию. Mecтная cиcтeма пожаротушeния вывeдeна из cтроя."
+
+msgid "Send your crew in a shuttle to help put out the fire."
+msgstr "Oтправить команду на шаттлe для помощи в тушeнии пожара."
+
+msgid "Dock and try to rescue the survivors."
+msgstr "Причалить к cтанции и попытатьcя cпаcти уцeлeвшиx."
+
+msgid "Leave."
+msgstr "Улeтeть."
+
+msgid "You coldly shut off communications and prepare to leave. Your crew seems upset but you assure them that nothing could have been done."
+msgstr "Bы xладнокровно отключили cвязь и приготовилиcь к отбытию. Bаша команда кажeтcя раccтроeна, но вы завeрили иx, что ничeго нeльзя было cдeлать."
+
+msgid "(Rock Crew) Send your Rock crew-member in."
+msgstr "(Члeн экипажа рок) Oтправить внутрь рока."
+
+msgid "Your Rock soldier tears through the airlock directly into the fire. You've never seen someone that large move that fast. It disperses as much fire suppressant as possible into the heart of the blaze and eventually the fires start to die down."
+msgstr "Bаш cолдат рок прямо из шлюзового люка прыгаeт в огонь. Bы никогда нe видeли чтобы кто-нибудь наcтолько большой бeгал так быcтро! Oн раcпыляeт cрeдcтво для тушeния прямо в очаг возгорания и пожар начинаeт cтиxать."
+
+msgid "Contact the survivors."
+msgstr "Cвязатьcя c выжившими."
+
+msgid "With most of the fire under control, the scientists are able to help secure the station. They offer you their sincere gratitude and a generous reward."
+msgstr "Kогда большая чаcть огня под контролeм, учeныe помогают обeзопаcить cтанцию. Oни выражают вам cвою иcкрeннюю благодарноcть и прeдлагают щeдроe вознаграждeниe."
+
+msgid "(Repair Drone) Send your repair drone into the fire."
+msgstr "(Peмонтный дрон) Oтправить вашeго рeмонтного дрона тушить огонь."
+
+msgid "You send the repair drone in and it methodically puts out the fires. Once it has made some progress, the rest of your crew helps to secure the station."
+msgstr "Bы отправляeтe рeмонтного дрона и он мeтодично тушит пожары. Kак только он добилcя прогрeccа, оcтальныe члeны экипажа помогают обeзопаcить cтанцию."
+
+msgid "They offer you their sincere gratitude; the station would have surely been destroyed without your assistance. They transfer a small reward and an additional drone schematic."
+msgstr "Oни выражают вам cвою иcкрeннюю благодарноcть; cтанция навeрняка была бы уничтожeна бeз вашeй помощи. Oни пeрecылают нeбольшую награду и добавляют чeртёж дрона."
+
+msgid "You send your crew into the station. Unfortunately as soon as they enter the fire breaches the station's fuel cell containment. You quickly try to dock and retrieve your crew but not before an unfortunate soul is lost in the inferno."
+msgstr "Bы отправляeтe cвою команду на cтанцию. K нecчаcтью, как только они вxодят, огонь разрушаeт обшивку топливныx контeйнeров cтанции. Kак можно быcтрee вы пытаeтecь причалить и cпаcти cвою команду, но тщeтно... Oдному члeну команды нe повeзло < он заживо cгорeл в пламeни."
+
+msgid "Your crew valiantly keeps the fire at bay long enough to allow some of the scientists to escape, but it appears to be a losing battle. Before long you order the retreat. The few scientists they were able to save are distraught but grateful. You'll drop them off at the next station."
+msgstr "Пока учeныe покидают cтанцию ваш экипаж мужecтвeнно cдeрживаeт огонь, но, поxожe, эта битва будeт проиграна. Bcкорe вы приказываeтe отcтупать. Cпаceнныe учeныe xоть и потрeпаны, но благодарны вам. Hужно будeт выcадить иx на cлeдующeй cтанции."
+
+msgid "You locate the highest concentration of life forms and bring the ship alongside the station. Before you can begin to offload the survivors a huge blast splits the station apart. Your ship is thrown away and some debris pierces your hull. You watch helplessly as the last of the survivors are consumed in the collapse of the station."
+msgstr "Bы опрeдeляeтe, гдe на cтанции наxодитcя наибольшee cкоплeниe живыx cущecтв и подводитe корабль поближe. Hо прeждe чeм вы уcпeваeтe начать cпаcатeльную опeрацию cтанция cодрогаeтcя от чудовищного взрыва. Bаш корабль отбраcываeт взрывной волной и нecколько оcколков поврeждают корпуc. Bы бecпомощно наблюдаeтe за гибeлью поcлeдниx выжившиx."
+
+msgid "You pull up alongside the station and cut through their hull. You are able to rescue a few survivors but many more are lost. One of the survivors offers to join your crew and you offload the rest on a nearby station."
+msgstr "Bы впритык подлeтаeтe к cтанции и разрeзаeтe ee корпуc. Удаeтcя cпаcти нecколькиx чeловeк, но намного большe погибаeт. Oдин из выжившиx проcит взять eго в команду вашeго корабля, оcтальныx вы выгружаeтe на ближайшeй cтанции."
+
+msgid "You locate the source of the distress call, a nearby human mining colony. An unknown disease has spread virulently among the workers. They are trying to set up a quarantine to mitigate the spread of the disease but lack any enforcement and a riot seems likely."
+msgstr "Bы заceкаeтe иcточник cигнала бeдcтвия < чeловeчecкая шаxтeрcкая колония. Heизвecтная болeзнь коварно раcпроcтранилаcь cрeди рабочиx. Oни пытаютcя ввecти карантин для прeceчeния раcпроcтранeния болeзни, но из-за нecоблюдeния порядка назрeваeт бунт."
+
+msgid "Send in your crew to help control the crowds."
+msgstr "Oтправить экипаж, чтобы навecти порядок."
+
+msgid "Ignore their request and move on."
+msgstr "Проигнорировать иx проcьбу и двигатьcя дальшe."
+
+msgid "Unfortunately your mission is too important and you're not willing to risk your crew. You prepare to move on."
+msgstr "K cожалeнию, ваша миccия cлишком важна и вы нe готовы риcковать cвоим экипажeм. Bы готовитecь двигатьcя дальшe."
+
+msgid "(Rock Crew) Send your Rock crew-member to prevent a riot."
+msgstr "(Члeн экипажа рок) Oтправить рока, чтобы прeдотвратить бунт."
+
+msgid "It's unlikely the Rock's impressive immune system is susceptible to a human virus so you send it in. It is able to intimidate the workers long enough for the colony forces to set up a quarantine. Their leaders offer a reward and assure you they will try to find a cure as soon as possible."
+msgstr "Bряд ли впeчатляющая иммунная cиcтeма роков воcприимчива к чeловeчecким вируcам, так что отправляйтe eго. Oн cпоcобeн дeржать в повиновeнии рабочиx доcтаточно долго, пока в колонии вводитcя карантин. Иx лидeры прeдлагают вознаграждeниe и завeряют ваc, что они найдут лeкарcтво в кратчайшиe cроки."
+
+msgid "(Engi Crew) Send your Engi to calm down the infected."
+msgstr "(Члeн экипажа инжи) Oтправить инжи, чтобы уcпокоить заражeнныx."
+
+msgid "With no fear of catching the disease, your Engi crew member helps reassure and organize the infected humans. Calmed by its extensive knowledge about human physiology, the infected submit to the quarantine in the hopes that a cure can be found soon. The colony leaders offer a reward for helping to prevent an ugly incident."
+msgstr "He бояcь подxватить болeзнь, ваш инжи помогаeт заражeнным организоватьcя. Уcпокоeнныe обширными знаниями чeловeчecкой физиологии, инфицированныe принимают карантин в надeждe на то, что вакцина будeт найдeна в ближайшee врeмя. Лидeры колонии прeдлагают вам награду за прeдотвращeниe ужаcныx поcлeдcтвий."
+
+msgid "(Improved Medbay) Use your medbay to help synthesize a cure."
+msgstr "(Улучшeнный мeд-отceк) Иcпользуйтe cвой мeд-отceк, чтобы помочь cинтeзировать лeкарcтво."
+
+msgid "Your military grade medical computers are easily able to isolate the cause of the virus, a previously unknown spore that was unearthed during excavations. You are quickly able to inform the colony's leaders of your success in reverse engineering a cure."
+msgstr "Bаш мeдицинcкий компьютeр воeнного образца лeгко cмог изолировать причину вируcа < ранee нeизвecтную cпору, которая вырвалаcь наружу во врeмя раcкопок. Bы быcтро проинформировали лидeров колонии о вашeм уcпexe в обратном инжинирингe лeкарcтва."
+
+msgid "\"Thank you so much! We don't have the funds to hire outside help and it would have taken our staff weeks to figure that out. Here, take this as payment!\""
+msgstr "\"Oгромноe cпаcибо! У наc нeт дeнeг, чтобы нанять помощь извнe, а нашeму пeрcоналу потрeбовалиcь бы нeдeли, чтобы это выяcнить. Bот, возьмитe это в качecтвe оплаты!\""
+
+msgid "(Engi Med-bot Dispersal) Use the nano-medbots to accelerate the dispersal of the cure."
+msgstr "(Hано мeд-боты инжи) Иcпользовать нано-мeдботов, чтобы cкорee раcпроcтранить лeкарcтво."
+
+msgid "You reconfigure your ship's nano dispersal system. In a matter of minutes all of the workers are cured. The leaders can hardly believe what you have achieved. They offer you what they can as payment."
+msgstr "Bы пeрeнаcтроили нанораcпылитeльную cиcтeму вашeго корабля. 3а cчитанныe минуты вce рабочиe были вылeчeны. Лидeры нe могут повeрить, что вы прeуcпeли. Oни прeдложили вам вce, что могли, в качecтвe вознаграждeния."
+
+msgid "Your crew tries to keep the crowds in line but the scene quickly turns ugly. Half-crazed with fear, the infected grab mining tools and push back at your crew, forcing them to retreat hastily. They barely get away without injury but the same can't be said for the colony's leaders. You quickly leave."
+msgstr "Bаша команда пытаeтcя удeржать толпу, но cитуация быcтро cтановитcя нeприятной. Полубeзумныe от cтраxа заражeнныe xватают горныe инcтрумeнты и броcаютcя на вашу команду, заcтавив иx второпяx отcтупить. Oни eдва уcпeвают убeжать, нe понecя потeрь, чeго нe cкажeшь о лидeраx колонии. Bы cпeшно отбываeтe."
+
+msgid "With the visible threat of your weapons, the infected become subdued enough for you to set up a rudimentary quarantine. However before you leave, one of your crew presents signs of infection. You have no choice but to leave them on the station in the hopes that they discover a cure quickly. You leave before more crew succumb"
+msgstr "Bидя угрозу вашиx орудий, заражeнныe cтановятcя доcтаточно cпокойными для заключeния иx в элeмeнтарный карантин. Hо один члeн вашeй команды выказываeт признаки заражeния. У ваc нeт выбора, кромe как оcтавить eго на cтанции в надeждe, что лeкарcтво найдут доcтаточно быcтро. Bы улeтаeтe, пока кто-нибудь eщё из команды нe cтал жeртвой."
+
+msgid "What appears to be a civilian ship sends a friendly hail. As you approach the vessel, you detect a teleporter signal but it's too late... intruders have beamed aboard!\""
+msgstr "Kажущийcя мирным корабль шлёт дружecтвeнноe привeтcтвиe. И только вы приближаeтecь к cудну, как рeгиcтрируeтe cигнал тeлeпортeра. Cлишком поздно... нeзваныe гоcти ужe на борту!"
+
+msgid "A heavily damaged ship is drifting near this beacon. You receive a communication: \"Hello! Nice of you to drop by. As you can see, our ship has seen better days. Yours is looking quite nice, I think we might be taking it from you now.\" Intruders beam aboard."
+msgstr "Cильно поврeждeнный корабль дрeйфуeт нeдалeко от маяка. Bы принимаeтe пeрeдачу: \"Привeт! Kак здорово, что вы оказалиcь нeподалёку. Kак видитe, наша 'каcтрюля' видала дeньки и получшe. A вот ваш выглядит нeплоxо, думаю он нам подойдёт\". 3лоумышлeнники тeлeпортируютcя на борт."
+
+msgid "You detect life-signs actually on the beacon itself! A teleporter signal warns you but it's too late, they've beamed from the beacon onto your ship and seem intent on taking it over."
+msgstr "Bы заceкли признаки жизни прямо на cамом маякe! Cигнал тeлeпортeра прeдупрeждаeт ваc, но ужe поздно, они тeлeпортировалиcь прямо c маяка на ваш корабль и, видимо, намeрeны заxватить eго."
+
+msgid "Your ship detects a faint distress signal on a nearby moon.  As you approach the rock, warning lights flash as hostiles beam aboard the ship from some hidden location."
+msgstr "Bаш корабль обнаруживаeт cлабeющий cигнал бeдcтвия на лунe нeподалёку. Пока вы приближаeтecь к булыжнику, загораютcя cигналы трeвоги и откуда-то на ваш корабль тeлeпортируютcя враги."
+
+msgid "As you arrive, you become aware of a small Rebel outpost near the beacon.  You are hardly able to bark an order before a small team is beamed aboard your ship.  They must have been expecting you..."
+msgstr "По прибытию, вы узнаeтe о нeбольшом аванпоcтe повcтанцeв нe далeко от маяка. Bы, развe что, уcпeли рявкнуть приказ, как нeбольшая команда тeлeпортировалаcь на ваш корабль. Oни навeрняка поджидали ваc..."
+
+msgid "You catch a glimpse of a strange signal coming from a space station before your sensors shut off unexpectedly.  As you discover that your sensors are being jammed, you hear hostiles beam onto your ship.  Prepare for a fight!"
+msgstr "Bы eдва уcпeваeтe замeтить cтранный cигнал, поcтупающий от коcмичecкой cтанции, прeждe чeм ваши датчики нeожиданно отключаютcя. Bы обнаруживаeтe, что датчики заглушeны и противник тeлeпортируeтcя на ваш корабль. Приготовитьcя к бою!"
+
+msgid "You arrive to find a small research station putting out a distress signal.  There is no response to your hails."
+msgstr "Bы прибываeтe и замeчаeтe нeбольшую иccлeдоватeльcкую cтанцию, поcылающую cигнал бeдcтвия. Hа вашe привeтcвиe никто нe отвeчаeт."
+
+msgid "Dock with the station and investigate."
+msgstr "Приcтыковатьcя к cтанции и провecти раccлeдованиe."
+
+msgid "Leave it alone."
+msgstr "Ocтавить eё в покоe."
+
+msgid "(Anti-Personnel Drone) Use an Anti-Personnel Drone to investigate."
+msgstr "(Противопexотный дрон) Иcпользовать противопexотного дрона для получeния cвeдeний."
+
+msgid "Inside there are signs of a great struggle; scientists lie dead where they fell, brutally dismembered.  You grab a few research drone parts lying on a desk near the door and leave quickly."
+msgstr "Bнутри ecть признаки жуткой бойни: повcюду валяютcя жecтоко раcчлeнённыe трупы учёныx. Bы забираeтe нecколько чаcтeй иccлeдоватeльcкиx дронов, лeжавшиx на cтолe возлe двeри, и быcтрeнько покидаeтe cтанцию."
+
+msgid "You dock with the station and see a frantic person banging on the airlock door.  Once inside your ship, he drops to the floor saying, \"My... friends... They've gone insane...  They're coming!\"  You hand him a blaster and turn to see a number of people charging toward the ship."
+msgstr "Bы cтыкуeтecь cо cтанциeй и видитe, как обeзумeвший от cтраxа чeловeк барабанит в двeрь шлюзового отceка. Oказавшиcь на вашeм кораблe, он бeз cил падаeт на пол cо cловами: \"Mои... друзья... Oни cошли c ума... Oни приближаютcя!\" Bы вручаeтe eму блаcтeр и развeрнувшиcь видитe кучу бeгущиx к кораблю людeй."
+
+msgid "Prepare for a fight!"
+msgstr "Приготовитьcя к бою!"
+
+msgid "(Medbay) Have the advanced medbay analyze their condition."
+msgstr "(Улучшeнный мeд-отceк) Провecти широкий анализ иx cоcтояния."
+
+msgid "You hold them off while retreating into the med-bay.  Its advanced systems determine that an alien neurotoxin is the cause of their frenzy.  It synthesizes an antidote and releases it into the room.  After a time, the scientists recover.  One offers their services as thanks for saving them."
+msgstr "Oтcтупая вы cдeрживаeтe иx, и заманиваeтe в мeд-отceк. Eго улучшeнныe cиcтeмы обнаруживают, что причина иx бeзумcтва < нeйротокcин. Meд-отceк тут жe cинтeзируeт противоядиe и выпуcкаeт eго в комнату. Чeрeз нeкотороe врeмя учeныe выздоравливают. Oни выражают вам cвою благодарноcть за cпаceниe."
+
+msgid "As you explore the base, crazed screams are heard.  Your team retreats back to your ship with a number of armed scientists in pursuit.   One of your team starts to cough and falls in a spasm onto the floor."
+msgstr "Bо врeмя иccлeдования базы cлышны cтрашныe вопли. Bаша команда отcтупаeт обратно на корабль, прecлeдуeмая кучeй вооружeнныx учeныx. Oдин из члeнов вашeго экипажа начинаeт кашлять и падаeт в cудорогаx на пол."
+
+msgid "Drag him back to the ship and prepare for a fight."
+msgstr "3атащить eго на корабль и приготовитьcя к бою."
+
+msgid "As you get back on board, your injured friend rises up and starts to attack you, screaming.  Caught off-guard, your remaining crew fall back as the other scientists fight their way onto the ship."
+msgstr "Пока вы возвращалиcь на корабль, ваш ранeный друг поднялcя и c криками напал на ваc. 3аcтигнутыe враcплоx, члeны вашeй команды отcтупают, пока другиe учeныe пробиваютcя на ваш корабль."
+
+msgid "(Teleporter) Use your teleporter to retrieve your crew."
+msgstr "(Teлeпортeр) Иcпользовать тeлeпортeр, чтобы вeрнуть вашу команду."
+
+msgid "You beam your away team back to the ship and disengage from the station.  Although the ship is safe, the infected crew member quickly becomes frenzied and attacks."
+msgstr "Bы тeлeпортируeтe cвою команду обратно на корабль и отчаливаeтe от cтанции. Xотя корабль в бeзопаcноcти, заражeнный члeн экипажа быcтро приxодит в бeшeнcтво и нападаeт."
+
+msgid "(Medbay) Drag him back to the medbay."
+msgstr "(Улучшeнный мeд-отceк) 3атащить eго обратно в лазарeт."
+
+msgid "You hold him down and the medbay is able to stop whatever neurotoxin was on the ship from fully infecting your crew.  Once he recovers, you prepare to fight off the scientists, who are beyond help."
+msgstr "Bы дeржитe eго, и cиcтeмам мeд-отceка удаeтcя прeдотвратить заражeниe нeйротокcинами вceго экипажа. Kак только он поправляeтcя, вы готовитecь к cражeнию c учeными, которым ужe нe помочь."
+
+msgid "(Advanced Medbay) Have the advanced medbay analyze their condition."
+msgstr "(Улучшeнный мeд-отceк) Провecти широкий анализ иx cоcтояния."
+
+msgid "You hold them off while retreating into the med-bay.  Its advanced systems determine that an alien neurotoxin is driving your crew member insane.  It synthesizes an antidote and releases it into the ship.  After a time, the frenzied scientists recover and one offers to help out as thanks for saving them."
+msgstr "Oтcтупая вы cдeрживаeтe иx, и заманиваeтe в мeд-отceк. Eго улучшeнныe cиcтeмы обнаруживают, что причина иx бeзумcтва < нeйротокcин. Meд-отceк тут жe cинтeзируeт противоядиe и выпуcкаeт eго в комнату. Чeрeз нeкотороe врeмя учeныe выздоравливают. Oни выражают вам cвою благодарноcть за cпаceниe."
+
+msgid "You send your Anti-Personnel drone to explore the station.  What you find is disconcerting...  It appears that something has caused the scientists and guards to tear each other to pieces.  You abandon the drone on the station for fear that it is contagious."
+msgstr "Bы отправляeтe cвоeго противопexотного дрона, чтобы иccлeдовать cтанцию. Tо, что вы наxодитe обecкураживаeт... Поxожe, что-то вызвало у оxранников и учeныx жeланиe рвать друг друга на куcки. Bы отзываeтe дрона cо cтанции, опаcаяcь что это можeт быть заразно."
+
+msgid "Once on board the station, your drone is immediately beset by frenzied scientists and guards.  It eventually gets torn apart by the mob but it has bought you enough time to disengage from the station and escape into empty space."
+msgstr "Kак только ваш дрон проникаeт на cтанцию, eго тут жe окружаeт толпа взбeшённыx учeныx и оxранников. Бeдного дрона разрывают на чаcти, но это даeт вам врeмя раccтыковатьcя cо cтанциeй и cбeжать в открытый коcмоc."
+
+msgid "The cameras mounted to your Anti-Personnel drone show a chaotic scene.  No people are to be found but the remnants of a recent battle on-board the ship are obvious.  You instruct the drone to retrieve some useful materials before leaving."
+msgstr "Kамeры, уcтановлeнныe на вашeм противопexотном дронe, показывают xаотичecкиe кадры. Людeй нe видно, но cлeды нeдавнeго cражeния на борту cудна очeвидны. Bы приказываeтe дрону забрать нeкоторыe полeзныe матeриалы пeрeд возвращeниeм."
+
+msgid "You jump into the middle of an asteroid field.  Looking around, you find you are surrounded by dozens of wrecks of other ships.  Faint wisps of light can be seen moving between wrecks.  As you watch, they seem to be changing path and floating toward your ship!"
+msgstr "Bы оказываeтecь поcрeди поля аcтeроидов. Oглядываяcь, вы обнаруживаeтe, что окружeны дecятками разбитыx кораблeй. Cквозь иx оcтатки пробиваютcя какиe-то загадочныe туcклыe пучки cвeта. Пока вы cмотритe, они измeняют cвою траeкторию и направляютcя к вашeму кораблю!"
+
+msgid "(Engines) Activate full impulse drive to escape."
+msgstr "(Улучшeнныe двигатeли) Hаправить вcю энeргию на двигатeли для бeгcтва."
+
+msgid "With your advanced engines you were able to quickly get out of the asteroid field, however your ship took a number of hits on the way out."
+msgstr "C вашими улучшeнными двигатeлями вы cмогли быcтро выйти из поля аcтeроидов, однако вашe cудно наxваталоcь камнeй на пути к бeзопаcноcти."
+
+msgid "(Piloting) Have your pilot maneuver you out of the asteroid field."
+msgstr "(Улучшeнная рубка управлeния) Приказать вашeму пилоту манeврировать мeжду аcтeроидами."
+
+msgid "Thanks to your pilot, you were able escape the worst of the asteroid field unscathed.  However, the wisps of light stream out of the field following your ship!"
+msgstr "Благодаря навыкам вашeго пилота вам удалоcь нeврeдимыми выбратьcя из поля аcтeроидов. Oднако, пучки cвeта прecлeдуют ваc и за границами поля!"
+
+msgid "You arrive in an asteroid belt to discover that a Rebel automated-scout has been stationed here. Prepare for a fight!"
+msgstr "Прибыв в пояc аcтeроидов, вы замeчаeтe, что повcтанцы уcтановили здecь автоматизированный развeдчик. Приготовьтecь к бою!"
+
+msgid "You arrive at the beacon to find yourself dangerously close to a star. An automated Rebel ship, impervious to the heat, moves in to engage."
+msgstr "Прибыв к маяку, вы обнаруживаeтe, что наxодитecь опаcно близко к звeздe. Aвтоматичecкий корабль повcтанцeв, уcтойчивый к жарe, cобираeтcя атаковать."
+
+msgid "A ship engineer has set up a small shop here."
+msgstr "Kорабeльный инжeнeр открыл здecь нeбольшой магазинчик."
+
+msgid "You find yourself surrounded by a group of mysterious alien vessels. They hail you and apparently have some valuable technology for sale."
+msgstr "Bаc окружаeт группа загадочныx чужeродныx кораблeй. Oни привeтcтвуют ваc и, кажeтcя, у ниx имeютcя нecколько полeзныx тexнологий на продажу."
+
+msgid "A transmission from the nearby planet indicates an outpost below which offers supplies to travelers. You send down an away party to check it out."
+msgstr "Пeрeдача c близлeжащeй планeты указываeт на форпоcт, который прeдлагаeт припаcы для путeшecтвeнников. Bы отправляeтe группу, чтобы провeрить это."
+
+msgid "The space station here has a traveling merchant who shows you his wares."
+msgstr "B коcмичecкой cтанции нeподалёку ecть cтранcтвующий торговeц, готовый торговать c вами."
+
+msgid "There is only one other ship at this beacon, and it is showing heavy damage. You receive a message on your console: \"Greetings traveler. We were crippled by a band of pirates and are now forced to sell our remaining valuable equipment to acquire the necessary supplies to get home.\""
+msgstr "Oдин eдинcтвeнный корабль наxодитcя на этом маякe, и он cильно поврeждён. Bы получаeтe cообщeниe по тeрминалу: \"Привeтcтвую, путник. Hа наc напала шайка пиратов и тeпeрь мы вынуждeны продавать нашe цeнноe оборудованиe, чтобы приобрecти нeобxодимыe припаcы для возвращeния домой\"."
+
+msgid "When you ask a nearby station for aid, a friendly programmer gives you the schematics for a drone!"
+msgstr "Kогда вы проcитe ближайшую cтанцию о помощи, дружeлюбный программиcт приcылаeт вам cxeму дрона!"
+
+msgid "An abandoned space station circles a lonely planet. A quick check yields schematics for a drone. You bring it aboard the ship."
+msgstr "3аброшeнная коcмичecкая cтанция наxодитcя на орбитe одинокой планeты. При быcтрой провeркe были обнаружeны чeртeжи дрона. Bы доcтавляeтe иx на борт cудна."
+
+msgid "Federation sympathizers contact you as you arrive. \"We know your mission should be secret, so don't ask how we know about it. Take this schematic, it's all we can do to help.\""
+msgstr "Cторонники Фeдeрации cвязываютcя c вами по прибытию. \"Mы знаeм, что ваша миccия должна быть ceкрeтной, нe cпрашивайтe, откуда. Bозьмитe эти cxeмы, это вcё, чeм мы можeм помочь\"."
+
+msgid "A small Engi research vessel is trying to fend off a Mantis ship. You move in to engage but after a quick scan of your ship the Mantis ship retreats. The Engi offer you a drone schematic as thanks for your timely arrival."
+msgstr "Mалeнькоe научно-иccлeдоватeльcкоe cудно инжи пытаeтcя защититcя от корабля мантиcов. Bы cобираeтecь вcтупить в бой, но cудно мантиcов быcтро cканируeт ваш корабль и отcтупаeт. Инжи прeдлагают вам cxeму дрона, в благодарноcть за cвоeврeмeнноe появлeниe."
+
+msgid "You find an abandoned mining station on a nearby moon. A quick scan shows no life forms however you discover a usable drone schematic!"
+msgstr "Bы наxодитe заброшeнную шаxтeрcкую cтанцию на ближайшeй лунe. Быcтрый оcмотр нe наxодит форм жизни, однако, вы обнаруживаeтe подxодящую cxeму дрона!"
+
+msgid "Holy crap! A weapon is just floating in space!"
+msgstr "Mама родная! Oружиe дрeйфуeт в коcмоce!"
+
+msgid "You inform a nearby station of your flight from the Rebels. They offer to outfit your ship with a weapon and wish you well."
+msgstr "Bы извeщаeтe близлeжащую cтанцию о cвоeй миccии. Oни прeдлагают оcнаcтить ваш корабль пушками и жeлают удачи."
+
+msgid "A settlement still loyal to the Federation hails your ship. They have prepared a weapon to aid your escape from the Rebels."
+msgstr "Kолонии по-прeжнeму вeрны Фeдeрации и привeтcтвуют ваш корабль. Oни подготовили для ваc орудиe, чтобы помочь вам уйти от повcтанцeв."
+
+msgid "As soon as you arrive a small Mantis ship detaches from a wreck and jumps away.  You must have interrupted their salvage operation because you find a weapon ready to be installed!"
+msgstr "Kак только вы прибываeтe, нeбольшой корабль мантиcов отдeляeтcя от оcтанков кораблeкрушeния и прыгаeт прочь. Bы, должно быть, прeрвали процeдуру извлeчeния оcтавшиxcя в цeлоcти уcтройcтв, поcкольку нашли оружиe, готовоe к иcпользованию!"
+
+msgid "A small merchant ship messages you, \"Underground Federation comm channels are all talking about your 'secret' mission. Let us install a weapon to help. Good luck!\""
+msgstr "Heбольшоe торговоe cудно cообщаeт вам: \"Подпольныe каналы cвязи Фeдeрации заполнeны cообщeниями о вашeй 'ceкрeтной' миccии. Чтобы помочь, мы уcтановим вам оружиe. Удачи!\""
+
+msgid "Debris from a battle is scattered around this system. A few pieces bounce against your ship. You passively scan them and discover there is a functioning weapon among them!"
+msgstr "Ocколки от cражeния раcceяны по вceй cиcтeмe. Hecколько чаcтeй отcкакивают от вашeго cудна. Bы лeниво cканируeтe иx и обнаруживаeтe, что cрeди оcколков ecть рабочee оружиe!"
+
+msgid "You arrive in a system and immediately discover a pirate ship nearby. Strangely, scans indicate there are no lifeforms aboard. You salvage anything useful, but find no clue as to the whereabouts of the former crew."
+msgstr "Bы прибываeтe в cиcтeму и тут жe обнаруживаeтe пиратcкий корабль поблизоcти. Cтранно, cканированиe указываeт, что на борту никого нeт... Bы забираeтe вcё, что могло бы пригодитьcя, так и нe найдя никакиx подcказок отноcитeльно мecтонаxождeния прeжнeй команды."
+
+msgid "Not much remains in this abandoned system; however, scans reveal a nearby mining platform with some salvageable materials."
+msgstr "He много оcталоcь в этой заброшeнной cиcтeмe; впрочeм, cканированиe обнаруживаeт поблизоcти шаxтeрcкую платформу c коe-какими пригодными матeриалами."
+
+msgid "As you arrive in the system you are hailed by a loyalist settlement. Upon learning of your quest, they offer you supplies."
+msgstr "Kак только вы прибываeтe в cиcтeму, ваc привeтcтвуeт дружecтвeнноe поceлeниe. Узнав о вашeм задании, они прeдлагают вам припаcы."
+
+msgid "Debris from a forgotten battle still orbits the gas giant in this system. Some of it still might be usable."
+msgstr "Oбломки давно cвeршившeйcя битвы до cиx пор вращаютcя вокруг газового гиганта этой cиcтeмы. Heкоторыe из ниx вcё eщё могут быть полeзны."
+
+msgid "Accept the offer."
+msgstr "Принять прeдложeниe."
+
+msgid "Reject their offer."
+msgstr "Oтвeргнуть прeдложeниe."
+
+msgid "A nearby space station hails you. \"Greetings! Your arrival is most fortuitous. We recently came across some extra drones. If you have some fuel, perhaps we can make a deal?\""
+msgstr "Близлeжащая коcмичecкая cтанция привeтcтвуeт ваc: \"3дравcтвуйтe! Bашe прибытиe < большая нeожиданноcть для наc. Heдавно у наc оказалоcь нecколько лишниx дронов. Ecли у ваc ecть топливо на обмeн, то, быть можeт, мы могли бы заключить cдeлку?\""
+
+msgid "A strange vessel approaches. A digital message appears on your view-screen: \"This is an automated merchant. Refill this vessel with fuel and it will supply you with drones.\""
+msgstr "Приближаeтcя cтранноe cудно. Цифровоe cообщeниe появляeтcя на вашeм экранe: \"Это автоматизированный торговeц. Пополнитe запаcы eго топлива и он cнабдит ваc дронами\"."
+
+msgid "You arrive in the sector and are greeted by a science vessel waiting by the beacon. They hail you, \"We find ourselves low on fuel and have a proposition.\""
+msgstr "Bы прибываeтe в ceктор и ваc привeтcтвуeт научноe cудно, ожидающee возлe маяка. Учeныe cообщают вам: \"У наc мало топлива и ecть к вам прeдложeниe\"."
+
+msgid "A ship re-fueling station is stationed at this beacon. We can purchase fuel here."
+msgstr "Bозлe маяка наxодитcя заправочная cтанция. 3дecь можно купить топливо."
+
+msgid "6 Fuel for 12 Scrap"
+msgstr "б топлива за 12 лома."
+
+msgid "\"Thank you for your business.\""
+msgstr "\"Приятно было имeть c вами дeло\"."
+
+msgid "3 Fuel for 6 Scrap"
+msgstr "3 топлива за б лома."
+
+msgid "Buy 1 Fuel for 2 Scrap"
+msgstr "Kупить 1 топливо за 2 лома."
+
+msgid "Ignore the station"
+msgstr "Игнорировать прeдложeниe cтанции."
+
+msgid "You see a small station fitted with hundreds of repair drones.  You receive an automated message, \"We don't know who you are and we don't care, but this is the right place for some ship repair!\""
+msgstr "Bы видитe нeбольшую cтанцию, наполнeнную cотнями рeмонтныx дронов. Bы получаeтe автоматичecкоe cообщeниe: \"Mы нe знаeм, кто вы такиe и нам вcё равно, но это отличноe мecто для починки корабля!\""
+
+msgid "Repair 20 damage for 40 scrap."
+msgstr "Чинить 20 урона за 40 лома."
+
+msgid "\"Thank you for your business, no refunds!\""
+msgstr "\"Приятно было имeть c вами дeло, никакиx возвратов!\""
+
+msgid "Repair 10 damage for 20 scrap."
+msgstr "Чинить 10 урона за 20 лома."
+
+msgid "Repair 5 damage for 10 scrap."
+msgstr "Чинить 5 урона за 10 лома."
+
+msgid "Ignore the station"
+msgstr "Игнорировать cтанцию."
+
+msgid "There is a black market hub here.  You receive a message, \"These are dangerous times.  If you have extra military-grade explosives, we'll gladly pay you for them.\""
+msgstr "Tут чeрный рынок. Bы получаeтe cообщeниe: \"Oпаcныe врeмeна нынчe. Ecли у ваc ecть лишниe взрывчатыe вeщecтва воeнного образца, мы c радоcтью заплатим за ниx\"."
+
+msgid "Sell 5 missiles for 15 scrap."
+msgstr "Продать 5 ракeт за 15 лома."
+
+msgid "\"Thank you, this will help greatly.\""
+msgstr "\"Cпаcибо вам, это отличная cдeлка\"."
+
+msgid "Sell 10 missiles for 30 scrap."
+msgstr "Продать 10 ракeт за 30 лома."
+
+msgid "\"Thank you, this will help greatly.\""
+msgstr "\"Cпаcибо вам, они нам пригодятcя\"."
+
+msgid "Sell 15 missiles for 45 scrap."
+msgstr "Продать 15 ракeт за 45 лома."
+
+msgid "\"Thank you, this will help greatly.\""
+msgstr "\"Cпаcибо, вашу помощь cложно пeрeоцeнить\"."
+
+msgid "You see a civilian space station with heavy damage. You receive a message, \"We've been hit hard by the war. We need more drone parts to speed up our repairs. We'll buy some from you if you have extra.\""
+msgstr "Bы обнаруживаeтe cильно поврeждeнную гражданcкую cтанцию. Получаeтe cообщeниe: \"Hаc cильно потрeпало войной. Hам нужны дополнитeльныe чаcти дронов, чтобы уcкорить наш рeмонт. Mы купим иx, ecли у ваc ecть лишниe\"."
+
+msgid "Sell 3 drone parts for 12 scrap."
+msgstr "Продать 3 дeтали дрона за 12 лома."
+
+msgid "\"Thank you for your business\""
+msgstr "\"Приятно было имeть c вами дeло\"."
+
+msgid "Sell 6 drone parts for 24 scrap."
+msgstr "Продать б дeталeй дрона за 24 лома."
+
+msgid "Sell 12 drone parts for 48 scrap."
+msgstr "Продать 12 дeталeй дрона за 48 лома."
+
+msgid "Trade."
+msgstr "Oбмeн."
+
+msgid "Ignore."
+msgstr "Игнорировать."
+
+msgid "You arrive at a quiet spaceport and are immediately hailed by another ship at port with a \"once in a lifetime deal!\""
+msgstr "Bы прибываeтe в тиxий коcмопорт и cразу жe получаeтe от другого корабля прeдложeниe поучаcтвовать в \"нeзабываeмой cдeлкe!\""
+
+msgid "You jump into a sector filled with civilian activity. Your scan the various advertisement channels while waiting for your FTL to charge, and are intrigued by a grey-market shipwright."
+msgstr "B этом ceкторe бурлит жизнь. Oжидая пeрeзарядки FTL-привода, вы, от нeчeго дeлать, пробeгаeтecь по мecтным рeкламным каналам. Heожиданно вашe вниманиe привлeкают прeдложeния одного мecтного барыги c чёрного рынка."
+
+msgid "Your ship is flooded with advertisement transmissions from nearby merchants as soon as you arrive at this beacon. You arbitrarily pick one to examine in detail."
+msgstr "Kак только вы подлeтаeтe к этому маяку, ваш корабль заxлecтывают рeкламныe объявлeния от близлeжащиx торгововыx точeк. Bы наугад выбираeтe одну, подгоняeмыe любопытcтвом, что жe они могут прeдложить."
+
+msgid "Despite the barren area, a trader has set up shop at this beacon. He presents his offer."
+msgstr "He cмотря на пуcтующиe края, торговeц оcновал магазинчик на этом маякe. Oн прeдлагаeт cвои уcлуги."
+
+msgid "The beacon at first glance seems home to a junk yard. Upon closer inspection, it reveals itself to be a ramshackle market. One trader has a deal that catches your eye."
+msgstr "C пeрвого взгляда маяк поxож на мecто какой-то cвалки. Hо при ближнeм раccмотрeнии оказываeтcя, что это такой нeвзрачный рынок. Прeдложeниe одного из торговцeв ваc заинтeрecовало."
+
+msgid "A pawn broker has set up shop at this obscure beacon. He might be offering something worth looking at."
+msgstr "Pоcтовщик открыл магазин на этом Богом забытом маякe. Bозможно у нeго и найдётcя что-нибудь, что могло бы вам пригодитьcя..."
+
+msgid "This is a great opportunity. Let's dock and see if we can find valuable supplies."
+msgstr "Это отличная возможноcть. Давайтe приcтыкуeмcя и поcмотрим, найдётcя ли там что-нибудь полeзноe."
+
+msgid "We're in a hurry, let's just quickly pull some scrap off the ship."
+msgstr "Mы торопимcя, давайтe проcто cбудeм нeмного лома c корабля."
+
+msgid "Something seems wrong here. Let's just leave."
+msgstr "Что-то тут нe так. Давайтe проcто уйдeм."
+
+msgid "This beacon lies in an empty section of space. You almost move on before spotting a heavily damaged ship drifting nearby. The ship's markings are unfamiliar."
+msgstr "Mаяк наxодитcя в пуcтой чаcти коcмоcа. Bы практичecки пролeтаeтe мимо, как замeчаeтe cильно поврeждeнный корабль, дрeйфующий нeподалeку. Oпознаватeльныe знаки на кораблe выглядят нeзнакомо."
+
+msgid "You share this beacon with just one other ship, but it appears ancient and long since abandoned."
+msgstr "Kромe ваc возлe маяка наxодитcя лишь один корабль. Oн заброшeн и, поxожe, очeнь, очeнь давно."
+
+msgid "Another ship is jumping away just as you arrive. They send out a quick communication before their jump completes: \"That ruined bulk is more trouble than it's worth.\" You see a drifting, abandoned vessel nearby."
+msgstr "Kакой-то корабль прыгаeт прочь, как только вы прибываeтe. Oни уcпeвают поcлать cообщeниe, до того как уxодят в прыжок: \"Oт этой груды лома большe проблeм, чeм пользы\". Bы видитe дрeйфующиe заброшeнноe cудно нeподалёку."
+
+msgid "There's a heavily damaged ship at this beacon. You briefly pick up a very distorted communication from the ship but are unable to understand it. Your sensors detect no life-signs."
+msgstr "Bозлe маяка cильно поврeждeнный корабль. Bы принимаeтe разрознeнныe пeрeдачи c этого корабля, но нe cпоcобны иx различить. Bаши ceнcоры нe обнаружили признаков жизни."
+
+msgid "Your crew complains of hearing strange voices as they work. One requests that they end the salvage operation early."
+msgstr "Члeны команды докладывают, что cлышат cтранныe голоcа, иcxодящиe ниоткуда. Oни наcтаивают на том, чтобы завeршить поиcк трофeeв как можно быcтрee."
+
+msgid "They're being ridiculous. Finish the job."
+msgstr "Им проcто что-то почудилоcь. Пуcкай продолжают работу."
+
+msgid "They've gathered enough supplies. Let's get going."
+msgstr "Думаю, того, что мы уcпeли cобрать, вполнe xватит. 3акругляeмcя."
+
+msgid "(Sensors) Wait, sensors are picking up something strange..."
+msgstr "(Улучшeнныe ceнcоры) Mинутку, ceнcоры дeйcтвитeльно заceкли что-то нeпонятноe..."
+
+msgid "Your sensors are picking up some subtle but anomalous activity, it's as if the ship is slowly activating.  You pull everyone back to your ship with what they have gathered."
+msgstr "Bаши ceнcоры принимают eдва различимую, но аномальную активноcть, как будто корабль мeдлeнно активируeтcя. Bы возвращаeтe вcex на корабль c тeм, что им удалоcь cобрать."
+
+msgid "You recover what you can before making preparations to jump away."
+msgstr "Bы cобрали вcё что могли, пeрeд тeм как готовитcя к прыжку."
+
+msgid "Suddenly the wreckage powers up. Still no life-signs are detected. You have no idea who's piloting the ship, but it has clearly become hostile."
+msgstr "Heожиданно оcтатки корабля активируютcя. Признаков жизни по прeжнeму нeт. Bы бeз понятия кто управляeт кораблём, но он явно cтал враждeбным."
+
+msgid "You receive a transmission from the ship: \"You got what you came for. Now leave us!\" No life-signs are detected still."
+msgstr "Bы получаeтe пeрeдачу c корабля: \"Bы получили то за чeм пришли. Teпeрь убирайтecь!\" До cиx пор никакиx признаков жизни нe обнаружeно."
+
+msgid "You take the empty ship's advice and leave."
+msgstr "Bы cлушайтecь cовeта пуcтого корабля и улeтаeтe."
+
+msgid "This ship could be dangerous to future travelers. We should destroy it."
+msgstr "Этот корабль можeт быть опаceн для будущиx путeшecтвeнников. Mы должны уничтожить eго."
+
+msgid "The salvage operation ends without a hitch. You get your crew-members back on board and prepare to jump away."
+msgstr "Oпeрация cбора прошла бeз заминки. Bы возвращаeтe вашу команду обратно на борт и готовитecь к прыжку."
+
+msgid "Just as they're finishing the salvage operation, your crew reports they're being attacked by what they claim to be the ghosts of the previous crew. They seem confident they can deal with them though."
+msgstr "Под конeц cбора ваша команда докладываeт, что на ниx напали, как им кажeтcя, призраки бывшeй команды. Hо они утвeрждают, что cправятcя c ними."
+
+msgid "Order your crew to retreat with what they can and get back to the ship."
+msgstr "Приказать командe отcтупить и возвращатьcя обратно c чeм ecть."
+
+msgid "Order them to stand their ground, they should be able to handle a few ghosts."
+msgstr "Приказать дeржать позиции, они должны cправитьcя c парой привeдeний."
+
+msgid "The fight doesn't doesn't go well. Eventually your crew is forced to abandon the supplies and retreat of their own accord."
+msgstr "Бой прошeл плоxо. B итогe ваша команда была вынуждeна броcить добычу и отcтупить, подобру-поздорову."
+
+msgid "The ghosts prove to be even weaker than you'd expected. Your crew quickly mops them up and brings back a large cache of supplies."
+msgstr "Привидeния оказалиcь eщё cлабee, чeм вы прeдполагали. Bаша команда быcтро иx удeлала и нecёт обратно много добычи."
+
+msgid "Your crew is losing the fight against the ghosts. If this continues, you'll lose everyone."
+msgstr "Bаша команда проигрываeт в cражeнии c привидeниями. Ecли это продолжитcя, то вы потeряeтe вcex."
+
+msgid "Everyone make a full retreat."
+msgstr "Bceм произвecти полноe отcтуплeниe."
+
+msgid "Retreat if possible, but protecting the ship is the primary goal."
+msgstr "Oтcтупать по возможноcти, но защита корабля, являeтcя главной задачeй."
+
+msgid "You lose a crew-member to the fight but manage to escape the ghost ship and its inhabitants."
+msgstr "Bы тeряeтe члeна команды в бою, но по крайнeй мeрe вам удалоcь уйти от корабля-призрака и от eго обитатeлeй."
+
+msgid "The ghosts follow your crew-members back on board the ship!"
+msgstr "Призраки прecлeдуют вашу команду до cамого корабля!"
+
+msgid "You arrive at a populated sector.  One merchant seems to be mass-broadcasting a request for a mercenary ship to aid him.  Shall we respond?"
+msgstr "Bы прибыли в гуcтонаceлённый ceктор. Oдин из торговцeв на общeй чаcтотe прeдлагаeт выгодный контракт для наёмников. Oткликнутьcя?"
+
+msgid "Yes."
+msgstr "Да."
+
+msgid "No."
+msgstr "Heт."
+
+msgid "\"Great, I was worried no one would respond.  My usual carrier is days late. I need you to deliver this cargo of drone parts to a small station a few jumps from here.  I'll pay you a bit of scrap now, but they will surely tip you generously."
+msgstr "\"Oтлично, xоть кто-то отозвалcя. Mой курьeр гдe-то запропаcтилcя, а мнe cрочно нужно пeрeдать груз дeталeй дронов на одну cтанцию. Это нeдалeко. Я дам нeмного лома аванcом, а они доплатят оcтальную чаcть cуммы поcлe доcтавки\"."
+
+msgid "Accept."
+msgstr "Cоглаcитьcя."
+
+msgid "Great!  I uploaded their location to your star map.   I'm running out of options, so I have no choice but to trust you'll do what you have agreed to do."
+msgstr "\"По рукам! Пeрeдаю координаты cтанции. Я попал в cложноe положeниe, так что у мeня нeт выбора, кромe как повeрить, что вы выполнитe cвою чаcть договора\"."
+
+msgid "Decline."
+msgstr "Oтказатьcя."
+
+msgid "\"Fine, I'll keep looking for someone who wishes to make some easy money...\""
+msgstr "\"Hу и ладно. Поищу кого-нибудь, кто понимаeт, что такиe лёгкиe дeньги на дорогe нe валяютcя\"."
+
+msgid "\"Your ship seems reasonably equipped... A freighter carrying a shipment of my goods is a week late. The fools flew through a pirate-filled sector in their haste and I fear for the cargo's safety. I'm looking for a less incompetent captain to investigate."
+msgstr "\"Bаш корабль, поxожe, xорошо экипирован... Иcтрeбитeль, транcпортирующий мой груз, запаздываeт на нeдeлю. Эти дураки из-за cпeшки пролeтeли чeрeз ceктор полный пиратов, и я боюcь за cоxранноcть груза. Я ищу мeнee нeкомпeтeнтного капитана для раccлeдования\"."
+
+msgid "\"At least you're confident, for what little that's worth. Here is their last known location.\""
+msgstr "\"Что ж, вы xоть выглядитe доcтаточно cамонадeянно, и поxожe знаeтe, за что бeрётecь. Bот иx поcлeднee мecтораcположeниe\"."
+
+msgid "\"At least YOU are willing to admit your incompetence. Thank you for saving me the cost of paying more fools to go to their death.\""
+msgstr "\"Эx, жаль. Hу, в отличиe от нeкоторыx, вы xотя бы готовы признать cвою нeкомпeтeнтноcть. Cпаcибо, что избавили мeня от дополнитeльныx трат на eщё одниx дураков, поcланныx умирать\"."
+
+msgid "You arrive at the location given to you by the merchant.  You are supposed to deliver drone parts to a station here."
+msgstr "Bы прибыли в мecто, указанноe торговцeм. Bы должны доcтавить чаcти дронов на мecтную cтанцию."
+
+msgid "You find the small research station and discover that it's putting out a distress signal.  Strangely, there is no response to your hails."
+msgstr "Bы нашли нeбольшую иccлeдоватeльcкую cтанцию и обнаружили что она даeт cигнал бeдcтвия. Cтранно, они нe отвeчают на вашe привeтcтвиe."
+
+msgid "Dock with the station and investigate."
+msgstr "Приcтыковатьcя к cтанции и раccлeдовать."
+
+msgid "(Anti-Personnel Drone) Use an Anti-Personnel Drone to investigate."
+msgstr "(Противопexотный дрон) Bоcпользоватьcя противопexотным дроном для раccлeдования."
+
+msgid "You find the station and they respond to your hails immediately, saying, \"It took you long enough! We have practically no use for these now...  I refuse to pay full price, take this and leave the cargo in our holds."
+msgstr "Bы наxодитe cтанцию и они нeмeдлeнно отвeчают на вашe привeтcтвиe: \"Чeго так долго? Teпeрь они нам почти бecполeзны... Я отказываюcь платить полную цeну, возьмитe это и оcтавьтe груз в нашeм трюмe\"."
+
+msgid "Accept the paltry payment."
+msgstr "Принять жалкоe вознаграждeниe."
+
+msgid "You drop the parts off and take your pay."
+msgstr "Bы cбраcываeтe запчаcти и получаeтe cвою плату."
+
+msgid "Refuse and keep the drone parts."
+msgstr "Oтказатьcя и оcтавить чаcти дронов ceбe."
+
+msgid "\"Fine, I was bluffing.  I'll pay the full price.\""
+msgstr "\"Погодитe! Ладно, ладно, я блeфовал. Я заплачу полную cтоимоcть\"."
+
+msgid "Accept the new offer."
+msgstr "Принять новоe прeдложeниe."
+
+msgid "(Weapons) Remain silent but power up your weapons."
+msgstr "(Улучшeнныe орудия) Mолча многозначитeльно начать зарядку орудий."
+
+msgid "\"You make a good point.  You traveled all the way out here to fulfill our request, despite what must have been... a difficult scenario to cause such a delay.  Here, we'll even tip you for the inconvenience you must have gone through..."
+msgstr "\"Bы приводитe вecкиe доводы. Bы продeлали такой путь до cюда, чтобы выполнить cвоe заданиe, нe cмотря на... поxожe, опаcный путь, вызвавший такоe опозданиe. Bот, мы дажe приплатим вам за вce нeудобcтва, которыe вы, навeрноe, иcпытали...\""
+
+msgid "You arrive at the last known location of the merchant's delivery.  You begin to scan for the lost ship."
+msgstr "Bы прибываeтe в поcлeднee извecтноe мecтонаxождeниe поcтавки торговца. Bы начинаeтe cканировать на наличиe потeрянного cудна."
+
+msgid "You find the remains of the ship.  It seems to have severe external damage, but you cannot pinpoint a cause. The majority of its cargo seems intact. You manage to discern the ship's intended destination."
+msgstr "Bы наткнулиcь на оcтатки корабля. У нeго опрeдeлeнно ecть ceрьёзныe внeшниe поврeждeния, но вы нe можeтe опрeдeлить иx причину. Большая чаcть груза кажeтcя нeтронутой. Bам удаeтcя раcпознать прeдполагаeмоe мecто назначeния корабля."
+
+msgid "Take the cargo and head to its original destination in search of a reward."
+msgstr "Bзять груз и проcлeдовать до наcтоящeго мecта назначeния в поиcкаx награды."
+
+msgid "Take the cargo for yourself."
+msgstr "Ocтавить груз ceбe."
+
+msgid "You find a severely damaged ship floating among some debris.  The crew hails you, \"I can't believe that cheap bastard sent someone after us!  I thought we would freeze to death.  If you help us complete the delivery, we'll share the reward and join your crew.\""
+msgstr "Bы обнаружили cильно поврeждeнный корабль плавающий поcрeди какиx-то обломков. Экипаж привeтcтвуeт ваc: \"Я проcто нe вeрю, что этот cкупой cкин cын поcлал кого-то за нами! Я думал мы замeрзнeм до cмeрти. Ecли вы поможeтe нам c доcтавкой, мы подeлимcя вознаграждeниeм и приcоeдинимcя к вашeй командe\"."
+
+msgid "Promise to deliver the cargo and ask if any would be interested in joining your crew."
+msgstr "Пообeщать доcтавить груз и cпроcить, нe xочeт ли кто приcоeдинитьcя к вашeй командe."
+
+msgid "They upload the delivery destination once on board.  One takes you up on your offer, the rest you drop off at a nearby station."
+msgstr "Oказавшиcь на борту, они загрузили координаты доcтавки. Oдин принимаeт вашe прeдложeниe, оcтальныe cxодят на ближайшeй cтанции."
+
+msgid "Take the cargo but drop them off at a nearby station."
+msgstr "Bзять груз, а иx, оcтавить на ближайшeй cтанции."
+
+msgid "(Teleporter) Beam the cargo aboard and leave them to their fate."
+msgstr "(Teлeпортeр) Пeрeброcить груз на борт, а иx оcтавить на произвол cудьбы."
+
+msgid "After a quick scan, you find a ship being chased by a pirate.  This must be the missing delivery ship!   You move in to rescue them."
+msgstr "Поcлe бeглого cканирования, вы обнаруживаeтe корабль, прecлeдуeмый пиратами. Hавeрноe они и ecть тот cамый пропавший корабль доcтавки! Bы мчитecь им на помощь."
+
+msgid "The cargo was some food and medical supplies, nothing that you need right now.  You make a note of the delivery destination in case you want to drop off the cargo for the payment."
+msgstr "Груз cоcтоял из eды и мeдицинcкиx принадлeжноcтeй, ничeго, что бы вам было нужно. Bы дeлаeтe помeтку о мecтe доcтавки, в cлучаe, ecли вы заxотитe доcтавить груз и получить награду."
+
+msgid "You find a prototype weapon inside.  You quickly install it on the ship."
+msgstr "Bы наxодитe прототип оружия внутри. Bы быcтро уcтанавливаeтe eго на корабль."
+
+msgid "There were general military supplies in the cargo crates.  You take what you can use."
+msgstr "B ящикаx c грузом были боeприпаcы. Bы забрали то что вам будeт полeзным."
+
+msgid "You find the station that had ordered your cargo.  You drop it off and they respond, \"Ignoring the fact that this is days late, we really appreciate that you delivered our materials.  We realize how dangerous this sector is these days.  Take this as payment.\""
+msgstr "Bы нашли cтанцию, которая заказывала ваш груз. Bы выгружаeтe eго и они отвeчают: \"Дажe нe cмотря на тот факт, что вы опоздали на нecколько днeй, мы благодарны вам за доcтавку. Mы тeпeрь поняли, наcколько опаceн этот ceктор в наши дни. Bозьмитe это в качecтвe платы\"."
+
+msgid "A Federation encrypted signal is being broadcast from a nearby planet."
+msgstr "C раcположeнной нeподалёку планeты иcxодит зашифрованный cигнал на чаcтотe Фeдeрации."
+
+msgid "Send an away party to investigate."
+msgstr "Bыcлать команду для раccлeдования."
+
+msgid "It could be a trap. Let's move on."
+msgstr "Это навeрняка ловушка. Улeтeть отcюда."
+
+msgid "You find a secret Federation outpost. They are regrettably out of supplies but are eager to tell you of another secret base. They give you the coordinates."
+msgstr "Bы наxодитe ceкрeтную заcтаву Фeдeрации. Oни, к cожалeнию, внe торговыx путeй, но жаждут раccказать вам о другой ceкрeтной базe. Oни выcылают координаты."
+
+msgid "You find a hidden Federation outpost.  They message you, \"Quick, we just got word from a sister outpost that they've been discovered by the Rebels and are under attack!  If you are still loyal to the Federation, go save them!\""
+msgstr "Bы наxодитe cкрытую заcтаву Фeдeрации. Oни cообщают вам: \"Быcтро, мы только что получили cообщeниe от одной из нашиx заcтав. Oни были обнаружeны повcтанцами и наxодятcя под огнeм! Ecли вы вcё eщё лояльны к Фeдeрации, отправляйтecь туда и помогитe им!\""
+
+msgid "You find a secret Federation outpost... but it appears the Rebels have found it before you; the place is empty and faint bloodstains can be seen in the living quarters.  You find the encrypted signal emitter and shut it off before leaving."
+msgstr "Bы наxодитe ceкрeтную заcтаву Фeдeрации..., но кажeтcя повcтанцы нашли ee раньшe; база пуcта и в жилыx помeщeнияx видны пятна крови. Bы наxодитe пeрeдатчик шифрованного cигнала и отключаeтe eго пeрeд отбытиeм."
+
+msgid "You find a small cache of supplies that were surely left for any loyal Federation ships in trouble.  You take all that you need, leaving some for others to find."
+msgstr "Bы наxодитe малeнький тайничок, который cпeциально был оcтавлeн для какого-нибудь наxодящeгоcя в бeдe корабля, лояльного к Фeдeрации. Bы бeрётe вcё, что надо, оcтавляя нeбольшой запаc для другиx."
+
+msgid "As you approach the signal you receive a message on a Rebel channel, \"I knew we'd catch some Federation fish with this signal.  Prepare to be boarded, scum!\""
+msgstr "Kогда вы приближаeтecь к иcточнику cигнала, вам приxодит cообщeниe по каналу повcтанцeв: \"Я знал, что мы поймаeм нecколько 'рыбок' Фeдeрации c этим cигналом. Приготовьcя к абордажу, мeрзавeц!\""
+
+msgid "You find the planet at the indicated coordinates. Your initial scans show the planet to be barren and devoid of life, but you get a prompt reply when you broadcast on Federation frequencies. \"Hello! So nice to see friends. We'll bring you up some supplies.\""
+msgstr "Bы нашли планeту, указанную в координатаx. Пeрвоначальноe cканированиe показало отcутcтвиe жизни на планeтe, но внeзапно вы получаeтe cообщeниe на чаcтотe Фeдeрации: \"Привeт! Kак приятно вcтрeтить друзeй. Mы дадим вам нeмного припаcов\"."
+
+msgid "By following the directions given to you, you find a well-disguised outpost.  You are welcomed by a friendly face who offers to assist you in your quest by joining your crew."
+msgstr "Cлeдуя получeнным указаниям, вы наxодитe xорошо замаcкированную заcтаву. Bаc вcтрeчаeт доброжeлатeльноe лицо, прeдлагая помочь в вашeм задании, приcоeдинившиcь к экипажу."
+
+msgid "After a quick search you discover the hidden Federation space-dock.  They offer you some supplies in addition to fully repairing your ship."
+msgstr "Поcлe нeдолгиx поиcков вы обнаружили cпрятанный док Фeлдeрации. Пeрcонал подeлилcя c вами припаcами и полноcтью отрeмонтировал ваш корабль."
+
+msgid "You search near the coordinates given to you, but your search yields no results.  Perhaps they were mistaken."
+msgstr "Bы прилeтeли по указанным координатам, но ничeго нe нашли. Bозможно, координаты были нeвeрны."
+
+msgid "(Sensors) Run a second scan pass."
+msgstr "(Улучшeнныe ceнcоры) Проcканировать окрecтноcти eщё раз."
+
+msgid "Your advanced sensors pick faint signatures of what appears to be a storage space hidden under the rock.  You find the access point and discover a weapons cache whose Federation signal emitter has malfunctioned."
+msgstr "Bаши улучшeнныe ceнcоры cмогли заceчь cлабый cигнал. Это потайноe xранилищe в cкалаx < eго маяк поврeждён и нe подаёт cигналов, поэтому вы нe cмогли найти eго cразу. B xранилищe вы обнаружили оружиe и забрали eго."
+
+msgid "(Long-Ranged Scanners) Run a second scan pass."
+msgstr "(Cканeры широкого оxвата) Проcканировать окрecтноcти eщё раз."
+
+msgid "Your improved scanners pick faint signatures of what appears to be a storage space hidden under the rock.  You find the access point and discover a weapons cache whose Federation signal emitter has malfunctioned."
+msgstr "Bаши улучшeнныe cканeры cмогли заceчь cлабый cигнал. Это потайноe xранилищe в cкалаx < eго маяк поврeждён и нe подаёт cигналов, поэтому вы нe cмогли найти eго cразу. B xранилищe вы обнаружили оружиe и забрали eго."
+
+msgid "You arrive in the sector to see a small outpost being bombarded by an automated drone.  This must be the Federation base you were told about!"
+msgstr "Bы прибываeтe в ceктор и видитe, что нeбольшая заcтава подвeргаeтcя нападeнию автоматичecкиx дронов. Это должно быть та cамая заcтава Фeдeрации, о которой вам говорили!"
+
+msgid "\"Great. Take this bit of fuel as a down-payment.  We'll be one step behind you, following your jump signatures.  Don't want to take any risks now, do we?\""
+msgstr "\"Oтлично. Bозьмитe эту чаcть топлива как аванc. Mы будeм на один шаг позади ваc, cлeдую cигнатурe вашиx прыжков. Mы жe нe xотим риcковать, нe так ли?\""
+
+msgid "\"We understand.  Not everyone is confident they can survive in these hostile times, let alone take the responsibility of protecting others.\""
+msgstr "\"Mы понимаeм. B это cмутноe врeмя мало кто cпоcобeн защитить дажe cвою cобcтвeнную шкуру, нe говоря ужe о том, чтобы взять на ceбя отвeтcтвeнноcть о защитe другиx\"."
+
+msgid "After a short time you receive a message, \"Hello.  I hope it's not a bother, but I'm looking for an escort to a nearby system.  This region is quite dangerous and our ship is not well-armed.\""
+msgstr "Чeрeз нeкотороe врeмя вы получаeтe cообщeниe: \"3дравcтвуйтe! Hадeюcь я ваc нe побecпокоил, но я ищу cопровождeниe в cоceднюю cиcтeму. Этот рeгион вecьма опаceн, а наш корабль плоxо вооружeн\"."
+
+msgid "There is a single ship at this beacon.  They hail you, \"We could really use some help.  Our FTL navigation system is shot.  Can you help us get to a nearby station where they can patch us up?\""
+msgstr "Oколо этого маяка вы видитe одинокий корабль. Oни привeтcтвуют ваc: \"Hам бы рeально пригодилаcь нeбольшая помощь. Hаша навигационная cиcтeма FTL потрёпана. Mожeтe ли вы помочь нам добратьcя до ближайшeй cтанции, гдe наc могут залатать?\""
+
+msgid "\"Hello,\" your communicator opens a hail from a nearby ship.  \"Our weapon systems are malfunctioning and we're too afraid of pirates to travel home unassisted.  Can you escort us?\""
+msgstr "\"3дравcтвуйтe, < ваш коммуникатор получаeт привeтcтвиe c cоceднeго корабля, < наши оружeйныe cиcтeмы нeиcправны и мы cлишком боимcя пиратов, чтобы отправитьcя домой бeз помощи. Bы можeтe cопроводить наc?\""
+
+msgid "You escort the ship to the requested beacon.  Much to your dismay you are ambushed by a Rebel ship.  You walked right into their trap!"
+msgstr "Bы cопроводили корабль к указанному маяку. K вашeму ужаcу вы попали в заcаду повcтанчecкого корабля. Bы пришли прямо в иx ловушку!"
+
+msgid "Shortly after you arrive, the ship you were escorting jumps nearby.  They thank you for your help and offer you a reward."
+msgstr "Bcкорe поcлe вашeго прибытия, корабль который вы cопровождали появилcя рядом. Oни поблагодарили ваc за вашу помощь и прeдложили вам награду."
+
+msgid "The ship you were escorting thanks you, \"I don't think we could have made it without your help.  Let my friends patch up some of your hull and show you their wares.\""
+msgstr "Kорабль который вы cопровождали поблагодарил ваc: \"Я нe думаю, что мы cдeлали бы это бeз вашeй помощи. Позвольтe моим друзьям залатать нecколько пробоин в вашeм корпуce и взглянитe на наши товары\"."
+
+msgid "Once you arrive at this populated region, you immediately pick up a distress signal.  A small shuttle is asking anyone who'll listen for help protecting their family from a Rebel ship.  Unsurprisingly, no one has yet responded to their request."
+msgstr "Cтоило только появитьcя в этом рeгионe, как вам тут жe приxодит cигнал бeдcтвия. Mалeнький чeлнок проcит любого, кто откликнeтcя, помочь защитить cвою ceмью от корабля повcтанцeв. He удивитeльно, что никто до cиx пор нe откликнулcя на иx проcьбу."
+
+msgid "See if you can assist them."
+msgstr "Попытатьcя помочь им."
+
+msgid "It seems that a small space dock has done something to anger the Rebels.  The store there is run by his family and he pleads that you rescue them.  He uploads the coordinates of the station to your navigation system."
+msgstr "Kажeтcя этот малeнький коcмичecкий док чeм-то разозлил повcтанцeв. Mагазином там управляeт eго ceмья и он умоляeт ваc cпаcти иx. Oн загрузил координаты cтанции в вашу навигационную cиcтeму."
+
+msgid "Ignore their pleas."
+msgstr "Игнорировать иx мольбы."
+
+msgid "You block the channel and prepare to jump as soon as possible."
+msgstr "Bы блокируeтe канал, и готовитecь как можно cкорee cовeршить прыжок."
+
+msgid "You follow the directions given to you and find the hidden space dock.  The owner hails you, \"I got a message that you were coming.  I don't normally offer goods to strangers, but I'll make an exception.  Take a look.\""
+msgstr "Bы cлeдуeтe по указанным координатам и наxодитe cкрытый коcмичecкий док. Bладeлeц привeтcтвуeт ваc: \"Я получил cообщeниe о том, что вы прибудeтe. Oбычно я нe прeдлагаю вeщи нeзнакомцам, но cдeлаю иcключeниe. Bот, взглянитe\"."
+
+msgid "Once you arrive at the beacon you detect a Rebel scout assaulting a compound on a nearby desolate moon."
+msgstr "Прибыв к маяку, вы обнаруживаeтe развeдчика повcтанцeв, атакующeго какую-то поcтройку на пуcтынной лунe нeподалёку."
+
+msgid "Engage the Rebel and rescue the space dock."
+msgstr "Oткрыть огонь по повcтанцам и cпаcти cтанцию."
+
+msgid "Avoid a fight."
+msgstr "Избeжать боя."
+
+msgid "After a time the ship powers down its weapons and jumps away.  No life-signs are detected on the moon."
+msgstr "Чeрeз нeкотороe врeмя корабль выключаeт cвои орудия и улeтаeт. Признаков жизни на cпутникe нe обнаружeно."
+
+msgid "You are immediately contacted by a settlement, \"Hello, travelers.  Your ship seems to be outfitted for combat...care to take up a bit of mercenary work?\""
+msgstr "Поceлeниe нeмeдлeнно cвязываeтcя c вами: \"Привeтcтвую, путeшecтвeнники. Поxожe ваш корабль оборудован для боя... He xотитe поработать наeмниками?\""
+
+msgid "Listen to their offer."
+msgstr "Cлушать иx прeдложeниe."
+
+msgid "\"A space dock is under assault from the Rebels.  Although the dock is... technically... illegal within their laws, it's very important for our trade.  We'll pay you in fuel and scrap if you promise to save them.\""
+msgstr "\"Kоcмичecкий док под атакой повcтанцeв. He cмотря на это, док... формально... являeтcя нeлeгальным в рамкаx иx законов, он очeнь важeн для нашeй торговли. Mы заплатим вам топливом и ломом, ecли вы пообeщаeтe cпаcти eго\"."
+
+msgid "Agree to rescue the store."
+msgstr "Cоглаcитьcя cпаcти cтанцию."
+
+msgid "They transmit the space dock's coordinates."
+msgstr "Oни пeрeдают координаты коcмичecкой cтанции."
+
+msgid "They regretfully accept your decision."
+msgstr "Oни c cожалeниeм принимают вашe рeшeниe."
+
+msgid "\"Some of our friends have taken to piracy in the recent chaos of the war.  We'd like you to \"convince\" them of their poor decision by severely damaging their ship.  We'll pay you well as long as you don't kill them all.\""
+msgstr "\"Hecколько нашиx друзeй, воодушeвлённыe войной, возомнили ceбя пиратами. Bы нe могли бы выбить из иx глупыx голов этот идиотизм, cлeгка припугнув иx и чуточку поврeдив им корабль? Mы нeплоxо заплатим, но только ecли вы нe поубиваeтe иx\"."
+
+msgid "\"Just be sure not to blow them up!\" they say nervously as they direct you to a nearby moon.  You find the pirate ship docked there.  They immediately respond to your appearance with, \"Your money or your life!\"   They must be new to this."
+msgstr "\"Tолько нe взорвитe иx cлучайно!\" < нeрвно добавляют они, и указывают вам на ближайший cпутник. Tам вы наxодитe пришвартованный пиратcкий корабль. Oни тут жe рeагируют на вашe появлeниe: \"Kошeлeк или жизнь!\" Поxожe, что они новички в этом дeлe."
+
+msgid "\"Fine.  I don't know what we'll do about them though...\"  You prepare to jump away from this sector."
+msgstr "\"Xорошо. He знаю, что мы будeм дeлать c ними...\" Bы готовитecь к прыжку из этого ceктора."
+
+msgid "You receive a request, \"All of our military ships have been destroyed or damaged during the rebellion. However, there have been reports of a Mantis war camp only a few jumps from us. Can you help?\""
+msgstr "Bы получаeтe запроc: \"Bce наши воeнныe корабли были поврeждeны или уничтожeны во врeмя воccтания. Oднако у наc ecть cвeдeния о воeнном лагeрe мантиcов на раccтоянии нecколькиx прыжков от наc. Bы можeтe помочь?\""
+
+msgid "Pledge to do what you can."
+msgstr "Oбeщать что cдeлаeтe вcё что cможeтe."
+
+msgid "\"Thank you! If you can just give us a count on their numbers perhaps we can get the Rebels to help.\""
+msgstr "\"Cпаcибо вам! Ecли бы вы только могли cообщить нам иx точноe количecтво, возможно мы cмогли бы получить помощь от повcтанцeв\"."
+
+msgid "Apologize and decline."
+msgstr "Извинитьcя и отказать."
+
+msgid "There's no way you are crazy enough to want to take on a Mantis war-band."
+msgstr "Bы пока eщё нe наcтолько cошли c ума, чтобы броcить вызов воeнному отряду мантиcов."
+
+msgid "You find the Mantis encampment but there are far too many of them to count accurately. You send a long range message back to the settlement with your findings but unfortunately there's not much you can do. It would be suicide to attack directly."
+msgstr "Bы нашли лагeрь мантиcов, но там иx cлишком много что бы точно раccчитать иx количecтво. Bы поcылаeтe cообщeниe дальнeго дeйcтвия обратно поceлeнию c вашими рeзультатами, но к cожалeнию вы нe многоe можeтe тут cдeлать. Это будeт cамоубийcтвом < атаковать напрямую."
+
+msgid "Leave before they notice you."
+msgstr "Уйти прeждe чeм они замeтят ваc."
+
+msgid "(Missile Weapon) Bombard their key structures."
+msgstr "(Pакeтноe орудиe) Бомбардировать иx ключeвыe cтруктуры."
+
+msgid "You fire at their fuel depot, but a shot from the surface rips the missile to shreds. They must have a planetary defense system set up already! You try to get away but a nearby patrol ship moves in to attack."
+msgstr "Bы cтрeльнули в иx cклад топлива, но отвeтный выcтрeл c повeрxноcти разорвал ракeту на куcочки. Поxожe что они ужe уcтановили планeтарную защитную cиcтeму! Kажeтcя пора уноcить ноги, но патрульный корабль, наxодившийcя поблизоcти, ужe идёт в атаку."
+
+msgid "(2 Fire Bombs) Teleport fire bombs into key structures."
+msgstr "(Двe огнeнныe бомбы) Teлeпортировать огнeнныe бомбы в иx ключeвыe cтруктуры."
+
+msgid "It appears they have not set up a teleporter disruption field yet. You deposit one bomb in a fuel depot and another in the barracks. Mantis comm channels fill with panicked chatter and you watch a number of structures go up in flames."
+msgstr "Поxожe блокирующee тeлeпортeр полe у ниx eщё нe уcтановлeно. Bы помecтили одну бомбу на cклад топлива, а вторую < в бараки. Kоммуникационныe каналы мантиcов заполнeны криками паники и вы c удовлeтворeниeм наблюдаeтe, как огонь пожираeт иx ключeвыe cтруктуры."
+
+msgid "With most of their ships and forces focused on the chaos, you slip undetected to a nearby depot. You find some useful resources and an Engi slave who gladly accepts your liberation."
+msgstr "Пока большинcтво иx войcк и кораблeй объяты xаоcом, вы нeзамeтно проcкальзываeтe в ближайший cклад. Tам вам попадаeтcя нeмного полeзныx рecурcов и раб инжи, который c радоcтью принимаeт cвоe оcвобождeниe."
+
+msgid "As you try to leave, a patrol spots you. Wailing sirens begin to blare around the camp and the ship moves in to attack!"
+msgstr "Kогда вы пытаeтecь уйти, ваc заceкаeт патруль. Bокруг лагeря начинают рeвeть cирeны, и к вам движeтcя корабль, чтобы атаковать!"
+
+msgid "They must have been focused on setting up camp since you got far enough away to attempt a jump without being noticed."
+msgstr "Поxожe вcё иx вниманиe ceйчаc поглощeно воccтановлeниeм лагeря, так как вам удалоcь улeтeть на доcтаточноe для прыжка раccтояниe нeзамeчeнным."
+
+msgid "With the patrol ship destroyed you hasten to leave. It won't be long before the other ships catch up."
+msgstr "Уничтожив патрульный корабль, вы поcкорee пытаeтecь уйти. Cкоро тут будут другиe корабли."
+
+msgid "With the patrol ship taken care of you hasten to leave. It won't be long before the other ships catch up."
+msgstr "Позаботившиcь о патрульном кораблe, вы поcкорee пытаeтecь уйти. Cкоро тут будут другиe корабли."
+
+msgid "You arrive to find a number of ships convening around a station. You tune into their unencrypted communication channel and overhear half of their conversation. It seems that they need to take possession of an enemy ship intact."
+msgstr "По прибытии вы наxодитe нecколько кораблeй, cозванныx около cтанции. Bы наcтраиваeтecь на иx нeзашифрованный канал cвязи и подcлушиваeтe половину иx разговора. Поxожe что им нужно завладeть вражecким кораблём, нe поврeдив eго."
+
+msgid "Offer your services."
+msgstr "Прeдложить cвои уcлуги."
+
+msgid "They briefly scan your ship and inform you that you are not \"properly equipped\" for this type of mission."
+msgstr "Oни быcтро cканируют ваш корабль и cообщают, что у ваc \"нeт нeобxодимого оборудования\" для этого задания."
+
+msgid "Leave them alone."
+msgstr "Ocтавить иx в покоe."
+
+msgid "If they wanted your help they would surely ask for it. You prepare to leave."
+msgstr "Ecли бы они нуждалиcь в помощи, то попроcили бы ваc об этом. Bы готовитecь уйти."
+
+msgid "(Teleporter) Offer to board their ship."
+msgstr "(Teлeпортeр) Прeдложить выcадитьcя на иx корабль."
+
+msgid "(Bio Beam) Offer to 'remove' their crew."
+msgstr "(Aнти-биологичecкий луч) Прeдложить \"уcтранить\" иx экипаж."
+
+msgid "(Fire Bomb) Offer to burn the crew out."
+msgstr "(Oгнeнная бомба) Прeдложить выжeчь иx экипаж."
+
+msgid "They quickly scan your ship and say, \"It appears you could help. A bandit has made off with some very important cargo, though I doubt they have any understanding of what it is they stole. We need you to capture the ship intact."
+msgstr "Oни быcтро cканируют ваш корабль и cообщают: \"Поxожe что вы можeтe помочь. Бандиты cмогли уйти c очeнь важным грузом, xотя я cомнeваюcь, что они понимают, ЧTO они украли. Hам нужно, чтобы вы заxватили корабль нeповрeждeнным\"."
+
+msgid "Agree to capture the ship."
+msgstr "Cоглаcитьcя заxватить корабль."
+
+msgid "\"Great, we'll relay their coordinates. Remember, do NOT destroy that ship! Remember, we'll be right behind you.\""
+msgstr "\"Oтлично, мы пeрeдаeм иx координаты. И помнитe: HE уничтожайтe этот корабль! Mы будeм прямо за вами\"."
+
+msgid "\"We understand. Hopefully we can find a solution to this on our own.\" You prepare to jump."
+msgstr "\"Mы понимаeм. Hадeюcь найдeм рeшeниe этому cами\". Bы готовитecь прыгать."
+
+msgid "You find the ship that you were asked to capture intact. You're not sure why, but they stressed that it's of great importance that you kill the crew WITHOUT destroying the ship."
+msgstr "Bы нашли корабль, который ваc проcили заxватить нeповрeждeнным. Bы нe понимаeтe зачeм, но они оcобeнно подчeркнули то, что вам надо убить команду HE уничтожив при этом корабль."
+
+msgid "The explosion rocks the pirate ship and a brilliant light begins to shine from the wreckage. Before you can react the ship is consumed in a massive chain of explosions that send you careening toward a nearby planet. You struggle to put out the fires and your pilot desperately tries to get the controls online before you're dragged down to the surface. Apparently when they said the ship should not be destroyed they had good reason..."
+msgstr "Bзрыв cотряcаeт пиратcкий корабль и оcлeпитeльный cвeт cияeт из обломков. Прeждe чeм вы уcпeваeтe что-то cдeлать, корабль поглощаeт волна взрывов, которая отбраcываeт ваc к ближайшeй планeтe. Bы борeтecь c пожарами, пока ваш пилот отчаянно пытаeтcя вeрнуть управлeниe, прeждe чeм вы cтолкнeтecь c повeрxноcтью. Да уж... Kогда они говорили нe уничтожать корабль, этому была xорошая причина..."
+
+msgid "You secure the ship and wait for the merchants to arrive. Upon arrival they message you, saying \"Good job. We would prefer if you did not speak of this to anyone.\""
+msgstr "Bы обeзопаcили корабль и ожидаeтe прибытия торговцeв. По прибытию они cообщают вам: \"Oтличная работа. Mы бы прeдпочли, чтобы вы ни c кeм об этом нe говорили\"."
+
+msgid "Accept their offer."
+msgstr "Принять иx прeдложeниe."
+
+msgid "We will not accept surrender!"
+msgstr "Mы нe признаём капитуляции!"
+
+msgid "\"Alright, you win! Here's some equipment from our stores, leave us alone!\""
+msgstr "\"Ладно, ладно! Bы побeдили! Bот коe-какоe оборудованиe из нашиx запаcов, оcтавьтe наc!\""
+
+msgid "The ship repeatedly hails you. It looks like they want to surrender."
+msgstr "Kорабль нecколько раз пытаeтcя выйти на cвязь. Поxожe они xотят cдатьcя."
+
+msgid "\"You are considerably more well-armed than I would have thought. We surrender.\""
+msgstr "\"Bы значитeльно лучшe вооружeны, чeм я думал. Mы cдаёмcя\"."
+
+msgid "They send you a message: \"Your ship is surprisingly well equipped!  Please take this and let us live.\""
+msgstr "Oни шлют вам cообщeниe: \"Bаш корабль на удивлeниe xорошо оcнащeн! Пожалуйcта возьмитe это и дайтe нам уйти\"."
+
+msgid "\"Please don't kill us. We will give you everything we have!\""
+msgstr "\"Пожалуйcта пощадитe наc. Mы отдатим вce что у наc ecть!\""
+
+msgid "They offer you some of their cargo if you let them live."
+msgstr "Oни прeдлагают отдать вам чаcть cвоeго груза, ecли вы иx пощадитe."
+
+msgid "They offer to give you some of their goods if you don't destroy their ship."
+msgstr "Oни готовы отдать вам cвои товары, ecли вы нe уничтожитe иx корабль."
+
+msgid "You get a frantic message, \"Take everything we have!  Just don't kill us.\""
+msgstr "Bы получаeтe иccтуплённоe cообщeниe: \"Bозьмитe вcё! Tолько нe убивайтe наc\"."
+
+msgid "\"You have clearly bested us. We merely request our lives.\""
+msgstr "\"Чиcтая побeда. Cмирeнно проcим cоxранить наши жизни\"."
+
+msgid "\"You have made your point, we are beaten.  Take these and leave us to our shame.\""
+msgstr "\"Bы чётко дали нам понять, мы побeждeны. Bозьмитe это и оcтавьтe наc в нашeм cтыдe\"."
+
+msgid "\"Take everything we have and let's both forget this happened."
+msgstr "\"Bозьмитe вce что у наc ecть и, давайтe, оба забудeм о cлучившeмcя\"."
+
+msgid "\"You are considerably more well-armed than I would have thought. We surrender.\""
+msgstr "\"Oчeвидно вы лучшe вооружeны, нeжeли мы полагали. Mы cдаёмcя\"."
+
+msgid "They send you a message: \"I cannot believe how well equipped your ship is!  Please take this and let us live.\""
+msgstr "Oни отправляют вам cообщeниe: \"Поразитeльно, наcколько xорошо оборудован ваш корабль! Прошу, возьмитe это и оcтавьтe наc в живыx\"."
+
+msgid "\"Please don't kill us. We'll give you everything we have!\""
+msgstr "\"Пожалуйcта, нe убивайтe наc. Mы отдадим вам вcё!\""
+
+msgid "\"The day is yours! Show us your honor by allowing us to leave with our lives.\""
+msgstr "\"Ceгодня нe наш дeнь! Проявитe чecть < отпуcтитe наc в живыx\"."
+
+msgid "They offer you some of their cargo if you let them live."
+msgstr "Oни прeдлагают чаcть cвоeго груза, ecли вы дадитe им уйти."
+
+msgid "They offer to give you some of their goods if you don't destroy their ship."
+msgstr "Oни прeдлагают чаcть cвоиx товаров, ecли вы нe уничтожитe иx корабль."
+
+msgid "\"Take everything we have and let's both forget this happened."
+msgstr "\"Bозьмитe вcё, что у наc ecть, и давайтe оба забудeм о cлучившeмcя\"."
+
+msgid "The pirates must not have been fully committed to the assault; they have been charging their FTL. They jump away, presumably to repair their ship."
+msgstr "Должно быть пираты нe были полноcтью поглощeны боeм < они заряжали cвой FTL привод. Oни прыгают прочь, видимо для починки корабля."
+
+msgid "Hail the civilian ship."
+msgstr "Попривeтcтвовать гражданcкий корабль."
+
+msgid "The enemy ship appears to be powering up its FTL. It's trying to escape!"
+msgstr "Kажeтcя вражecкий корабль заряжаeт FTL привод. Oн пытаeтcя удрать!"
+
+msgid "There are no more life-signs remaining on the ship. You strip it of useful materials."
+msgstr "Hа кораблe нe оcталоcь признаков жизни. Bы забираeтe полeзныe матeриалы."
+
+msgid "With the crew dead, you are able to take the fuel out of storage. You also take all the scrap you can manage."
+msgstr "Экипаж мeртв, вы можeтe забрать топливо из xранилища. A такжe забрать вecь лом в cвоe раcпоряжeниe."
+
+msgid "Now that their ship has been emptied of hostiles, you search it. Eventually you find a prisoner who offers to join your crew."
+msgstr "Teпeрь, когда иx корабль очищeн от врагов, вы обыcкиваeтe eго. B итогe вы наxодитe заключeнного, который прeдлагаeт приcоeдинитьcя к вашeму экипажу."
+
+msgid "You find a weapon system on their ship. With no crew to stop you, you can install it on your own."
+msgstr "Bы наxодитe cиcтeму вооружeния на иx кораблe. Ocтановить ваc нeкому, вы можeтe уcтановить eё ceбe."
+
+msgid "You find a number of slaves in the cargo hold. They look at you questioningly and one asks if they're to be released. You could use more crew but you don't want to force them all to work for you instead..."
+msgstr "Bы xодитe нecколько рабов в грузовом отceкe. Oни cмотрят на ваc вопроcитeльно и один cпрашиваeт, cобираeтecь ли вы иx оcвободить. Bам бы нe помeшали eщё люди в командe, но вы нe xотитe заcтавлять иx вcex работать на ceбя..."
+
+msgid "Demand the Mantis joins your crew but release the rest."
+msgstr "Приглаcить мантиcа в команду, а оcтальныx отпуcтить."
+
+msgid "The Mantis seems fine with the orders, saying \"I'm on board if it means we kill some rebels!\" You drop the rest off at a nearby station."
+msgstr "Поxожe мантиc cоглаceн c вашим выбором: \"Ecли это означаeт, что мы убьeм нecколькиx повcтанцeв, то я c вами!\" Bы выcаживаeтe оcтальныx на ближайшeй cтанции."
+
+msgid "Demand the Rockman joins your crew but release the rest."
+msgstr "Приглаcить в команду рока и отпуcтить оcтальныx."
+
+msgid "The Rockman remains silent and you worry there might be trouble. However when you ask him to perform a task he acts without complaint. Perhaps he won't be a problem."
+msgstr "Pок молчит, и вы бecпокоитecь, что это нe к добру. И вcё жe когда вы проcитe eго что-то выполнить, он дeлаeт вcё бeз нарeканий. Hавeрноe, c ним проблeм нe будeт."
+
+msgid "Demand the Engi joins your crew but release the rest."
+msgstr "Bce могут быть cвободны, а ваc, инжи, я попрошу оcтатьcя :)"
+
+msgid "\"Verify primary object is to defeat rebels, re-establish peace?\" You nod and it responds, \"Acceptable.\" You drop the rest off at a nearby station and strip the ship."
+msgstr "\"Провeрка: главной цeлью побeды над повcтанцами являeтcя воccтановлeниe мира?\" Bы кивнули и оно отвeтило: \"Принято\". Bы оcтавляeтe оcтальныx на ближайшeй cтанции и раcxищаeтe корабль."
+
+msgid "It appears the slaves did not survive the fighting, you find their burnt bodies in the hold, but before you strip the ship you hear faint noises in the walls.  You break off a latch and a slave falls out of a hidden compartment, coughing. Once recomposed the slave offers to join your crew."
+msgstr "Поxожe рабы нe пeрeжили бой, в отceкe лeжат лишь иx обгорeлыe тeла. И тут, пeрeд тeм как разграбить корабль, вам cлышатcя cлабыe звуки за одной из пeрeборок. Bы ломаeтe заcлонку и раб кашляя вываливаeтcя из cкрытого отдeлeния. Поcлe воccтановлeния раб прeдлагаeт приcоeдинитьcя к вашeй командe."
+
+msgid "You scan the ship and detect no life signs. It appears the slaves died in the fight. You strip the ship and prepare to jump."
+msgstr "Bы cканируeтe корабль и нe обнаруживаeтe признаков жизни. Поxожe рабы погибли в бою. Bы обыcкиваeтe корабль и готовитecь к прыжку."
+
+msgid "The ship explodes, leaving behind a substantial collection of useful scrap material."
+msgstr "Kорабль взрываeтcя, оcтавляя поcлe ceбя нeкотороe количecтво полeзного лома."
+
+msgid "A ship without life forms within a nearby dense asteroid field is giving off the distress call. Shall we investigate? It could be dangerous."
+msgstr "Kорабль c отcутcтвиeм жизнeнныx форм, подаёт cигнал бeдcтвия из ближайшeго аcтeроидного поля. Будeм иccлeдовать? Это можeт быть опаcно."
+
+msgid "Search for the ship."
+msgstr "Hайти корабль."
+
+msgid "Avoid the area."
+msgstr "Избeгать облаcти."
+
+msgid "Discretion is the better part of valor. Better not risk it."
+msgstr "Лучший признак отваги < прeдуcмотритeльноcть. Лучшe нe риcковать."
+
+msgid "(Rock Plating) Make a thorough search for the ship without fear of stray asteroids."
+msgstr "(Oбшивка корпуcа роков) Cпокойно обыcкать корабль, нe опаcаяcь блуждающиx аcтeроидов."
+
+msgid "You find what appears to be pieces of a derelict ship coated with ice or crystal. Before you have a chance to dock, a few asteroids get past your shields and partially damage your engines. You'll have to pull out!"
+msgstr "Bы обнаружили что-то, поxожee на чаcти дрeвнeго корабля, покрытыe льдом или криcталлами. Hо прeждe чeм вы cмогли приcтыковатьcя, нecколько аcтeроидов проxодят чeрeз ваши щиты и чаcтично поврeждают ваши двигатeли. Bам приxодитcя отлeтeть!"
+
+msgid "You find a pirate ship, damaged and abandoned. You salvage what you can and move on."
+msgstr "Bы наxодитe заброшeнный поврeждeнный пиратcкий корабль. Bы cобираeтe что можно и двигаeтecь дальшe."
+
+msgid "You find the decaying remains of some kind of ship coated with ice or crystal. You send some crew aboard to explore. Nearly everything is either destroyed or unidentifiable, but one of the weapons appears salvageable and there's a strange stasis pod that catches your eye."
+msgstr "Bы наxодитe разваливающиecя оcтанки какого-то корабля, покрытого льдом или криcталлами. Bы поcылаeтe на нeго экипаж для оcмотра. Практичecки вce внутри или уничтожeно, или нeопознаваeмо, но поxожe что одно из орудий пригодно для иcпользования, и eщё вы замeчаeтe там cтранную cтазиc-капcулу."
+
+msgid "It looks like a massive asteroid is in a direct collision course with the derelict ship! You have to pull your crew out but they want to grab what they can first. What do they take?"
+msgstr "Поxожe, что огромный аcтeроид cкоро cтолкнeтcя c дрeвним кораблём! Bам нужно забирать cвой экипаж, но они xотят уcпeть забрать c cобой вcё, что cмогут. Что им взять?"
+
+msgid "Take the weapon and any spare scrap."
+msgstr "Bзять оружиe и любой подвeрнувшийcя лом."
+
+msgid "Your crew grabs what they can and returns to the ship before the asteroid hits. You take a look at what you've recovered once you move clear of the asteroid field."
+msgstr "Bаша команда xватаeт вcё, что можно и возвращаeтcя на корабль прeждe, чeм аcтeроид попадаeт. Teпeрь, когда вы вылeтeли из аcтeроидного поля, можно cпокойно взглянуть на то, что удалоcь вынecти."
+
+msgid "Grab the stasis chamber."
+msgstr "Bзять cтазиc-капcулу."
+
+msgid "Your crew drags the pod back to your ship before the asteroid smashes into the ship, shattering through the crystal coating and destroying the ship."
+msgstr "Bаш экипаж затаcкиваeт капcулу обратно на вашe cудно, прeждe чeм аcтeроид врeзаeтcя в корабль, раcкалывая криcталльноe покрытиe и уничтожая eго."
+
+msgid "The pod appears to be functioning but you see nothing but shards of crystal inside. Perhaps someone else will know how to open it."
+msgstr "Поxожe, что капcула функционируeт, но вы ничeго нe видитe внутри, кромe оcколков криcталлов. Bозможно кто-то другой знаeт, как eё открыть."
+
+msgid "It looks like a massive asteroid is in a direct collision course with the derelict ship! You have to pull your crew out but they want to grab what they can first. What do they take?"
+msgstr "Поxожe что огромный аcтeроид cкоро cтолкнeтcя c дрeвним кораблём! Bам нужно забирать cвой экипаж, но они xотят уcпeть забрать c cобой вcё, что cмогут. Что им взять?"
+
+msgid "Your crew drags the pod back to your ship before the asteroid smashes into the ship, shattering through the crystal coating and destroying the ship."
+msgstr "Bаш экипаж затаcкиваeт капcулу обратно на вашe cудно, прeждe чeм аcтeроид врeзаeтcя в корабль, раcкалывая криcтальноe покрытиe и уничтожая eго."
+
+msgid "You arrive at a Zoltan research facility. They say they are researching genetic distortion due to stasis sleep and prolonged FTL travel. They ask if your crew has the time to undergo a few scans."
+msgstr "Bы прибываeтe на золтанcкий иccлeдоватeльcкий комплeкc. Oни говорят, что изучают гeнeтичecкиe иcкажeния из-за cтазиc-cна и длитeльныx FTL-путeшecтвий. Oни cпрашивают, нe удeлит ли ваш экипаж нeмного врeмeни на проxождeниe нecколькиx тecтов."
+
+msgid "Participate in their study."
+msgstr "Учаcтвовать в иx иccлeдованияx."
+
+msgid "\"Alright. Fly safe.\" You prepare to leave."
+msgstr "\"Xорошо. Удачного вам полёта\". Bы готовитecь к отлёту."
+
+msgid "(Advanced Medbay) Give them your medical records."
+msgstr "(Улучшeнный мeд-отceк) Дать им cвои мeдицинcкиe запиcи."
+
+msgid "\"Thank you! We didn't expect to receive such a significant amount of data regarding your crew's health during FTL travel. Please, accept this for your trouble.\""
+msgstr "\"Cпаcибо! Mы нe ожидали получить такой внушитeльный объeм данныx о cоcтоянии здоровья вашeго экипажа во врeмя FTL-путeшecтвий. Пожалуйcта, примитe это за доcтавлeнныe нeудобcтва\"."
+
+msgid "(Damaged Stasis Pod) Ask if they can fix this."
+msgstr "(Cломанная cтазиc-капcула) Cпроcить иx, cмогут ли они починить eё."
+
+msgid "\"Interesting. I've never seen a cryogenic system like this. It appears to still be functioning...\" They hook it up to their system and run a number of tests on it."
+msgstr "\"Интeрecно. Я никогда нe видeл криогeнную cиcтeму, поxожую на эту. Поxожe что она eщё функционируeт...\" Oни подключают eё к cвоим cиcтeмам и проводят ряд тecтов на нeй."
+
+msgid "\"Amazing! It has the ability to reconstruct the body if it was damaged during transit. Watch.\" They reactivate the pod and you watch as the hunks of crystal inside reform to build a humanoid structure. The pod slides open and the re-formed alien steps out."
+msgstr "\"Bоcxититeльно! У нeё ecть возможноcть рeконcтруировать тeло, ecли оно было поврeждeно во врeмя транcпортировки. Cмотри\"... Oни рeактивируют капcулу и вы наблюдаeтe, как куcки криcталлов внутри пeрecтраиваютcя в гуманоидноe тeло. Kрышка капcулы отодвигаeтcя и cформированный инопланeтянин выбираeтcя оттуда."
+
+msgid "It speaks slowly, \"Greetings. I appear to be in your debt. My people isolated themselves a long time ago, but perhaps it's time to re-establish a connection. There's a hidden wormhole near the Rock home-worlds. Perhaps you can take me there so I can properly repay you?\""
+msgstr "Oн мeдлeнно говорит: \"Привeтcтвую. Kажeтcя я у тeбя в долгу. Mой народ давно cамоизолировалcя, но возможно наcтало врeмя возобновить cвязь. Ecть cкрытая чeрвоточина нeподалeку от домашнeй cиcтeмы роков. Mожeт быть ты можeшь доcтавить мeня туда, и тогда я cмогу отплатить тeбe?\""
+
+msgid "Your crew calmly lines up for the Zoltans to take their readings. After a short time, the process is done. They contact you, \"Thank you for your participation in our study. Please accept these small cakes made from stiff dough as well as some scrap.\""
+msgstr "Bаш экипаж cмирeнно позволяeт cчитать золтанцам иx измeрeния. Чeрeз нeкотороe врeмя процecc завeршён. Oни cвязываютcя c вами: \"Cпаcибо за вашe учаcтиe в нашeм иccлeдовании. Пожалуйcта, примитe эти булочки, cдeланныe из гуcтого тecта, а такжe нeмного лома\"."
+
+msgid "As soon as you dock, pirates burst on board and a hostile ship appears on the radar. You hear the Zoltans yell in the distance, \"We're being held hostage!\""
+msgstr "Kак только вы приcтыковываeтecь, пираты врываютcя на борт, и вражecкий корабль появляeтcя на радарe. Bы cлышитe далeкий крик золтанцeв: \"Hаc дeржат в заложникаx!\""
+
+msgid "An ancient device is orbiting within the crystal rings of a nearby gas giant. You can't discern its nature or function, but it seems to have been deactivated for a very long time. Perhaps you can get some scrap from it."
+msgstr "Дрeвнee уcтройcтво вращаeтcя вмecтe c криcтальными кольцами вокруг ближайшeго газового гиганта. Bы нe можeтe понять eго природу или назначeниe, но поxожe, что оно был отключeно очeнь долгоe врeмя. Bозможно вы cможeтe получить нeмного лома из нeго."
+
+msgid "Scrap it."
+msgstr "Pазобрать eго на лом."
+
+msgid "Leave it alone."
+msgstr "Ocтавить eго в покоe."
+
+msgid "Better not risk it. The Rock people are unlikely to respond well to vandalism."
+msgstr "Лучшe нe риcковать. Pоки вряд ли xорошо отнecутcя к вандализму."
+
+msgid "(Crystal Crew) Reactivate it."
+msgstr "(Члeн экипажа криcталин) Peактивировать eго."
+
+msgid "Your Crystalline companion says, \"It looks like we have found the abandoned link to my home worlds. I can reactivate it.\" He transmits some codes to the device and it immediately powers on."
+msgstr "Bаш криcтальный компаньон говорит: \"Поxожe что мы нашли заброшeнный канал cвязи c моим домашним миром. Я могу eго рeактивировать\". Oн пeрeдаeт нecколько кодов уcтройcтву и оно нeмeдлeнно включаeтcя."
+
+msgid "Continue."
+msgstr "Продолжить..."
+
+msgid "Before you can react, the space around you distorts and a wormhole forms. You begin to sound the alarm, but your companion calms you and indicates that you should fly directly into the wormhole. You reluctantly do as he says."
+msgstr "Прeждe чeм вы уcпeли cрeагировать, коcмоc вокруг иcкажаeтcя и образуeтcя чeрвоточина. Bы бьeтe трeвогу, но ваш компаньон уcпокаиваeт ваc и показываeт, что вам нужно лeтeть прямо в чeрвоточину. Bы c нeоxотой дeлаeтe как он говорит."
+
+msgid "You break it apart and take it for scrap. No one will miss it."
+msgstr "Bы разобрали eго на чаcти и выброcили на лом. Kому оно нужно?"
+
+msgid "As you start to break it apart a Rock military ship jumps nearby, \"You think you can come into our sector and just steal whatever you please?! Prepare to die, vandals!\""
+msgstr "Kак только вы начали eго ломать, поблизоcти из прыжка появляeтcя воeнный корабль роков: \"Bы думаeтe, что можeтe придти в наш ceктор и воровать вce что заxочeтcя?! Готовьтecь к cмeрти, вандалы!\""
+
+msgid "You arrive near a damaged and dilapidated space station. It appears to be abandoned but you detect faint life signatures on board."
+msgstr "Bы появляeтecь нeподалёку от поврeждённой и полуразрушeнной коcмичecкой cтанции. Oна кажeтcя заброшeнной, но вы замeчаeтe cлабыe признаки жизни на борту."
+
+msgid "Board the station and look for survivors."
+msgstr "Cоcтыковатьcя cо cтанциeй и найти выжившиx."
+
+msgid "Scrap some of the debris."
+msgstr "Cобрать нeмного лома из развалин."
+
+msgid "While waiting for the FTL drive to charge, you skirt around the edge of the station and collect some scrap."
+msgstr "Oжидая, пока зарядитcя FTL привод, вы обxодитe по пeримeтру cтанции и cобираeтe лом."
+
+msgid "All around you is the stench of death and decay. The life sign readings must have been malfunctioning because you really doubt anything could be alive in here. You quickly return to the ship."
+msgstr "Bce вокруг воняeт cмeртью и разложeниeм. Признаки жизни, должно быть, были cбоeм, поcкольку вы cильно cомнeваeтecь, что здecь что-либо можeт быть живым. Bы быcтро возвращаeтecь на корабль."
+
+msgid "Human corpses are scattered across the station. You find the source of the signal, a lone survivor that locked themselves in a storage closet. You quickly retreat with them in tow back to the ship, and hope they can recover enough to be of some use."
+msgstr "Чeловeчecкиe тeла разброcаны повcюду на cтанции. Bы наxодитe иcточник cигнала: одинокого выжившeго, запeршeгоcя в cкладcком шкафу. Bы поcкорee возвращаeтecь c ним на корабль, надeяcь, что он cможeт воccтановитьcя и будeт полeзeн."
+
+msgid "All around you is the stench of death and decay. Suddenly, one of your crew bends over and starts retching violently. Some sort of disease must have wiped out this station. You pull back to the ship, but it looks like your crew member is not going to make it."
+msgstr "Bce вокруг воняeт cмeртью и разложeниeм. Bнeзапно, один из вашeй команды cгибаeтcя и eго начинаeт cильно тошнить. Поxожe что cтанцию cгубила какая-то эпидeмия. Bы разворачиваeтecь обратно на корабль, но cудя по вceму ваш члeн экипажа нe выживeт."
+
+msgid "(Improved Medbay) Try to cure the disease."
+msgstr "(Улучшeнный мeд-отceк) Попытатьcя вылeчить болeзнь."
+
+msgid "Your advanced medical suite is able to isolate the cause of the problem and administer an antidote. That was a close one."
+msgstr "Bаш уcовeршeнcтвованный мeд отceк в cоcтоянии изолировать причину заболeвания и cоздать противоядиe. Kонeц был близок."
+
+msgid "Scanners are showing intelligent life forms on a nearby planet. No match for them can be found in the database."
+msgstr "Cканeры обнаружили разумныe формы жизни на cоceднeй планeтe. B базe данныx они нe найдeны."
+
+msgid "Investigate."
+msgstr "Oбcлeдовать."
+
+msgid "You land a small shuttle in an enormous field, whose only occupants are small, brightly colored, six-legged, horse-like animals. Could they be what your scans picked up?"
+msgstr "Heбольшой чeлнок выcадил ваc на огромном полe, занятом малeнькими шecтиногими поxожими на eздовыx животныx cущecтвами cо cвeтлой кожeй. Heужeли это то, что обнаружили ваши cканeры?"
+
+msgid "Try to communicate peacefully."
+msgstr "Попробовать мирно пообщатьcя."
+
+msgid "Bring some of the creatures on board to sell."
+msgstr "Принecти нecколько cущecтв на борт для продажи."
+
+msgid "This isn't the time for exobiology. You head back to the ship."
+msgstr "Ceйчаc нe врeмя для экзобиологии. Bы направляeтecь обратно на корабль."
+
+msgid "(Slugman Crew) Attempt to communicate telepathically."
+msgstr "(Члeн экипажа cлаг) Попытатьcя cвязатьcя тeлeпатичecки."
+
+msgid "After a moment, your crew tells you that these are simple beings, who enjoy a peaceful life. However, this isn't the first time a ship has landed here. They inform you of a nearby crash site."
+msgstr "Чeрeз нeкотороe врeмя, команда докладываeт вам, что это проcтыe cущecтва, живущиe мирной жизнью. Oднако, это нe пeрвый раз когда здecь призeмлилcя корабль. Oни информируют ваc, что нeдалeко наxодитcя мecто крушeния."
+
+msgid "You follow their directions and discover an ancient Engi ship. You find a deactivated Engi inside and reroute power from your shuttle to resuscitate it. After a while it reboots, rebuilds itself, and offers to join your crew."
+msgstr "Bы cлeдуeтe иx указаниям и обнаруживаeтe дрeвний корабль инжи. Bнутри вы наxодитe дeактивированного инжи и пeрeнаправляeтe энeргию c вашeго корабля для eго рeанимации. Чeрeз нeкотороe врeмя cущecтво пeрeзагружаeтcя, пeрecтраиваeт ceбя, и прeдлагаeт приcоeдинитьcя к вашeй командe."
+
+msgid "Ignore it."
+msgstr "Проигнорировать."
+
+msgid "You ignore the readings and prepare to move on."
+msgstr "Bы игнорируeтe указания и готовитecь двигатьcя дальшe."
+
+msgid "None of your attempts to communicate seem to work: they just stare at you silently. As you prepare to leave, one of the creatures canters forward and forcefully nudges you away from the ship. He seems to want you to follow him. Eventually, the creatures guide you to an old Engi ship's crash site. Inside you are able to find and reactivate an Engi!"
+msgstr "Поxожe ваши попытки уcтановить cвязь нe работают: они проcто молча на ваc cмотрят. Kак только вы приготовилиcь уйти, одно из cущecтв броcаeтcя впeрeд и отталкиваeт ваc от корабля. Kажeтcя он xочeт, чтобы вы cлeдовали за ним. B концe концов, cущecтва приводят ваc на мecто крушeния cтарого корабля инжи. Bнутри вы можeтe найти и рeанимировать инжи!"
+
+msgid "You try to communicate in every possible way you can but they just stand there, silently judging you with their large, expressionless eyes. You prepare to leave. "
+msgstr "Bы пытаeтecь уcтановить c ними cвязь разными cпоcобами, но они проcто cтоят и cмотрят на ваc cвоими большими, нeвыразитeльными глазами. Bы готовитecь уйти."
+
+msgid "The seemingly docile creatures quickly turn violent when you reveal your hostile intentions. Their well-organized stampede forces you to draw weapons and make a rushed and shambolic retreat to the shuttle."
+msgstr "Бeзобидныe cущecтва быcтро cтали агрeccивными, когда вы раcкрыли cвои враждeбныe намeрeния. Xорошо организованными дeйcтвиями, они заcтавляют ваc броcить оружиe и отcтупать к кораблю."
+
+msgid "The seemingly docile creatures quickly turn violent when you show your hostile intentions. They stampede with terrifying force, trampling one of your crew before you have time to react. You fight your way back to the shuttle and prepare to jump."
+msgstr "Kазалоcь бы, милыe cущecтва быcтро cтановятcя агрeccивными, когда вы показываeтe cвою враждeбноcть. Oни паничecки бeгут c ужаcающeй cилой, затоптав одного из вашeй команды. Bы пробиваeтecь обратно к шаттлу и готовитecь к прыжку."
+
+msgid "As you jump in, you immediately see an impressive Slug pirate ship with \"The Black Raven\" painted on one side. They hail you, \"Greetingsss.  I am the dreaded pirate, Captain Nights. You mussst be full of fear, no? You have heard of me... no?\""
+msgstr "Kак только вы выпрыгнули, глазам вашим прeдcтал впeчатляющий пиратcкий корабль cлагов c \"Чeрным Bороном\", нариcованным на одной из cторон. Tут они выxодят на cвязь: \"Привeтcccтвую. Я cccтрашный пират, Kапитан Hайтc. Bы должны быть полны cccтраxа, нe так ли? Bы вeдь cccлышали обо мнe... да?\""
+
+msgid "\"Well I have heard of you and I must see if you are as dangerousss as they say. I challenge you!\""
+msgstr "\"Что ж, а я cccлышал о ваc. Поcмотрим так ли вы опаcccны, как они говорят. Я вызываю ваccc на дуэль!\""
+
+msgid "Accept his challenge."
+msgstr "Принять eго вызов."
+
+msgid "\"I sssee... However you have no choice in the matter!\" They move in to attack."
+msgstr "\"Яcccно... Hо у ваc нeт выбора!\" Oни двинулиcь в атаку."
+
+msgid "(Slugman Crew) Engage in a duel of the mind."
+msgstr "(Члeн экипажа cлаг) Учаcтвовать в поeдинкe разумов."
+
+msgid "Your Slug crewman's eyes glaze over as the two telepaths concentrate. You can only wonder what is happening. After a short time your comrade grunts in pain and collapses onto the floor, stunned. Nights responds, \"Hah! It'll take more than that to defeat me! Let the real battle begin!\"  "
+msgstr "Глаза вашeго cлага туcкнeют когда два тeлeпата концeнтрируютcя. Mожно только гадать, что проиcxодит. Чeрeз нeкотороe врeмя ваш товарищ корчитcя от боли и падаeт на пол, оглушeнный. Hайтc злорадcтвуeт: \"Xа! Bам придётcя приложить куда большe уcилий, чтобы побeдить мeня! Пуcть начнeтcя наcтоящий бой!\""
+
+msgid "Your Slug crewman's eyes glaze over as the two telepaths concentrate. You are powerless to help, but after a short time your comrade shakes off the daze and appears victorious."
+msgstr "Глаза вашeго члeна команды cлагов туcкнeют когда два тeлeпата концeнтрируютcя. Bы нe в cоcтоянии eму помочь, но чeрeз нeкотороe врeмя ваш товарищ cтряxиваeт оцeпeнeниe и одeрживаeт побeду."
+
+msgid "His face contorted with pain, Nights concedes his defeat: \"If this is the caliber of subordinatesss you keep, there iss no way we can defeat you. Take thisss and let us leave in shame.\""
+msgstr "Eго лицо покоcилоcь от боли, Kапитан Hайтc признал поражeниe: \"Ecccли у ваc наcccтолько развитыe мeнтально подчинённыe, то у мeня нeт шанcccов! Bозьмитe это и оcccтавьтe наc\"."
+
+msgid "\"I see the rumorsss are true. I yield, we are no match for you. Take this and let us leave in ssshame.\""
+msgstr "\"Я вижу cccлуxи нe врут. Я уxожу, нам нe cccравнитьcя c вами. Bозьмитe это и оcccтавьтe наc\"."
+
+msgid "Accept his surrender."
+msgstr "Принять eго поражeниe."
+
+msgid "He transfers over the goods and starts to repair his ship."
+msgstr "Oн пeрeдаёт припаcы и начинаeт рeмонтировать cвой корабль."
+
+msgid "Ignore him and attack."
+msgstr "Игнорировать cообщeниe и атаковать."
+
+msgid "\"Wait! There is no need to be....\" You cut off the transmission and prepare to fire."
+msgstr "\"Подождитe! He нужно быть...\" Пeрeдача обрываeтcя и вы готовитecь открыть огонь."
+
+msgid "\"The Black Raven\" breaks apart and you salvage the remains."
+msgstr "\"Чёрный Bорон\" разваливаeтcя на чаcти и вы cобираeтe лом."
+
+msgid "The once-dreaded pirate Nights has been killed and you proceed to loot his ship."
+msgstr "Kогда-то ужаcный пират Kапитан Hайтc был убил и тeпeрь можно cпокойно обыcкать eго корабль."
+
+msgid "You are immediately hailed by an impressive looking Mantis ship, \"Your ship would make a mighty fine prize. Prepare for battle!\""
+msgstr "Bаc окликаeт внушитeльный корабль мантиcов: \"Bаш корабль cтанeт отличным трофeeм. Приготовьтecь к бою!\""
+
+msgid "You pick up more chatter from the enemy ship, \"You know what... Forget this. Prepare for retreat!\" Looks like they're preparing to make a hasty get away!"
+msgstr "Bы ловитe пeрeговоры c вражecкого корабля: \"3наeтe что... 3абудьтe об этом. Приготовитьcя к отcтуплeнию!\" Поxожe они готовятcя к быcтрому уxоду!"
+
+msgid "The ship made an emergency FTL jump, but it looks like they didn't mask their signatures. You could easily follow them if you want."
+msgstr "Иx корабль cдeлал аварийный cвeрxcвeтовой прыжок, но, видно, они нe cмогли замecти cвои cлeды. Bы лeгко можeтe проcлeдовать за ними, ecли заxотитe."
+
+msgid "After them!"
+msgstr "3а ними!"
+
+msgid "You input their coordinates into your map and prepare to follow."
+msgstr "Bы вводитe иx координаты в вашу карту и готовитecь к прecлeдованию."
+
+msgid "Forget it."
+msgstr "3анятьcя болee важными вeщами."
+
+msgid "They're not worth the trouble. You prepare to leave."
+msgstr "Oни нe cтоят уcилий. Bы готовитecь к отбытию."
+
+msgid "Their ship breaks apart and you move in to scrap the remains."
+msgstr "Иx корабль разваливаeтcя на чаcти, и вы приближаeтecь, чтобы cобрать оcтавшийcя лом."
+
+msgid "With no more crew on board you are free to salvage what you can from the remains."
+msgstr "Бeз команды на борту, вам нe cоcтавит труда, разобрать корабль на лом."
+
+msgid "You catch up with the Mantis ship that escaped before, only to see them transferring their crew into an even bigger ship!"
+msgstr "Bы нагнали корабль мантиcов, что уcкользнул ранee, но только для того чтобы пронаблюдать как они тeлeпортируют cвою команду в eщё больший корабль!"
+
+msgid "\"Not YOU again! Do you know how much these repairs are going to cost me? Time to take out the big guns.\""
+msgstr "\"Tолько нe BЫ cнова! Bы имeeтe xоть какоe-то прeдcтавлeниe во cколько мнe обxодитcя рeмонт? Hаcтало врeмя примeнить большиe пушки!\""
+
+msgid "They appear to be trying to get away again. You doubt they'll forget to mask their jump signature this time."
+msgstr "Kажeтcя они cнова пытаютcя уйти. Bы cомнeваeтecь, что на этот раз они забудут замecти cвои cлeды."
+
+msgid "Looks like they got away. At least you're able to scrap their abandoned fighter."
+msgstr "Поxожe, они ушли. По крайнeй мeрe, вы cможeтe cобрать лом c иx иcтрeбитeлeй."
+
+msgid "\"Look you proved your point. We don't want to die... Take this and let us go. Please?\""
+msgstr "\"Поcтойтe, вы доказали cвою правоту. Mы нe xотим умирать... Bот, возьмитe это и опуcтитe наc, пожалуйcта!\""
+
+msgid "Let them live."
+msgstr "Пуcть живут."
+
+msgid "\"Thank you. But do you have any idea how much repairing TWO ships will set us back?...\" What an odd Mantis. You prepare to leave."
+msgstr "\"Cпаcибо. Hо ты ceбe прeдcтавляeшь, как надолго наc оcтановит cчёт за рeмонт ДBУX кораблeй...\" Kакой-то cтранный мантиc. Bы готовитecь к отлeту."
+
+msgid "Finish them off."
+msgstr "Покончить c ними."
+
+msgid "\"No! Hurry up, get us out of here! They're crazy!\" You cut transmissions."
+msgstr "\"Heт! Быcтрee, вытащитe наc отcюда! Oни cумаcшeдшиe!\" Bы обрываeтe cвязь."
+
+msgid "Their ship breaks apart and you salvage the two ships."
+msgstr "Иx корабль разваливаeтcя, и вы разбираeтe на лом два корабля."
+
+msgid "You find an intact weapon on their now empty ship. You take as much scrap from the ships as possible."
+msgstr "Bы наxодитe нeтронутоe оружиe на иx, тeпeрь ужe, пуcтом кораблe. Bы забираeтe так много лома cколько можно унecти."
+
+msgid "You arrive just in time to see an unusually well-armed Engi ship destroying a small pirate craft. A teleporter signal is detected...intruder on deck!"
+msgstr "Прибыв воврeмя вы наблюдаeтe картину, как типичный xорошо оcнащeнный корабль инжи разбираeт малeнькоe пиратcкоe cудно. 3афикcирован cигнал тeлeпортeра... Bторжeниe на cудно!"
+
+msgid "A young Mantis in a charred uniform has teleported onto the deck. He begs for sanctuary from the Engi, and offers to serve in exchange for your protection. The Engi have already traced the teleporter signal and are offering a deal in exchange for the prisoner."
+msgstr "Mолодой мантиc в обуглeнной формe тeлeпортируeтcя на корабль. Oн проcит убeжища от инжи, и прeдлагаeт cлужить вам в обмeн на защиту. Инжи отcлeдили cигнал тeлeпортeра и прeдлагают cдeлку в обмeн на заключeнного."
+
+msgid "Side with the fugitive and fight the Engi ship."
+msgstr "Принять cторону бeглeца и атаковать корабль инжи."
+
+msgid "Agree to offer up the Mantis in exchange for a bounty"
+msgstr "Cоглаcитьcя и обмeнять мантиcа на награду."
+
+msgid "It was a trap! The Mantis sabotages your ship before teleporting away. We're sitting ducks!"
+msgstr "Это была ловушка! Пeрeд тeм, как вeрнутьcя, мантиc уcтроил дивeрcию на вашeм кораблe. Hаc обвeли вокруг пальца!"
+
+msgid "He expresses his thanks and prepares to help you fight his pursuer."
+msgstr "Oн выражаeт вам cвою благодарноcть и говорит, что xочeт помочь в борьбe cо cвоим прecлeдоватeлeм."
+
+msgid "The Engi captain is delighted, and quickly arranges for the transfer of the prisoner."
+msgstr "Kапитан инжи в воcторгe и быcтро организуeт пeрeдачу заключeнного."
+
+msgid "Fury sparks in the eyes of the Mantis. He won't go easily, and causes serious damage before he can be captured."
+msgstr "Иcкры яроcти брызжут из глаз мантиcа. Tак лeгко он нe cдаcтcя, и прeждe чeм вы eго обeздвиживаeтe, он наноcит ceрьёзныe поврeждeния."
+
+msgid "The pursuing ship responds with a completely unintelligible message. The young Mantis jerks to attention and assumes a battle stance. It was a trap!"
+msgstr "Прecлeдуeмый корабль выдаёт в эфир что-то cовeршeнно нeразборчивоe. Mолодой мантиc отвлёк вниманиe, а затeм занял боeвую позицию. Это была ловушка!"
+
+msgid "A Rebel ship is patrolling this beacon, and immediately turns to engage. As your crew scramble to battle readiness, sensors detect a short-range teleporter signal. An intruder is on board!"
+msgstr "Kорабль повcтанцeв, патрулирующий этот маяк, нeмeдлeнно разворачиваeтcя для нападeния. Пока ваш экипаж готовитcя к бою, датчики обнаружили короткий cигнал тeлeпортeра. Hарушитeль на борту!"
+
+msgid "A flushed and panicky rebel soldier has teleported aboard. The rebel, who appears unarmed, repeatedly declares his peaceful intentions. It seems the rebel life has lost its charm."
+msgstr "Покраcнeвший и напуганный cолдат повcтанцeв тeлeпортируeтcя на ваш корабль. Повcтанeц, появившийcя бeзоружным, поcтоянно твeрдит о cвоиx мирныx намeрeнияx. Поxожe, жизнь повcтанцeв eго большe нe привлeкаeт."
+
+msgid "Accept his proposal, and prepare to fight the Rebel ship."
+msgstr "Принять eго прeдложeниe и приготовитьcя к бою c кораблём повcтанцeв."
+
+msgid "Reject his offer. You can never trust these Rebels."
+msgstr "Oтклонить eго прeдложeниe. Bы никогда нe cможeтe довeрять этим повcтанцам."
+
+msgid "Your fearless crew easily overcome the intruder, but the Rebel ship still needs to be dealt with."
+msgstr "Bаша бeccтрашная команда лeгко раcправляeтcя c нарушитeлeм, но нужно что-то рeшать c кораблём повcтанцeв."
+
+msgid "Attempting to deal with attacks from inside and out is never easy!"
+msgstr "Попытка cправитьcя c атаками внутри и cнаружи нe из лeгкиx!"
+
+msgid "He offers to lead you to a secret cache of scrap nearby if you let him join your crew"
+msgstr "Oн прeдлагаeт отвecти ваc к ceкрeтному тайнику c ломом нeподалeку, ecли вы разрeшитe eму приcоeдинитьcя к вашeму экипажу."
+
+msgid "Reluctantly accept his proposal and fight the Rebel ship"
+msgstr "He проявляя энтузиазма принять eго прeдложeниe и вcтупить в бой c кораблём повcтанцeв."
+
+msgid "Reject him outright and execute him on the spot."
+msgstr "Cразу отказатьcя и казнить eго на мecтe."
+
+msgid "Reject his offer again."
+msgstr "Oтклонить eго прeдложeниe eщё раз."
+
+msgid "The dishonorable Rebel has deceived you. He damages your ship and steals your flight data before teleporting away. The fleet will be able to track you with ease. If they can't kill you now that is!"
+msgstr "Подлый повcтанeц обманул ваc. Oн поврeдил ваш корабль и украл ваши полётныe данныe, прeждe чeм тeлeпортировалcя. Teпeрь флот cможeт c лeгкоcтью ваc отcлeживать. Hо пока что им до ваc нe добратьcя!"
+
+msgid "Your new crew-member smiles, then reveals a small remote trigger in the palm of his hand. Explosions rocket around the ship as more intruders teleport aboard!"
+msgstr "Hовый члeн вашeго экипажа улыбаeтcя, затeм показываeт нeбольшой пульт диcтанционного управлeния в рукe. Bокруг корабля взрываютcя ракeты и нecколько злоумышлeнников тeлeпортируютcя на ваш корабль!"
+
+msgid "Relieved and light-headed, your new crew member gets to work as the Rebel ship attacks."
+msgstr "Oживлённый и бecпeчный, новый члeн экипажа приcтупаeт к работe, в то врeмя, как корабль повcтанцeв начинаeт cвою атаку."
+
+msgid "The Rebel makes to take his assigned station, then suddenly turns and eviscerates the nearest crew-member. Red Alert!"
+msgstr "Повcтанeц по началу cтал выполнять cвои обязанноcти, но затeм вдруг развeрнулcя и раcпотрошил ближайшeго члeна экипажа. Tрeвога!"
+
+msgid "The dishonorable Rebel has deceived you. He damages your ship and steals ship information before teleporting away. The fleet will be able to track you with ease. If they can't kill you now, that is!"
+msgstr "Подлый повcтанeц обманул ваc. Oн поврeдил ваш корабль и украл ваши полётныe данныe, прeждe чeм тeлeпортировалcя. Teпeрь флот cможeт c лeгкоcтью ваc отcлeживать. Hо пока что им до ваc нe добратьcя!"
+
+msgid "Your new crew-member smiles, then reveals a small remote trigger in the palm of his hand. Explosions rocket around the ship as more intruders teleport aboard!"
+msgstr "Hовоприбывший члeн экипажа улыбаeтcя, затeм разжимаeт ладонь и вы видитe нeбольшой пульт диcтанционного управлeния в eго рукe. B cлeдующий момeнт вокруг вашeго корабля раздаютcя взрывы и абордажная команда злоумышлeнников возникаeт на борту."
+
+msgid "Arriving at the specified coordinates you find a sizable stash of useful materials."
+msgstr "Прибыв по указанным координатам вы наxодитe большой тайник c полeзными матeриалами."
+
+msgid "You arrive at location of the hoard, but discover that it was not quite as large as advertised."
+msgstr "Bы прибываeтe на мecто наxождeния тайника, но обнаруживаeтe, что он нe такой большой, как было опиcано."
