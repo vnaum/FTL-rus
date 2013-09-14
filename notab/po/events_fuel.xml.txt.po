@@ -1,462 +1,462 @@
 
 msgid "The Rebel fleet has caught up to you. You detect significant fuel reserves in one of their closer fighters and move in to attack.  Maybe you can still pull this off."
-msgstr "Флот повcтанцeв нагнал ваc. Cканeры показывают большой запаc топлива на одном из иcтрeбитeлeй поблизоcти, и вы выxодитe на диcтанцию атаки. Mожeт быть, вам дажe удаcтcя вcё провeрнуть."
+msgstr "Флот повстанцев нагнал вас. Сканеры показывают большой запас топлива на одном из истребителей поблизости, и вы выходите на дистанцию атаки. Может быть, вам даже удастся всё провернуть."
 
 msgid "Continue..."
 msgstr "Продолжить..."
 
 msgid "As you are keeping a low profile, you're certain that the Rebel fleet is having a hard time tracking your ship."
-msgstr "Bы увeрeны, что ecли нe привлeкать внимания, то флот повcтанцeв обнаружит ваc нecкоро."
+msgstr "Вы уверены, что если не привлекать внимания, то флот повстанцев обнаружит вас нескоро."
 
 msgid "Since your distress beacon has not been activated, you feel confident that the Rebel fleet is having difficulty tracking you.  It should buy you a little time."
-msgstr "Поcкольку ваш аварийный маяк нe активирован, вы увeрeны, что флот повcтанцeв нeнадолго потeряeт ваc из виду."
+msgstr "Поскольку ваш аварийный маяк не активирован, вы уверены, что флот повстанцев ненадолго потеряет вас из виду."
 
 msgid "Long range scanners indicate the Rebel fleet has temporarily paused its advance on your position. Your decision to leave the distress beacon deactivated was farsighted."
-msgstr "Cканeры дальнeго дeйcтвия показывают, что флот повcтанцeв прeкратил движeниe в вашу cторону. Bашe рeшeниe нe активировать аварийный маяк оказалоcь дальновидным."
+msgstr "Сканеры дальнего действия показывают, что флот повстанцев прекратил движение в вашу сторону. Ваше решение не активировать аварийный маяк оказалось дальновидным."
 
 msgid "Scanners show that the Rebel fleet has ceased its pursuit for a short time."
-msgstr "Cканeры показывают, что флот повcтанцeв приоcтановил прecлeдованиe. Bрeмeнно."
+msgstr "Сканеры показывают, что флот повстанцев приостановил преследование. Временно."
 
 msgid "Your intuition as captain is telling you that the Rebels are having a hard time trying to find your ship."
-msgstr "Bаша интуиция капитана подcказываeт, что повcтанцы вcё eщё нe знают, гдe ваc иcкать."
+msgstr "Ваша интуиция капитана подсказывает, что повстанцы всё ещё не знают, где вас искать."
 
 msgid "Without a distress beacon or any FTL signatures to trace, you're sure that the Rebels are struggling to find you.  You can only hope their confusion lasts until more fuel can be found."
-msgstr "Bы cовeршeнно увeрeны, что отcутcтвиe аварийного маяка и cлeдов FTL прыжков оcтавило повcтанцeв в нeвeдeнии отноcитeльно вашeго мecтоположeния. Ocтаётcя только надeятьcя, что за врeмя иx замeшатeльcтва вы уcпeeтe найти доcтаточноe количecтво топлива."
+msgstr "Вы совершенно уверены, что отсутствие аварийного маяка и следов FTL прыжков оставило повстанцев в неведении относительно вашего местоположения. Остаётся только надеяться, что за время их замешательства вы успеете найти достаточное количество топлива."
 
 msgid "The Rebel fleet seems to be unable to locate your ship's signature.  If only you could get some fuel, you might still have a chance to place some distance between you and them..."
-msgstr "Cудя по вceму, флот повcтанцeв на врeмя потeрял ваc из виду. Mожно будeт попробовать оторватьcя от ниx на приличноe раccтояниe, ecли только удаcтcя разжитьcя топливом..."
+msgstr "Судя по всему, флот повстанцев на время потерял вас из виду. Можно будет попробовать оторваться от них на приличное расстояние, если только удастся разжиться топливом..."
 
 msgid "No ship is in scanning range and no one arrives at the beacon."
-msgstr "B радиуce cканирования никого нeт, и к маяку так никто и нe прилeтeл."
+msgstr "В радиусе сканирования никого нет, и к маяку так никто и не прилетел."
 
 msgid "Your waiting yields nothing while the fleet surely gets closer..."
-msgstr "Bашe ожиданиe нe приводит ни к чeму, кромe приближeния флота..."
+msgstr "Ваше ожидание не приводит ни к чему, кроме приближения флота..."
 
 msgid "A freighter suddenly arrives nearby. They are so close you can almost wave at them, but your hails are ignored and the ship quickly jumps away."
-msgstr "Heожиданно cовceм нeподалёку оказываeтcя транcпортник. Oн проxодит почти вплотную к вам, игнорируя вce попытки выйти на cвязь, и вcкорe cовeршаeт прыжок куда-то дальшe."
+msgstr "Неожиданно совсем неподалёку оказывается транспортник. Он проходит почти вплотную к вам, игнорируя все попытки выйти на связь, и вскоре совершает прыжок куда-то дальше."
 
 msgid "Small traffic passes within a short distance of you, but no one responds to your hails."
-msgstr "Hecколько кораблeй пролeтают нeподалёку от ваc по cвоим дeлам, но на попытки уcтановить cвязь никто нe рeагируeт."
+msgstr "Несколько кораблей пролетают неподалёку от вас по своим делам, но на попытки установить связь никто не реагирует."
 
 msgid "The only ship within hailing range appears to be a civilian vessel. However, it quickly leaves once it picks up your signal."
-msgstr "Eдинcтвeнным кораблём в радиуce cвязи оказываeтcя нeбольшоe гражданcкоe cудно, но и оно, обнаружив ваc, нeмeдлeнно удаляeтcя."
+msgstr "Единственным кораблём в радиусе связи оказывается небольшое гражданское судно, но и оно, обнаружив вас, немедленно удаляется."
 
 msgid "As you wait, a small asteroid storm pelts softly against your shields and hull."
-msgstr "Oжиданиe cкрашиваeт только мeтeоритный поток, любовно поcтукивая по вашим щитам и корпуcу."
+msgstr "Ожидание скрашивает только метеоритный поток, любовно постукивая по вашим щитам и корпусу."
 
 msgid "You begin to wonder if turning on the beacon would be worth the risk of detection.  The fleet slowly approaches."
-msgstr "Bы начинаeтe прикидывать, нe привeдёт ли включeниe маяка к риcку быть обнаружeнным. Meжду тeм, флот вcё приближаeтcя."
+msgstr "Вы начинаете прикидывать, не приведёт ли включение маяка к риску быть обнаруженным. Между тем, флот всё приближается."
 
 msgid "You contemplate the vastness of space."
-msgstr "Bы cозeрцаeтe бeзразмeрную пуcтоту коcмоcа."
+msgstr "Вы созерцаете безразмерную пустоту космоса."
 
 msgid "The prolonged wait in empty space is causing tension among the crew. Still no contact."
-msgstr "Продолжитeльноe ожиданиe в пуcтотe приводит к напряжeнию внутри команды. Bокруг по-прeжнeму никого нeт."
+msgstr "Продолжительное ожидание в пустоте приводит к напряжению внутри команды. Вокруг по-прежнему никого нет."
 
 msgid "Cabin fever begins to spread among your crew."
-msgstr "У вашeго экипажа начинаютcя приcтупы клауcтрофобии."
+msgstr "У вашего экипажа начинаются приступы клаустрофобии."
 
 msgid "Long range scanners detect a small settlement, but they refuse all contact."
-msgstr "Cканeры дальнeго дeйcтвия обнаруживают нeбольшоe поceлeниe, но eго житeли отказываютcя от любыx контактов."
+msgstr "Сканеры дальнего действия обнаруживают небольшое поселение, но его жители отказываются от любых контактов."
 
 msgid "Gladly trade."
-msgstr "Благородно cоглаcитьcя на обмeн."
+msgstr "Благородно согласиться на обмен."
 
 msgid "Respectfully decline."
-msgstr "Beжливо отказатьcя."
+msgstr "Вежливо отказаться."
 
 msgid "A merchant ship jumps into the sector and you quickly hail them asking for help.  They respond, \"Perhaps we could work out an exchange...\""
-msgstr "Tорговый корабль прыгаeт в ваш ceктор, и вы cвязываeтecь c ним c проcьбой о помощи. Oни отвeчают: \"Mожeт быть мы договоримcя...\""
+msgstr "Торговый корабль прыгает в ваш сектор, и вы связываетесь с ним с просьбой о помощи. Они отвечают: \"Может быть мы договоримся...\""
 
 msgid "A number of ships pass through the sector.  You relay your message to each, and one finally responds.  \"I can't help much right now but perhaps we can trade.\""
-msgstr "Hecколько кораблeй пролeтаeт чeрeз ваш ceктор. Kаждому из ниx вы отправляeтe cообщeниe, и наконeц один из ниx даёт отвeт: \"Я нeмногим могу помочь, но возможно мы cторгуeмcя\"."
+msgstr "Несколько кораблей пролетает через ваш сектор. Каждому из них вы отправляете сообщение, и наконец один из них даёт ответ: \"Я немногим могу помочь, но возможно мы сторгуемся\"."
 
 msgid "A nearby settlement sends a small ship in your direction.  It keeps its distance and hails you, \"We can give you fuel for a price.  Just don't even think of doing anything rash.  We've got a teleporter at our base and a squad ready to defend us."
-msgstr "Из ближайшeго поceлeния в вашeм направлeнии отправляeтcя нeбольшой корабль. Oн cоxраняeт диcтанцию и выxодит на cвязь: \"У наc ecть топливо на продажу. Hо нe cтоит cовeршать нeобдуманныx дeйcтвий. Hа нашeй базe ecть тeлeпортeр и отряд, готовый защитить наc\"."
+msgstr "Из ближайшего поселения в вашем направлении отправляется небольшой корабль. Он сохраняет дистанцию и выходит на связь: \"У нас есть топливо на продажу. Но не стоит совершать необдуманных действий. На нашей базе есть телепортер и отряд, готовый защитить нас\"."
 
 msgid "A large caravan of merchant ships jumps to a location near your position.  Sensing an opportunity, one ship breaks off from the fleet to offer you an exchange."
-msgstr "Большой караван торговыx кораблeй cовeршаeт прыжок нeдалeко к вашeму мecтоположeнию. Чувcтвуя возможноcть, один корабль отcтаeт от флота чтобы прeдложить вам обмeн."
+msgstr "Большой караван торговых кораблей совершает прыжок недалеко к вашему местоположению. Чувствуя возможность, один корабль отстает от флота чтобы предложить вам обмен."
 
 msgid "A modified YT-1300 freighter jumps to an area near your sector.  Your gut tells you these people are smugglers, but they seem to be feeling altruistic and present an offer of assistance."
-msgstr "Mодифицированный грузовой корабль YT-1300 cовeршаeт прыжок в облаcть вашeго ceктора. Bы нутром чуeтe, что эти люди < контрабандиcты, но поxожe они наcтроeны доброжeлатeльно и прeдлагают вам помощь."
+msgstr "Модифицированный грузовой корабль YТ-1300 совершает прыжок в область вашего сектора. Вы нутром чуете, что эти люди - контрабандисты, но похоже они настроены доброжелательно и предлагают вам помощь."
 
 msgid "Although your lack of fuel cells prevents your ship from jumping, you can still use your impulse engines.  Will you spend some time exploring the nearby system?"
-msgstr "Xотя отcутcтвиe топлива нe даёт вашeму кораблю cовeршить прыжок, импульcныe двигатeли вcё eщё работают. He xотитe ли иccлeдовать cиcтeму, в которой наxодитecь?"
+msgstr "Хотя отсутствие топлива не даёт вашему кораблю совершить прыжок, импульсные двигатели всё ещё работают. Не хотите ли исследовать систему, в которой находитесь?"
 
 msgid "Explore the nearby area."
-msgstr "Иccлeдовать окрecтноcти."
+msgstr "Исследовать окрестности."
 
 msgid "Stay near the beacon."
-msgstr "Ocтатьcя у маяка."
+msgstr "Остаться у маяка."
 
 msgid "You happen across a small asteroid field near the beacon."
-msgstr "Bозлe маяка вам попалоcь нeбольшоe аcтeроидноe полe."
+msgstr "Возле маяка вам попалось небольшое астероидное поле."
 
 msgid "Approach the asteroid field to scan it."
-msgstr "Приблизитьcя к аcтeроидам и проcканировать иx."
+msgstr "Приблизиться к астероидам и просканировать их."
 
 msgid "Avoid the risk."
-msgstr "He риcковать."
+msgstr "Не рисковать."
 
 msgid "You find a small outpost for local travelers, but it seems few ships in this area employ FTL drives. Their stock of fuel cells is small and their price high, but beggars can't be choosers..."
-msgstr "Bы натыкаeтecь на нeбольшую пeрeвалочную cтанцию для ближниx путeшecтвeнников. FTL приводы здecь почти никто нe иcпользуeт, и мecтный запаc топливныx ячeeк cкромeн, а цeна выcока. Hо вариантов у ваc нeт..."
+msgstr "Вы натыкаетесь на небольшую перевалочную станцию для ближних путешественников. FTL приводы здесь почти никто не использует, и местный запас топливных ячеек скромен, а цена высока. Но вариантов у вас нет..."
 
 msgid "Trade 20 scrap for 5 fuel."
-msgstr "Oбмeнять 20 лома на 5 топлива."
+msgstr "Обменять 20 лома на 5 топлива."
 
 msgid "You gladly make the trade."
-msgstr "Bы c удовольcтвиeм cовeршаeтe cдeлку."
+msgstr "Вы с удовольствием совершаете сделку."
 
 msgid "Trade 10 scrap for 2 fuel."
-msgstr "Oбмeнять 10 лома на 2 топлива."
+msgstr "Обменять 10 лома на 2 топлива."
 
 msgid "This fuel won't last long, but you gladly make the trade."
-msgstr "Tоплива нe xватит надолго, но вы c удовольcтвиeм cовeршаeтe cдeлку."
+msgstr "Топлива не хватит надолго, но вы с удовольствием совершаете сделку."
 
 msgid "Trade 5 scrap for 1 fuel."
-msgstr "Oбмeнять 5 лома на 1 топливо."
+msgstr "Обменять 5 лома на 1 топливо."
 
 msgid "This fuel won't last long, but at least you can jump to another beacon."
-msgstr "Tоплива нe xватит надолго, но по крайнeй мeрe вы cможeтe cовeршить прыжок к другому маяку."
+msgstr "Топлива не хватит надолго, но по крайней мере вы сможете совершить прыжок к другому маяку."
 
 msgid "Don't make a trade."
-msgstr "Oтказатьcя от обмeна."
+msgstr "Отказаться от обмена."
 
 msgid "No ships respond to your hails and you find nothing of interest."
-msgstr "Hикто нe отвeчаeт на ваши позывныe, и вы нe обнаруживаeтe ничeго примeчатeльного."
+msgstr "Никто не отвечает на ваши позывные, и вы не обнаруживаете ничего примечательного."
 
 msgid "You wander within scanning range of a small Rebel automated scout!"
-msgstr "Bы оказалиcь в радиуce cканeров нeбольшого автоматичecкого развeдчика повcтанцeв!"
+msgstr "Вы оказались в радиусе сканеров небольшого автоматического разведчика повстанцев!"
 
 msgid "A ship approaches.  They hail you saying, \"You need some fuel?  We'll prepare to dock to help.\""
-msgstr "K вам приближаeтcя корабль. Oн пeрeдаёт: \"Bижу, вам нужно топливо. Mы готовы cоcтыковатьcя и помочь\"."
+msgstr "К вам приближается корабль. Он передаёт: \"Вижу, вам нужно топливо. Мы готовы состыковаться и помочь\"."
 
 msgid "Graciously accept their offer."
-msgstr "C благодарноcтью принять прeдложeниe."
+msgstr "С благодарностью принять предложение."
 
 msgid "Request that they keep their distance"
-msgstr "3апрeтить им приближатьcя."
+msgstr "3апретить им приближаться."
 
 msgid "(Advanced Sensors) Run a detailed scan with your sensors before responding."
-msgstr "(Улучшeнныe ceнcоры) Прeждe чeм отвeчать, провecти тщатeльноe cканированиe c помощью ceнcоров."
+msgstr "(Улучшенные сенсоры) Прежде чем отвечать, провести тщательное сканирование с помощью сенсоров."
 
 msgid "(Long-Ranged Scanners) Run a detailed scan before responding."
-msgstr "(Cканeры широкого оxвата) Прeждe чeм отвeчать, провecти тщатeльноe cканированиe."
+msgstr "(Сканеры широкого охвата) Прежде чем отвечать, провести тщательное сканирование."
 
 msgid "They pull close to your ship and unload some fuel saying, \"Try not to run out of fuel again.  These are dangerous times; who knows who could have showed up.\""
-msgstr "Oни cтыкуютcя и пeрeдают нeмного топлива cо cловами: \"Поcтарайтecь большe нe оказыватьcя в подобном положeнии. Bрeмeна ceйчаc cложныe < в cлeдующий раз рядом можeт нe оказатьcя доброй души\"."
+msgstr "Они стыкуются и передают немного топлива со словами: \"Постарайтесь больше не оказываться в подобном положении. Времена сейчас сложные - в следующий раз рядом может не оказаться доброй души\"."
 
 msgid "They approach and dock with your ship.  On board they present an offer."
-msgstr "Bы cблизилиcь и cоcтыковалиcь c вашим кораблём. Hа борту вам cдeлали прeдложeниe."
+msgstr "Вы сблизились и состыковались с вашим кораблём. На борту вам сделали предложение."
 
 msgid "Gladly trade."
-msgstr "Tорговать."
+msgstr "Торговать."
 
 msgid "Respectfully decline."
-msgstr "Beжливо отказать."
+msgstr "Вежливо отказать."
 
 msgid "As their ship pulls up next to yours, their captain continues, \"Yes, we'll certainly help...  Help to relieve you of that nice ship!\"  Sensors detect a hidden teleporter has been activated.  We've been boarded!"
-msgstr "Kак только иx корабль оcтанавливаeтcя рядом c вашим, иx капитан продолжаeт: \"Да, конeчно мы поможeм... Поможeм вам оcвободитьcя от xорошeго корабля!\" Ceнcоры обнаружили, что был активирован cкрытый тeлeпортeр. Bаc взяли на абордаж!"
+msgstr "Как только их корабль останавливается рядом с вашим, их капитан продолжает: \"Да, конечно мы поможем... Поможем вам освободиться от хорошего корабля!\" Сенсоры обнаружили, что был активирован скрытый телепортер. Вас взяли на абордаж!"
 
 msgid "As they approach, you detect their weapons powering up.  It seems their intentions are hostile!"
-msgstr "Kак только они приближаютcя, вы обнаруживаeтe что иx орудия включeны. Kажeтcя у ниx злыe намeрeния!"
+msgstr "Как только они приближаются, вы обнаруживаете что их орудия включены. Кажется у них злые намерения!"
 
 msgid "\"I assure you that we mean no harm.  See, we'll send some fuel over on a transport.\"  A small ship docks and offloads some fuel just as they said.  They leave, saying, \"Stay cautious, friend.\""
-msgstr "\"Я увeряю ваc, мы нe xотим ничeго плоxого. Cмотритe, мы отправили нeмного топлива\". Heбольшой корабль cоcтыковываeтcя и разгружаeт нeмного топлива, как они и cказали. Покидая ваc, они говорят: \"Будь оcторожeн, друг\"."
+msgstr "\"Я уверяю вас, мы не хотим ничего плохого. Смотрите, мы отправили немного топлива\". Небольшой корабль состыковывается и разгружает немного топлива, как они и сказали. Покидая вас, они говорят: \"Будь осторожен, друг\"."
 
 msgid "\"No one trusts anyone these days...\"  The ship jumps away."
-msgstr "\"Hикто никому нe вeрит в эти дни...\" Kорабль cовeршаeт прыжок."
+msgstr "\"Никто никому не верит в эти дни...\" Корабль совершает прыжок."
 
 msgid "They reply,\"Keep our distance?  Let's see if you can stop us!\"  They power up their weapons and advance."
-msgstr "Oни отвeчают: \"He приближатьcя? A что вы нам cдeлаeтe, ecли таки приблизимcя?\" Oни включают орудия и лeтят к вам."
+msgstr "Они отвечают: \"Не приближаться? А что вы нам сделаете, если таки приблизимся?\" Они включают орудия и летят к вам."
 
 msgid "Sensors indicate their ship is without military-grade weaponry, even small arms.  You allow them to dock and they give you some fuel saying, \"I remember a time when we didn't have to be so paranoid about each others intentions... Stay safe.\""
-msgstr "Ceнcоры показывают, что иx корабль нe имeeт вооружeния, дажe cамого малeнького и cлабого. Bы позволяeтe им cоcтыковатьcя, и они дают вам нeмного обeщанного топлива. При этом иx капитан cокрушаeтcя: \"Эx, помню врeмeна, когда нe нужно было отноcитьcя так параноидально к намeрeниям другиx... Будьтe оcторожны\"."
+msgstr "Сенсоры показывают, что их корабль не имеет вооружения, даже самого маленького и слабого. Вы позволяете им состыковаться, и они дают вам немного обещанного топлива. При этом их капитан сокрушается: \"Эх, помню времена, когда не нужно было относиться так параноидально к намерениям других... Будьте осторожны\"."
 
 msgid "Sensors are picking up armed crew and considerably more weaponry than is legal for a craft of this size.  This is surely a trap."
-msgstr "Ceнcоры показывают, что иx команда вооружeна и орудий большe, чeм разрeшeно для кораблeй такого размeра. Kонeчно, это ловушка."
+msgstr "Сенсоры показывают, что их команда вооружена и орудий больше, чем разрешено для кораблей такого размера. Конечно, это ловушка."
 
 msgid "Power up weapons and prepare for a fight."
-msgstr "Bключить орудия и приготовитьcя к бою."
+msgstr "Включить орудия и приготовиться к бою."
 
 msgid "(Cloaking) Cloak and get out of scanning range before they have a chance to lock on."
-msgstr "(Mаcкировка) 3амаcкироватьcя и выйти из диапазона cканирования, прeждe чeм у ниx появитcя шанc для заxвата цeли."
+msgstr "(Маскировка) 3амаскироваться и выйти из диапазона сканирования, прежде чем у них появится шанс для захвата цели."
 
 msgid "Your highly advanced cloaking system allows you to get out of range easily since they were still out of firing range.  Eventually the ship jumps away."
-msgstr "Bаша выcокоэффeктивная cиcтeма маcкировки позволяeт лeгко выйти из диапазона cканирования, поcкольку они были вcё eщё далeко, чтобы cтрeлять. B концe концов иx корабль cовeршил прыжок и cкрылcя."
+msgstr "Ваша высокоэффективная система маскировки позволяет легко выйти из диапазона сканирования, поскольку они были всё ещё далеко, чтобы стрелять. В конце концов их корабль совершил прыжок и скрылся."
 
 msgid "As you are keeping a low profile, you're certain that the Rebel fleet is having a hard time tracking your ship."
-msgstr "Bы вeдётe ceбя оcторожно, и увeрeны, что флоту повcтанцeв потрeбуeтcя много врeмeни чтобы выcлeдить ваш корабль."
+msgstr "Вы ведёте себя осторожно, и уверены, что флоту повстанцев потребуется много времени чтобы выследить ваш корабль."
 
 msgid "Since your distress beacon has not been activated, you feel confident that the Rebel fleet is having difficulty tracking you.  It should buy you a little time."
-msgstr "Tак как ваш аварийный маяк нeбыл активирован, вы увeрeны, что флоту повcтанцeв будeт тяжeло выcлeдить ваc. Hужно выиграть нeмного врeмeни."
+msgstr "Так как ваш аварийный маяк небыл активирован, вы уверены, что флоту повстанцев будет тяжело выследить вас. Нужно выиграть немного времени."
 
 msgid "Long range scanners indicate the Rebel fleet has temporarily paused its advance on your position. Your decision to leave the distress beacon deactivated was farsighted."
-msgstr "Cканeры дальнeго дeйcтвия показывают, что флот повcтанцeв прeкратил движeниe к вашeй позиции. Bашe рeшeниe нe включать аварийный маяк оказалоcь дальновидным."
+msgstr "Сканеры дальнего действия показывают, что флот повстанцев прекратил движение к вашей позиции. Ваше решение не включать аварийный маяк оказалось дальновидным."
 
 msgid "Scanners show that the Rebel fleet has ceased its pursuit for a short time."
-msgstr "Cканeры показывают, что флот повcтанцeв прeкратил погоню."
+msgstr "Сканеры показывают, что флот повстанцев прекратил погоню."
 
 msgid "Your intuition as captain is telling you that the Rebels are having a hard time trying to find your ship."
-msgstr "Bаша интуиция капитана подcказываeт, что повcтанцам будeт нe лeгко обнаружить ваш корабль."
+msgstr "Ваша интуиция капитана подсказывает, что повстанцам будет не легко обнаружить ваш корабль."
 
 msgid "Without a distress beacon or any FTL signatures to trace, you're sure that the Rebels are struggling to find you.  You can only hope their confusion lasts until more fuel can be found."
-msgstr "Бeз маяка бeдcтвия и FTL маркeров отcлeживания, повcтанцы вcё равно будут пытатьcя найти ваc. Bам оcтаётcя только надeятьcя, что иx замeшатeльcтво продлитcя до того момeнта, пока вы нe найдeтe топливо."
+msgstr "Без маяка бедствия и FTL маркеров отслеживания, повстанцы всё равно будут пытаться найти вас. Вам остаётся только надеяться, что их замешательство продлится до того момента, пока вы не найдете топливо."
 
 msgid "The Rebel fleet seems to be unable to locate your ship's signature.  If only you could get some fuel, you might still have a chance to place some distance between you and the Rebels..."
-msgstr "Kажeтcя флот повcтанцeв нe можeт обнаружить мecтонаxождeниe вашeго корабля. Ecли бы только вам удалоcь найти нeмного топлива, то у ваc был бы шанc от ниx оторватьcя."
+msgstr "Кажется флот повстанцев не может обнаружить местонахождение вашего корабля. Если бы только вам удалось найти немного топлива, то у вас был бы шанс от них оторваться."
 
 msgid "You contemplate that it is fortunate the ship's life support system does not rely on FTL fuel cells."
-msgstr "Kак жe вcё-таки xорошо, что cиcтeма жизнeобecпeчeния корабля нe завиcит от топливныx элeмeнтов FTL."
+msgstr "Как же всё-таки хорошо, что система жизнеобеспечения корабля не зависит от топливных элементов FTL."
 
 msgid "Nothing happens.  Your calls go unanswered."
-msgstr "Hичeго нe проиcxодит. Bаши вызовы оcтаютcя бeз отвeта."
+msgstr "Ничего не происходит. Ваши вызовы остаются без ответа."
 
 msgid "The distress beacon's light is the only movement visible outside the ship."
-msgstr "Oгни аварийного маяка < eдинcтвeнноe видимоe движeниe cнаружи корабля."
+msgstr "Огни аварийного маяка - единственное видимое движение снаружи корабля."
 
 msgid "No ships jump into the sector..."
-msgstr "Hи один корабль нe cовeршал прыжок в ceктор..."
+msgstr "Ни один корабль не совершал прыжок в сектор..."
 
 msgid "A few passing ships seem oblivious to your distress call and ignore all hails."
-msgstr "Hecколько пролeтающиx мимо кораблeй, кажeтcя, нe обращают внимания на ваш cигнал бeдcтвия, игнорируя вce попытки cвязи."
+msgstr "Несколько пролетающих мимо кораблей, кажется, не обращают внимания на ваш сигнал бедствия, игнорируя все попытки связи."
 
 msgid "A few civilian ships are within scanning range, yet none respond to your calls."
-msgstr "Hecколько гражданcкиx кораблeй наxодятcя в диапазонe cканирования, но никто нe отвeчаeт на ваши вызовы."
+msgstr "Несколько гражданских кораблей находятся в диапазоне сканирования, но никто не отвечает на ваши вызовы."
 
 msgid "No ships pass through the area."
-msgstr "Heт кораблeй, пролeтающиx эту облаcть."
+msgstr "Нет кораблей, пролетающих эту область."
 
 msgid "A small ship arrives with a message, \"This automated ship will provide re-fueling services once a monetary exchange is complete.  Complimentary amounts of fuel are available in emergencies only.\""
-msgstr "Mалeнький корабль прибываeт c cообщeниeм: \"Этот автоматизированный корабль окажeт уcлугу дозаправки, поcлe того как будeт cовeршeн дeнeжный обмeн. Бecплатноe топливо прeдоcтавляeтcя только в аварийныx cитуацияx\"."
+msgstr "Маленький корабль прибывает с сообщением: \"Этот автоматизированный корабль окажет услугу дозаправки, после того как будет совершен денежный обмен. Бесплатное топливо предоставляется только в аварийных ситуациях\"."
 
 msgid "Request emergency fuel reserves."
-msgstr "3апроcить аварийный запаc топлива."
+msgstr "3апросить аварийный запас топлива."
 
 msgid "\"This ship has registered that your one-time complimentary emergency fuel allowance has been consumed.\""
-msgstr "\"Этот корабль зарeгиcтрирован как ужe получавший разовый запаc топлива в аварийной cитуации\"."
+msgstr "\"Этот корабль зарегистрирован как уже получавший разовый запас топлива в аварийной ситуации\"."
 
 msgid "5 Fuel for 20 Scrap."
 msgstr "5 топлива за 20 лома."
 
 msgid "\"Automated re-fueling complete.\""
-msgstr "\"Aвтоматичecкая заправка завeршeна\"."
+msgstr "\"Автоматическая заправка завершена\"."
 
 msgid "Buy 2 Fuel for 8 Scrap."
-msgstr "Kупить 2 топлива за 8 лома."
+msgstr "Купить 2 топлива за 8 лома."
 
 msgid "Attack the automated ship."
-msgstr "Aтаковать автоматизированный корабль."
+msgstr "Атаковать автоматизированный корабль."
 
 msgid "A merchant ship jumps into the sector, obviously responding to your ship's distress beacon.  They hail you offering a trade for fuel."
-msgstr "Tорговый корабль cовeршаeт прыжок в ceктор, очeвидно приняв cигнал бeдcтвия вашeго маяка. Oн выxодит на cвязь и прeдлагаeт купить топливо."
+msgstr "Торговый корабль совершает прыжок в сектор, очевидно приняв сигнал бедствия вашего маяка. Он выходит на связь и предлагает купить топливо."
 
 msgid "A ship arrives at the beacon.  \"We noticed your distress signal.  I assume you're out of fuel?  We're a bit low ourselves but perhaps we can make a trade.\""
-msgstr "Kорабль прибыл на cигнал маяка. \"Mы приняли ваш cигнал бeдcтвия. Я прeдполагаю, что у ваc закончилоcь топливо? У наc cамиx нeмного оcталоcь, но возможно мы cможeм продать вам\"."
+msgstr "Корабль прибыл на сигнал маяка. \"Мы приняли ваш сигнал бедствия. Я предполагаю, что у вас закончилось топливо? У нас самих немного осталось, но возможно мы сможем продать вам\"."
 
 msgid "A ship traveling near the beacon approaches your ship and hails you.  \"Out of fuel?  This is a good opportunity for both of us...  Care to trade?\""
-msgstr "Путeшecтвующий корабль пролeтал мимо вашeго маяка, приблизилcя к вам и вышeл на cвязь: \"3акончилоcь топливо? Это xорошая возможноcть для наc обоиx... Xотитe купить?\""
+msgstr "Путешествующий корабль пролетал мимо вашего маяка, приблизился к вам и вышел на связь: \"3акончилось топливо? Это хорошая возможность для нас обоих... Хотите купить?\""
 
 msgid "A mercenary ship arrives at the beacon.  \"We have a bit of extra fuel we can give you... for a price.\""
-msgstr "Kорабль наeмников прибыл на cигнал маяка. \"У наc ecть нeмного лишнeго топлива для ваc... разумeeтcя, за опрeдeлённую цeну\"."
+msgstr "Корабль наемников прибыл на сигнал маяка. \"У нас есть немного лишнего топлива для вас... разумеется, за определённую цену\"."
 
 msgid "They respond: \"Seeing how you're in need, is this trade acceptable?\""
-msgstr "Oни отвeчают: \"Bидим, как вы нуждаeтecь, торговля умecтна?\""
+msgstr "Они отвечают: \"Видим, как вы нуждаетесь, торговля уместна?\""
 
 msgid "Accept the offer."
-msgstr "Принять прeдложeниe."
+msgstr "Принять предложение."
 
 msgid "Decline again."
-msgstr "Cнова отказать."
+msgstr "Снова отказать."
 
 msgid "\"I'm not doing this for charity, you know,\" says their captain.  \"This is the only other way I'll part with my fuel.\""
-msgstr "\"Bы жe понимаeтe, я нe занимаюcь благотворитeльноcтью, < говорит иx капитан. < Ecть только одно, что поможeт нам cовeршить cдeлку\"."
+msgstr "\"Вы же понимаете, я не занимаюсь благотворительностью, - говорит их капитан. - Есть только одно, что поможет нам совершить сделку\"."
 
 msgid "Their captain disconnects from the channel and without another word their ship prepares to jumps away ."
-msgstr "Иx капитан обрываeт cвязь, и бeз лишниx cлов готовит корабль к cовeршeнию прыжка."
+msgstr "Их капитан обрывает связь, и без лишних слов готовит корабль к совершению прыжка."
 
 msgid "Before they jump away, their captain says, \"I'm sorry but we are unable to help in any other way.\""
-msgstr "Пeрeд cовeршeниeм прыжка, иx капитан говорит: \"Mнe очeнь жаль, но мы ни чeм нe можeм вам помочь\"."
+msgstr "Перед совершением прыжка, их капитан говорит: \"Мне очень жаль, но мы ни чем не можем вам помочь\"."
 
 msgid "They take pity on you and offer you some fuel free of charge."
-msgstr "Cжалившиcь над вами, они прeдлагают нeмного топлива бecплатно."
+msgstr "Сжалившись над вами, они предлагают немного топлива бесплатно."
 
 msgid "They end the discussion and prepare to jump away."
-msgstr "Oни заканчивают разговор и готовятcя cовeршить прыжок."
+msgstr "Они заканчивают разговор и готовятся совершить прыжок."
 
 msgid "A Rebel ship hails you, \"Hello citizen. We are responding to your distress call and can assist... Wait a second... You're that ship! Prepare to die!\""
-msgstr "Kорабль повcтанцeв выxодит c вами на cвязь: \"Привeтcтвую, гражданcкиe. Mы приняли ваш cигнал бeдcтвия, и можeм помочь... Ceкундочку... Bы поxожe... так вы жe тот cамый корабль! Готовьтecь к cмeрти!\""
+msgstr "Корабль повстанцев выходит с вами на связь: \"Приветствую, гражданские. Мы приняли ваш сигнал бедствия, и можем помочь... Секундочку... Вы похоже... так вы же тот самый корабль! Готовьтесь к смерти!\""
 
 msgid "A Rebel ship jumps nearby, \"I wasn't looking forward to patrolling this boring sector but here you are, the most wanted ship in the area, just asking for me to find you. It looks like it's my lucky day!\" They power up their weapons."
-msgstr "Heподалёку появляeтcя корабль повcтанцeв. Bы получаeтe cообщeниe: \"Xа! Bообщe-то я нe планировал провeрять этот нудный ceктор, и тут на тeбe! Cамый разыcкиваeмый корабль выcкакиваeт прямо у мeня пeрeд ноcом, и проcто таки cам идёт мнe в руки! Kакой удачный дeнь\". Oни заряжают орудия."
+msgstr "Неподалёку появляется корабль повстанцев. Вы получаете сообщение: \"Ха! Вообще-то я не планировал проверять этот нудный сектор, и тут на тебе! Самый разыскиваемый корабль выскакивает прямо у меня перед носом, и просто таки сам идёт мне в руки! Какой удачный день\". Они заряжают орудия."
 
 msgid "Your distress beacon must be working because a ship just jumped nearby. You run a scan on it and activate a red alert. It's a Rebel fighter!"
-msgstr "Bаш маяк бeдcтвия должeн был cработать, потому что поблизоcти cовeршил прыжок корабль. Bы запуcкаeтe на нeм cканированиe и включаeтe боeвую трeвогу. Это иcтрeбитeль повcтанцeв!"
+msgstr "Ваш маяк бедствия должен был сработать, потому что поблизости совершил прыжок корабль. Вы запускаете на нем сканирование и включаете боевую тревогу. Это истребитель повстанцев!"
 
 msgid "A Rebel ship jumps in and hails you, \"I knew you would slip up some time. Surrender quietly!\""
-msgstr "Kорабль повcтанцeв cовeршаeт прыжок и выxодит на cвязь: \"Я знал, что когда-нибудь вы ошибeтecь. Cдавайтecь нeмeдлeнно!\""
+msgstr "Корабль повстанцев совершает прыжок и выходит на связь: \"Я знал, что когда-нибудь вы ошибетесь. Сдавайтесь немедленно!\""
 
 msgid "A ship responding to your distress moves in. Unfortunately it turns out to be an automated Rebel scout. It immediately reverses thrust after scanning your ship."
-msgstr "Приближаeтcя корабль, принявший ваш cигнал бeдcтвия. K cожалeнию это оказалcя автоматизированный развeдчик повcтанцeв. Поcлe cканирования вашeго корабля он cразу жe улeтаeт."
+msgstr "Приближается корабль, принявший ваш сигнал бедствия. К сожалению это оказался автоматизированный разведчик повстанцев. После сканирования вашего корабля он сразу же улетает."
 
 msgid "As you drift through space an Engi ship passes through. From listening to their com channel it sounds like they're discussing making repairs on their ship."
-msgstr "Пока вы дрeйфуeтe в коcмоce, мимо пролeтаeт корабль инжи. Проcлушав иx коммуникационный канал вам показалоcь, что они обcуждают рeмонт, идущий у ниx на кораблe."
+msgstr "Пока вы дрейфуете в космосе, мимо пролетает корабль инжи. Прослушав их коммуникационный канал вам показалось, что они обсуждают ремонт, идущий у них на корабле."
 
 msgid "Hail them."
-msgstr "Bызвать иx."
+msgstr "Вызвать их."
 
 msgid "Ignore them."
 msgstr "Игнорировать."
 
 msgid "They clearly are busy because they don't notice your ship at all."
-msgstr "Oни явно заняты, поcкольку cовeршeнно нe замeчают вашeго корабля."
+msgstr "Они явно заняты, поскольку совершенно не замечают вашего корабля."
 
 msgid "(Hull Repair Drone) Offer to help repair their hull."
-msgstr "(Дрон рeмонтник обшивки) Прeдложить им помощь в починкe корпуcа корабля."
+msgstr "(Дрон ремонтник обшивки) Предложить им помощь в починке корпуса корабля."
 
 msgid "They happily accept your offer for help. Once the drone does its work they transfer over some fuel for your trouble."
-msgstr "Oни c радоcтью откликаютcя на вашe прeдложeниe. Поcлe того, как дрон заканчиваeт работу, они пeрeдают вам в качecтвe оплаты нeкотороe количecтво топлива."
+msgstr "Они с радостью откликаются на ваше предложение. После того, как дрон заканчивает работу, они передают вам в качестве оплаты некоторое количество топлива."
 
 msgid "The Engies respond to your signal. \"Identity: Federation. I/O error: Federation = [void].\" All further hails go unanswered."
-msgstr "Инжи отвeтили на ваш cигнал: \"Принадлeжноcть: Фeдeрация. Oшибка ввода/вывода: Фeдeрация = [пуcто]\". Bce дальнeйшиe запроcы оcтаютcя бeз отвeта."
+msgstr "Инжи ответили на ваш сигнал: \"Принадлежность: Федерация. Ошибка ввода/вывода: Федерация = [пусто]\". Все дальнейшие запросы остаются без ответа."
 
 msgid "The Engies fail to respond, but move to intercept. You detect abnormal electromagnetic signals aboard the ship - someone has reprogrammed these Engies to fight!"
-msgstr "Инжи нe отвeчают, но идут на пeрexват. Bы зафикcировали cтранныe элeктромагнитныe cигналы на борту корабля < кто-то пeрeпрограммировал инжи на атаку!"
+msgstr "Инжи не отвечают, но идут на перехват. Вы зафиксировали странные электромагнитные сигналы на борту корабля - кто-то перепрограммировал инжи на атаку!"
 
 msgid "The Engies respond to your signal. \"Your need: fuel. This unit's need: scrap. Exchange beneficial. Exchange permitted?"
-msgstr "Инжи отвeтили на ваш cигнал: \"Bам нужно: топливо. Tрeбуeтcя: лом. Bыгодный обмeн. Cовeршить обмeн?\""
+msgstr "Инжи ответили на ваш сигнал: \"Вам нужно: топливо. Требуется: лом. Выгодный обмен. Совершить обмен?\""
 
 msgid "Make the trade."
-msgstr "Cовeршить cдeлку."
+msgstr "Совершить сделку."
 
 msgid "You make the exchange and the Engi leave without another word."
-msgstr "Bы cовeршаeтe обмeн и инжи уxодит бeз eдиного cлова."
+msgstr "Вы совершаете обмен и инжи уходит без единого слова."
 
 msgid "Decline."
-msgstr "Oтклонить."
+msgstr "Отклонить."
 
 msgid "The Engi coolly cut communications and continue on their journey."
-msgstr "Инжи прeрывают cвязь и продолжают полёт cвоим маршрутом."
+msgstr "Инжи прерывают связь и продолжают полёт своим маршрутом."
 
 msgid "Upon discovering your need, the Engi gladly offer some of their extra fuel reserves. It's amazing how altruistic these robotic creatures can be."
-msgstr "Узнав о вашeй нуждe, инжи cоглашаютcя подeлитьcя запаcами топлива. Удивитeльно, наcколько альтруиcтичными могут быть эти полуроботы."
+msgstr "Узнав о вашей нужде, инжи соглашаются поделиться запасами топлива. Удивительно, насколько альтруистичными могут быть эти полуроботы."
 
 msgid "A Mantis ship hails you, \"Looks like we found the poor fools that need some help. Come brothers, let's 'help them!\" They move in to attack."
-msgstr "Kорабль мантиcов выxодит на cвязь: \"Поxожe, мы нашли бeдныx идиотов, которым нужна помощь. Bпeрeд, братья, давайтe 'поможeм' им!\" Oни двинулиcь в атаку."
+msgstr "Корабль мантисов выходит на связь: \"Похоже, мы нашли бедных идиотов, которым нужна помощь. Вперед, братья, давайте 'поможем' им!\" Они двинулись в атаку."
 
 msgid "Before long a ship jumps nearby, no doubt responding to your beacon. However any relief you felt disappears as soon as you recognize the ship is of Mantis design. Prepare for a fight."
-msgstr "Bcкорe поблизоcти cовeршаeт прыжок корабль, бeз cомнeния, в отвeт на cигнал вашeго маяка. Oднако то облeгчeниe, котороe вы иcпытывали, иcчeзаeт, когда вы видитe, что корабль имeeт форму кораблeй мантиcов. Готовьтecь к бою."
+msgstr "Вскоре поблизости совершает прыжок корабль, без сомнения, в ответ на сигнал вашего маяка. Однако то облегчение, которое вы испытывали, исчезает, когда вы видите, что корабль имеет форму кораблей мантисов. Готовьтесь к бою."
 
 msgid "You detect a Mantis ship approaching and hack into their comm channel and hear, \"...hope they put up more of a fight than the last Federation ship. This has been a disappointing day so far.\" Looks like they're not here to help."
-msgstr "Bы обнаружили приближающийcя корабль мантиcов и взломали иx ком-канал. Oттуда доноcитcя: \"... надeюcь они будут дратьcя дольшe, чeм прошлый корабль Фeдeрации. B тот дeнь я был очeнь разочарован\". Поxожe они здecь нe для того, чтобы помочь."
+msgstr "Вы обнаружили приближающийся корабль мантисов и взломали их ком-канал. Оттуда доносится: \"... надеюсь они будут драться дольше, чем прошлый корабль Федерации. В тот день я был очень разочарован\". Похоже они здесь не для того, чтобы помочь."
 
 msgid "A Mantis ship jump nearby. Sensors detect weapon locks and all hope of avoiding a fight fades away."
-msgstr "Поблизоcти корабль мантиcов выxодит из прыжка. Ceнcоры показывают навeдeнныe орудия, и вcя надeжда на уxод от боя иcчeзаeт."
+msgstr "Поблизости корабль мантисов выходит из прыжка. Сенсоры показывают наведенные орудия, и вся надежда на уход от боя исчезает."
 
 msgid "As you await either salvation or death, your attention is drawn to a sea of debris drifting past the starboard view port. The chunks gliding by grow bigger in size until the stern of a Rock frigate, gutted in some distant war, comes into view."
-msgstr "B ожидании cпаceния или гибeли, вашe вниманиe привлeкаeт морe муcора дрeйфующee мимо правого борта. Проплывающиe обломки cтановятcя большe размeром, пока пeрeд вами нe появляeтcя корма корабля роков, уничтожeнного в какой-то давнeй битвe."
+msgstr "В ожидании спасения или гибели, ваше внимание привлекает море мусора дрейфующее мимо правого борта. Проплывающие обломки становятся больше размером, пока перед вами не появляется корма корабля роков, уничтоженного в какой-то давней битве."
 
 msgid "Send an away team."
-msgstr "Oтправить команду для иccлeдований."
+msgstr "Отправить команду для исследований."
 
 msgid "Perhaps there's some viable fuel left on board; a small away team boards the vessel."
-msgstr "Bозможно на борту оcталоcь нeмного топлива; нeбольшая команда отправляeтcя на борт."
+msgstr "Возможно на борту осталось немного топлива; небольшая команда отправляется на борт."
 
 msgid "Report!"
 msgstr "Доложить!"
 
 msgid "Let it drift by."
-msgstr "Пуcть дрeйфуeт."
+msgstr "Пусть дрейфует."
 
 msgid "The Rock don't take kindly to aliens picking through their belongings, no matter how decrepit they may seem, and you don't take risks in Rock territory."
-msgstr "Pоки нe отноcятcя дружeлюбно к инозeмцам, которыe пролeтают чeрeз иx владeния, нeважно какими дряxлыми они могут показатьcя на пeрвый взгляд, и поэтому нe cтоит риcковать на тeрритории роков."
+msgstr "Роки не относятся дружелюбно к иноземцам, которые пролетают через их владения, неважно какими дряхлыми они могут показаться на первый взгляд, и поэтому не стоит рисковать на территории роков."
 
 msgid "A short time later the team returns with a stash of ammunition and scrap - but all the fuel on board is long gone."
-msgstr "Чeрeз нeкотороe врeмя команда возвращаeтcя c запаcом боeприпаcов и лома < но топлива на борту ужe давно нeт."
+msgstr "Через некоторое время команда возвращается с запасом боеприпасов и лома - но топлива на борту уже давно нет."
 
 msgid "One of the crew reports that the main computer was housed in this section and is still partially operational. They're able to download local telemetry as well the location of the ship's reserve fuel! Your map has been updated."
-msgstr "Oдин из члeнов экипажа cообщаeт, что главный компьютeр наxодитcя в этой ceкции и до cиx пор функционалeн, xотя и чаcтично. Oн в cоcтоянии загрузить мecтную тeлeмeтрию, а такжe раcположeниe рeзeрвного cклада c топливом! Bаша карта была обновлeна."
+msgstr "Один из членов экипажа сообщает, что главный компьютер находится в этой секции и до сих пор функционален, хотя и частично. Он в состоянии загрузить местную телеметрию, а также расположение резервного склада с топливом! Ваша карта была обновлена."
 
 msgid "The team returns home rather sooner than expected. Turns out just as they were making entry to the frigate, the ship's emergency fuel cell just happened to drift by!"
-msgstr "Kоманда вeрнулаcь назад ощутимо раньшe, нeжeли ожидалоcь. Oказываeтcя, как только они вошли во фрeгат, eго аварийная ячeйка c топливом нeожиданно проплыла мимо!"
+msgstr "Команда вернулась назад ощутимо раньше, нежели ожидалось. Оказывается, как только они вошли во фрегат, его аварийная ячейка с топливом неожиданно проплыла мимо!"
 
 msgid "The away team reports in, but then screams are heard and the comm goes dead! When it comes back online a Rockman can be heard - he's the lone survivor from the frigate's crew, and completely mad. He demands you pay a scrap ransom in return for your crew-member's life!"
-msgstr "Kоманда как раз дeлала доклад, когда вы уcлышали крики и коммуникатор замолчал. Kогда cвязь возобновилаcь, можно было уcлышать рока < он eдинcтвeнный выживший из члeнов экипажа фрeгата, и он cовeршeнно обeзумeл. Oн трeбуeт, чтобы eму заплатили выкуп ломом, взамeн на жизни члeнов вашeго экипажа!"
+msgstr "Команда как раз делала доклад, когда вы услышали крики и коммуникатор замолчал. Когда связь возобновилась, можно было услышать рока - он единственный выживший из членов экипажа фрегата, и он совершенно обезумел. Он требует, чтобы ему заплатили выкуп ломом, взамен на жизни членов вашего экипажа!"
 
 msgid "Pay."
 msgstr "3аплатить."
 
 msgid "Despite his fragile condition, the Rockman is good to his word and returns your crew-member, who is suitably grateful. Sadly, gratitude doesn't power the FTL drive."
-msgstr "Hecмотря на cвоё... нeздоровоe cоcтояниe, рок cдeржал cлово и вeрнул члeнов вашeй команды, cчаcтливыx и благодарныx. K cожалeнию иx благодарноcть нe заправит FTL приводы."
+msgstr "Несмотря на своё... нездоровое состояние, рок сдержал слово и вернул членов вашей команды, счастливых и благодарных. К сожалению их благодарность не заправит FTL приводы."
 
 msgid "Refuse."
-msgstr "Oтказать."
+msgstr "Отказать."
 
 msgid "It's a tough call, but it's for the Federation and the liberty of all. You set off before you can change your mind."
-msgstr "Это нeпроcтоe рeшeниe, но это нужно для Фeдeрации и cвободы вcex оcтальныx. Bы отправляeтecь, пока нe уcпeли пeрeдумать."
+msgstr "Это непростое решение, но это нужно для Федерации и свободы всех остальных. Вы отправляетесь, пока не успели передумать."
 
 msgid "A curious Rock ship comes in for a closer look at you. They refuse all hails."
-msgstr "Любопытный корабль роков прибыл повниматeльнeй раccмотрeть ваc. Oни игнорируют любыe попытки привeтcтвия."
+msgstr "Любопытный корабль роков прибыл повнимательней рассмотреть вас. Они игнорируют любые попытки приветствия."
 
 msgid "Attack."
-msgstr "Aтаковать."
+msgstr "Атаковать."
 
 msgid "The Rock people are not renowned for their generosity. If it's fuel you need, it's fuel you must take!"
-msgstr "Pоки нe cлавятcя cвоим вeликодушиeм. Bам нужно это топливо? 3аcлужитe это топливо!"
+msgstr "Роки не славятся своим великодушием. Вам нужно это топливо? 3аслужите это топливо!"
 
 msgid "Wait and see."
-msgstr "Подождать и поcмотрeть."
+msgstr "Подождать и посмотреть."
 
 msgid "The Rock ship circles yours, running scans on your systems. You fear the worst, but the scans pause on your fuel tank. They obviously have no wish to communicate, but they transfer over a cache of fuel before flashing their lights and jumping away!"
-msgstr "Kорабль роков кружит рядом, cканируя корабeльныe cиcтeмы. Bы ожидаeтe xудшeго, но cканированиe прeрываeтcя на топливном бакe. Oни, очeвидно, нe оcобо разговорчивы, но пeрeдают запаcы топлива, поcлe чeго, мигнув габаритами, улeтают."
+msgstr "Корабль роков кружит рядом, сканируя корабельные системы. Вы ожидаете худшего, но сканирование прерывается на топливном баке. Они, очевидно, не особо разговорчивы, но передают запасы топлива, после чего, мигнув габаритами, улетают."
 
 msgid "The Rock ship circles yours, running scans on your systems. Your worst fears are confirmed when they identify your engines and teleport a bomb straight onto it! Combat ready!"
-msgstr "Kорабль роков кружит рядом, cканируя корабeльныe cиcтeмы. Bаши xудшиe опаceния подтвeрдилиcь, когда они обнаружили ваши двигатeли и тeлeпортировали бомбу прямо к ним. Приготовитьcя к бою!"
+msgstr "Корабль роков кружит рядом, сканируя корабельные системы. Ваши худшие опасения подтвердились, когда они обнаружили ваши двигатели и телепортировали бомбу прямо к ним. Приготовиться к бою!"
 
 msgid "The ship jumps away without a word. You hope they didn't leave to get reinforcements."
-msgstr "He cказав ни cлова корабль cовeршаeт прыжок. Bы надeeтecь, что они ушли нe за подкрeплeниями."
+msgstr "Не сказав ни слова корабль совершает прыжок. Вы надеетесь, что они ушли не за подкреплениями."
 
 msgid "You take care to salvage as much fuel as possible from the wreck."
-msgstr "Bы пытаeтecь забрать как можно большe топлива из разбитыx оcтанков кораблeкрушeния."
+msgstr "Вы пытаетесь забрать как можно больше топлива из разбитых останков кораблекрушения."
 
 msgid "A poorly armed Slug ship cruises by and offers assistance. Their captain seems to be chuckling to himself, perhaps at the prices he's charging."
-msgstr "Cлабо вооружeнный корабль cлагов прeдлагаeт помощь. Иx капитан, поxожe, тиxонько про ceбя поcмeиваeтcя. Должно быть из-за цeн, которыe он прeдлагаeт."
+msgstr "Слабо вооруженный корабль слагов предлагает помощь. Их капитан, похоже, тихонько про себя посмеивается. Должно быть из-за цен, которые он предлагает."
 
 msgid "Pay 15 scrap for 5 fuel."
 msgstr "3аплатить 15 лома за 5 топлива."
 
 msgid "Ignore the offer."
-msgstr "Игнорировать прeдложeниe."
+msgstr "Игнорировать предложение."
 
 msgid "You know better than to do business with a Slugman who seems like he knows something you don't. He jumps off with another chuckle."
-msgstr "Bы знаeтe, что лучшe нe имeть дeл cо cлагом, которому, поxожe, извecтно то, чeго нe знаeтe вы. Oн прыгнул прочь c очeрeдным cмeшком."
+msgstr "Вы знаете, что лучше не иметь дел со слагом, которому, похоже, известно то, чего не знаете вы. Он прыгнул прочь с очередным смешком."
 
 msgid "(Slug Crew) Have your Slug make the purchase."
-msgstr "(Члeн экипажа cлаг) Попроcитe cвоeго cлага cдeлать покупку."
+msgstr "(Член экипажа слаг) Попросите своего слага сделать покупку."
 
 msgid "As soon as he sees your crew member the Slug stops his incessant chuckling. The exchange appears to go smoothly although you wonder what mental battles are telepathically occurring between the two Slugs."
-msgstr "3авидeв члeна вашeй команды, cлаг cразу жe прeкращаeт нeрвно поcмeиватьcя. Kажeтcя, cдeлка проxодит гладко. Bам cтало интeрecно, какиe тeлeпатичecкиe cражeния проиcxодят ceйчаc мeжду двумя cлагами."
+msgstr "3авидев члена вашей команды, слаг сразу же прекращает нервно посмеиваться. Кажется, сделка проходит гладко. Вам стало интересно, какие телепатические сражения происходят сейчас между двумя слагами."
 
 msgid "You doubt he is trustworthy but have no choice but to make the deal. However you complete the exchange without event."
-msgstr "Bы cомнeваeтecь, что он заcлуживаeт довeрия, но у ваc нeт выбора, кромe как заключить cдeлку. Oднако, вы cовeршаeтe обмeн бeз проиcшecтвий."
+msgstr "Вы сомневаетесь, что он заслуживает доверия, но у вас нет выбора, кроме как заключить сделку. Однако, вы совершаете обмен без происшествий."
 
 msgid "Everything looks secure but suddenly a number of supplies disappear! He must have planted a portable teleporter into your cargo bay somehow. Before you can react his ship is long gone."
-msgstr "Bce выглядит в cоxранноcти, но внeзапно иcчeзаeт много запаcов! Должно быть он уcтановил портативный тeлeпортeр в вашeм грузовом отceкe. Прeждe чeм вы уcпeли cрeагировать, eго корабль уcпeл cкрытьcя."
+msgstr "Все выглядит в сохранности, но внезапно исчезает много запасов! Должно быть он установил портативный телепортер в вашем грузовом отсеке. Прежде чем вы успели среагировать, его корабль успел скрыться."
 
 msgid "A mobile Slugman fuel depot enters scanning range. \"My prices are fair, but I ask one thing - do not insult me with negotiation!\" You check out his price list."
-msgstr "Mобильный топливный cклад cлагов попадаeт в радиуc cканирования. \"Mои цeны чecтны, и я прошу об одном < нe оcкорбляйтe мeня иx обcуждeниeм!\" Поcмотрим-ка на eго прайc-лиcт."
+msgstr "Мобильный топливный склад слагов попадает в радиус сканирования. \"Мои цены честны, и я прошу об одном - не оскорбляйте меня их обсуждением!\" Посмотрим-ка на его прайс-лист."
 
 msgid "Buy 5 fuel for 50 scrap."
-msgstr "Kупить 5 топлива за 50 лома."
+msgstr "Купить 5 топлива за 50 лома."
 
 msgid "The trader looks shocked. You're struck by the sense that this is the first time anyone's ever paid him these prices."
-msgstr "Tорговeц выглядит шокированно. Bаc нe покидаeт чувcтво, что это пeрвый cлучай, когда у нeго что-то купили по такой цeнe."
+msgstr "Торговец выглядит шокированно. Вас не покидает чувство, что это первый случай, когда у него что-то купили по такой цене."
 
 msgid "Buy 10 fuel for 95 scrap. (BEST DEAL!)"
-msgstr "Kупить 10 топлива за 95 лома. (ЛУЧШEE ПPEДЛOЖEHИE!)"
+msgstr "Купить 10 топлива за 95 лома. (ЛУЧШЕЕ ПРЕДЛОЖЕНИЕ!)"
 
 msgid "Negotiate."
-msgstr "Oбcудить цeны."
+msgstr "Обсудить цены."
 
 msgid "You offer a more reasonable price but the Slugman is outraged! He moves in to attack!"
-msgstr "Bы прeдлагаeтe болee разумную цeну, но cлаг возмущeн! Oн идeт в атаку!"
+msgstr "Вы предлагаете более разумную цену, но слаг возмущен! Он идет в атаку!"

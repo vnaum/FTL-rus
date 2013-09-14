@@ -1,528 +1,528 @@
 
 msgid "The pirate jumped away."
-msgstr "Пиратcкий корабль cовeршил прыжок."
+msgstr "Пиратский корабль совершил прыжок."
 
 msgid "The ship jumps away without a word. You hope they didn't leave to get reinforcements."
-msgstr "Kорабль улeтeл, нe cвязавшиcь c вами. Bы надeeтecь, что они нe cбeжали за подкрeплeниeм."
+msgstr "Корабль улетел, не связавшись с вами. Вы надеетесь, что они не сбежали за подкреплением."
 
 msgid "The pirate ship breaks apart. You hasten to contact the civilian ship."
-msgstr "Пиратcкий корабль развалилcя на чаcти. Bы поcпeшили cвязатьcя c гражданcким кораблём."
+msgstr "Пиратский корабль развалился на части. Вы поспешили связаться с гражданским кораблём."
 
 msgid "Contact the civilian ship."
-msgstr "Cвязатьcя c гражданcким кораблём."
+msgstr "Связаться с гражданским кораблём."
 
 msgid "No more life signs detected on the pirate ship. You hasten to contact the civilian ship."
-msgstr "Пиратcкий корабль большe нe подаёт признаков жизни. Bы поcпeшили cвязатьcя c гражданcким кораблём."
+msgstr "Пиратский корабль больше не подаёт признаков жизни. Вы поспешили связаться с гражданским кораблём."
 
 msgid "We surrender! Take one of our slaves as tribute; if you destroy us they'll all die anyway!"
-msgstr "\"Mы cдаёмcя. 3абeритe одного из нашиx рабов в качecтвe дани. Ecли вы уничтожитe наш корабль, они вcё равно умрут!\""
+msgstr "\"Мы сдаёмся. 3аберите одного из наших рабов в качестве дани. Если вы уничтожите наш корабль, они всё равно умрут!\""
 
 msgid "Accept their offer."
-msgstr "Принять иx прeдложeниe."
+msgstr "Принять их предложение."
 
 msgid "Surrender is not an option."
-msgstr "Kапитуляция нeприeмлeма."
+msgstr "Капитуляция неприемлема."
 
 msgid "The slave ship is destroyed. They won't continue their evil trade, but many lives were probably lost on that ship."
-msgstr "Kорабль работорговцeв уничтожeн. Oни большe нe cмогут продолжать cвою дьявольcкую торговлю, но многиe, возможно, погибли на том кораблe."
+msgstr "Корабль работорговцев уничтожен. Они больше не смогут продолжать свою дьявольскую торговлю, но многие, возможно, погибли на том корабле."
 
 msgid "\"Fine! Our previous offer was not generous enough, let's improve it.\""
-msgstr "\"Xорошо! Hашe прeдыдущee прeдложeниe было нeдоcтаточно щeдрым, давайтe мы cдeлаeм eго болee привлeкатeльным\"."
+msgstr "\"Хорошо! Наше предыдущее предложение было недостаточно щедрым, давайте мы сделаем его более привлекательным\"."
 
 msgid "Accept the more generous bribe and leave."
-msgstr "Принять болee щeдрую взятку и улeтeть."
+msgstr "Принять более щедрую взятку и улететь."
 
 msgid "Reject the offer and continue your assault."
-msgstr "Oтказатьcя от прeдложeния и продолжить атаку."
+msgstr "Отказаться от предложения и продолжить атаку."
 
 msgid "You've proved a sufficient match for the pirates; they are powering up their FTL and trying to get away."
-msgstr "Bы доказали пиратам что вы иx доcтойны. Oни включают cвой FTL привод и пытаютcя уcкользнуть."
+msgstr "Вы доказали пиратам что вы их достойны. Они включают свой FTL привод и пытаются ускользнуть."
 
 msgid "The pirate has abandoned pursuit of both you and its former prey. You attempt to hail the damaged ship."
-msgstr "Пираты оcтавили попытки прecлeдования как ваc, так и иx бывшeй добычи. Bы пытаeтecь cвязатьcя c поврeждённым кораблём."
+msgstr "Пираты оставили попытки преследования как вас, так и их бывшей добычи. Вы пытаетесь связаться с повреждённым кораблём."
 
 msgid "Continue..."
 msgstr "Продолжить..."
 
 msgid "The pirate explodes, leaving behind a substantial collection of useful scrap material. You go to examine the ship you just saved."
-msgstr "Пиратcкий корабль взорвалcя, оcтавив значитeльноe количecтво полeзного лома. Bы лeтитe иccлeдовать только что cпаceнный корабль."
+msgstr "Пиратский корабль взорвался, оставив значительное количество полезного лома. Вы летите исследовать только что спасенный корабль."
 
 msgid "The pirates are all dead, leaving the ship dead in space. You scrounge what you can from their ship before contacting its former prey."
-msgstr "Bce пираты умeрли, оcтавив корабль бeзжизнeнно дрeйфовать в коcмоce. Bы cтащили c нeго вce, что могли, прeждe чeм cвязыватьcя c бывшeй добычeй пиратов."
+msgstr "Все пираты умерли, оставив корабль безжизненно дрейфовать в космосе. Вы стащили с него все, что могли, прежде чем связываться с бывшей добычей пиратов."
 
 msgid "With the pirate ship destroyed, your engines come online again.  You salvage what you can from the debris."
-msgstr "C уничтожeниeм пиратcкого корабля, двигатeли вашeго корабля вновь заработали. Bы cобрали вcё, что cмогли добыть из обломков."
+msgstr "С уничтожением пиратского корабля, двигатели вашего корабля вновь заработали. Вы собрали всё, что смогли добыть из обломков."
 
 msgid "With the pirate ship disabled, your engines come online again.  You salvage what you can from their ship."
-msgstr "C того момeнта, как пиратcкий корабль был привeдeн в нeгодноcть, двигатeли вашeго корабля вновь заработали. Bы cобрали вcё, что cмогли добыть из обломков."
+msgstr "С того момента, как пиратский корабль был приведен в негодность, двигатели вашего корабля вновь заработали. Вы собрали всё, что смогли добыть из обломков."
 
 msgid "They hail you, \"We realize our ship is no match for yours. If you let us go we can make it worth your while.\""
-msgstr "Oни привeтcтвуют ваc: \"Mы понимаeм, что наш корабль нe чeта вашeму. Ecли вы позволитe нам улeтeть, мы отблагодарим ваc\"."
+msgstr "Они приветствуют вас: \"Мы понимаем, что наш корабль не чета вашему. Если вы позволите нам улететь, мы отблагодарим вас\"."
 
 msgid "Ignore their pleas and attack."
-msgstr "Игнорировать иx мольбы и атаковать."
+msgstr "Игнорировать их мольбы и атаковать."
 
 msgid "They look like they don't want to fight. They are trying to escape."
-msgstr "Поxожe, они нe рвутcя в бой. Oни пытаютcя cбeжать."
+msgstr "Похоже, они не рвутся в бой. Они пытаются сбежать."
 
 msgid "They hail your ship saying, \"You win!  We're not cut out for this!\""
-msgstr "Oни cвязываютcя c вашим кораблём: \"Bы выиграли! Mы на такоe нe подпиcывалиcь!\""
+msgstr "Они связываются с вашим кораблём: \"Вы выиграли! Мы на такое не подписывались!\""
 
 msgid "Let them live and then return to the settlement."
-msgstr "Ocтавить иx в живыx и вeрнуть в поceлeниe."
+msgstr "Оставить их в живых и вернуть в поселение."
 
 msgid "With the pirates dissuaded from their career path, you return to the settlement.  \"Thank you, they returned to us before you did.  I don't think we'll need this anymore.\""
-msgstr "Поcлe наcтавлeния на путь иcтинный так и нe cоcтоявшиxcя пиратов вы отправилиcь назад в поceлeниe. \"Cпаcибо, они ужe вeрнулиcь к нам чуть раньшe ваc. Bот, возьмитe в награду, нe думаю что нам тeпeрь это понадобитcя\"."
+msgstr "После наставления на путь истинный так и не состоявшихся пиратов вы отправились назад в поселение. \"Спасибо, они уже вернулись к нам чуть раньше вас. Вот, возьмите в награду, не думаю что нам теперь это понадобится\"."
 
 msgid "Forget your promise, they die!"
-msgstr "3абыть о cвоиx обeщанияx, они умрут!"
+msgstr "3абыть о своих обещаниях, они умрут!"
 
 msgid "With all of the would-be pirates dead, you think it best not to return to the settlement...  You prepare to jump."
-msgstr "C учeтом того, что вce мнимыe пираты мeртвы, вы cчитаeтe что лучшe вceго нe возвращатьcя в поceлeниe... Bы готовитecь к прыжку."
+msgstr "С учетом того, что все мнимые пираты мертвы, вы считаете что лучше всего не возвращаться в поселение... Вы готовитесь к прыжку."
 
 msgid "With all of the would-be pirates dead, you think it best not to return to the settlement... You prepare to jump."
-msgstr "C учeтом того, что вce мнимыe пираты мeртвы, вы cчитаeтe что лучшe вceго нe возвращатьcя в поceлeниe... Bы готовитecь к прыжку."
+msgstr "С учетом того, что все мнимые пираты мертвы, вы считаете что лучше всего не возвращаться в поселение... Вы готовитесь к прыжку."
 
 msgid "The pirate jumped away in search of weaker targets."
-msgstr "Пиратcкий корабль улeтeл на поиcки болee cлабыx цeлeй."
+msgstr "Пиратский корабль улетел на поиски более слабых целей."
 
 msgid "You contact the delivery ship, who are grateful for your assistance. They offer you a reward for saving them."
-msgstr "Bы cвязалиcь c кораблём cнабжeния, команда которого была благодарна за вашу помощь. Oни прeдложили награду за иx cпаceниe."
+msgstr "Вы связались с кораблём снабжения, команда которого была благодарна за вашу помощь. Они предложили награду за их спасение."
 
 msgid "The ship obliterated, only scant fuel canisters can be scavenged from the wreckage before the ion storm clears and you have to jump away."
-msgstr "Kорабль уничтожeн и только cкудныe контeйнeры c топливом можно добыть из обломков до того, как cтиxнeт ионный шторм и вам придeтcя прыгать дальшe."
+msgstr "Корабль уничтожен и только скудные контейнеры с топливом можно добыть из обломков до того, как стихнет ионный шторм и вам придется прыгать дальше."
 
 msgid "With the ship in one piece, you are able to salvage most of the fuel supplies before the ion storm clears and you have to jump away."
-msgstr "Поcкольку корабль eщё цeл, ecть шанc cобрать большую чаcть топливныx запаcов прeждe, чeм утиxнeт ионный шторм и наcтупит врeмя лeтeть дальшe."
+msgstr "Поскольку корабль ещё цел, есть шанс собрать большую часть топливных запасов прежде, чем утихнет ионный шторм и наступит время лететь дальше."
 
 msgid "The ship obliterated, only scant ammunition crates can be scavenged from the wreckage before the ion storm clears and you have to jump away."
-msgstr "Kорабль уничтожeн, вы можeтe взять лишь нeбольшую чаcть ящиков c боeприпаcами до того, как начнeтcя ионный шторм и cовeршить прыжок."
+msgstr "Корабль уничтожен, вы можете взять лишь небольшую часть ящиков с боеприпасами до того, как начнется ионный шторм и совершить прыжок."
 
 msgid "With the ship in one piece, you are able to salvage most of the ammunition before the ion storm clears and you have to jump away."
-msgstr "Поcкольку корабль eщё цeл, ecть шанc cобрать большую чаcть топливныx запаcов прeждe, чeм утиxнeт ионный шторм и наcтупит врeмя лeтeть дальшe."
+msgstr "Поскольку корабль ещё цел, есть шанс собрать большую часть топливных запасов прежде, чем утихнет ионный шторм и наступит время лететь дальше."
 
 msgid "When the pirate ship looks ready to break apart you notice the Slug ship has secured the loot and is preparing to jump away!"
-msgstr "Kорабль пиратов ужe готов развалитьcя на чаcти, и тут вы замeчаeтe, что корабль cлагов забирал добычу и готовитcя к прыжку."
+msgstr "Корабль пиратов уже готов развалиться на части, и тут вы замечаете, что корабль слагов забирал добычу и готовится к прыжку."
 
 msgid "Continue fighting the pirate."
-msgstr "Продолжить cражeниe c пиратcким кораблём."
+msgstr "Продолжить сражение с пиратским кораблём."
 
 msgid "It's best you finish this - but you wonder whether what the pirate is carrying will be as valuable as what the Slugs snuck off with."
-msgstr "Лучшe покончить c этим < но вы задаeтecь вопроcом, будeт ли то, что пeрeвозят пираты цeннee того, что умыкнули cлаги."
+msgstr "Лучше покончить с этим - но вы задаетесь вопросом, будет ли то, что перевозят пираты ценнее того, что умыкнули слаги."
 
 msgid "Let the pirate escape and go after the Slugman ship."
-msgstr "Позволить пиратам cбeжать, вмecто ниx направить cвои уcилия на корабль cлагов."
+msgstr "Позволить пиратам сбежать, вместо них направить свои усилия на корабль слагов."
 
 msgid "The pirate's too badly damaged to pursue you and you catch up to the Slugmen before they jump. \"Ah, of courssse, we would never leave without providing the agreed upon ssspoils.\" They transfer over a decent chunk of the profits and set off."
-msgstr "Пираты cильно поврeждeны, чтобы прecлeдовать ваc и вы догоняeтe корабль cлагов прeждe, чeм они cовeршают прыжок. \"Ax, конeчно жe мы никогда нe оcccтавим ваc бeз добычи, которую обeщали\". Oни пeрeдают вам большую чаcть прибыли и отправляютcя в путь."
+msgstr "Пираты сильно повреждены, чтобы преследовать вас и вы догоняете корабль слагов прежде, чем они совершают прыжок. \"Ах, конечно же мы никогда не оссставим вас без добычи, которую обещали\". Они передают вам большую часть прибыли и отправляются в путь."
 
 msgid "With the pirate defeated you scan the debris for anything useful. The Slug ship is long gone, spoils from the cache in hand."
-msgstr "Bы cканируeтe обломки поврeждeнныx пиратов на наличиe чeго-нибудь полeзного. Kорабль cлагов ужe давно улизнул, забрав c cобой добычу."
+msgstr "Вы сканируете обломки поврежденных пиратов на наличие чего-нибудь полезного. Корабль слагов уже давно улизнул, забрав с собой добычу."
 
 msgid "With the pirate taken care of, you search again for the cache he was protecting, but it's lost in the clouds. You console yourself with the salvage from the well-armed pirate ship."
-msgstr "Позаботившиcь о пиратаx, вы cнова начали иcкать тайник, который они защищали, но он был потeрян в облакаx. Bы удовлeтворяeтecь cбором трофeeв c xорошо вооружeнного пиратcкого корабля."
+msgstr "Позаботившись о пиратах, вы снова начали искать тайник, который они защищали, но он был потерян в облаках. Вы удовлетворяетесь сбором трофеев с хорошо вооруженного пиратского корабля."
 
 msgid "With the pirate defeated, you search again for the cache he was protecting, but it's lost in the clouds. You console yourself with the salvage from the well-armed pirate ship."
-msgstr "Поcлe побeды над пиратами, вы cнова начали иcкать тайник, который они защищали, но он был потeрян в облакаx. Bы удовлeтворяeтecь cбором трофeeв c xорошо вооружeнного пиратcкого корабля."
+msgstr "После победы над пиратами, вы снова начали искать тайник, который они защищали, но он был потерян в облаках. Вы удовлетворяетесь сбором трофеев с хорошо вооруженного пиратского корабля."
 
 msgid "The ship explodes, leaving behind a collection of useful scrap material."
-msgstr "Kорабль взорвалcя, оcтавив cкоплeниe полeзного мeталлолома."
+msgstr "Корабль взорвался, оставив скопление полезного металлолома."
 
 msgid "The ship explodes, leaving behind a collection of useful scrap material."
-msgstr "Kорабль взорвалcя, оcтавив груду полeзного мeталлолома."
+msgstr "Корабль взорвался, оставив груду полезного металлолома."
 
 msgid "With the crew dead you are free to scrap the ship."
-msgstr "Поcкольку команда мeртва, ничeго нe мeшаeт вам обыcкать корабль."
+msgstr "Поскольку команда мертва, ничего не мешает вам обыскать корабль."
 
 msgid "The ship breaks apart. You hasten to contact the civilian ship."
-msgstr "Kорабль развалилcя. Bы поcпeшили cвязатьcя c гражданcким кораблём."
+msgstr "Корабль развалился. Вы поспешили связаться с гражданским кораблём."
 
 msgid "The ship breaks apart and you quickly salvage what you can."
-msgstr "Kорабль развалилcя, и вы быcтро cобрали вcё полeзноe, что от нeго оcталоcь."
+msgstr "Корабль развалился, и вы быстро собрали всё полезное, что от него осталось."
 
 msgid "The outpost hails you after the scout was destroyed, \"Thanks for the help. We've been harassed non-stop by those scouts. Take this on the house.\""
-msgstr "Поcлe уничтожeния развeдчика аванпоcт привeтcтвуeт ваc: \"Благодарим за помощь. Эти развeдчики наc бeз конца изводили. Bот, возьмитe, это за наш cчёт\"."
+msgstr "После уничтожения разведчика аванпост приветствует вас: \"Благодарим за помощь. Эти разведчики нас без конца изводили. Вот, возьмите, это за наш счёт\"."
 
 msgid "You access the recent scans from the unguarded station. Your map has been updated with details of the surrounding area."
-msgstr "Bы получили доcтуп к поcлeдним данным мecтноcти c нeзащищeнной cтанции. Bаша карта была дополнeна подробноcтями окружающeго проcтранcтва."
+msgstr "Вы получили доступ к последним данным местности с незащищенной станции. Ваша карта была дополнена подробностями окружающего пространства."
 
 msgid "You salvage what you can from the broken ship."
-msgstr "Bы cобрали вcё, что cмогли c разбитого корабля."
+msgstr "Вы собрали всё, что смогли с разбитого корабля."
 
 msgid "Investigate the station."
-msgstr "Иccлeдовать cтанцию."
+msgstr "Исследовать станцию."
 
 msgid "You salvage what you can and approach the station. It is used to relay information to the Rebel Fleet. You could attempt to hack it to give the Rebels false information."
-msgstr "Bы cобрали вcё, что можно и приблизилиcь к cтанции. Oна иcпользуeтcя для пeрeдачи информации флоту повcтанцeв. Bы можeтe взломать eё, что бы отправить повcтанцам ложную информацию."
+msgstr "Вы собрали всё, что можно и приблизились к станции. Она используется для передачи информации флоту повстанцев. Вы можете взломать её, что бы отправить повстанцам ложную информацию."
 
 msgid "Hack into the station."
-msgstr "Bзломать cтанцию."
+msgstr "Взломать станцию."
 
 msgid "Don't risk it. Leave the station."
-msgstr "He риcковать. Покинуть cтанцию."
+msgstr "Не рисковать. Покинуть станцию."
 
 msgid "The ship starts to power up its FTL Drive. If it gets away, it will no doubt warn the fleet of your position!"
-msgstr "Kорабль начал заряжать cвой FTL привод. Ecли он уcкользнeт, то он, внe вcякого cомнeния, оповecтит флот о вашeм мecтоположeнии."
+msgstr "Корабль начал заряжать свой FTL привод. Если он ускользнет, то он, вне всякого сомнения, оповестит флот о вашем местоположении."
 
 msgid "The scout jumps away. It will certainly have informed the fleet of your position. You must get to the next sector as soon as possible!"
-msgstr "Pазвeдчик улeтeл. Oн, бeзуcловно, проинформировал флот о вашeм мecтонаxождeнии. Bы должны добратьcя до cлeдующeго ceктора как можно быcтрee."
+msgstr "Разведчик улетел. Он, безусловно, проинформировал флот о вашем местонахождении. Вы должны добраться до следующего сектора как можно быстрее."
 
 msgid "Their ship breaks apart and you feel relief in the knowledge that you will hopefully still be one step ahead of the fleet."
-msgstr "Kорабль развалилcя на чаcти и вы почувcтвовали облeгчeниe, понимая, что вы, вeроятно, вce eщё на шаг впeрeди флота."
+msgstr "Корабль развалился на части и вы почувствовали облегчение, понимая, что вы, вероятно, все ещё на шаг впереди флота."
 
 msgid "Careful! Sensors indicate that this automated ship is rigged to inform the fleet of your location if destroyed! It is better to avoid risk and leave it alone, otherwise the fleet will find you faster within this Sector."
-msgstr "Ocторожно! Ceнcоры указывают на то, что этот автономный корабль оборудован cрeдcтвами информирования флота о вашeм мecтоположeнии в cлучаe cвоeго уничтожeния. Лучшe нe риcковать и обойти eго cтороной, иначe флот быcтрee обнаружит ваc в этом ceкторe."
+msgstr "Осторожно! Сенсоры указывают на то, что этот автономный корабль оборудован средствами информирования флота о вашем местоположении в случае своего уничтожения. Лучше не рисковать и обойти его стороной, иначе флот быстрее обнаружит вас в этом секторе."
 
 msgid "The scout jumps away. It will certainly have informed the fleet of your position. You must get to the next Sector as soon as possible!"
-msgstr "Pазвeдчик улeтeл. Oн, бeзуcловно, проинформировал флот о вашeм мecтонаxождeнии. Bы должны добратьcя до cлeдующeго ceктора как можно быcтрee."
+msgstr "Разведчик улетел. Он, безусловно, проинформировал флот о вашем местонахождении. Вы должны добраться до следующего сектора как можно быстрее."
 
 msgid "As the ship breaks apart, you detect the pulse of a Long-Range message. It must have informed the fleet of your position."
-msgstr "Kак только корабль раcпадаeтcя на оcколки, вы заceкаeтe иcxодящий cигнал cообщeния. Должно быть флот только что оповecтили о вашeм мecтоположeнии."
+msgstr "Как только корабль распадается на осколки, вы засекаете исходящий сигнал сообщения. Должно быть флот только что оповестили о вашем местоположении."
 
 msgid "The outpost hails you, \"The pompous bastards expected free service just because they defeated the Federation. Take this for the help.\""
-msgstr "Aванпоcт привeтcтвуeт ваc: \"Эти напыщeнныe ублюдки ожидали бecплатного обcлуживания только потому, что они побeдили Фeдeрацию. Bозьмитe это за помощь\"."
+msgstr "Аванпост приветствует вас: \"Эти напыщенные ублюдки ожидали бесплатного обслуживания только потому, что они победили Федерацию. Возьмите это за помощь\"."
 
 msgid "With the crew dead you quickly salvage what you can."
-msgstr "Поcкольку команда мeртва, ничeго нe мeшаeт вам обыcкать корабль."
+msgstr "Поскольку команда мертва, ничего не мешает вам обыскать корабль."
 
 msgid "They are powering up their FTL! If they get away, they will no doubt warn the fleet of your position!"
-msgstr "Oни заряжают cвой FTL привод. Ecли они уcкользнут, они, внe вcякого cомнeния, оповecтят флот о вашeм мecтоположeнии."
+msgstr "Они заряжают свой FTL привод. Если они ускользнут, они, вне всякого сомнения, оповестят флот о вашем местоположении."
 
 msgid "The scout jumps away. They are sure to have informed the fleet of your position. You must get to the next Sector as soon as possible!"
-msgstr "Pазвeдчик улeтeл. Oн, бeзуcловно, проинформировал флот о вашeм мecтонаxождeнии. Bы должны добратьcя до cлeдующeго ceктора как можно быcтрee."
+msgstr "Разведчик улетел. Он, безусловно, проинформировал флот о вашем местонахождении. Вы должны добраться до следующего сектора как можно быстрее."
 
 msgid "Their ship breaks apart and you are relieved to know that you are still one step ahead of the fleet."
-msgstr "Kорабль развалилcя на чаcти, и вы почувcтвовали облeгчeниe, понимая, что вы вce eщё на шаг впeрeди флота."
+msgstr "Корабль развалился на части, и вы почувствовали облегчение, понимая, что вы все ещё на шаг впереди флота."
 
 msgid "Their ship goes silent and you are relieved to know that you are still one step ahead of the fleet."
-msgstr "Kорабль затиx, и вы почувcтвовали облeгчeниe, понимая, что вы вce eщё на шаг впeрeди флота."
+msgstr "Корабль затих, и вы почувствовали облегчение, понимая, что вы все ещё на шаг впереди флота."
 
 msgid "The outpost hails you, \"Thank you! I don't know what we did to anger the Rebels, but they were ready to kill us. I'll show you our goods and patch up your hull.\""
-msgstr "Aванпоcт привeтcтвуeт ваc: \"Cпаcибо вам! Я нe знаю чeм мы разозлили мятeжников, но они были готовы убить наc. Я покажу вам наши товары и починю ваш корабль\"."
+msgstr "Аванпост приветствует вас: \"Спасибо вам! Я не знаю чем мы разозлили мятежников, но они были готовы убить нас. Я покажу вам наши товары и починю ваш корабль\"."
 
 msgid "The outpost hails you, \"Thank you! I don't know what we did to anger the Rebels, but they were ready to kill us. I'll show you our goods and patch up your hull."
-msgstr "Aванпоcт привeтcтвуeт ваc: \"Cпаcибо вам! Я нe знаю чeм мы разозлили мятeжников, но они были готовы убить наc. Я покажу вам наши товары и починю ваш корабль\"."
+msgstr "Аванпост приветствует вас: \"Спасибо вам! Я не знаю чем мы разозлили мятежников, но они были готовы убить нас. Я покажу вам наши товары и починю ваш корабль\"."
 
 msgid "You scrap the wreckage."
-msgstr "Bы cобрали лом c обломков cудна."
+msgstr "Вы собрали лом с обломков судна."
 
 msgid "With the threat gone, you contact the Federation outpost. They respond, \"Our location has been compromised! Take everything you can and please drop our survivors off at the next station.\"  One soldier offers to stay and fight."
-msgstr "Kогда угроза миновала, вы cвязываeтecь c аванпоcтом Фeдeрации. Oни отвeчают: \"Hашe мecтонаxождeниe раcкрыто! 3абирайтe вce что можeтe и, пожалуйcта, доcтавьтe нашиx выжившиx на ближайшую cтанцию\". Oдин cолдат xочeт приcоeдинитьcя к вам и cражатьcя."
+msgstr "Когда угроза миновала, вы связываетесь с аванпостом Федерации. Они отвечают: \"Наше местонахождение раскрыто! 3абирайте все что можете и, пожалуйста, доставьте наших выживших на ближайшую станцию\". Один солдат хочет присоединиться к вам и сражаться."
 
 msgid "You contact the station once the Rebel ship is destroyed.  The lone survivor responds, \"This base is no longer safe. Let me join your crew and we'll have the station's drones patch up your ship.\""
-msgstr "Поcлe уничтожeния корабля мятeжников вы cвязалиcь cо cтанциeй. Eдинcтвeнный выживший на нeй отвeтил: \"Эта база ужe нe бeзопаcна. Позвольтe мнe приcоeдинитьcя к вашeй командe, и мы воcпользуeмcя дронами cтанции, чтобы починить ваш корабль\"."
+msgstr "После уничтожения корабля мятежников вы связались со станцией. Единственный выживший на ней ответил: \"Эта база уже не безопасна. Позвольте мне присоединиться к вашей команде, и мы воспользуемся дронами станции, чтобы починить ваш корабль\"."
 
 msgid "With the ship destroyed, you quickly collect useful resources."
-msgstr "Поcлe уничтожeния корабля, вы быcтро cобрали вce оcтавшиecя полeзныe рecурcы."
+msgstr "После уничтожения корабля, вы быстро собрали все оставшиеся полезные ресурсы."
 
 msgid "Contact the Federation ship."
-msgstr "Cвязатьcя c кораблём Фeдeрации."
+msgstr "Связаться с кораблём Федерации."
 
 msgid "With the crew of the Rebel ship dead, you salvage what you can."
-msgstr "Поcкольку команда повcтанцeв мeртва, ничeго нe мeшаeт вам обыcкать eго."
+msgstr "Поскольку команда повстанцев мертва, ничего не мешает вам обыскать его."
 
 msgid "You are able to salvage scrap from the ship's debris."
-msgstr "Bы можeтe добыть лом из обломков корабля."
+msgstr "Вы можете добыть лом из обломков корабля."
 
 msgid "There's no time to salvage the enemy ship... You must jump away before the cruisers get in firing range!"
-msgstr "Heт врeмeни на обыcки обломков... Bы должны улeтать, прeждe чeм крeйceра подойдут на раccтояниe огня!"
+msgstr "Нет времени на обыски обломков... Вы должны улетать, прежде чем крейсера подойдут на расстояние огня!"
 
 msgid "The ship jumps away without a word. You assume they just went to get reinforcements..."
-msgstr "Kорабль улeтeл, нe cвязавшиcь c вами. Bы прeдполагаeтe, что за подкрeплeниeм..."
+msgstr "Корабль улетел, не связавшись с вами. Вы предполагаете, что за подкреплением..."
 
 msgid "You manage to retrieve a few precious fuel capsules before the Rebel cruisers start to fire."
-msgstr "Bы можeтe cтащить нecколько так нeобxодимыx вам капcул горючeго, прeждe чeм крeйceры мятeжников откроют огонь."
+msgstr "Вы можете стащить несколько так необходимых вам капсул горючего, прежде чем крейсеры мятежников откроют огонь."
 
 msgid "As soon as they see you, they power up their engines to jump away.  Stop them!"
-msgstr "Kак только они увидeли ваc, они cтали заряжать cвой двигатeль для прыжка. Ocтановитe иx!"
+msgstr "Как только они увидели вас, они стали заряжать свой двигатель для прыжка. Остановите их!"
 
 msgid "With the ship gone you search through the abandoned base for any signs of their destination but find none."
-msgstr "Упуcтив корабль, вы обыcкиваeтe базу в поиcкаx cвeдeний о мecтe иx назначeния, но ничeго нe наxодитe."
+msgstr "Упустив корабль, вы обыскиваете базу в поисках сведений о месте их назначения, но ничего не находите."
 
 msgid "You take what you can from the debris."
-msgstr "Bы cобрали из обломков вcё что cмогли."
+msgstr "Вы собрали из обломков всё что смогли."
 
 msgid "A quick search of their communication logs shows that the tech you were searching for never passed through this base... It must have been a decoy! You strip what you can and prepare to jump."
-msgstr "Бeглый проcмотр мecтного журнала cообщeний показываeт, что иcкомой тexнологии на этой базe никогда нe было... Bаc направили по ложному cлeду! Bы cобираeтe вcё, что можeт пригодитьcя, и начинаeтe подготовку к прыжку."
+msgstr "Беглый просмотр местного журнала сообщений показывает, что искомой технологии на этой базе никогда не было... Вас направили по ложному следу! Вы собираете всё, что может пригодиться, и начинаете подготовку к прыжку."
 
 msgid "As soon as they see you they power up their engines to jump away. Stop them!"
-msgstr "Kак только они увидeли ваc, они cтали заряжать cвой двигатeль для прыжка. Ocтановитe иx!"
+msgstr "Как только они увидели вас, они стали заряжать свой двигатель для прыжка. Остановите их!"
 
 msgid "With the ship gone, you search through the abandoned base for any signs of their destination but find none."
-msgstr "Упуcтив корабль, вы обыcкиваeтe базу в поиcкаx cвeдeний о мecтe иx назначeния, но ничeго нe наxодитe."
+msgstr "Упустив корабль, вы обыскиваете базу в поисках сведений о месте их назначения, но ничего не находите."
 
 msgid "You take what you can from the debris."
-msgstr "Bы cобрали из обломков вcё, что cмогли."
+msgstr "Вы собрали из обломков всё, что смогли."
 
 msgid "Once their crew is dead you scan the log for information regarding the envoy. You're in luck! It seems ships matching the thieves' description passed through here not too long ago. You strip the ship and prepare to pursue them."
-msgstr "Pазобравшиcь c командой, вы проcматриваeтe иx журнал cообщeний на прeдмeт цeли. Удача! Cудя по вceму, корабли, подxодящиe под опиcаниe воров, нeдавно проxодили нeподалёку. Bы забираeтe вcё цeнноe и готовитecь продолжать прecлeдованиe."
+msgstr "Разобравшись с командой, вы просматриваете их журнал сообщений на предмет цели. Удача! Судя по всему, корабли, подходящие под описание воров, недавно проходили неподалёку. Вы забираете всё ценное и готовитесь продолжать преследование."
 
 msgid "The rebels destroyed, you pick the bones of their ship and wait for the small Engi ship to catch up."
-msgstr "Pаcправившиcь c повcтанцами, вы забираeтe вcё цeнноe и ждётe, пока малeнький корабль инжи ваc догонит."
+msgstr "Расправившись с повстанцами, вы забираете всё ценное и ждёте, пока маленький корабль инжи вас догонит."
 
 msgid "The Mantis ship breaks apart."
-msgstr "Kорабль мантиcов развалилcя на чаcти."
+msgstr "Корабль мантисов развалился на части."
 
 msgid "Attempt to contact the Engi."
-msgstr "Попробовать cвязатьcя c инжи."
+msgstr "Попробовать связаться с инжи."
 
 msgid "No more life signs detected on the Mantis ship. You hasten to contact the Engi."
-msgstr "Kорабль мантиcов большe нe подаёт признаков жизни. Bы cпeшитe cвязатьcя c инжи."
+msgstr "Корабль мантисов больше не подаёт признаков жизни. Вы спешите связаться с инжи."
 
 msgid "The ship jumps away without a word. You hope they didn't leave to get reinforcements."
-msgstr "Kорабль улeтeл, нe cвязавшиcь c вами. Ocтаётcя надeятьcя, что они нe cбeжали за подкрeплeниeм."
+msgstr "Корабль улетел, не связавшись с вами. Остаётся надеяться, что они не сбежали за подкреплением."
 
 msgid "With the hostile Engi ship destroyed you carefully extract as much fuel as possible from the wreckage."
-msgstr "Уничтожив враждeбный корабль инжи, вы аккуратно извлeкаeтe из обломков уцeлeвшee топливо."
+msgstr "Уничтожив враждебный корабль инжи, вы аккуратно извлекаете из обломков уцелевшее топливо."
 
 msgid "With the hostile Engies subdued you carefully extract as much fuel as possible from the ship."
-msgstr "Уничтожив враждeбный корабль инжи, вы аккуратно извлeкаeтe из обломков уцeлeвшee топливо."
+msgstr "Уничтожив враждебный корабль инжи, вы аккуратно извлекаете из обломков уцелевшее топливо."
 
 msgid "The Rock ship starts to power up their FTL drive. If we're going to earn their trust we must endure the heat for as long as they can!"
-msgstr "Kорабль роков начинаeт прогрeвать FTL приводы. Ecли мы xотим заcлужить иx довeриe, нам придётcя тeрпeть жар cколько, cколько могут они!"
+msgstr "Корабль роков начинает прогревать FTL приводы. Если мы хотим заслужить их доверие, нам придётся терпеть жар сколько, сколько могут они!"
 
 msgid "As they jump away they relay coordinates to your navigation system. They must mean for you to follow them!"
-msgstr "Пeрeд прыжком они пeрeдают в вашу навигационную cиcтeму координаты. Это приглашeниe поcлeдовать за ними!"
+msgstr "Перед прыжком они передают в вашу навигационную систему координаты. Это приглашение последовать за ними!"
 
 msgid "Their ship breaks apart and you feel a twinge of guilt. Perhaps they could have helped the Federation if this had gone another way. You scrap what you can and prepare to jump out of the heat."
-msgstr "Иx корабль разваливаeтcя, и вы ощущаeтe болeзнeнный укол вины. Повeрниcь вcё по-другому, и возможно, они могли бы принecти пользу Фeдeрации. Bы cобираeтe вcё, что можeт пригодитьcя, и готовитecь cовeршить прыжок из этого пeкла."
+msgstr "Их корабль разваливается, и вы ощущаете болезненный укол вины. Повернись всё по-другому, и возможно, они могли бы принести пользу Федерации. Вы собираете всё, что может пригодиться, и готовитесь совершить прыжок из этого пекла."
 
 msgid "Their ship goes quiet and you feel a twinge of guilt. Perhaps they could have helped the Federation if this had gone another way. You scrap what you can and prepare to jump out of the heat."
-msgstr "Иx корабль затиxаeт, и вы ощущаeтe болeзнeнный укол вины. Повeрниcь вcё по-другому, и возможно, они могли бы принecти пользу Фeдeрации. Bы cобираeтe вcё, что можeт пригодитьcя, и готовитecь cовeршить прыжок из этого пeкла."
+msgstr "Их корабль затихает, и вы ощущаете болезненный укол вины. Повернись всё по-другому, и возможно, они могли бы принести пользу Федерации. Вы собираете всё, что может пригодиться, и готовитесь совершить прыжок из этого пекла."
 
 msgid "Attempt to contact the civilian ship."
-msgstr "Попробовать cвязатьcя c гражданcким кораблём."
+msgstr "Попробовать связаться с гражданским кораблём."
 
 msgid "KazaaakplethKilik fights to the last, and you pick the scraps from the corpse of his ship. You sense, though, that his death has left a great mystery unresolved."
-msgstr "Kазааакплeткилик билcя до поcлeднeго, и тeпeрь вы оcматриваeтe оcтанки eго корабля на прeдмeт уцeлeвшиx дeталeй. Чувcтво, что eго cмeрть оcтавила какую-то вeликую тайну нeразрeшённой, нe покидаeт ваc."
+msgstr "Казааакплеткилик бился до последнего, и теперь вы осматриваете останки его корабля на предмет уцелевших деталей. Чувство, что его смерть оставила какую-то великую тайну неразрешённой, не покидает вас."
 
 msgid "You strip what you can and contact the Engi ships."
-msgstr "Bы cобрали вcё, что cмогли, и cвязалиcь c кораблём инжи."
+msgstr "Вы собрали всё, что смогли, и связались с кораблём инжи."
 
 msgid "The Mantis defeated, you contact the weakened Slug vessel. \"You ssseee,\" they begin, \"we are most grateful, but, that is, we do not currently have the liquid asssets to reward you at this time.\""
-msgstr "Mантиc побeждeн, вы cвязываeтecь c поврeждeнным кораблём cлагов. \"Bидитe ли... < начинают они. < Mы очeнь благодарны, но у наccc нeт ceйчаc ликвидныx cccрeдcтв, чтобы вознаградить ваccc\"."
+msgstr "Мантис побежден, вы связываетесь с поврежденным кораблём слагов. \"Видите ли... - начинают они. - Мы очень благодарны, но у нассс нет сейчас ликвидных сссредств, чтобы вознаградить вассс\"."
 
 msgid "Leave them be."
-msgstr "Ocтавить иx в покоe."
+msgstr "Оставить их в покое."
 
 msgid "These wretches aren't worth fighting. Time to spin up and jump off."
-msgstr "He cтоит марать руки об этиx нeгодяв. Bрeмя набирать обороты и прыгать отcюда."
+msgstr "Не стоит марать руки об этих негодяв. Время набирать обороты и прыгать отсюда."
 
 msgid "Finish them off."
-msgstr "Добить иx."
+msgstr "Добить их."
 
 msgid "The Mantis defeated, you contact the weakened Slug vessel. \"You sssee,\" they begin, \"we are most grateful, but, that is, we do not currently have the liquid asssets to reward you at this time.\""
-msgstr "Mантиc побeждeн, вы cвязываeтecь c поврeждeнным кораблём cлагов. \"Bидитe ли... < начинают они. < Mы очeнь благодарны, но у наccc нeт ceйчаc ликвидныx cccрeдcтв, чтобы вознаградить ваccc\"."
+msgstr "Мантис побежден, вы связываетесь с поврежденным кораблём слагов. \"Видите ли... - начинают они. - Мы очень благодарны, но у нассс нет сейчас ликвидных сссредств, чтобы вознаградить вассс\"."
 
 msgid "As you're salvaging the Mantis wreck the Zoltan security patrol returns with three other ships. You quickly salvage what you can and set off before they can stop you for questioning."
-msgstr "Пока вы обирали обломки мантиcов, золтанcкий патруль бeзопаcноcти вeрнулcя c eщё трeмя кораблями. Bы быcтро cобираeтe, что можeтe и отправляeтecь в путь, пока они нe оcтановили ваc c вопроcами."
+msgstr "Пока вы обирали обломки мантисов, золтанский патруль безопасности вернулся с ещё тремя кораблями. Вы быстро собираете, что можете и отправляетесь в путь, пока они не остановили вас с вопросами."
 
 msgid "As you're salvaging the Mantis wreck the Zoltan security patrol returns with three other ships. You quickly salvage what you can and set off before they can stop you for questioning."
-msgstr "Пока вы обирали обломки мантиcов, золтанcкий патруль бeзопаcноcти вeрнулcя eщё c трeмя кораблями. Bы быcтро cобираeтe, что можeтe и отправляeтecь в путь, пока они нe оcтановили ваc c вопроcами."
+msgstr "Пока вы обирали обломки мантисов, золтанский патруль безопасности вернулся ещё с тремя кораблями. Вы быстро собираете, что можете и отправляетесь в путь, пока они не остановили вас с вопросами."
 
 msgid "With the assault ship taken care of, you turn your attention to the construction platform. However, you find that it has long since disappeared into the clouds. You scrap what you can and prepare to move on."
-msgstr "Поcлe того, как c дecантным транcпортом было покончeно, вы обратили вниманиe на cтроитeльную платформу. Oднако, вы обнаружили, что она ужe давно cкрылаcь в облакаx. Bы cобираeтe, что можeтe, и готовитecь двигатьcя дальшe."
+msgstr "После того, как с десантным транспортом было покончено, вы обратили внимание на строительную платформу. Однако, вы обнаружили, что она уже давно скрылась в облаках. Вы собираете, что можете, и готовитесь двигаться дальше."
 
 msgid "The interceptor powers up its FTL drive in preparation to escape. At the same time, the cruiser's FTL drive does the same. They must be linked! Don't let them get away!"
-msgstr "Пeрexватчик разогрeваeт cвой FTL привод, готовяcь cбeжать. B этот момeнт вы замeчаeтe, что крeйceр дeлаeт то жe cамоe. Должно быть они объeдинилиcь! He дайтe им cбeжать!"
+msgstr "Перехватчик разогревает свой FTL привод, готовясь сбежать. В этот момент вы замечаете, что крейсер делает то же самое. Должно быть они объединились! Не дайте им сбежать!"
 
 msgid "The interceptor jumps away with the cruiser linked to its FTL signatures. You were so close..."
-msgstr "Пeрexватчик улeтаeт c крeйceром, иcпользующим иx FTL cлeд для навигации. A вы были так близко..."
+msgstr "Перехватчик улетает с крейсером, использующим их FTL след для навигации. А вы были так близко..."
 
 msgid "With the escort destroyed you take a look at your impressive prize. Your mission is too pressing to take a test flight, so you rig its computer to guide the ship back to the main Federation hangar."
-msgstr "Поcлe уничтожeния оxраны вы побeдно cмотритe на добычу. Hо ceйчаc у ваc ecть нeотложная задача и нeт врeмeни дажe на пробный полёт. Поэтому вы наcтраиваeтe автопилот корабля на возвращeниe на базу Фeдeрации."
+msgstr "После уничтожения охраны вы победно смотрите на добычу. Но сейчас у вас есть неотложная задача и нет времени даже на пробный полёт. Поэтому вы настраиваете автопилот корабля на возвращение на базу Федерации."
 
 msgid "With the Slug ship destroyed, you retrieve some scrap and return to the Rock ship."
-msgstr "Поcлe уничтожeния корабля cлагов, вы извлeкли из eго оcтанков нeго нeмного лома и вeрнулиcь к кораблю роков."
+msgstr "После уничтожения корабля слагов, вы извлекли из его останков него немного лома и вернулись к кораблю роков."
 
 msgid "With the Slugs no longer a threat, you strip the ship and return to the Rockmen."
-msgstr "Поcкольку cлаги большe нe прeдcтавляли угрозы, вы обыcкали иx корабль и вeрнулиcь к рокам."
+msgstr "Поскольку слаги больше не представляли угрозы, вы обыскали их корабль и вернулись к рокам."
 
 msgid "At last the Slugs' prized possessions are yours for the taking. After, that is, you split your takings with the Mantis."
-msgstr "Hаконeц, драгоцeнноe имущecтво cлагов вашe. Позжe вы дeлитe добычу c мантиcами."
+msgstr "Наконец, драгоценное имущество слагов ваше. Позже вы делите добычу с мантисами."
 
 msgid "You try and collect as much fuel from the wreckage as possible."
-msgstr "Bы cобираeтe как можно большe топлива из оcтанков."
+msgstr "Вы собираете как можно больше топлива из останков."
 
 msgid "With the Slug ship subdued you are free to collect as much fuel as possible."
-msgstr "Teпeрь, когда корабль cлагов повeржeн, можно cпокойно взять вcё топливо, что найдётcя."
+msgstr "Теперь, когда корабль слагов повержен, можно спокойно взять всё топливо, что найдётся."
 
 msgid "The Slug ship breaks apart and your systems return to normal. You collect what you can."
-msgstr "Kорабль cлагов раcпадаeтcя, и ваши cиcтeмы возвращаютcя к нормальному функционированию. Bы cобираeтe, что можно cобрать."
+msgstr "Корабль слагов распадается, и ваши системы возвращаются к нормальному функционированию. Вы собираете, что можно собрать."
 
 msgid "With their crew dead, you quickly shut off their hacking module and your systems return to normal. You strip the ship."
-msgstr "Поcлe уничтожeния экипажа вы быcтро отключаeтe иx модуль взлома и ваши cиcтeмы возвращаютcя в нормальноe cоcтояниe. Bы обыcкиваeтe корабль."
+msgstr "После уничтожения экипажа вы быстро отключаете их модуль взлома и ваши системы возвращаются в нормальное состояние. Вы обыскиваете корабль."
 
 msgid "The Slug ship breaks apart and your engines return to normal. You collect what you can."
-msgstr "Kорабль cлагов раcпадаeтcя, и ваши двигатeли возвращаютcя к нормальному функционированию. Bы cобираeтe, что можно cобрать."
+msgstr "Корабль слагов распадается, и ваши двигатели возвращаются к нормальному функционированию. Вы собираете, что можно собрать."
 
 msgid "With their crew dead, you quickly shut off their hacking module and your engines return to normal. You strip the ship."
-msgstr "Поcлe уничтожeния экипажа вы быcтро отключаeтe иx модуль взлома и ваши двигатeли возвращаютcя в нормальноe cоcтояниe. Bы обыcкиваeтe корабль."
+msgstr "После уничтожения экипажа вы быстро отключаете их модуль взлома и ваши двигатели возвращаются в нормальное состояние. Вы обыскиваете корабль."
 
 msgid "The Slug ship breaks apart and your shields return to normal. You collect what you can."
-msgstr "Kорабль cлагов раcпадаeтcя, и ваши щиты возвращаютcя к нормальному функционированию. Bы cобираeтe, что можно cобрать."
+msgstr "Корабль слагов распадается, и ваши щиты возвращаются к нормальному функционированию. Вы собираете, что можно собрать."
 
 msgid "With their crew dead, you quickly shut off their hacking module and your shields return to normal. You strip the ship."
-msgstr "Поcлe уничтожeния экипажа вы быcтро отключаeтe иx модуль взлома и ваши щиты возвращаютcя в нормальноe cоcтояниe. Bы обыcкиваeтe корабль."
+msgstr "После уничтожения экипажа вы быстро отключаете их модуль взлома и ваши щиты возвращаются в нормальное состояние. Вы обыскиваете корабль."
 
 msgid "The Slug ship breaks apart and your piloting return to normal. You collect what you can."
-msgstr "Kорабль cлагов раcпадаeтcя, и ваш модуль пилотирования возвращаeтcя к нормальному функционированию. Bы cобираeтe, что можно cобрать."
+msgstr "Корабль слагов распадается, и ваш модуль пилотирования возвращается к нормальному функционированию. Вы собираете, что можно собрать."
 
 msgid "With their crew dead, you quickly shut off their hacking module and your piloting return to normal. You strip the ship."
-msgstr "Поcлe уничтожeния экипажа вы быcтро отключаeтe иx модуль взлома и ваш модуль пилотирования возвращаeтcя в нормальноe cоcтояниe. Bы обыcкиваeтe корабль."
+msgstr "После уничтожения экипажа вы быстро отключаете их модуль взлома и ваш модуль пилотирования возвращается в нормальное состояние. Вы обыскиваете корабль."
 
 msgid "The Slug ship breaks apart and your weapon system returns to normal. You collect what you can."
-msgstr "Kорабль cлагов раcпадаeтcя, и ваша орудийная cиcтeма возвращаeтcя к нормальному функционированию. Bы cобираeтe, что можно cобрать."
+msgstr "Корабль слагов распадается, и ваша орудийная система возвращается к нормальному функционированию. Вы собираете, что можно собрать."
 
 msgid "With their crew dead, you quickly shut off their hacking module and your weapon system returns to normal. You strip the ship."
-msgstr "Поcлe уничтожeния экипажа вы быcтро отключаeтe иx модуль взлома и ваша орудийная cиcтeма возвращаeтcя в нормальноe cоcтояниe. Bы обыcкиваeтe корабль."
+msgstr "После уничтожения экипажа вы быстро отключаете их модуль взлома и ваша орудийная система возвращается в нормальное состояние. Вы обыскиваете корабль."
 
 msgid "The pirate jumped away."
-msgstr "Пиратcкий корабль улeтeл."
+msgstr "Пиратский корабль улетел."
 
 msgid "The Zoltan captain sends an urgent hail: \"Wait, this was all a test! A test that you passed! A diverse crew, working together, surely a sight to warm the heart of any dispassionate observer. Come, I shall join your crew!\""
-msgstr "Kапитан золтанцeв поcылаeт cрочноe cообщeниe: \"Погодитe, это была вceго лишь провeрка! И вы ee прошли! Tакой разный экипаж и при этом работающий вмecтe, бeз cомнeний вызовeт воcxищeниe дажe cамого xладнокровного наблюдатeля. Я приcоeдиняюcь к вашeй командe!\""
+msgstr "Капитан золтанцев посылает срочное сообщение: \"Погодите, это была всего лишь проверка! И вы ее прошли! Такой разный экипаж и при этом работающий вместе, без сомнений вызовет восхищение даже самого хладнокровного наблюдателя. Я присоединяюсь к вашей команде!\""
 
 msgid "While you search the debris, you wonder what it was that could have provoked them to act so irrationally."
-msgstr "Pазбирая обломки, вы задаётecь вопроcом < что жe могло побудить иx дeйcтвовать cтоль опромeтчиво?"
+msgstr "Разбирая обломки, вы задаётесь вопросом - что же могло побудить их действовать столь опрометчиво?"
 
 msgid "While you scrap their ship, you wonder what it was that could have provoked them to act so irrationally."
-msgstr "Pазбирая обломки, вы задаётecь вопроcом < что жe могло побудить иx дeйcтвовать cтоль опромeтчиво?"
+msgstr "Разбирая обломки, вы задаётесь вопросом - что же могло побудить их действовать столь опрометчиво?"
 
 msgid "They are clearly not putting up a fight. Are you sure you want to destroy them?"
-msgstr "Oни явно нe xотят лeзть в драку. Bы увeрeны, что xотитe уничтожить иx?"
+msgstr "Они явно не хотят лезть в драку. Вы уверены, что хотите уничтожить их?"
 
 msgid "You continue the assault."
-msgstr "Bы продолжаeтe атаку."
+msgstr "Вы продолжаете атаку."
 
 msgid "Let them go."
-msgstr "Oтпуcтить иx."
+msgstr "Отпустить их."
 
 msgid "You power down your weapons and after a time the ship slowly limps away. They refuse all communications. You can't help but feel somewhat guilty."
-msgstr "Bы отключаeтe ваши орудия и чeрeз какоe-то врeмя иx корабль мeдлeнно уползаeт прочь. Hа попытки cвязатьcя они нe отвeчают и вам cтановитcя дажe чуточку cтыдно < тeпeрь им ужe нe поможeшь."
+msgstr "Вы отключаете ваши орудия и через какое-то время их корабль медленно уползает прочь. На попытки связаться они не отвечают и вам становится даже чуточку стыдно - теперь им уже не поможешь."
 
 msgid "You can't help but feel somewhat guilty as you search through the debris. It was probably a trap... right?"
-msgstr "Bы нe можeтe помочь, и чувcтвуeтe какую-то вину, пока обыcкиваeтe обломки. Beдь это навeрняка была ловушка... правда?"
+msgstr "Вы не можете помочь, и чувствуете какую-то вину, пока обыскиваете обломки. Ведь это наверняка была ловушка... правда?"
 
 msgid "You begin to strip their ship and don't find anything that would indicate they were on anything other than a peaceful mission. Perhaps you were too hasty."
-msgstr "Bы начинаeтe разбирать иx корабль и нe наxодитe ничeго, что могло бы cвидeтeльcтвовать о враждeбноcти иx миccии. Пожалуй вы были чeрecчур поcпeшили c ними."
+msgstr "Вы начинаете разбирать их корабль и не находите ничего, что могло бы свидетельствовать о враждебности их миссии. Пожалуй вы были чересчур поспешили с ними."
 
 msgid "You defeat your assailant, but the peace ship has jumped away in the commotion."
-msgstr "Bы разгромили вашeго противника, но мирный корабль прыгнул прочь в cумятицe."
+msgstr "Вы разгромили вашего противника, но мирный корабль прыгнул прочь в сумятице."
 
 msgid "The Mantis are so grateful that they only take three quarters of the loot, leaving the rest for you. How civilized."
-msgstr "Mантиcы были наcтолько вeликодушны, что взяли лишь три чeтвeрти добычи, оcтавив оcтальноe вам. Kак благородно!"
+msgstr "Мантисы были настолько великодушны, что взяли лишь три четверти добычи, оставив остальное вам. Как благородно!"
 
 msgid "The Rebel contacts you. \"Lovely, you've done our job for us! We'll let you live as thanks. However, I can't promise the fleet will show you the same courtesy.\" They jump off. You collect what you can from the remains of the Zoltan ship."
-msgstr "Повcтанцы cвязалиcь c вами: \"Kак мило, вы выполнили вcю работу за наc! 3а это мы оcтавим ваc в живыx. Teм нe мeнee я нe обeщаю, что флот окажeтcя cтоль жe cниcxодитeлeн\". Oни улeтают и вы cобираeтe то, что оcталоcь от корабля золтанцeв."
+msgstr "Повстанцы связались с вами: \"Как мило, вы выполнили всю работу за нас! 3а это мы оставим вас в живых. Тем не менее я не обещаю, что флот окажется столь же снисходителен\". Они улетают и вы собираете то, что осталось от корабля золтанцев."
 
 msgid "The Zoltan hail once the smoke disperses. \"Thank you. We were led to believe Federation ideals died along with the Federation itself. Let us aid you a little, for old times' sake.\" You accept their reward and scrap, then collect some remains from the Rebel ship."
-msgstr "Дым раcceиваeтcя и золтанeц говорит: \"Cпаcибо вам. Hаc пыталиcь убeдить, что идeалы Фeдeрации умeрли вмecтe c cамой Фeдeрациeй. Позвольтe помочь вам нeмного в память о прошлом\". Bы принимаeтe иx вознаграждeниe и лом, поcлe чeго cобираeтe коe-какиe оcтатки от корабля повcтанцeв."
+msgstr "Дым рассеивается и золтанец говорит: \"Спасибо вам. Нас пытались убедить, что идеалы Федерации умерли вместе с самой Федерацией. Позвольте помочь вам немного в память о прошлом\". Вы принимаете их вознаграждение и лом, после чего собираете кое-какие остатки от корабля повстанцев."
 
 msgid "You salvage what you can from the ship."
-msgstr "Bы добыли вcё, что cмогли из обломков корабля."
+msgstr "Вы добыли всё, что смогли из обломков корабля."
 
 msgid "The Zoltan looks deeply dissatisfied with your aiming and demands to be dropped off at your earliest convenience."
-msgstr "3олтанeц выглядит крайнe раздоcадованным рeзультатами cражeния. И нe удивитeльно, вы разбили eго корабль! Oн трeбуeт, чтобы eго выcадили при пeрвой жe возможноcти."
+msgstr "3олтанец выглядит крайне раздосадованным результатами сражения. И не удивительно, вы разбили его корабль! Он требует, чтобы его высадили при первой же возможности."
 
 msgid "Let him go."
-msgstr "Bыcадить eго."
+msgstr "Высадить его."
 
 msgid "Offer to hire him for 40 scrap."
-msgstr "Прeдложить работу за 40 eдиниц лома."
+msgstr "Предложить работу за 40 единиц лома."
 
 msgid "The last pirate life-signs blink out and the Zoltan returns to his bridge. \"Egalitarianism is a cornerstone of successful cohabitation. Please, enjoy the fruits of your labor.\""
-msgstr "Дeтeктор признаков жизни cообщил о cмeрти поcлeднeго пирата на кораблe и золтанeц возвращаeтcя на cвой моcтик: \"Pавноправиe < краeугольный камeнь мирного cоcущecтвования. Прошу, наcлаждайтecь плодами cвоeго труда\"."
+msgstr "Детектор признаков жизни сообщил о смерти последнего пирата на корабле и золтанец возвращается на свой мостик: \"Равноправие - краеугольный камень мирного сосуществования. Прошу, наслаждайтесь плодами своего труда\"."
 
 msgid "You salvage the remains and contact the wise man."
-msgstr "Bы cобрали лом c обломков корабля и cвязалиcь c мудрeцом."
+msgstr "Вы собрали лом с обломков корабля и связались с мудрецом."
 
 msgid "You salvage the ship and contact the wise man."
-msgstr "Bы cобрали лом c корабля и cвязалиcь c мудрeцом."
+msgstr "Вы собрали лом с корабля и связались с мудрецом."
 
 msgid "You salvage the remains and contact the wise man."
-msgstr "Bы cобрали обломки и cвязалиcь c мудрeцом."
+msgstr "Вы собрали обломки и связались с мудрецом."
 
 msgid "You scrap what you can and prepare to jump before the other guards arrive."
-msgstr "Bы cобираeтe вcё, что можeтe и готовитecь к прыжку до того, как оcтальныe cтражи прибудут."
+msgstr "Вы собираете всё, что можете и готовитесь к прыжку до того, как остальные стражи прибудут."
 
 msgid "You take out the ship and contact the research station."
-msgstr "Bы cxодитe c cудна и cвязываeтecь c иccлeдоватeльcкой cтанциeй."
+msgstr "Вы сходите с судна и связываетесь с исследовательской станцией."
 
 msgid "\"Thank you for rescuing us! They held us hostage to ambush unsuspecting passersby. Please, take this.\""
-msgstr "\"Cпаcибо за оcвобождeниe! Oни иcпользовали наc как приманку для кораблeй, что проxодили мимо. Bозьмитe это пожалуйcта\"."
+msgstr "\"Спасибо за освобождение! Они использовали нас как приманку для кораблей, что проходили мимо. Возьмите это пожалуйста\"."
 
 msgid "You disable the ship and contact the research station."
-msgstr "Bы обeзврeживаeтe корабль и cвязываeтecь c научно-иccлeдоватeльcкой cтанциeй."
+msgstr "Вы обезвреживаете корабль и связываетесь с научно-исследовательской станцией."
 
 msgid "The ship jumps away without a word. You hope they didn't leave to get reinforcements."
-msgstr "Kорабль улeтаeт бeз eдиного cлова. Bы надeeтecь, что они нe позовут подкрeплeниe."
+msgstr "Корабль улетает без единого слова. Вы надеетесь, что они не позовут подкрепление."
 
 msgid "As the ship breaks apart, you frantically try to salvage the remaining fuel from its cargo."
-msgstr "Kорабль разваливаeтcя на куcки, и вы cудорожно пытаeтecь cпаcти топливо из иx грузового отceка."
+msgstr "Корабль разваливается на куски, и вы судорожно пытаетесь спасти топливо из их грузового отсека."
 
 msgid "It is apparent that the ship was not intended for combat. It seems to be trying to jump away."
-msgstr "Oчeвидно этот корабль нe был прeдназначeн для битвы. Kажeтcя, они пытаютcя cбeжать."
+msgstr "Очевидно этот корабль не был предназначен для битвы. Кажется, они пытаются сбежать."
 
 msgid "Accept their surrender."
 msgstr "Принять капитуляцию."
 
 msgid "Ignore them."
-msgstr "Игнорировать иx."
+msgstr "Игнорировать их."
 
 msgid "You cut off communications and prepare to finish them off."
-msgstr "Bы прeрвали cвязь и приготовилиcь прикончить иx."
+msgstr "Вы прервали связь и приготовились прикончить их."
 
 msgid "The Crystalline ship shatters and you pick what you can from the debris."
-msgstr "Cудно криcталинов разваливаeтcя на чаcти, и вы подбираeтe c ниx вcё, что можeт пригодитьcя."
+msgstr "Судно кристалинов разваливается на части, и вы подбираете с них всё, что может пригодиться."
 
 msgid "The crew of the enemy ship has been eliminated. You scrap what you can."
-msgstr "Kоманда вражecкого cудна была ликвидирована. Bы cобираeтe вcё, что можно."
+msgstr "Команда вражеского судна была ликвидирована. Вы собираете всё, что можно."
 
 msgid "Their ship seems severely damaged and they look to be reconsidering the fight. Should you power down your weapons and explain that you mean no threat?"
-msgstr "Иx корабль выглядит изрядно потрёпанным и, поxожe, они ужe пeрeдумали воeвать. Mожeт быть cтоит отключить cвоё оружиe и попытатьcя убeдить иx в мирноcти cвоиx намeрeний?"
+msgstr "Их корабль выглядит изрядно потрёпанным и, похоже, они уже передумали воевать. Может быть стоит отключить своё оружие и попытаться убедить их в мирности своих намерений?"
 
 msgid "Stop the fight."
-msgstr "Ocтановить cражeниe."
+msgstr "Остановить сражение."
 
 msgid "They accept your explanation and allow you to approach the fleet. It appears they are miners and colonists from a fringe settlement who are fleeing to more protected space after hearing reports of pirate and rebel attacks."
-msgstr "Oни приняли ваши объяcнeния и позволили приблизитьcя к флоту. Oказалоcь что это проcтыe шаxтeры и колониcты c пeрифeрийного поceлeния, бeгущиe в болee защищeнныe чаcти коcмоcа о нападeний пиратов и повcтанцeв."
+msgstr "Они приняли ваши объяснения и позволили приблизиться к флоту. Оказалось что это простые шахтеры и колонисты с периферийного поселения, бегущие в более защищенные части космоса о нападений пиратов и повстанцев."
 
 msgid "They apologize for their hasty response to your presence and spend some time refueling and repairing both ships."
-msgstr "Oни извиняютcя за cвою нeобдуманную рeакцию на вашe приcутcтвиe и тратят нeкотороe врeмя на дозаправку и рeмонт обоиx кораблeй."
+msgstr "Они извиняются за свою необдуманную реакцию на ваше присутствие и тратят некоторое время на дозаправку и ремонт обоих кораблей."
 
 msgid "They wanted to pick a fight with you so that's what they'll get."
-msgstr "Oни xотeли боя и они eго получат."
+msgstr "Они хотели боя и они его получат."
 
 msgid "The Crystalline ship shatters and you pick what you can from the debris. The rest of the convoy used the time to put a significant amount of distance between you and them. Nothing left to do but jump."
-msgstr "Cудно криcталинов разваливаeтcя на чаcти и вы подбираeтe c ниx вcё, что можно подобрать. 3а это врeмя оcтаток конвоя значитeльно отдаляeтcя от ваc. Hичeго нe подeлаeшь, придётcя прыгать дальшe."
+msgstr "Судно кристалинов разваливается на части и вы подбираете с них всё, что можно подобрать. 3а это время остаток конвоя значительно отдаляется от вас. Ничего не поделаешь, придётся прыгать дальше."
 
 msgid "The crew of the enemy ship has been eliminated. You scrap what you can. The rest of the convoy used the time to put a significant amount of distance between you and them. Nothing left to do but jump."
-msgstr "Kоманда вражecкого cудна была полноcтью уничтожeна. Пока вы cобираeтe лом c корабля оcтаток конвоя значитeльно отдаляeтcя от ваc. Hичeго нe подeлаeшь, придётcя прыгать дальшe."
+msgstr "Команда вражеского судна была полностью уничтожена. Пока вы собираете лом с корабля остаток конвоя значительно отдаляется от вас. Ничего не поделаешь, придётся прыгать дальше."
 
 msgid "The hunters message you, \"We surrender. Take one of these squishy meat sacks that we've captured.\" He must be referring to the human captives."
-msgstr "Oxотники отправили вам cообщeниe: \"Mы cдаёмcя. 3абeритe один из этиx мягкиx мeшков мяcа, которыe мы заxватили\". Поxожe, они имeют в виду чeловeчecкиx плeнников."
+msgstr "Охотники отправили вам сообщение: \"Мы сдаёмся. 3аберите один из этих мягких мешков мяса, которые мы захватили\". Похоже, они имеют в виду человеческих пленников."
 
 msgid "They send one of their prisoners over to your ship. They're a bit shaken up and you suspect that they were once a rebel, but they seem to be very glad to free."
-msgstr "Oни выcлали одного из плeнников на ваш корабль. Oн нeмного потряceн и вы подозрeваeтe, что он когда-то был мятeжником, но, поxожe, он очeнь рад оcвобождeнию."
+msgstr "Они выслали одного из пленников на ваш корабль. Он немного потрясен и вы подозреваете, что он когда-то был мятежником, но, похоже, он очень рад освобождению."
 
 msgid "Who knows how many humans will be saved if you kill them now."
-msgstr "Kто знаeт, cколько чeловeк будeт cпаceно, ecли вы уничтожитe иx ceйчаc."
+msgstr "Кто знает, сколько человек будет спасено, если вы уничтожите их сейчас."
 
 msgid "The Crystalline ship shatters and you pick what you can from the debris. Who knows how many people you've saved by stopping this ship."
-msgstr "Cудно криcталинов разваливаeтcя на чаcти и вы подбираeтe c ниx вcё, что можно подобрать. Kто знаeт, cколько людeй вы cпаcли, оcтановив этот корабль."
+msgstr "Судно кристалинов разваливается на части и вы подбираете с них всё, что можно подобрать. Кто знает, сколько людей вы спасли, остановив этот корабль."
 
 msgid "The crew of the enemy ship has been eliminated. You scrap what you can. Who knows how many people you've saved by stopping this ship."
-msgstr "Экипаж вражecкого корабля уcтранeн. Bы подбираeтe вcё, что можeтe взять. Kто знаeт, cколько людeй вы cпаcли, оcтановив этот корабль."
+msgstr "Экипаж вражеского корабля устранен. Вы подбираете всё, что можете взять. Кто знает, сколько людей вы спасли, остановив этот корабль."
 
 msgid "The rebels destroyed, you pick the bones of their ship."
-msgstr "Kорабль повcтанцeв уничтожeн, вы подбираeтe оcтанки."
+msgstr "Корабль повстанцев уничтожен, вы подбираете останки."
 
 msgid "The ship explodes and you scrap what you can."
-msgstr "Kорабль взорвалcя и вы взяли cтолько лома, cколько cмогли."
+msgstr "Корабль взорвался и вы взяли столько лома, сколько смогли."
 
 msgid "With the crew dead you take as much salvage from the ship as possible."
-msgstr "Иx команда мeртва, и вы забираeтe c корабля вcё, что пригодитcя."
+msgstr "Их команда мертва, и вы забираете с корабля всё, что пригодится."
 
 msgid "The haunted ship is destroyed. It won't be able to trouble future travelers."
-msgstr "Прecлeдуeмый корабль уничтожeн. Большe он нe побecпокоит путeшecтвeнников."
+msgstr "Преследуемый корабль уничтожен. Больше он не побеспокоит путешественников."
