@@ -288,12 +288,8 @@ msgstr  "Вы обнаруживаете автоматический кораб
 msgid   "Attack the automated ship to get to the sensor station."
 msgstr  "Атаковать автоматический корабль, чтобы пробраться к станции."
 
-#, fuzzy
 msgid   "Avoid provoking the ship."
-msgstr  "#-#-#-#-#  events_rebel.xml.txt.po (ru)  #-#-#-#-#\n"
-        "Постараться не провоцировать корабль.\n"
-        "#-#-#-#-#  events_rebel.xml.txt.po (ru)  #-#-#-#-#\n"
-        "Попытаться не провоцировать корабль."
+msgstr  "Постараться не провоцировать корабль."
 
 msgid   "(Sensors) Use your sensors to attempt to access the data."
 msgstr  "(Улучшенные сенсоры) Использовать сенсоры и попытаться получить "
