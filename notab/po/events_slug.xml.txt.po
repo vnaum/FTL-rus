@@ -339,12 +339,8 @@ msgid   "\"Before we get ahead of ourssselves, I need to explain sssome "
 msgstr  "\"Не торопитесь, я должен объяссснить некоторые осссновные правила "
         "нашего сссоглашения. Сссейчас ведь опасные времена, сссогласны?\""
 
-#, fuzzy
 msgid   "Continue."
-msgstr  "#-#-#-#-#  events_slug.xml.txt.po (ru)  #-#-#-#-#\n"
-        "Продолжить...\n"
-        "#-#-#-#-#  events_slug.xml.txt.po (ru)  #-#-#-#-#\n"
-        "Продолжить."
+msgstr  "Дальше."
 
 msgid   "\"Firssst... We accept no tradesss, couponss or refundss. Purchasess "
         "are final. Underssstand?\""
@@ -710,12 +706,8 @@ msgid   "\"You have besssted us! Will you accept what is in our storeesss in "
 msgstr  "\"Вы одолели нассс! Примете ли вы то, что в наших хранилищах в обмен "
         "на наши жизни?\""
 
-#, fuzzy
 msgid   "Let them live."
-msgstr  "#-#-#-#-#  events_slug.xml.txt.po (ru)  #-#-#-#-#\n"
-        "Оставить в живых.\n"
-        "#-#-#-#-#  events_slug.xml.txt.po (ru)  #-#-#-#-#\n"
-        "Оставить им жизнь."
+msgstr  "Пусть живут."
 
 msgid   "\"Take thisss newly developed weapon we're transporting... They're "
         "not going to be happy we gave it up, that isss for ssure...\""
@@ -804,14 +796,10 @@ msgstr  "Вы стараетесь держатся достаточно дал�
         "что корабль с большой командой улетел в сторону. Он направляет "
         "штурвал в сторону платформы ..."
 
-#, fuzzy
 msgid   "The only ship left near the cruiser is an interceptor. This should "
         "be easy!"
-msgstr  "#-#-#-#-#  events_slug.xml.txt.po (ru)  #-#-#-#-#\n"
-        "Вблизи корабля остался лишь один истребитель. Это будет просто!\n"
-        "#-#-#-#-#  events_slug.xml.txt.po (ru)  #-#-#-#-#\n"
-        "Вблизи крейсера остался единственный истребитель-перехватчик. Это "
-        "должно быть просто!"
+msgstr  "Рядом с крейсером остался единственный истребитель-перехватчик. Битва "
+        "будет нетрудной!"
 
 msgid   "(Improved Sensors) Try to maintain a lock on their ships from a "
         "distance."
