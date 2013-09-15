@@ -1,0 +1,45 @@
+#!/usr/bin/perl
+
+use warnings;
+use strict;
+
+while($_ = shift @ARGV)
+{
+  print "$_\n";
+  open F, $_ or die $!;
+  my @origs = <F>;
+  close F;
+
+  open F, "$_.dec" or die $!;
+  my @xlats = <F>;
+  close F;
+
+  open F, ">", "$_.po" or die $!;
+  my %dupes = ();
+  for my $i (0 .. $#origs)
+  {
+    my ($id, $str) = ($origs[$i], $xlats[$i]);
+    chomp $id; chomp $str;
+    next if exists $dupes{"$id+$str"};
+    $dupes{"$id+$str"} = 1;
+    $id =~ s/"/\\"/g;
+    $str =~ s/"/\\"/g;
+    print F "\nmsgid \"$id\"\n";
+    print F "msgstr \"$str\"\n";
+  }
+  close F;
+}
+# while(<F>)
+# {
+#   $id = $1 if m/^msgid "(.*)"/i;
+#   $str = $1 if m/^msgstr "(.*)"/i;
+#   if (defined $id and defined $str)
+#   {
+#     $id =~ s/\\"/"/g;
+#     $str =~ s/\\"/"/g;
+#     $xlat{$id} = $converter->convert($str);
+#     # warn "$id, $str";
+#     ($id, $str) = (undef, undef);
+#   }
+# }
+# close F;
