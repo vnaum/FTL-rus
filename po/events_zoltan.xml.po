@@ -1,3 +1,8 @@
+msgid   ""
+msgstr  "Project-Id-Version: ru\n"
+        "Content-Type: text/plain; charset=UTF-8\n"
+        "Content-Transfer-Encoding: 8bit\n"
+
 msgid "You've entered Zoltan territory. This species is not renowned for giving anything for nothing, but you can always be assured a fair hearing."
 msgstr ""
 msgid "The Zoltan patrol their borders but let you pass when you ID as Federation. Let's hope they won't be so courteous to the Rebels."

@@ -1,3 +1,8 @@
+msgid   ""
+msgstr  "Project-Id-Version: ru\n"
+        "Content-Type: text/plain; charset=UTF-8\n"
+        "Content-Transfer-Encoding: 8bit\n"
+
 msgid "You arrive in a sector not listed in any star charts. Strange crystalline ships dot the horizon. Your companion speaks, \"Here we are, my home sector. It has been a long time since others have set foot here, I wonder how you will be received.\""
 msgstr ""
 msgid "Continue..."

@@ -1,3 +1,8 @@
+msgid   ""
+msgstr  "Project-Id-Version: ru\n"
+        "Content-Type: text/plain; charset=UTF-8\n"
+        "Content-Transfer-Encoding: 8bit\n"
+
 msgid "The pirate jumped away."
 msgstr ""
 msgid "The ship jumps away without a word. You hope they didn't leave to get reinforcements."

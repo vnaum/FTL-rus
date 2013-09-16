@@ -1,3 +1,8 @@
+msgid   ""
+msgstr  "Project-Id-Version: ru\n"
+        "Content-Type: text/plain; charset=UTF-8\n"
+        "Content-Transfer-Encoding: 8bit\n"
+
 msgid "You've entered a poorly charted area of space that's known to be home to the Mantis.  Ensure your hull plating is up to scratch and that you have enough fuel in the tank to make it through."
 msgstr ""
 msgid "Upon arriving at the beacon, you're hailed by a well-spoken Mantis, \"Hail, traveler.  These are dangerous times.  Perhaps you find yourself in need of our services?\"  He appears to be a trader."

@@ -1,3 +1,8 @@
+msgid   ""
+msgstr  "Project-Id-Version: ru\n"
+        "Content-Type: text/plain; charset=UTF-8\n"
+        "Content-Transfer-Encoding: 8bit\n"
+
 msgid "You arrive at the beacon and are relieved at the sight of open space. Nebulas are terribly claustrophobic."
 msgstr ""
 msgid "This beacon marks a 'small' gap in the nebula. No colonies or ships in scanning distance."

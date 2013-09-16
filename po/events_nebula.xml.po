@@ -1,3 +1,8 @@
+msgid   ""
+msgstr  "Project-Id-Version: ru\n"
+        "Content-Type: text/plain; charset=UTF-8\n"
+        "Content-Transfer-Encoding: 8bit\n"
+
 msgid "This nebula must have been an important hub at one point; placing all of these jump beacons would be no easy task.  However, now it's hardly navigable."
 msgstr ""
 msgid "Nebulas were always dangerous places. Many electronics fail in these clouds. You will have to tread lightly."

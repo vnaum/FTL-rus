@@ -1,3 +1,8 @@
+msgid   ""
+msgstr  "Project-Id-Version: ru\n"
+        "Content-Type: text/plain; charset=UTF-8\n"
+        "Content-Transfer-Encoding: 8bit\n"
+
 msgid "This is it. You are just a few jumps from the 14th Federation Fleet's Headquarters, the last refuge for Federation supporters. Get to the command as soon as possible."
 msgstr ""
 msgid "You arrive at the heart of the last Federation Fleet. Your access codes get you past initial security and a direct feed to the capital ship's war room. Admiral Tully speaks first saying, \"What is the meaning of this?! Who are you?\""

@@ -1,3 +1,8 @@
+msgid   ""
+msgstr  "Project-Id-Version: ru\n"
+        "Content-Type: text/plain; charset=UTF-8\n"
+        "Content-Transfer-Encoding: 8bit\n"
+
 msgid "You have arrived in Engi space. The Mantis have been threatening the Engi core worlds, but you should be able to stock up for your journey."
 msgstr ""
 msgid "You have arrived in Engi space. The fall of the Federation has brought tough times for these robotic lifeforms, but they're usually willing to help."

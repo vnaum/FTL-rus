@@ -1,3 +1,8 @@
+msgid   ""
+msgstr  "Project-Id-Version: ru\n"
+        "Content-Type: text/plain; charset=UTF-8\n"
+        "Content-Transfer-Encoding: 8bit\n"
+
 msgid "This sector was bustling with activity just a few years ago.  Now, more than half of the jump beacons have been destroyed, many settlements have been abandoned and the Rebels patrol constantly."
 msgstr ""
 msgid "This sector was hit hard by the rebellion.   The many alien settlements and stations located here are now watched over by almost an equal number of Rebel bases, heavy-handedly 'keeping the peace'."

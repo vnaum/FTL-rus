@@ -1,3 +1,8 @@
+msgid   ""
+msgstr  "Project-Id-Version: ru\n"
+        "Content-Type: text/plain; charset=UTF-8\n"
+        "Content-Transfer-Encoding: 8bit\n"
+
 msgid "The Rebel fleet has caught up to you. You detect significant fuel reserves in one of their closer fighters and move in to attack.  Maybe you can still pull this off."
 msgstr ""
 msgid "Continue..."

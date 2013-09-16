@@ -1,3 +1,8 @@
+msgid   ""
+msgstr  "Project-Id-Version: ru\n"
+        "Content-Type: text/plain; charset=UTF-8\n"
+        "Content-Transfer-Encoding: 8bit\n"
+
 msgid "The Rock people have a particularly aggressive stance toward alien races trespassing in their space. You should tread carefully here."
 msgstr ""
 msgid "The Rock people are a powerful and proud race. It is not unheard of to have a peaceful journey through their lands but don't count on it."
