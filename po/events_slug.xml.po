@@ -606,7 +606,6 @@ msgid   "It appears the Rock ship was long since abandoned. You strip what "
 msgstr  "Кажется, корабль роков давно заброшен. Вы забираете все, что может "
         "пригодиться."
 
-#, fuzzy
 msgid   "You arrive near the distress beacon's signal."
 msgstr  "Вы прибыли прямо к источнику сигнала бедствия."
 

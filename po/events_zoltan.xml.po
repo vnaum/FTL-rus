@@ -676,7 +676,6 @@ msgstr  "В туманности вы неожиданно натыкаетес�
         "корабль. Намного безопаснее было бы вас уничтожить. Они открывают "
         "огонь!"
 
-#, fuzzy
 msgid   "Inside this nebula you detect a rogue planet drifting through space, "
         "on its surface a huge monolith visible at this distance even to the "
         "naked eye. A Zoltan elder hails you from the planet. \"Through luck "

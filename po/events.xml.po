@@ -341,15 +341,14 @@ msgid   "(Fire Bomb) Show the pirate how to intimidate settlers: start fires "
 msgstr  "(Огненная бомба) Показать пиратам, как запугивать поселенцев: "
         "поджечь их убогие лачуги!"
 
-#, fuzzy
 msgid   "The pirate watches as you teleport an incendiary explosive into the "
         "settlement. As the settlers scramble to put out the fires, their "
         "rudimentary planetary defenses power down. Forcing their surrender "
         "was laughably easy, but the pirate seems impressed with your tactics "
         "and agrees to share the settlement's 'tribute'."
-msgstr  "Пират смотрит, как вы телепортируете взрывчатку в поселение. Когда "
-        "поселенцы собираются открыть огонь, их системы планетарной обороны "
-        "теряют мощность. 3аставить их сдаться оказалось до смешного просто, "
+msgstr  "Пират наблюдает, как вы телепортируете зажигательные бомбы в поселение. Пока "
+        "поселенцы борются с пожарами, их слабенькие системы планетарной обороны "
+        "отключаются. 3аставить их сдаться оказалось до смешного просто, "
         "но пират, кажется, был впечатлён вашей тактикой и согласился "
         "поделиться с вами \"данью\"."
 
@@ -1720,20 +1719,17 @@ msgstr  "Вы видите небольшую станцию, наполненн
         "Вы получаете автоматическое сообщение: \"Мы не знаем, кто вы такие и "
         "нам всё равно, но это отличное место для починки корабля!\""
 
-#, fuzzy
 msgid   "Repair 20 damage."
-msgstr  "Чинить 20 урона за 40 лома."
+msgstr  "Чинить 20 урона."
 
 msgid   "\"Thank you for your business, no refunds!\""
 msgstr  "\"Приятно было иметь с вами дело, никаких возвратов!\""
 
-#, fuzzy
 msgid   "Repair 10 damage."
-msgstr  "Чинить 10 урона за 20 лома."
+msgstr  "Чинить 10 урона."
 
-#, fuzzy
 msgid   "Repair 5 damage."
-msgstr  "Чинить 5 урона за 10 лома."
+msgstr  "Чинить 5 урона."
 
 msgid   "There is a black market hub here.  You receive a message, \"These "
         "are dangerous times.  If you have extra military-grade explosives, "
@@ -3046,7 +3042,6 @@ msgstr  "Похоже ваши попытки установить связь н
         "место крушения старого корабля инжи. Внутри вы можете найти и "
         "реанимировать инжи!"
 
-#, fuzzy
 msgid   "You try to communicate in every possible way you can but they just "
         "stand there, silently judging you with their large, expressionless "
         "eyes. You prepare to leave."
@@ -3095,7 +3090,6 @@ msgstr  "\"Ясссно... Но у вас нет выбора!\" Они двин
 msgid   "(Slugman Crew) Engage in a duel of the mind."
 msgstr  "(Член экипажа слаг) Участвовать в поединке разумов."
 
-#, fuzzy
 msgid   "Your Slug crewman's eyes glaze over as the two telepaths "
         "concentrate. You can only wonder what is happening. After a short "
         "time your comrade grunts in pain and collapses onto the floor, "
