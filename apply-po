@@ -1,51 +1,21 @@
-#!/usr/bin/perl
+#!/usr/bin/env python
 
-use warnings;
-use strict;
-use Text::Iconv;
-my $converter = Text::Iconv->new("UTF8", "CP1251");
+import sys
+import polib
+from bs4 import BeautifulSoup
 
-my %xlat;
-# load po
-# warn "reading $ARGV[0]";
-open F, '<', $ARGV[0] or die;
-my ($id, $str) = (undef, undef);
-while(<F>)
-{
-  $id = $1 if m/^msgid "(.*)"/i;
-  $str = $1 if m/^msgstr "(.*)"/i;
-  if (defined $id and defined $str)
-  {
-    $id =~ s/\\"/"/g;
-    $str =~ s/\\"/"/g;
-    $xlat{$id} = $converter->convert($str);
-    # warn "$id, $str";
-    ($id, $str) = (undef, undef);
-  }
-}
-close F;
 
-# die;
+xlat={}
+po = polib.pofile(sys.argv[1])
+for entry in po:
+    xlat[entry.msgid] = entry.msgstr
 
-my $trans = 0;
-my $untrans = 0;
-# read STDIN
-while(<STDIN>)
-{
-  if(m!(<text\b[^>]*>)\s*(\S.*\S)\s*(</text\b)!)
-  {
-    if($xlat{$2})
-    {
-      s!(<text\b[^>]*>)\s*(\S.*\S)\s*(</text\b)!$1$xlat{$2}$3!;
-      $trans++;
-    }
-    else
-    {
-      $untrans++;
-    }
-  }
-  print;
-}
+soup = BeautifulSoup(sys.stdin.read(), "html.parser")
+# soup = BeautifulSoup(sys.stdin.read(), "xml")
 
-warn "Translated: $trans\n";
-warn "Untranslated: $untrans\n";
+for t in soup.findAll('text'):
+    if len(t.text)==0: continue
+    s = t.string.strip()
+    t.string = xlat.get(s, "UNTRANSLATED")
+
+print(soup.prettify("cp1251"))
