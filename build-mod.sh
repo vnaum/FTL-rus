@@ -10,7 +10,7 @@ mkdir build-tmp
 cp -r resources/* build-tmp
 
 mkdir -p build-tmp/data
-for f in orig-xml/*.xml
+for f in orig-xml/events*.xml
 do
   BN=`basename $f`
   POFILE="po/$BN.po"
