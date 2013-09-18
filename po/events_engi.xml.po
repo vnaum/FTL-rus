@@ -109,9 +109,6 @@ msgstr  "Скопление спутников инжи на орбите бли
         "зацепка, по которой можно догадаться, что эти механические существа "
         "были здесь. Вас ждут другие места."
 
-msgid   "standard"
-msgstr  ""
-
 msgid   "An Engi vessel hails you. \"Identity: Federation? Outlier "
         "probability. Implies... revival. Implies... hope.  Assistance "
         "suggested.\"  They offer some supplies."

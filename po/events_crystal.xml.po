@@ -13,7 +13,7 @@ msgstr  "Вы прибываете в сектор, незарегистриро
         "здесь не ступала нога чужеземца. Интересно, как нас встретят\"."
 
 msgid   "Continue..."
-msgstr  "Далее...\n"
+msgstr  "Далее..."
 
 msgid   "\"You have done as you promised and so shall I. The coordinates of "
         "my old ship have been forwarded to your navigation system.\""
@@ -625,7 +625,7 @@ msgid   "Allow them to run tests on a crew member."
 msgstr  "Разрешить им провести испытания на члене экипажа."
 
 msgid   "Refuse."
-msgstr  "Отказаться.\n"
+msgstr  "Отказаться."
 
 msgid   "(Rock Crew Member) Send your Rockman crew."
 msgstr  "(Член экипажа рок) Отправить вашего рока."
