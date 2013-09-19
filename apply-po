@@ -2,20 +2,21 @@
 
 import sys
 import polib
-from bs4 import BeautifulSoup
-
+import re
 
 xlat={}
 po = polib.pofile(sys.argv[1])
 for entry in po:
     xlat[entry.msgid] = entry.msgstr
 
-soup = BeautifulSoup(sys.stdin.read(), "html.parser")
-# soup = BeautifulSoup(sys.stdin.read(), "xml")
+def find_xlat(mo):
+    line = mo.group(0)
+    text = mo.group(2).strip()
+    if len(text)==0: return line
+    if xlat.has_key(text):
+        return mo.group(1) + xlat[text].encode("cp1251") + mo.group(3)
+    else:
+        return mo.group(1) + "UNTRANSLATED: '%s'" % text + mo.group(3)
 
-for t in soup.findAll('text'):
-    if len(t.text)==0: continue
-    s = t.string.strip()
-    t.string = xlat.get(s, "UNTRANSLATED")
-
-print(soup.prettify("cp1251"))
+for line in sys.stdin:
+    print re.sub("(<text.*?>)(.*)(</text>)", find_xlat, line),
