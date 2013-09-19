@@ -14,6 +14,7 @@ s//ö/g;
 s//þ/g;
 s//û/g;
 s//ý/g;
+s//ø/g;
 
 # fix this back:
 s/FôL/FTL/g;
