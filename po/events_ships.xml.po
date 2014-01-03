@@ -1,75 +1,93 @@
+# REVIEW
 msgid   ""
 msgstr  "Project-Id-Version: ru\n"
         "Content-Type: text/plain; charset=UTF-8\n"
         "Content-Transfer-Encoding: 8bit\n"
 
+# REVIEW
 msgid   "The pirate jumped away."
 msgstr  "Пиратский корабль улетел."
 
+# REVIEW
 msgid   "The ship jumps away without a word. You hope they didn't leave to "
         "get reinforcements."
 msgstr  "Корабль улетает без единого слова. Вы надеетесь, что они не вернутся "
         "с подкреплением."
 
+# REVIEW
 msgid   "The pirate ship breaks apart. You hasten to contact the civilian "
         "ship."
 msgstr  "Пиратский корабль развалился на части. Вы поспешили связаться с "
         "гражданским кораблём."
 
+# REVIEW
 msgid   "Contact the civilian ship."
 msgstr  "Связаться с гражданским кораблём."
 
+# REVIEW
 msgid   "No more life signs detected on the pirate ship. You hasten to "
         "contact the civilian ship."
 msgstr  "Пиратский корабль больше не подаёт признаков жизни. Вы поспешили "
         "связаться с гражданским кораблём."
 
+# REVIEW
 msgid   "We surrender! Take one of our slaves as tribute; if you destroy us "
         "they'll all die anyway!"
 msgstr  "\"Мы сдаёмся. 3аберите одного из наших рабов в качестве дани. Если "
         "вы уничтожите наш корабль, они всё равно умрут!\""
 
+# REVIEW
 msgid   "Accept their offer."
 msgstr  "Принять их предложение."
 
+# REVIEW
 msgid   "Surrender is not an option."
 msgstr  "Капитуляция неприемлема."
 
+# REVIEW
 msgid   "The slave ship is destroyed. They won't continue their evil trade, "
         "but many lives were probably lost on that ship."
 msgstr  "Корабль работорговцев уничтожен. Они больше не смогут продолжать "
         "свою дьявольскую торговлю, но многие, возможно, погибли на том "
         "корабле."
 
+# REVIEW
 msgid   "\"Fine! Our previous offer was not generous enough, let's improve it."
         "\""
 msgstr  "\"Хорошо! Наше предыдущее предложение было недостаточно щедрым, "
         "давайте мы сделаем его более привлекательным\"."
 
+# REVIEW
 msgid   "Accept the more generous bribe and leave."
 msgstr  "Принять более щедрую взятку и улететь."
 
+# REVIEW
 msgid   "Reject the offer and continue your assault."
 msgstr  "Отказаться от предложения и продолжить атаку."
 
+# REVIEW
 msgid   "You've proved a sufficient match for the pirates; they are powering "
         "up their FTL and trying to get away."
 msgstr  "Вы доказали пиратам что вы их достойны. Они включают свой FTL привод "
         "и пытаются ускользнуть."
 
+# REVIEW
 msgid   "The pirate has abandoned pursuit of both you and its former prey. "
         "You attempt to hail the damaged ship."
 msgstr  "Пираты оставили попытки преследования как вас, так и их бывшей "
         "добычи. Вы пытаетесь связаться с повреждённым кораблём."
 
+# REVIEW
 msgid   "Continue..."
 msgstr  "Продолжить..."
 
+# REVIEW
 msgid   "The pirate explodes, leaving behind a substantial collection of "
         "useful scrap material. You go to examine the ship you just saved."
 msgstr  "Пиратский корабль взорвался, оставив значительное количество "
         "полезного лома. Вы летите исследовать только что спасенный корабль."
 
+# REVIEW
 msgid   "The pirates are all dead, leaving the ship dead in space. You "
         "scrounge what you can from their ship before contacting its former "
         "prey."
@@ -77,35 +95,43 @@ msgstr  "Все пираты умерли, оставив корабль без�
         "Вы стащили с него все, что могли, прежде чем связываться с бывшей "
         "добычей пиратов."
 
+# REVIEW
 msgid   "With the pirate ship destroyed, your engines come online again.  You "
         "salvage what you can from the debris."
 msgstr  "С уничтожением пиратского корабля, двигатели вашего корабля вновь "
         "заработали. Вы собрали всё, что смогли добыть из обломков."
 
+# REVIEW
 msgid   "With the pirate ship disabled, your engines come online again.  You "
         "salvage what you can from their ship."
 msgstr  "С того момента, как пиратский корабль был приведен в негодность, "
         "двигатели вашего корабля вновь заработали. Вы собрали всё, что "
         "смогли добыть из обломков."
 
+# REVIEW
 msgid   "They hail you, \"We realize our ship is no match for yours. If you "
         "let us go we can make it worth your while.\""
 msgstr  "Они приветствуют вас: \"Мы понимаем, что наш корабль не чета вашему. "
         "Если вы позволите нам улететь, мы отблагодарим вас\"."
 
+# REVIEW
 msgid   "Ignore their pleas and attack."
 msgstr  "Игнорировать их мольбы и атаковать."
 
+# REVIEW
 msgid   "They look like they don't want to fight. They are trying to escape."
 msgstr  "Похоже, они не рвутся в бой. Они пытаются сбежать."
 
+# REVIEW
 msgid   "They hail your ship saying, \"You win!  We're not cut out for this!\""
 msgstr  "Они связываются с вашим кораблём: \"Вы выиграли! Мы на такое не "
         "подписывались!\""
 
+# REVIEW
 msgid   "Let them live and then return to the settlement."
 msgstr  "Оставить их в живых и вернуть в поселение."
 
+# REVIEW
 msgid   "With the pirates dissuaded from their career path, you return to the "
         "settlement.  \"Thank you, they returned to us before you did.  I "
         "don't think we'll need this anymore.\""
@@ -114,27 +140,33 @@ msgstr  "После наставления на путь истинный так
         "чуть раньше вас. Вот, возьмите в награду, не думаю что нам теперь "
         "это понадобится\"."
 
+# REVIEW
 msgid   "Forget your promise, they die!"
 msgstr  "3абыть о своих обещаниях, они умрут!"
 
+# REVIEW
 msgid   "With all of the would-be pirates dead, you think it best not to "
         "return to the settlement...  You prepare to jump."
 msgstr  "С учетом того, что все мнимые пираты мертвы, вы считаете что лучше "
         "всего не возвращаться в поселение... Вы готовитесь к прыжку."
 
+# REVIEW
 msgid   "With all of the would-be pirates dead, you think it best not to "
         "return to the settlement... You prepare to jump."
 msgstr  "С учетом того, что все мнимые пираты мертвы, вы считаете что лучше "
         "всего не возвращаться в поселение... Вы готовитесь к прыжку."
 
+# REVIEW
 msgid   "The pirate jumped away in search of weaker targets."
 msgstr  "Пиратский корабль улетел на поиски более слабых целей."
 
+# REVIEW
 msgid   "You contact the delivery ship, who are grateful for your assistance. "
         "They offer you a reward for saving them."
 msgstr  "Вы связались с кораблём снабжения, команда которого была благодарна "
         "за вашу помощь. Они предложили награду за их спасение."
 
+# REVIEW
 msgid   "The ship obliterated, only scant fuel canisters can be scavenged "
         "from the wreckage before the ion storm clears and you have to jump "
         "away."
@@ -142,41 +174,49 @@ msgstr  "Корабль уничтожен и только скудные кон
         "добыть из обломков до того, как стихнет ионный шторм и вам придется "
         "прыгать дальше."
 
+# REVIEW
 msgid   "With the ship in one piece, you are able to salvage most of the fuel "
         "supplies before the ion storm clears and you have to jump away."
 msgstr  "Поскольку корабль ещё цел, есть шанс собрать большую часть топливных "
         "запасов прежде, чем утихнет ионный шторм и наступит время лететь "
         "дальше."
 
+# REVIEW
 msgid   "The ship obliterated, only scant ammunition crates can be scavenged "
         "from the wreckage before the ion storm clears and you have to jump "
         "away."
 msgstr  "Корабль уничтожен, вы можете взять лишь небольшую часть ящиков с "
         "боеприпасами до того, как начнется ионный шторм и совершить прыжок."
 
+# REVIEW
 msgid   "With the ship in one piece, you are able to salvage most of the "
         "ammunition before the ion storm clears and you have to jump away."
 msgstr  "Поскольку корабль ещё цел, есть шанс собрать большую часть топливных "
         "запасов прежде, чем утихнет ионный шторм и наступит время лететь "
         "дальше."
 
+# REVIEW
 msgid   "When the pirate ship looks ready to break apart you notice the Slug "
         "ship has secured the loot and is preparing to jump away!"
 msgstr  "Корабль пиратов уже готов развалиться на части, и тут вы замечаете, "
         "что корабль слагов забирал добычу и готовится к прыжку."
 
+# REVIEW
 msgid   "Continue fighting the pirate."
 msgstr  "Продолжить сражение с пиратским кораблём."
 
+# REVIEW
 msgid   "It's best you finish this - but you wonder whether what the pirate "
         "is carrying will be as valuable as what the Slugs snuck off with."
 msgstr  "Лучше покончить с этим - но вы задаетесь вопросом, будет ли то, что "
         "перевозят пираты ценнее того, что умыкнули слаги."
 
+# REVIEW
 msgid   "Let the pirate escape and go after the Slugman ship."
 msgstr  "Позволить пиратам сбежать, вместо них направить свои усилия на "
         "корабль слагов."
 
+# REVIEW
 msgid   "The pirate's too badly damaged to pursue you and you catch up to the "
         "Slugmen before they jump. \"Ah, of courssse, we would never leave "
         "without providing the agreed upon ssspoils.\" They transfer over a "
@@ -186,11 +226,13 @@ msgstr  "Пираты сильно повреждены, чтобы пресле
         "никогда не оссставим вас без добычи, которую обещали\". Они передают "
         "вам большую часть прибыли и отправляются в путь."
 
+# REVIEW
 msgid   "With the pirate defeated you scan the debris for anything useful. "
         "The Slug ship is long gone, spoils from the cache in hand."
 msgstr  "Вы сканируете обломки поврежденных пиратов на наличие чего-нибудь "
         "полезного. Корабль слагов уже давно улизнул, забрав с собой добычу."
 
+# REVIEW
 msgid   "With the pirate taken care of, you search again for the cache he was "
         "protecting, but it's lost in the clouds. You console yourself with "
         "the salvage from the well-armed pirate ship."
@@ -198,6 +240,7 @@ msgstr  "Позаботившись о пиратах, вы снова нача�
         "защищали, но он был потерян в облаках. Вы удовлетворяетесь сбором "
         "трофеев с хорошо вооруженного пиратского корабля."
 
+# REVIEW
 msgid   "With the pirate defeated, you search again for the cache he was "
         "protecting, but it's lost in the clouds. You console yourself with "
         "the salvage from the well-armed pirate ship."
@@ -205,21 +248,26 @@ msgstr  "После победы над пиратами, вы снова нач
         "они защищали, но он был потерян в облаках. Вы удовлетворяетесь "
         "сбором трофеев с хорошо вооруженного пиратского корабля."
 
+# REVIEW
 msgid   "The ship explodes, leaving behind a collection of useful scrap "
         "material."
 msgstr  "Корабль разваливается на запчасти, некоторые из которых ещё могут "
         "быть использованы."
 
+# REVIEW
 msgid   "With the crew dead you are free to scrap the ship."
 msgstr  "Поскольку команда мертва, ничего не мешает вам обыскать корабль."
 
+# REVIEW
 msgid   "The ship breaks apart. You hasten to contact the civilian ship."
 msgstr  "Корабль развалился. Вы поспешили связаться с гражданским кораблём."
 
+# REVIEW
 msgid   "The ship breaks apart and you quickly salvage what you can."
 msgstr  "Корабль развалился, и вы быстро собрали всё полезное, что от него "
         "осталось."
 
+# REVIEW
 msgid   "The outpost hails you after the scout was destroyed, \"Thanks for "
         "the help. We've been harassed non-stop by those scouts. Take this on "
         "the house.\""
@@ -227,18 +275,22 @@ msgstr  "После уничтожения разведчика аванпост
         "за помощь. Эти разведчики нас без конца изводили. Вот, возьмите, это "
         "за наш счёт\"."
 
+# REVIEW
 msgid   "You access the recent scans from the unguarded station. Your map has "
         "been updated with details of the surrounding area."
 msgstr  "Вы получили доступ к последним данным местности с незащищенной "
         "станции. Ваша карта была дополнена подробностями окружающего "
         "пространства."
 
+# REVIEW
 msgid   "You salvage what you can from the broken ship."
 msgstr  "Вы собрали всё, что смогли с разбитого корабля."
 
+# REVIEW
 msgid   "Investigate the station."
 msgstr  "Исследовать станцию."
 
+# REVIEW
 msgid   "You salvage what you can and approach the station. It is used to "
         "relay information to the Rebel Fleet. You could attempt to hack it "
         "to give the Rebels false information."
@@ -246,28 +298,34 @@ msgstr  "Вы собрали всё, что можно и приблизилис
         "для передачи информации флоту повстанцев. Вы можете взломать её, что "
         "бы отправить повстанцам ложную информацию."
 
+# REVIEW
 msgid   "Hack into the station."
 msgstr  "Взломать станцию."
 
+# REVIEW
 msgid   "Don't risk it. Leave the station."
 msgstr  "Не рисковать. Покинуть станцию."
 
+# REVIEW
 msgid   "The ship starts to power up its FTL Drive. If it gets away, it will "
         "no doubt warn the fleet of your position!"
 msgstr  "Корабль начал заряжать свой FTL привод. Если он ускользнет, то он, "
         "вне всякого сомнения, оповестит флот о вашем местоположении."
 
+# REVIEW
 msgid   "The scout jumps away. It will certainly have informed the fleet of "
         "your position. You must get to the next sector as soon as possible!"
 msgstr  "Разведчик улетел. Он, безусловно, проинформировал флот о вашем "
         "местонахождении. Вы должны добраться до следующего сектора как можно "
         "быстрее."
 
+# REVIEW
 msgid   "Their ship breaks apart and you feel relief in the knowledge that "
         "you will hopefully still be one step ahead of the fleet."
 msgstr  "Корабль развалился на части и вы почувствовали облегчение, понимая, "
         "что вы, вероятно, все ещё на шаг впереди флота."
 
+# REVIEW
 msgid   "Careful! Sensors indicate that this automated ship is rigged to "
         "inform the fleet of your location if destroyed! It is better to "
         "avoid risk and leave it alone, otherwise the fleet will find you "
@@ -277,48 +335,57 @@ msgstr  "Осторожно! Сенсоры указывают на то, что
         "случае своего уничтожения. Лучше не рисковать и обойти его стороной, "
         "иначе флот быстрее обнаружит вас в этом секторе."
 
+# REVIEW
 msgid   "The scout jumps away. It will certainly have informed the fleet of "
         "your position. You must get to the next Sector as soon as possible!"
 msgstr  "Разведчик улетел. Он, безусловно, проинформировал флот о вашем "
         "местонахождении. Вы должны добраться до следующего сектора как можно "
         "быстрее."
 
+# REVIEW
 msgid   "As the ship breaks apart, you detect the pulse of a Long-Range "
         "message. It must have informed the fleet of your position."
 msgstr  "Как только корабль распадается на осколки, вы засекаете исходящий "
         "сигнал сообщения. Должно быть флот только что оповестили о вашем "
         "местоположении."
 
+# REVIEW
 msgid   "The outpost hails you, \"The pompous bastards expected free service "
         "just because they defeated the Federation. Take this for the help.\""
 msgstr  "Аванпост приветствует вас: \"Эти напыщенные ублюдки ожидали "
         "бесплатного обслуживания только потому, что они победили Федерацию. "
         "Возьмите это за помощь\"."
 
+# REVIEW
 msgid   "With the crew dead you quickly salvage what you can."
 msgstr  "Поскольку команда мертва, ничего не мешает вам обыскать корабль."
 
+# REVIEW
 msgid   "They are powering up their FTL! If they get away, they will no doubt "
         "warn the fleet of your position!"
 msgstr  "Они заряжают свой FTL привод. Если они ускользнут, они, вне всякого "
         "сомнения, оповестят флот о вашем местоположении."
 
+# REVIEW
 msgid   "The scout jumps away. They are sure to have informed the fleet of "
         "your position. You must get to the next Sector as soon as possible!"
 msgstr  "Разведчик улетел. Он, безусловно, проинформировал флот о вашем "
         "местонахождении. Вы должны добраться до следующего сектора как можно "
         "быстрее."
 
+# REVIEW
 msgid   "Their ship breaks apart and you are relieved to know that you are "
         "still one step ahead of the fleet."
 msgstr  "Корабль развалился на части, и вы почувствовали облегчение, понимая, "
         "что вы все ещё на шаг впереди флота."
 
+# REVIEW
 msgid   "Their ship goes silent and you are relieved to know that you are "
         "still one step ahead of the fleet."
 msgstr  "Корабль затих, и вы почувствовали облегчение, понимая, что вы все "
         "ещё на шаг впереди флота."
 
+# REVIEW
 msgid   "The outpost hails you, \"Thank you! I don't know what we did to "
         "anger the Rebels, but they were ready to kill us. I'll show you our "
         "goods and patch up your hull.\""
@@ -326,6 +393,7 @@ msgstr  "Аванпост приветствует вас: \"Спасибо ва
         "мятежников, но они были готовы убить нас. Я покажу вам наши товары и "
         "починю ваш корабль\"."
 
+# REVIEW
 msgid   "The outpost hails you, \"Thank you! I don't know what we did to "
         "anger the Rebels, but they were ready to kill us. I'll show you our "
         "goods and patch up your hull."
@@ -333,9 +401,11 @@ msgstr  "Аванпост приветствует вас: \"Спасибо ва
         "мятежников, но они были готовы убить нас. Я покажу вам наши товары и "
         "починю ваш корабль\"."
 
+# REVIEW
 msgid   "You scrap the wreckage."
 msgstr  "Вы собрали лом с обломков судна."
 
+# REVIEW
 msgid   "With the threat gone, you contact the Federation outpost. They "
         "respond, \"Our location has been compromised! Take everything you "
         "can and please drop our survivors off at the next station.\"  One "
@@ -345,6 +415,7 @@ msgstr  "Когда угроза миновала, вы связываетесь
         "и, пожалуйста, доставьте наших выживших на ближайшую станцию\". Один "
         "солдат хочет присоединиться к вам и сражаться."
 
+# REVIEW
 msgid   "You contact the station once the Rebel ship is destroyed.  The lone "
         "survivor responds, \"This base is no longer safe. Let me join your "
         "crew and we'll have the station's drones patch up your ship.\""
@@ -353,48 +424,59 @@ msgstr  "После уничтожения корабля мятежников �
         "Позвольте мне присоединиться к вашей команде, и мы воспользуемся "
         "дронами станции, чтобы починить ваш корабль\"."
 
+# REVIEW
 msgid   "With the ship destroyed, you quickly collect useful resources."
 msgstr  "После уничтожения корабля, вы быстро собрали все оставшиеся полезные "
         "ресурсы."
 
+# REVIEW
 msgid   "Contact the Federation ship."
 msgstr  "Связаться с кораблём Федерации."
 
+# REVIEW
 msgid   "With the crew of the Rebel ship dead, you salvage what you can."
 msgstr  "Поскольку команда повстанцев мертва, ничего не мешает вам обыскать "
         "его."
 
+# REVIEW
 msgid   "You are able to salvage scrap from the ship's debris."
 msgstr  "Вы можете добыть лом из обломков корабля."
 
+# REVIEW
 msgid   "There's no time to salvage the enemy ship... You must jump away "
         "before the cruisers get in firing range!"
 msgstr  "Нет времени на обыски обломков... Вы должны улетать, прежде чем "
         "крейсера подойдут на расстояние огня!"
 
+# REVIEW
 msgid   "The ship jumps away without a word. You assume they just went to get "
         "reinforcements..."
 msgstr  "Корабль улетел, не связавшись с вами. Вы предполагаете, что за "
         "подкреплением..."
 
+# REVIEW
 msgid   "You manage to retrieve a few precious fuel capsules before the Rebel "
         "cruisers start to fire."
 msgstr  "Вы можете стащить несколько так необходимых вам капсул горючего, "
         "прежде чем крейсеры мятежников откроют огонь."
 
+# REVIEW
 msgid   "As soon as they see you, they power up their engines to jump away.  "
         "Stop them!"
 msgstr  "Как только они увидели вас, они стали заряжать свой двигатель для "
         "прыжка. Остановите их!"
 
+# REVIEW
 msgid   "With the ship gone you search through the abandoned base for any "
         "signs of their destination but find none."
 msgstr  "Упустив корабль, вы обыскиваете базу в поисках сведений о месте их "
         "назначения, но ничего не находите."
 
+# REVIEW
 msgid   "You take what you can from the debris."
 msgstr  "Вы собрали всё что можно из разлетающихся обломков."
 
+# REVIEW
 msgid   "A quick search of their communication logs shows that the tech you "
         "were searching for never passed through this base... It must have "
         "been a decoy! You strip what you can and prepare to jump."
@@ -403,16 +485,19 @@ msgstr  "Беглый просмотр местного журнала сооб�
         "следу! Вы собираете всё, что может пригодиться, и начинаете "
         "подготовку к прыжку."
 
+# REVIEW
 msgid   "As soon as they see you they power up their engines to jump away. "
         "Stop them!"
 msgstr  "Как только они увидели вас, они стали заряжать свой двигатель для "
         "прыжка. Остановите их!"
 
+# REVIEW
 msgid   "With the ship gone, you search through the abandoned base for any "
         "signs of their destination but find none."
 msgstr  "Упустив корабль, вы обыскиваете базу в поисках сведений о месте их "
         "назначения, но ничего не находите."
 
+# REVIEW
 msgid   "Once their crew is dead you scan the log for information regarding "
         "the envoy. You're in luck! It seems ships matching the thieves' "
         "description passed through here not too long ago. You strip the ship "
@@ -422,43 +507,52 @@ msgstr  "Разобравшись с командой, вы просматрив
         "воров, недавно проходили неподалёку. Вы забираете всё ценное и "
         "готовитесь продолжать преследование."
 
+# REVIEW
 msgid   "The rebels destroyed, you pick the bones of their ship and wait for "
         "the small Engi ship to catch up."
 msgstr  "Расправившись с повстанцами, вы забираете всё ценное и ждёте, пока "
         "маленький корабль инжи вас догонит."
 
+# REVIEW
 msgid   "The Mantis ship breaks apart."
 msgstr  "Корабль мантисов развалился на части."
 
+# REVIEW
 msgid   "Attempt to contact the Engi."
 msgstr  "Попробовать связаться с инжи."
 
+# REVIEW
 msgid   "No more life signs detected on the Mantis ship. You hasten to "
         "contact the Engi."
 msgstr  "Корабль мантисов больше не подаёт признаков жизни. Вы спешите "
         "связаться с инжи."
 
+# REVIEW
 msgid   "With the hostile Engi ship destroyed you carefully extract as much "
         "fuel as possible from the wreckage."
 msgstr  "Уничтожив враждебный корабль инжи, вы аккуратно извлекаете из "
         "обломков уцелевшее топливо."
 
+# REVIEW
 msgid   "With the hostile Engies subdued you carefully extract as much fuel "
         "as possible from the ship."
 msgstr  "Уничтожив враждебный корабль инжи, вы аккуратно извлекаете из "
         "обломков уцелевшее топливо."
 
+# REVIEW
 msgid   "The Rock ship starts to power up their FTL drive. If we're going to "
         "earn their trust we must endure the heat for as long as they can!"
 msgstr  "Корабль роков начинает прогревать FTL приводы. Если мы хотим "
         "заслужить их доверие, нам придётся терпеть жар сколько, сколько "
         "могут они!"
 
+# REVIEW
 msgid   "As they jump away they relay coordinates to your navigation system. "
         "They must mean for you to follow them!"
 msgstr  "Перед прыжком они передают в вашу навигационную систему координаты. "
         "Это приглашение последовать за ними!"
 
+# REVIEW
 msgid   "Their ship breaks apart and you feel a twinge of guilt. Perhaps they "
         "could have helped the Federation if this had gone another way. You "
         "scrap what you can and prepare to jump out of the heat."
@@ -467,6 +561,7 @@ msgstr  "Их корабль разваливается, и вы ощущает�
         "Федерации. Вы собираете всё, что может пригодиться, и готовитесь "
         "совершить прыжок из этого пекла."
 
+# REVIEW
 msgid   "Their ship goes quiet and you feel a twinge of guilt. Perhaps they "
         "could have helped the Federation if this had gone another way. You "
         "scrap what you can and prepare to jump out of the heat."
@@ -475,9 +570,11 @@ msgstr  "Их корабль затихает, и вы ощущаете боле
         "Вы собираете всё, что может пригодиться, и готовитесь совершить "
         "прыжок из этого пекла."
 
+# REVIEW
 msgid   "Attempt to contact the civilian ship."
 msgstr  "Попробовать связаться с гражданским кораблём."
 
+# REVIEW
 msgid   "KazaaakplethKilik fights to the last, and you pick the scraps from "
         "the corpse of his ship. You sense, though, that his death has left a "
         "great mystery unresolved."
@@ -486,9 +583,11 @@ msgstr  "Казааакплеткилик бился до последнего, 
         "смерть оставила какую-то великую тайну неразрешённой, не покидает "
         "вас."
 
+# REVIEW
 msgid   "You strip what you can and contact the Engi ships."
 msgstr  "Вы собрали всё, что смогли, и связались с кораблём инжи."
 
+# REVIEW
 msgid   "The Mantis defeated, you contact the weakened Slug vessel. \"You "
         "ssseee,\" they begin, \"we are most grateful, but, that is, we do "
         "not currently have the liquid asssets to reward you at this time.\""
@@ -496,16 +595,20 @@ msgstr  "Мантис побежден, вы связываетесь с пов�
         "\"Видите ли... - начинают они. - Мы очень благодарны, но у нассс нет "
         "сейчас ликвидных сссредств, чтобы вознаградить вассс\"."
 
+# REVIEW
 msgid   "Leave them be."
 msgstr  "Оставить их в покое."
 
+# REVIEW
 msgid   "These wretches aren't worth fighting. Time to spin up and jump off."
 msgstr  "Не стоит марать руки об этих негодяв. Время набирать обороты и "
         "прыгать отсюда."
 
+# REVIEW
 msgid   "Finish them off."
 msgstr  "Добить их."
 
+# REVIEW
 msgid   "The Mantis defeated, you contact the weakened Slug vessel. \"You "
         "sssee,\" they begin, \"we are most grateful, but, that is, we do not "
         "currently have the liquid asssets to reward you at this time.\""
@@ -513,6 +616,7 @@ msgstr  "Мантис побежден, вы связываетесь с пов�
         "\"Видите ли... - начинают они. - Мы очень благодарны, но у нассс нет "
         "сейчас ликвидных сссредств, чтобы вознаградить вассс\"."
 
+# REVIEW
 msgid   "As you're salvaging the Mantis wreck the Zoltan security patrol "
         "returns with three other ships. You quickly salvage what you can and "
         "set off before they can stop you for questioning."
@@ -520,6 +624,7 @@ msgstr  "Пока вы собирали обломки корабля манти
         "безопасности вернулся с ещё тремя кораблями. Вы быстро хватаете что "
         "можете и отправляетесь в путь, пока они не задержали вас для допроса."
 
+# REVIEW
 msgid   "With the assault ship taken care of, you turn your attention to the "
         "construction platform. However, you find that it has long since "
         "disappeared into the clouds. You scrap what you can and prepare to "
@@ -529,6 +634,7 @@ msgstr  "После того, как с десантным транспорто�
         "уже давно скрылась в облаках. Вы собираете, что можете, и готовитесь "
         "двигаться дальше."
 
+# REVIEW
 msgid   "The interceptor powers up its FTL drive in preparation to escape. At "
         "the same time, the cruiser's FTL drive does the same. They must be "
         "linked! Don't let them get away!"
@@ -536,11 +642,13 @@ msgstr  "Перехватчик разогревает свой FTL привод
         "момент вы замечаете, что крейсер делает то же самое. Должно быть они "
         "объединились! Не дайте им сбежать!"
 
+# REVIEW
 msgid   "The interceptor jumps away with the cruiser linked to its FTL "
         "signatures. You were so close..."
 msgstr  "Перехватчик улетает с крейсером, использующим их FTL след для "
         "навигации. А вы были так близко..."
 
+# REVIEW
 msgid   "With the escort destroyed you take a look at your impressive prize. "
         "Your mission is too pressing to take a test flight, so you rig its "
         "computer to guide the ship back to the main Federation hangar."
@@ -549,84 +657,100 @@ msgstr  "После уничтожения охраны вы победно см
         "Поэтому вы настраиваете автопилот корабля на возвращение на базу "
         "Федерации."
 
+# REVIEW
 msgid   "With the Slug ship destroyed, you retrieve some scrap and return to "
         "the Rock ship."
 msgstr  "После уничтожения корабля слагов, вы извлекли из его останков него "
         "немного лома и вернулись к кораблю роков."
 
+# REVIEW
 msgid   "With the Slugs no longer a threat, you strip the ship and return to "
         "the Rockmen."
 msgstr  "Поскольку слаги больше не представляли угрозы, вы обыскали их "
         "корабль и вернулись к рокам."
 
+# REVIEW
 msgid   "At last the Slugs' prized possessions are yours for the taking. "
         "After, that is, you split your takings with the Mantis."
 msgstr  "Наконец, драгоценное имущество слагов ваше. Позже вы делите добычу с "
         "мантисами."
 
+# REVIEW
 msgid   "You try and collect as much fuel from the wreckage as possible."
 msgstr  "Вы собираете как можно больше топлива из останков."
 
+# REVIEW
 msgid   "With the Slug ship subdued you are free to collect as much fuel as "
         "possible."
 msgstr  "Теперь, когда корабль слагов повержен, можно спокойно взять всё "
         "топливо, что найдётся."
 
+# REVIEW
 msgid   "The Slug ship breaks apart and your systems return to normal. You "
         "collect what you can."
 msgstr  "Корабль слагов распадается, и ваши системы возвращаются к "
         "нормальному функционированию. Вы собираете, что можно собрать."
 
+# REVIEW
 msgid   "With their crew dead, you quickly shut off their hacking module and "
         "your systems return to normal. You strip the ship."
 msgstr  "После уничтожения экипажа вы быстро отключаете их модуль взлома и "
         "ваши системы возвращаются в нормальное состояние. Вы обыскиваете "
         "корабль."
 
+# REVIEW
 msgid   "The Slug ship breaks apart and your engines return to normal. You "
         "collect what you can."
 msgstr  "Корабль слагов распадается, и ваши двигатели возвращаются к "
         "нормальному функционированию. Вы собираете, что можно собрать."
 
+# REVIEW
 msgid   "With their crew dead, you quickly shut off their hacking module and "
         "your engines return to normal. You strip the ship."
 msgstr  "После уничтожения экипажа вы быстро отключаете их модуль взлома и "
         "ваши двигатели возвращаются в нормальное состояние. Вы обыскиваете "
         "корабль."
 
+# REVIEW
 msgid   "The Slug ship breaks apart and your shields return to normal. You "
         "collect what you can."
 msgstr  "Корабль слагов распадается, и ваши щиты возвращаются к нормальному "
         "функционированию. Вы собираете, что можно собрать."
 
+# REVIEW
 msgid   "With their crew dead, you quickly shut off their hacking module and "
         "your shields return to normal. You strip the ship."
 msgstr  "После уничтожения экипажа вы быстро отключаете их модуль взлома и "
         "ваши щиты возвращаются в нормальное состояние. Вы обыскиваете "
         "корабль."
 
+# REVIEW
 msgid   "The Slug ship breaks apart and your piloting return to normal. You "
         "collect what you can."
 msgstr  "Корабль слагов распадается, и ваш модуль пилотирования возвращается "
         "к нормальному функционированию. Вы собираете, что можно собрать."
 
+# REVIEW
 msgid   "With their crew dead, you quickly shut off their hacking module and "
         "your piloting return to normal. You strip the ship."
 msgstr  "После уничтожения экипажа вы быстро отключаете их модуль взлома и "
         "ваш модуль пилотирования возвращается в нормальное состояние. Вы "
         "обыскиваете корабль."
 
+# REVIEW
 msgid   "The Slug ship breaks apart and your weapon system returns to normal. "
         "You collect what you can."
 msgstr  "Корабль слагов распадается, и ваша орудийная система возвращается к "
         "нормальному функционированию. Вы собираете, что можно собрать."
 
+# REVIEW
 msgid   "With their crew dead, you quickly shut off their hacking module and "
         "your weapon system returns to normal. You strip the ship."
 msgstr  "После уничтожения экипажа вы быстро отключаете их модуль взлома и "
         "ваша орудийная система возвращается в нормальное состояние. Вы "
         "обыскиваете корабль."
 
+# REVIEW
 msgid   "The Zoltan captain sends an urgent hail: \"Wait, this was all a "
         "test! A test that you passed! A diverse crew, working together, "
         "surely a sight to warm the heart of any dispassionate observer. "
@@ -636,27 +760,33 @@ msgstr  "Капитан золтанцев посылает срочное со�
         "работающий вместе, без сомнений вызовет восхищение даже самого "
         "хладнокровного наблюдателя. Я присоединяюсь к вашей команде!\""
 
+# REVIEW
 msgid   "While you search the debris, you wonder what it was that could have "
         "provoked them to act so irrationally."
 msgstr  "Разбирая обломки, вы задаётесь вопросом - что же могло побудить их "
         "действовать столь опрометчиво?"
 
+# REVIEW
 msgid   "While you scrap their ship, you wonder what it was that could have "
         "provoked them to act so irrationally."
 msgstr  "Разбирая обломки, вы задаётесь вопросом - что же могло побудить их "
         "действовать столь опрометчиво?"
 
+# REVIEW
 msgid   "They are clearly not putting up a fight. Are you sure you want to "
         "destroy them?"
 msgstr  "Они явно не хотят лезть в драку. Вы уверены, что хотите уничтожить "
         "их?"
 
+# REVIEW
 msgid   "You continue the assault."
 msgstr  "Вы продолжаете атаку."
 
+# REVIEW
 msgid   "Let them go."
 msgstr  "Отпустить их."
 
+# REVIEW
 msgid   "You power down your weapons and after a time the ship slowly limps "
         "away. They refuse all communications. You can't help but feel "
         "somewhat guilty."
@@ -664,11 +794,13 @@ msgstr  "Вы отключаете ваши орудия и через како�
         "уползает прочь. На попытки связаться они не отвечают и вам "
         "становится даже чуточку стыдно - теперь им уже не поможешь."
 
+# REVIEW
 msgid   "You can't help but feel somewhat guilty as you search through the "
         "debris. It was probably a trap... right?"
 msgstr  "Вы не можете помочь, и чувствуете какую-то вину, пока обыскиваете "
         "обломки. Ведь это наверняка была ловушка... правда?"
 
+# REVIEW
 msgid   "You begin to strip their ship and don't find anything that would "
         "indicate they were on anything other than a peaceful mission. "
         "Perhaps you were too hasty."
@@ -676,16 +808,19 @@ msgstr  "Вы начинаете разбирать их корабль и не 
         "свидетельствовать о враждебности их миссии. Пожалуй вы были чересчур "
         "поспешили с ними."
 
+# REVIEW
 msgid   "You defeat your assailant, but the peace ship has jumped away in the "
         "commotion."
 msgstr  "Вы разгромили вашего противника, но мирный корабль прыгнул прочь в "
         "сумятице."
 
+# REVIEW
 msgid   "The Mantis are so grateful that they only take three quarters of the "
         "loot, leaving the rest for you. How civilized."
 msgstr  "Мантисы были настолько великодушны, что взяли лишь три четверти "
         "добычи, оставив остальное вам. Как благородно!"
 
+# REVIEW
 msgid   "The Rebel contacts you. \"Lovely, you've done our job for us! We'll "
         "let you live as thanks. However, I can't promise the fleet will show "
         "you the same courtesy.\" They jump off. You collect what you can "
@@ -695,6 +830,7 @@ msgstr  "Повстанцы связались с вами: \"Как мило, �
         "флот окажется столь же снисходителен\". Они улетают и вы собираете "
         "то, что осталось от корабля золтанцев."
 
+# REVIEW
 msgid   "The Zoltan hail once the smoke disperses. \"Thank you. We were led "
         "to believe Federation ideals died along with the Federation itself. "
         "Let us aid you a little, for old times' sake.\" You accept their "
@@ -705,21 +841,26 @@ msgstr  "Дым рассеивается и золтанец говорит: \"�
         "вознаграждение и лом, после чего собираете кое-какие остатки от "
         "корабля повстанцев."
 
+# REVIEW
 msgid   "You salvage what you can from the ship."
 msgstr  "Вы добыли всё, что смогли из обломков корабля."
 
+# REVIEW
 msgid   "The Zoltan looks deeply dissatisfied with your aiming and demands to "
         "be dropped off at your earliest convenience."
 msgstr  "3олтанец выглядит крайне раздосадованным результатами сражения. И не "
         "удивительно, вы разбили его корабль! Он требует, чтобы его высадили "
         "при первой же возможности."
 
+# REVIEW
 msgid   "Let him go."
 msgstr  "Высадить его."
 
+# REVIEW
 msgid   "Offer to hire him for 40 scrap."
 msgstr  "Предложить работу за 40 единиц лома."
 
+# REVIEW
 msgid   "The last pirate life-signs blink out and the Zoltan returns to his "
         "bridge. \"Egalitarianism is a cornerstone of successful "
         "cohabitation. Please, enjoy the fruits of your labor.\""
@@ -728,58 +869,72 @@ msgstr  "Детектор признаков жизни сообщил о сме
         "краеугольный камень мирного сосуществования. Прошу, наслаждайтесь "
         "плодами своего труда\"."
 
+# REVIEW
 msgid   "You salvage the remains and contact the wise man."
 msgstr  "Вы собрали обломки и связались с мудрецом."
 
+# REVIEW
 msgid   "You salvage the ship and contact the wise man."
 msgstr  "Вы собрали лом с корабля и связались с мудрецом."
 
+# REVIEW
 msgid   "You scrap what you can and prepare to jump before the other guards "
         "arrive."
 msgstr  "Вы собираете всё, что можете и готовитесь к прыжку до того, как "
         "остальные стражи прибудут."
 
+# REVIEW
 msgid   "You take out the ship and contact the research station."
 msgstr  "Вы сходите с судна и связываетесь с исследовательской станцией."
 
+# REVIEW
 msgid   "\"Thank you for rescuing us! They held us hostage to ambush "
         "unsuspecting passersby. Please, take this.\""
 msgstr  "\"Спасибо за освобождение! Они использовали нас как приманку для "
         "кораблей, что проходили мимо. Возьмите это пожалуйста\"."
 
+# REVIEW
 msgid   "You disable the ship and contact the research station."
 msgstr  "Вы обезвреживаете корабль и связываетесь с научно-исследовательской "
         "станцией."
 
+# REVIEW
 msgid   "As the ship breaks apart, you frantically try to salvage the "
         "remaining fuel from its cargo."
 msgstr  "Корабль разваливается на куски, и вы судорожно пытаетесь спасти "
         "топливо из их грузового отсека."
 
+# REVIEW
 msgid   "It is apparent that the ship was not intended for combat. It seems "
         "to be trying to jump away."
 msgstr  "Очевидно этот корабль не был предназначен для битвы. Кажется, они "
         "пытаются сбежать."
 
+# REVIEW
 msgid   "Accept their surrender."
 msgstr  "Принять капитуляцию."
 
+# REVIEW
 msgid   "Ignore them."
 msgstr  "Игнорировать их."
 
+# REVIEW
 msgid   "You cut off communications and prepare to finish them off."
 msgstr  "Вы прервали связь и приготовились прикончить их."
 
+# REVIEW
 msgid   "The Crystalline ship shatters and you pick what you can from the "
         "debris."
 msgstr  "Судно кристалинов разваливается на части, и вы подбираете с них всё, "
         "что может пригодиться."
 
+# REVIEW
 msgid   "The crew of the enemy ship has been eliminated. You scrap what you "
         "can."
 msgstr  "Команда вражеского судна была ликвидирована. Вы собираете всё, что "
         "можно."
 
+# REVIEW
 msgid   "Their ship seems severely damaged and they look to be reconsidering "
         "the fight. Should you power down your weapons and explain that you "
         "mean no threat?"
@@ -787,9 +942,11 @@ msgstr  "Их корабль выглядит изрядно потрёпанн�
         "передумали воевать. Может быть стоит отключить своё оружие и "
         "попытаться убедить их в мирности своих намерений?"
 
+# REVIEW
 msgid   "Stop the fight."
 msgstr  "Остановить сражение."
 
+# REVIEW
 msgid   "They accept your explanation and allow you to approach the fleet. It "
         "appears they are miners and colonists from a fringe settlement who "
         "are fleeing to more protected space after hearing reports of pirate "
@@ -799,14 +956,17 @@ msgstr  "Они приняли ваши объяснения и позволил
         "поселения, бегущие в более защищенные части космоса о нападений "
         "пиратов и повстанцев."
 
+# REVIEW
 msgid   "They apologize for their hasty response to your presence and spend "
         "some time refueling and repairing both ships."
 msgstr  "Они извиняются за свою необдуманную реакцию на ваше присутствие и "
         "тратят некоторое время на дозаправку и ремонт обоих кораблей."
 
+# REVIEW
 msgid   "They wanted to pick a fight with you so that's what they'll get."
 msgstr  "Они хотели боя и они его получат."
 
+# REVIEW
 msgid   "The Crystalline ship shatters and you pick what you can from the "
         "debris. The rest of the convoy used the time to put a significant "
         "amount of distance between you and them. Nothing left to do but jump."
@@ -814,6 +974,7 @@ msgstr  "Судно кристалинов разваливается на ча�
         "что можно подобрать. 3а это время остаток конвоя значительно "
         "отдаляется от вас. Ничего не поделаешь, придётся прыгать дальше."
 
+# REVIEW
 msgid   "The crew of the enemy ship has been eliminated. You scrap what you "
         "can. The rest of the convoy used the time to put a significant "
         "amount of distance between you and them. Nothing left to do but jump."
@@ -821,6 +982,7 @@ msgstr  "Команда вражеского судна была полност�
         "собираете лом с корабля остаток конвоя значительно отдаляется от "
         "вас. Ничего не поделаешь, придётся прыгать дальше."
 
+# REVIEW
 msgid   "The hunters message you, \"We surrender. Take one of these squishy "
         "meat sacks that we've captured.\" He must be referring to the human "
         "captives."
@@ -828,6 +990,7 @@ msgstr  "Охотники отправили вам сообщение: \"Мы �
         "этих мягких мешков мяса, которые мы захватили\". Похоже, они имеют в "
         "виду человеческих пленников."
 
+# REVIEW
 msgid   "They send one of their prisoners over to your ship. They're a bit "
         "shaken up and you suspect that they were once a rebel, but they seem "
         "to be very glad to free."
@@ -835,31 +998,38 @@ msgstr  "Они выслали одного из пленников на ваш 
         "и вы подозреваете, что он когда-то был мятежником, но, похоже, он "
         "очень рад освобождению."
 
+# REVIEW
 msgid   "Who knows how many humans will be saved if you kill them now."
 msgstr  "Кто знает, сколько человек будет спасено, если вы уничтожите их "
         "сейчас."
 
+# REVIEW
 msgid   "The Crystalline ship shatters and you pick what you can from the "
         "debris. Who knows how many people you've saved by stopping this ship."
 msgstr  "Судно кристалинов разваливается на части и вы подбираете с них всё, "
         "что можно подобрать. Кто знает, сколько людей вы спасли, остановив "
         "этот корабль."
 
+# REVIEW
 msgid   "The crew of the enemy ship has been eliminated. You scrap what you "
         "can. Who knows how many people you've saved by stopping this ship."
 msgstr  "Экипаж вражеского корабля устранен. Вы подбираете всё, что можете "
         "взять. Кто знает, сколько людей вы спасли, остановив этот корабль."
 
+# REVIEW
 msgid   "The rebels destroyed, you pick the bones of their ship."
 msgstr  "Корабль повстанцев уничтожен, вы подбираете останки."
 
+# REVIEW
 msgid   "The ship explodes and you scrap what you can."
 msgstr  "Корабль взорвался и вы взяли столько лома, сколько смогли."
 
+# REVIEW
 msgid   "With the crew dead you take as much salvage from the ship as "
         "possible."
 msgstr  "Их команда мертва, и вы забираете с корабля всё, что пригодится."
 
+# REVIEW
 msgid   "The haunted ship is destroyed. It won't be able to trouble future "
         "travelers."
 msgstr  "Преследуемый корабль уничтожен. Больше он не побеспокоит "

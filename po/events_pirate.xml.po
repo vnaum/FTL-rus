@@ -1,14 +1,17 @@
+# REVIEW
 msgid   ""
 msgstr  "Project-Id-Version: ru\n"
         "Content-Type: text/plain; charset=UTF-8\n"
         "Content-Transfer-Encoding: 8bit\n"
 
+# REVIEW
 msgid   "A few years ago this region was bustling with trade activity. Now it "
         "is overrun with bandits and marauders. You should tread lightly here."
 msgstr  "Несколько лет назад этот регион был выгодным местом для торговли. "
         "Теперь он переполнен бандитами и пиратами. Стоит соблюдать "
         "осторожность."
 
+# REVIEW
 msgid   "This somewhat isolated region was thrown into chaos at the start of "
         "the rebellion. Even in peacetime it was always beset by pirates but "
         "now it houses a center of operations for countless pirate fleets."
@@ -16,6 +19,7 @@ msgstr  "Этот изолированный регион был ввергну�
         "Даже в мирное время он был населен пиратами, но сейчас там "
         "базируется центр управления многочисленных пиратских флотов."
 
+# REVIEW
 msgid   "If the reports are true, this area has been under the control of "
         "pirates for quite some time. Some traders still attempt to trade "
         "with the few settlements that remain, but they do so at great risk."
@@ -24,6 +28,7 @@ msgstr  "Если доклады правдивы, эта территория �
         "пытаются торговать с оставшимися поселениями, но они очень сильно "
         "рискуют."
 
+# REVIEW
 msgid   "A few Federation-friendly planets still exist in this sector, but "
         "they are constantly under attack by pirate raids. This is a "
         "dangerous sector, so be careful."
@@ -31,6 +36,7 @@ msgstr  "Несколько дружественных Федерации пла
         "секторе, но они постоянно страдают от пиратских набегов. Это опасный "
         "сектор, так что будьте осторожны."
 
+# REVIEW
 msgid   "A few small ships are visible on the vidscreen, and you almost "
         "activate weapons targeting. However, sensors indicate they are "
         "simply honest merchants. The pirates must be making you jumpy. You "
@@ -41,6 +47,7 @@ msgstr  "Несколько маленьких кораблей видны в в
         "до нервного срыва недалеко... Вы связываетесь с торговцами, "
         "интересуясь их товарами."
 
+# REVIEW
 msgid   "You detect a hub of activity nearby. A large corporation has set up "
         "a trade depot and has a number of well armed ships patrolling. This "
         "appears to be a relatively safe place to get repairs."
@@ -49,6 +56,7 @@ msgstr  "Вы зафиксировали центр активности неп�
         "вооруженных кораблей патрулировать это место. Похоже, это довольно "
         "безопасное место для ремонта."
 
+# REVIEW
 msgid   "You receive a wide-band automated message, \"Welcome to our humble "
         "trade depot and shipyard! All are welcome, but try any funny "
         "business and our 152 automated turret satellites will tear your ship "
@@ -58,6 +66,7 @@ msgstr  "Вы получаете широковещательное автома
         "всем, но попробуйте что-нибудь выкинуть, и наши 152 автоматические "
         "турели-спутники сделают из вашего корабля решето!\""
 
+# REVIEW
 msgid   "A well armed transport ship and a squadron of fighters are in orbit "
         "nearby. You are wary of their trustworthiness but beggars can't be "
         "choosers."
@@ -65,6 +74,7 @@ msgstr  "Хорошо вооруженное транспортное судно
         "находятся на орбите неподалёку. Вы не уверены, что можете им "
         "доверять, но, как говорят, беднякам выбирать не приходится."
 
+# REVIEW
 msgid   "As soon as you arrive, a small ship de-cloaks behind yours. You "
         "immediately power up the shields and weapons, but they continue on "
         "their trajectory unimpressed. You try to calm your nerves."
@@ -72,6 +82,7 @@ msgstr  "Как только вы прибыли, небольшой кораб�
         "вас. Вы немедленно активируете щиты и заряжаете орудия, но они "
         "невозмутимо продолжают движение. Вы пытаетесь успокоить свои нервы."
 
+# REVIEW
 msgid   "A small pirate ship messages you, \"That sure is a shiny ship you "
         "got there.\" You fire a warning shot across their bow and they "
         "respond, \"Hey! No need for violence! It was just a comment...\""
@@ -80,6 +91,7 @@ msgstr  "Небольшой пиратский корабль сообщает �
         "отвечают: \"Эй! Нет нужды в насилии! Это был всего лишь "
         "комментарий...\""
 
+# REVIEW
 msgid   "The only thing within scanning range is an old abandoned mining "
         "structure and a resupply station. They appear to have been picked "
         "clean by marauders."
@@ -87,6 +99,7 @@ msgstr  "Единственная вещь в радиусе сканера - с
         "горнодобывающее сооружение с заправочной станцией. Похоже их уже "
         "обчистили мародеры."
 
+# REVIEW
 msgid   "You arrive to have a small fleet of Engi ships target you with a "
         "message, \"Piracy results in negative societal impact. Not permitted."
         "\" You assure them of your honest intentions and they allow you to "
@@ -95,12 +108,14 @@ msgstr  "Вы прибыли к небольшому флоту кораблей
         "с сообщением: \"Пиратство негативно влияет на общество. 3апрещено\". "
         "Вы заверяете их в благих намерениях и они пропускают вас."
 
+# REVIEW
 msgid   "As you jump into the system a pirate advances on your position. They "
         "are refusing all hails. Prepare for a fight."
 msgstr  "Как только вы входите в систему, к вам с большой скоростью "
         "направляется пиратский корабль. На вызовы он не отвечает. Готовьтесь "
         "к бою."
 
+# REVIEW
 msgid   "Soon after arriving in the system you are hailed by a small cruiser. "
         "\"What good fortune that we happen to run into each other. Nothing "
         "personal, but you have some information we need!\""
@@ -108,6 +123,7 @@ msgstr  "Сразу по прибытию в систему вас привет�
         "\"Какая удача, что мы наткнулись на друг друга. Ничего личного, но у "
         "вас информация, которая нам нужна!\""
 
+# REVIEW
 msgid   "At first it appears you've arrived in an empty system, but a ship "
         "appears from behind a planet and hails you: \"Haha! I am the dread "
         "pirate Tuco, prepare to die!\""
@@ -115,16 +131,19 @@ msgstr  "Система, куда вы прибыли, поначалу каза
         "за одной из планет вынырнул корабль и передал сообщение: \"Ха-ха, я "
         "- беспощадный пират Тако! Готовьтесь к смерти!\""
 
+# REVIEW
 msgid   "The only other ship at this beacon messages you: \"Finally, after "
         "months of waiting, someone has fallen into our trap!\""
 msgstr  "Одинокий корабль у маяка сообщает вам: \"Наконец, после месяцев "
         "ожидания, кто-то попался в нашу ловушку!\""
 
+# REVIEW
 msgid   "You barely have time to register jump completion before your ship "
         "warns you of an incoming ship with weapons hot."
 msgstr  "Вы еле успеваете закончить прыжок, как ваш корабль предупреждает, "
         "что на вас идёт корабль с оружием наготове."
 
+# REVIEW
 msgid   "Once you arrive, your screen lights up with warnings. A nearby "
         "pirate seems to have advanced hacking tools and they have tried to "
         "shut down our engines. Your crew manages to keep them barely "
@@ -135,20 +154,25 @@ msgstr  "По прибытию на вашем экране загораются
         "Команда как может поддерживает его в рабочем состоянии, пока вы "
         "разбираетесь с этим \"хакером\"..."
 
+# REVIEW
 msgid   "Aid the civilian ship."
 msgstr  "Помочь гражданскому кораблю."
 
+# REVIEW
 msgid   "You power up your weapons and engage the pirate ship."
 msgstr  "Вы включаете оружие и готовитесь к бою с пиратским кораблём."
 
+# REVIEW
 msgid   "Stay out of it."
 msgstr  "Держаться от него подальше."
 
+# REVIEW
 msgid   "The fight brings them out of your immediate scanning range. After a "
         "time the distress calls stop."
 msgstr  "Бой выводит их из радиуса действия ваших сканеров. Через некоторое "
         "время сигнал бедствия пропадает."
 
+# REVIEW
 msgid   "You arrive in the system to see a pirate ship pursuing a civilian "
         "ship. You detect messages from the civilian ship on a distress "
         "frequency."
@@ -156,32 +180,38 @@ msgstr  "Вы прибываете в эту систему как раз вов
         "корабль, преследующий гражданских. Жертва отчаянно шлёт передачи на "
         "частоте сигнала бедствия."
 
+# REVIEW
 msgid   "Scanners indicate that a battle is taking place nearby. It seems "
         "that someone is under attack by space pirates."
 msgstr  "Сканеры показывают, что неподалеку идёт бой. Похоже кого-то атакуют "
         "космические пираты."
 
+# REVIEW
 msgid   "You detect two ships, one chasing the other... Scanners show the "
         "pursuer is a pirate!"
 msgstr  "Вы засекли два корабля, один преследует другого... Сканеры "
         "показывают, что преследователь - пират."
 
+# REVIEW
 msgid   "There are only two ships within range and they seem to be engaged in "
         "battle. One of them has the markings of a space pirate."
 msgstr  "В районе только два корабля и похоже они сражаются. У одного "
         "пиратские знаки."
 
+# REVIEW
 msgid   "You arrive at the next beacon only to immediately be hailed by a "
         "small shuttle. \"Help us! We are being attacked by pirates!\""
 msgstr  "Сразу же после прибытия к маяку, вы получаете сообщение от "
         "небольшого шаттла: \"Помогите! На нас напали пираты!\""
 
+# REVIEW
 msgid   "You come out of the jump to see laser blasts coming from the other "
         "side of the beacon. It looks like someone is under attack from "
         "pirates."
 msgstr  "Вы выходите из прыжка и видите лазерные выстрелы летящие с другой "
         "стороны маяка. Похоже на кого-то напали пираты."
 
+# REVIEW
 msgid   "The ship you saved was badly damaged in the battle. Most of the crew "
         "accepts your offer to be dropped off at a nearby station. One offers "
         "to join your crew."
@@ -189,25 +219,31 @@ msgstr  "Корабль, который вы спасли, был сильно �
         "экипажа согласились сойти на ближайшей станции. Один из них хочет "
         "присоединиться к вам."
 
+# REVIEW
 msgid   "Welcome aboard!"
 msgstr  "Добро пожаловать на борт!"
 
+# REVIEW
 msgid   "The survivor gets on board the ship."
 msgstr  "Выживший появляется на борту корабля."
 
+# REVIEW
 msgid   "Decline their request"
 msgstr  "Отклонить запрос."
 
+# REVIEW
 msgid   "The ship that the pirate was assaulting was a science vessel. They "
         "thank you for saving them and offer a small reward."
 msgstr  "Корабль который атаковали пираты, был научным судном. Они благодарят "
         "вас за спасение и предлагают маленькое вознаграждение."
 
+# REVIEW
 msgid   "It seems the crew did not survive the assault. You take what you can "
         "from the remains of the ship."
 msgstr  "Кажется, что команда не пережила нападение. Вы берёте все что можно "
         "с останков судна."
 
+# REVIEW
 msgid   "They respond, \"It's a good thing you came when you did; we'd be "
         "dead now otherwise. I'm a shipwright and I'd like to help you like "
         "you helped me.\""
@@ -215,9 +251,11 @@ msgstr  "Они отвечают: \"Хорошо, что вы появились
         "мертвы. Я - кораблестроитель, и хотел бы помочь вам за то, что вы "
         "помогли мне\"."
 
+# REVIEW
 msgid   "The captain offers to install a piece of equipment on your ship."
 msgstr  "Капитан предлагает установить часть оборудования на ваш корабль."
 
+# REVIEW
 msgid   "\"This sector has become increasingly dangerous for friends of the "
         "Federation. I think my crew can patch up some of your hull damage as "
         "thanks.\""
@@ -225,58 +263,71 @@ msgstr  "\"Этот сектор всё больше и больше стано�
         "Федерации. Думаю, моя команда могла бы починить кое-какие пробоины в "
         "обшивке вашего корабля в качестве благодарности\"."
 
+# REVIEW
 msgid   "The civilian ship wisely made a fast retreat while you distracted "
         "the hostile ship."
 msgstr  "Пока вы отвлекали враждебный корабль на себя, гражданский корабль "
         "благоразумно предпочёл смыться."
 
+# REVIEW
 msgid   "Accept their bribe."
 msgstr  "Принять взятку."
 
+# REVIEW
 msgid   "\"Good choice, son. We've both come out of this richer.\""
 msgstr  "\"Верный выбор, сынок. Мы оба заработаем на этом\"."
 
+# REVIEW
 msgid   "Try to be a hero. Attack the pirate."
 msgstr  "Проявить героизм, атаковав пиратов."
 
+# REVIEW
 msgid   "The pirate ship stops its pursuit and locks weapons onto your ship."
 msgstr  "Пиратский корабль прекратил преследование и направил орудия на ваш "
         "корабль."
 
+# REVIEW
 msgid   "Upon closer inspection, you realize the ship under attack was a "
         "Rebel scout! It's too damaged to put up much of a fight."
 msgstr  "Внимательнее присмотревшись к атакованному кораблю, вы понимаете, "
         "что это разведчик повстанцев! Он сильно потрёпан и не способен "
         "оказать существенное сопротивление."
 
+# REVIEW
 msgid   "Destroy the ship and salvage it"
 msgstr  "Уничтожить корабль и собрать трофеи."
 
+# REVIEW
 msgid   "Use the leverage you gained by saving their lives to convince them "
         "to delay the pursuing fleet."
 msgstr  "Использовать влияние, полученное во время спасения их жизней, чтобы "
         "убедить их задержать флот преследователей."
 
+# REVIEW
 msgid   "Hopefully that will buy you more time to get to the next sector."
 msgstr  "Надо надеяться, это даст вам дополнительное время, чтобы добраться "
         "до следующего сектора."
 
+# REVIEW
 msgid   "You were too late. A hull breach deprived the crew of oxygen during "
         "your fight with the pirate. You salvage what you can."
 msgstr  "Вы опоздали. Повреждение корпуса лишило команду кислорода во время "
         "борьбы с пиратами. Вы собираете то что можете."
 
+# REVIEW
 msgid   "The pirate's victim quickly jumps away before you have a chance to "
         "speak to them."
 msgstr  "Жертвы пиратов улетают от вас, до того как вы успеваете пойти на "
         "контакт с ними."
 
+# REVIEW
 msgid   "\"Thank you for the aid! I'm an arms dealer that usually only works "
         "with rebels, but considering the circumstances I'll make an "
         "exception.\""
 msgstr  "\"Спасибо за помощь! Я - торговец оружием, обычно я работаю только с "
         "повстанцами, но, учитывая обстоятельства, сделаю исключение\"."
 
+# REVIEW
 msgid   "\"Thank the heavens you showed up! We don't have much to offer as a "
         "reward, but our engineer should be proficient enough to patch your "
         "ship up a bit after that nasty fight.\""
@@ -284,6 +335,7 @@ msgstr  "\"Слава небесам, вы оказались рядом! Мы �
         "но наш инженер, скорее всего, сможет подлатать вас после этого "
         "ужасного сражения\"."
 
+# REVIEW
 msgid   "You come across a pirate in hot pursuit of an unidentified ship. You "
         "quickly receive a transmission from the pirate: \"Stay out of this "
         "fight and we'll make it worth your while.\""
@@ -291,6 +343,7 @@ msgstr  "Вы встречаете пирата, преследующего не
         "получаете передачу от пирата: \"Не влезайте в это сражение и вы не "
         "пожалеете\"."
 
+# REVIEW
 msgid   "An unidentified ship is badly damaged and still being assaulted by a "
         "space pirate. The victim begins a distress message until the pirate "
         "cuts in and offers to split the bounty if you sit tight."
@@ -299,6 +352,7 @@ msgstr  "Неопознанный корабль сильно повреждён
         "прерывают его и предлагают вам разделить добычу, если вы не будете "
         "вмешиваться."
 
+# REVIEW
 msgid   "A missile shoots across your bow when the jump completes. Your scans "
         "quickly reveal a ship with pirate markings pursuing an unknown "
         "vessel. The pirate hails you: \"Damn it, we weren't expecting "
@@ -308,6 +362,7 @@ msgstr  "Как только вы вышли из прыжка, ракета п�
         "преследующий неизвестное судно. Пираты сообщают вам: \"Чёрт, мы не "
         "ждали компанию. Не вмешивайтесь и сможете заработать\"."
 
+# REVIEW
 msgid   "Upon completing your jump, you receive a message from a nearby ship. "
         "\"Greetings and welcome to our beacon! For a small fee, we'll let "
         "you continue on your way.\""
@@ -315,40 +370,50 @@ msgstr  "После завершения прыжка, вы получите с�
         "неподалеку: \"Привет и добро пожаловать на наш маяк! 3а небольшую "
         "плату, мы позволим вам продолжить свой путь\"."
 
+# REVIEW
 msgid   "Pay their toll."
 msgstr  "3аплатить дань."
 
+# REVIEW
 msgid   "\"You made the right decision friend.\""
 msgstr  "\"Верное решение, братан\"."
 
+# REVIEW
 msgid   "Reject their 'offer'."
 msgstr  "Отклонить \"предложение\"."
 
+# REVIEW
 msgid   "\"Too bad... You will regret this decision!\""
 msgstr  "\"Прискорбно, прискорбно. Сейчас ты пожалеешь об этом решении\"."
 
+# REVIEW
 msgid   "An especially well-armed pirate ship approaches you. \"Hand over one "
         "of your crew-members and the rest of you can go free unharmed\""
 msgstr  "К вам приближается тяжеловооружённый корабль работорговцев. "
         "\"Отдайте нам одного из ваших, и мы позволим вам убраться отсюда "
         "невредимыми!\""
 
+# REVIEW
 msgid   "Draw straws and send a crew-member over to the slavers."
 msgstr  "Бросить жребий и выбрать, кто отправится в рабство."
 
+# REVIEW
 msgid   "We will never surrender one of our crew to slavers!"
 msgstr  "Мы своих в рабство не отдаём!"
 
+# REVIEW
 msgid   "(Engines) Attempt to out-run the slaver ship."
 msgstr  "(Улучшенные двигатели) Попытаться оторваться от корабля "
         "работорговцев."
 
+# REVIEW
 msgid   "You quickly fire up your engines and make a break for it. However, "
         "it seems to be in vain. They catch up to you effortlessly and power "
         "up their weapons."
 msgstr  "Вы отдаёте приказ \"Полный вперёд!\" Напрасная попытка - "
         "работорговцы быстро догоняют вас и занимаю позицию для атаки."
 
+# REVIEW
 msgid   "You divert all available power to your engines and flee. You caught "
         "them off-guard, but they seem to be gaining on you. Luckily you are "
         "able to stay out of range long enough to charge the FTL drive."
@@ -357,6 +422,7 @@ msgstr  "Вы переводите все возможные мощности н
         "можете держать их на расстоянии достаточно долго, чтобы успеть "
         "зарядить FTL привод."
 
+# REVIEW
 msgid   "You fire up the engines and try to escape. Their slower ship is "
         "unable to keep pace; eventually it gives up and returns to the "
         "beacon to await an easier target."
@@ -364,26 +430,32 @@ msgstr  "Вы запускаете двигатель и пытаетесь бе
         "корабль не поспевает; в конце концов он сдается и возвращается к "
         "маяку, ждать добычу полегче."
 
+# REVIEW
 msgid   "You recognize the ship as a well known slave trader. He hails you "
         "and offers you \"laborers\" for cheap."
 msgstr  "Вы опознаёте корабль - это известный в этом секторе работорговец. Он "
         "выходит с вами на связь и предлагает по дешёвке своих \"чернорабочих"
         "\"."
 
+# REVIEW
 msgid   "Buy one slave and free them to join your crew."
 msgstr  "Купить одного из рабов, освободить его и принять в команду."
 
+# REVIEW
 msgid   "Attack the slaver scum."
 msgstr  "Уничтожить рабовладельческую шваль!"
 
+# REVIEW
 msgid   "Ignore the slaver and continue on your way."
 msgstr  "Игнорировать работорговца и продолжить полёт."
 
+# REVIEW
 msgid   "(Teleporter) Use your teleporter to attempt to board the ship and "
         "release some of the slaves."
 msgstr  "(Улучшенный телепортер) Использовать телепортер - попытаться "
         "проникнуть на корабль и освободить рабов."
 
+# REVIEW
 msgid   "You beam a small team into their holds. They work quickly to free "
         "the slaves and teleport back to your ship. One of the captives seems "
         "fit for battle and you throw them a weapon in preparation for a "
@@ -392,6 +464,7 @@ msgstr  "Вы отправляете маленькую группу. Они р�
         "рабов и телепортируются обратно на ваш корабль. Один из пленных, "
         "похоже, годится для боя, вы кидаете ему оружие и готовитесь к битве."
 
+# REVIEW
 msgid   "You teleport an away team into their hold to attempt to free their "
         "prisoners. They are able to get to one person before being caught "
         "and forced into a corner by the crew. You quickly beam the team and "
@@ -401,6 +474,7 @@ msgstr  "Вы отсылаете команду, чтобы попытаться
         "загоняет в угол команда неприятеля. Вы быстро телепортируете свою "
         "команду и пленника обратно на свой корабль."
 
+# REVIEW
 msgid   "You beam a team onto their ship. However, your estimations of the "
         "location of their prisoners was off. By the time they get their "
         "bearings the slavers spot them. You beam them back to the ship and "
@@ -410,6 +484,7 @@ msgstr  "Вы телепортируете команду на их корабл
         "расположения, работорговцы обнаруживают их. Вы возвращаете их "
         "обратно на корабль и готовитесь к бою."
 
+# REVIEW
 msgid   "This beacon has been placed too close to a super-giant class M star! "
         "The ship will gradually overheat until you get out of here... or "
         "die. A pirate, apparently oblivious to the danger of the sun, moves "
@@ -419,16 +494,20 @@ msgstr  "Маяк был поставлен слишком близко к зв�
         "погибнете. Пираты, наверное забывшие об опасности солнца, несутся в "
         "бой."
 
+# REVIEW
 msgid   "A pirate ship was lying in wait inside this asteroid field. It "
         "immediately moves in to attack."
 msgstr  "Пиратский корабль затаился в астероидном поле. Он сразу же атакует."
 
+# REVIEW
 msgid   "Turn and fight."
 msgstr  "Развернуться и принять бой."
 
+# REVIEW
 msgid   "SSSSSSSSSSSSSSSSS"
 msgstr  "ШШШШШШШШШШШШШШШШШ"
 
+# REVIEW
 msgid   "You arrive to find yourself extremely close to a star. You receive a "
         "message from a pirate ship, \"I'm glad you arrived; our ship is "
         "damaged and we were getting desperate... I hope you don't mind if we "
@@ -438,6 +517,7 @@ msgstr  "Прыжок вывел вас прямиком в корону мес�
         "что вы здесь - нашу посудину здорово пожгло протуберанцами, так что "
         "мы заберём вашу!\" На борту корабля обнаружены посторонние!"
 
+# REVIEW
 msgid   "You jump into a perilous asteroid field. Worse, sensors show a "
         "pirate stronghold has locked onto our ship and is activating a "
         "teleporter. Prepare for a fight!"
@@ -445,36 +525,45 @@ msgstr  "Вы прыгаете прямо в опасное астероидно
         "сообщают, что пиратская крепость нацелилась на ваш корабль и "
         "активировала телепортер. Готовьтесь к бою!"
 
+# REVIEW
 msgid   "Not too far from the beacon, you detect a destroyed cargo ship with "
         "its cargo scattered nearby, intact."
 msgstr  "Недалеко от маяка вы обнаруживаете уничтоженный грузовой корабль. "
         "Часть уцелевшего груза висит в пространстве поблизости."
 
+# REVIEW
 msgid   "Bring it aboard."
 msgstr  "Поднять груз на борт."
 
+# REVIEW
 msgid   "Leave it alone, looks suspicious."
 msgstr  "Не трогать - а то подозрительно это как-то."
 
+# REVIEW
 msgid   "You leave the cargo alone and prepare to jump."
 msgstr  "Вы не трогаете груз и готовитесь к прыжку."
 
+# REVIEW
 msgid   "(Advanced Sensors) Run an advanced scan on the boxes."
 msgstr  "(Улучшенные сенсоры) Тщательно просканировать ящики с грузом."
 
+# REVIEW
 msgid   "(Long-Ranged Scanners) Run an advanced scan on the boxes."
 msgstr  "(Сканеры широкого охвата) Тщательно просканировать ящики с грузом."
 
+# REVIEW
 msgid   "They appear to be filled with some military supplies! You take "
         "everything you can use and jettison the rest."
 msgstr  "В ящиках - различные военные припасы. Вы забираете всё полезное, "
         "прочее выкидываете за борт."
 
+# REVIEW
 msgid   "The cargo was primarily consumer goods and clothing, nothing "
         "particularly useful. You manage to collect some scrap."
 msgstr  "Груз в основном состоит из одежды и всякой бытовой мелочёвки. "
         "Впрочем, вам удаётся набрать немного лома."
 
+# REVIEW
 msgid   "Once you bring the cargo onto your ship, a pirate bursts out of one "
         "of the crates saying, \"Ugh... I was getting cramped in there.  Oh, "
         "yeah! Prepare to die!\" Immediately after this battle-cry your ship "
@@ -483,6 +572,7 @@ msgstr  "Когда вы поднимаете груз на борт, из од�
         "и говорит: \"Ох, блин, затекло всё... А, да, кстати - приготовьтесь "
         "умирать!\" При звуках его голоса распахиваются и остальные ящики..."
 
+# REVIEW
 msgid   "You bring the cargo aboard. Before you have a chance to open them a "
         "pirate ship appears out of hiding and charges. At the same time, the "
         "crates fly open. Intruders aboard the ship!"
@@ -490,11 +580,13 @@ msgstr  "Притащив груз на борт, вы даже не успел�
         "корабль выходит из укрытия и атакует. В это же время ящики "
         "распахнулись. 3ахватчики на борту!"
 
+# REVIEW
 msgid   "The cargo appears to contain nothing of much interest. You salvage "
         "some scrap from the destroyed ship."
 msgstr  "Груз не содержит ровным счётом ничего интересного. 3ато с корабля "
         "вам удаётся набрать немного лома."
 
+# REVIEW
 msgid   "Your advanced sensors are able to breach the protective barrier and "
         "scan the cargo. It appears to be filled with some military supplies! "
         "You take everything you can use."
@@ -502,15 +594,18 @@ msgstr  "Вашим сенсорам удаётся преодолеть защ�
         "просканировать груз. Это какие-то военные припасы. Вы забираете всё "
         "полезное, прочее выкидываете за борт."
 
+# REVIEW
 msgid   "Your advanced sensors pick up faint life signatures inside the "
         "cargo. The life forms appear to be armed.  This looks like a planned "
         "pirate ambush."
 msgstr  "Ваши сенсоры обнаруживают в ящиках живых существ. Вооружённых. "
         "Похоже, это хитрая пиратская засада."
 
+# REVIEW
 msgid   "Destroy the crates to prevent another ship from falling victim."
 msgstr  "Уничтожить ящики, чтобы в эту засаду не попался кто-то другой."
 
+# REVIEW
 msgid   "You fire on the crates, breaking them open and scattering the "
         "pirates into empty space. A pirate ship appears out of nowhere with "
         "a message, \"You will pay for that!\""
@@ -518,5 +613,6 @@ msgstr  "Вы стреляете по ящикам, вскрывая их и р�
         "во все стороны. Откуда-то появляется пиратский корабль и передаёт "
         "сообщение: \"Ты за это заплатишь, гад!\""
 
+# REVIEW
 msgid   "Leave it alone and prepare to jump."
 msgstr  "Не трогать и подготовиться к прыжку."

@@ -1,8 +1,10 @@
+# REVIEW
 msgid   ""
 msgstr  "Project-Id-Version: ru\n"
         "Content-Type: text/plain; charset=UTF-8\n"
         "Content-Transfer-Encoding: 8bit\n"
 
+# REVIEW
 msgid   "You arrive in a sector not listed in any star charts. Strange "
         "crystalline ships dot the horizon. Your companion speaks, \"Here we "
         "are, my home sector. It has been a long time since others have set "
@@ -12,14 +14,17 @@ msgstr  "Вы прибываете в сектор, незарегистриро
         "компаньон говорит вам: \"Вот и прибыли, мой родной сектор. Давно "
         "здесь не ступала нога чужеземца. Интересно, как нас встретят\"."
 
+# REVIEW
 msgid   "Continue..."
 msgstr  "Далее..."
 
+# REVIEW
 msgid   "\"You have done as you promised and so shall I. The coordinates of "
         "my old ship have been forwarded to your navigation system.\""
 msgstr  "\"Вы выполнили свое обещание, дело за мной. Координаты моего старого "
         "корабля были занесены в вашу навигационную систему\"."
 
+# REVIEW
 msgid   "You arrive at the coordinates to find a massive Crystalline cruiser "
         "docked at a small repair station. You arrange for the ship to be "
         "sent back to the Federation base while you stock up and have the "
@@ -29,6 +34,7 @@ msgstr  "Прибыв по указанным координатам, вы об�
         "подготавливаете корабль к отправке на базу Федерации, пока "
         "пополняются запасы, а станция восстанавливает корпус вашего корабля."
 
+# REVIEW
 msgid   "You arrive in an area bustling with crystalline ships and stations.  "
         "A merchant quickly messages you, \"You're from the outside, no? This "
         "is a great opportunity for both of us! Do you have anything you wish "
@@ -38,6 +44,7 @@ msgstr  "Вы прибываете в оживленный сектор, пол�
         "внешних миров? Какой удобный случай для нас обоих! Желаете что-"
         "нибудь продать или обменять?\""
 
+# REVIEW
 msgid   "\"Ah! Hello aliens\", says a rotund crystalline being on the vid "
         "screen. \"I hoped I would run into one of you. I am a collector of "
         "alien artifacts and hoped you would have some equipment to barter!\""
@@ -46,6 +53,7 @@ msgstr  "\"Аа! 3дравствуйте, чужеземцы, - говорит �
         "коллекционер артефактов с других планет, и, надеюсь, у вас есть "
         "какое-нибудь оборудование для обмена!\""
 
+# REVIEW
 msgid   "You arrive at a trade depot and find a store that is willing to open "
         "communications with you. \"I can't say I've traded with your kind "
         "before, but perhaps we could work out some sort of exchange.\""
@@ -53,6 +61,7 @@ msgstr  "Прибыв на торговую станцию, вы находит�
         "вами связаться: \"Не могу сказать, что торговал раньше с такими как "
         "вы, но возможно мы договоримся о каком-нибудь обмене\"."
 
+# REVIEW
 msgid   "You receive an incoming transmission, but it seems badly garbled. "
         "Eventually you realise it's advertising an equipment store. "
         "\"Apologies,\" says the vendor, when you finally get him on the vid "
@@ -64,6 +73,7 @@ msgstr  "Вы принимаете сигнал, но он сильно иска
         "не пользовался универсальным переводчиком без необходимости. "
         "Пожалуйста, приобретайте, покупайте!\""
 
+# REVIEW
 msgid   "You arrive at a trade depot and find a store that is willing to open "
         "communications with you. \"I can't say I've traded with your kind "
         "before, but perhaps we could work out so sort of exchange?\""
@@ -71,6 +81,7 @@ msgstr  "Прибыв на торговую станцию, вы находит�
         "вами связаться: \"Не могу сказать, что торговал раньше с такими как "
         "вы, но возможно мы договоримся о каком-нибудь обмене\"."
 
+# REVIEW
 msgid   "You receive an incoming transmission, but it seems badly garbled. "
         "Eventually you realise it's advertising an equipment store. "
         "\"Apologies,\" says the vendor, when you finally get him on the vid "
@@ -82,6 +93,7 @@ msgstr  "Вы принимаете сигнал, но он сильно иска
         "не пользовался универсальным переводчиком без необходимости. "
         "Пожалуйста, приобретайте, покупайте!\""
 
+# REVIEW
 msgid   "As soon as you arrive, all of the ships docked at a nearby station "
         "scatter and jump while the station itself uses some form of cloak "
         "technology to disappear. They mustn't like outsiders here..."
@@ -90,6 +102,7 @@ msgstr  "Как только вы прибываете, все корабли, �
         "включает какую-то разновидность системы маскировки. Похоже они не "
         "очень то жалуют чужеземцев..."
 
+# REVIEW
 msgid   "No ships are in range, so you take the time to scan the area. It "
         "seems like every planet you've seen so far shows signs of highly "
         "developed habitation without overpopulation. They must have a very "
@@ -100,11 +113,13 @@ msgstr  "В пределах вашей досягаемости другие к
         "безо всякого перенаселения. У них, должно быть, очень "
         "структурированное и хорошо регулируемое общество."
 
+# REVIEW
 msgid   "There appears to be no one living near this node, a rare sight in "
         "this highly developed sector."
 msgstr  "Кажется никто не живет рядом с этим узлом, редкое явление в этом "
         "высокоразвитом секторе."
 
+# REVIEW
 msgid   "You arrive near a civilian settlement. It looks like their homes, "
         "ships and stations all rely heavily on an intriguing crystalline "
         "material. You wonder how they are able to create so much of this "
@@ -115,12 +130,14 @@ msgstr  "Вы оказались вблизи гражданских посел�
         "много из этого вещества, ещё не открытого в остальных частях "
         "галактики."
 
+# REVIEW
 msgid   "A few merchant ships pass nearby but they are either ignoring your "
         "hails or their computer isn't designed to work through the same "
         "frequencies..."
 msgstr  "Несколько торговых судов проходят мимо, но они или игнорируют наши "
         "сигналы, или их оборудование работает на другой частоте..."
 
+# REVIEW
 msgid   "A number of civilian ships seem to be evacuating a small colony. One "
         "ship messages you before jumping away, \"Damn you aliens! This is "
         "why we closed that long-ranged beacon in the first place!\""
@@ -129,6 +146,7 @@ msgstr  "Похоже что большое количество граждан�
         "передает вам сообщение: \"Чертовы чужаки! Вот почему в первую "
         "очередь мы отключили дальний маяк!\""
 
+# REVIEW
 msgid   "As soon as you arrive, all of the ships docked at a nearby station "
         "scatter and jump away, while the station itself uses some form of "
         "cloak technology to disappear. They mustn't like outsiders here..."
@@ -136,6 +154,7 @@ msgstr  "Как только вы прибыли, все пристыкован�
         "умчались в гиперпространство, а станция используя неизвестную "
         "технологию скрытия исчезла из виду. Наверное здесь не любят чужаков."
 
+# REVIEW
 msgid   "Odd radar pings from a huge, orbiting asteroid here reveal a "
         "Crystalline cache of some kind. A deep crater has been sealed over "
         "with a thick layer of crystal to keep whatever's inside safe - it'd "
@@ -146,12 +165,15 @@ msgstr  "Странный сигнал на радаре от огромного
         "сохранить всё, что внутри - может понадобиться серьезная огневая "
         "мощь, чтобы прорваться."
 
+# REVIEW
 msgid   "Attempt to break through with the weapons you have."
 msgstr  "Попытаться прорваться, используя имеющиеся орудия."
 
+# REVIEW
 msgid   "(Breach Missiles) Use a Breach Missile."
 msgstr  "(Бронебойные ракеты) Применить бронебойную ракету."
 
+# REVIEW
 msgid   "Your Breach warheads dislodge and shatter a massive shard of "
         "crystal, leaving your away team enough space to climb down and take "
         "a look."
@@ -159,26 +181,31 @@ msgstr  "Вашей бронебойной ракетой вы выбили и �
         "кристалла, достаточный для того чтобы ваша команда могла спуститься "
         "вниз и осмотреться."
 
+# REVIEW
 msgid   "Investigate the cache."
 msgstr  "Исследовать тайник."
 
+# REVIEW
 msgid   "(Crystal Crew Member) Have your Crystalline Being recalibrate your "
         "weapons."
 msgstr  "(Член экипажа кристалин) Попросить ваше кристаллическое существо "
         "перенастроить орудия."
 
+# REVIEW
 msgid   "Your Crystalline crew-member is able to adjust the detonation "
         "frequency of your weapons to resonate with this type of crystal, and "
         "the barrier gives little resistance."
 msgstr  "Ваш кристалин смог настроить взрывную частоту орудий в резонанс с "
         "этим типом кристалла. Барьер сопротивлялся не долго."
 
+# REVIEW
 msgid   "You fire everything you have, but the crystal barrier remains "
         "strong. After a time you give up and move on."
 msgstr  "Вы стреляете из всего, что имеете, но кристаллический барьер "
         "остается прочным. Через некоторое время вы сдаетесь и двигаетесь "
         "дальше."
 
+# REVIEW
 msgid   "Against all odds, a lucky shot strikes an existing fracture in the "
         "crystal, compounding it into a crack that grows until an entire "
         "section of the barrier falls away!"
@@ -186,6 +213,7 @@ msgstr  "Вопреки всем ожиданиям, удачный выстре
         "кристалле, превращая ее в щель, которая растет до тех пор, пока "
         "целый сегмент барьера не отпадает!"
 
+# REVIEW
 msgid   "On arriving at the base of the crater, your team discovers a long-"
         "forgotten weapons cache. Most of the equipment is out of action, but "
         "not all of it!"
@@ -193,6 +221,7 @@ msgstr  "Прибыв к основанию кратера, ваша коман�
         "тайник с оружием. Большинство оборудования непригодно, но не всё "
         "целиком!"
 
+# REVIEW
 msgid   "Your away team is greeted at the crater by the owners of the cache, "
         "who are none too happy. You grab what you can and run back to the "
         "ship, but not before they teleport aboard!"
@@ -200,6 +229,7 @@ msgstr  "У кратера вашу команду встречают не сл�
         "тайника. Вы хватаете, что можете, и бежите обратно на корабль, но "
         "прежде они успевают к вам телепортироваться!"
 
+# REVIEW
 msgid   "You send a crew-member down to check out the cache. The comm goes "
         "dead, and shortly thereafter massive gravity readings are detected "
         "on the asteroid. You must have triggered some kind of singularity "
@@ -209,9 +239,11 @@ msgstr  "Вы посылаете члена экипажа на поверхно
         "гравитации на астероиде. Наверное вы ненароком задействовали какую-"
         "то сингулярную ловушку! Нужно уходить, прежде чем вас затянет!"
 
+# REVIEW
 msgid   "Pull out now!"
 msgstr  "Немедленно оторваться от земли!"
 
+# REVIEW
 msgid   "You push the impulse engines to their limit and are able to break "
         "out of the gravity well. Your crew-member, along with the stockpile, "
         "is reduced to the size of a tennis ball - but you're left in one "
@@ -221,10 +253,12 @@ msgstr  "Вы выжимаете импульсные двигатели до п
         "добытым запасом, сжимает до размеров теннисного мячика, но по "
         "крайней мере вы сохранили свою целостность."
 
+# REVIEW
 msgid   "Detonate your entire fuel reserves to escape with your crew and the "
         "cargo."
 msgstr  "Подорвать весь запас топлива, чтобы сбежать с экипажем и грузом."
 
+# REVIEW
 msgid   "You swoop into the heart of the distortion and pick up your crew "
         "member and the cargo. You then eject your FTL fuel and ignite it, "
         "sending a shock wave that thrusts your ship well beyond the event "
@@ -234,9 +268,11 @@ msgstr  "Вы пикируете прямо в сердце возмущения
         "поджигаете его. Ударной волной от взрыва ваш корабль выбрасывает за "
         "пределы горизонта событий сингулярности. На этот раз пронесло."
 
+# REVIEW
 msgid   "(Improved Teleporter) Beam your crew member back on board."
 msgstr  "(Улучшенный телепортер) Вернуть члена экипажа на борт."
 
+# REVIEW
 msgid   "You floor the engines to escape the gravity well while trying to get "
         "a teleporter lock on your crew member despite the massive "
         "interference. You're barely able to get them back on board before "
@@ -246,9 +282,11 @@ msgstr  "Ваши двигатели спасают вас из гравитац
         "вашего члена экипажа. Вы едва успеваете вернуть его на борт, прежде "
         "чем вся зона оказывается поглощена сингулярностью."
 
+# REVIEW
 msgid   "(Advanced Engines) Rescue your crew member and the cargo."
 msgstr  "(Улучшенные двигатели) Спасти члена экипажа и груз."
 
+# REVIEW
 msgid   "You swoop into the heart of the distortion and pick up your crew "
         "member and the cargo. Your top of the line impulse engines are "
         "barely able to get your ship out of the gravity well before the "
@@ -258,6 +296,7 @@ msgstr  "Вы пикируете прямо в сердце возмущения
         "успевают вывести корабль из гравитационного колодца, прежде чем его "
         "бы поглотило. На этот раз пронесло."
 
+# REVIEW
 msgid   "You receive a signal from a private relay on a nearby inhabited "
         "planet. \"Are you the alien ship they've been talking about?! You "
         "are! Please, I am a collector of alien artifacts, I'm sure what is "
@@ -267,9 +306,11 @@ msgstr  "Вы получаете сигнал из частного источн
         "Точно, вы! Прошу, я коллекционер иноземных артефактов. Я убежден, то "
         "что для вас лом - для меня бесценно\"."
 
+# REVIEW
 msgid   "Offer 50 scrap."
 msgstr  "Предложить 50 лома."
 
+# REVIEW
 msgid   "\"My word! Is this... a 25th century Rockman thrust stabilizer?! "
         "What do you want for it? Wait, I have a better proposal. I long to "
         "see the galaxy. I propose I come with you. What do you say?\""
@@ -278,38 +319,46 @@ msgstr  "\"Надо же! Это что, стабилизатор разгона
         "увидеть галактику. Я предполагаю, что отправлюсь с вами. Что вы на "
         "это скажете?\""
 
+# REVIEW
 msgid   "Accept."
 msgstr  "Принять."
 
+# REVIEW
 msgid   "\"I shan't even gather my belongings - only permit me to leave my "
         "family a message.\" The Crystalline Being joins your crew."
 msgstr  "\"Я даже не буду собирать вещи, только позвольте оставить моей семье "
         "сообщение\". Кристаллическое существо присоединяется к вашему "
         "экипажу."
 
+# REVIEW
 msgid   "Request another payment."
 msgstr  "Попросить другую плату."
 
+# REVIEW
 msgid   "Turn him down."
 msgstr  "Разочаровать его."
 
+# REVIEW
 msgid   "Scrap is priceless no matter where you are in the galaxy. You hold "
         "onto your goods and prepare to jump."
 msgstr  "Лом бесценен, неважно в какой части галактики вы находитесь. Вы "
         "придерживаете свое добро и готовитесь к прыжку."
 
+# REVIEW
 msgid   "\"Very well, a payment in kind. I have these explosives that emulate "
         "our race's innate ability. Perhaps that would interest you.\""
 msgstr  "\"Плата натурой? Очень хорошо, у меня как раз есть взрывчатка, "
         "имитирующая врожденную способность нашей расы. Возможно, это вас "
         "заинтересует\"."
 
+# REVIEW
 msgid   "\"Very well, a payment in kind. I have an extra ship weapon laying "
         "around here somewhere. Perhaps you could make use of it?\""
 msgstr  "\"Плата натурой? Очень хорошо, у меня как раз есть взрывчатка, "
         "имитирующая врожденную способность нашей расы. Возможно, это вас "
         "заинтересует\"."
 
+# REVIEW
 msgid   "You arrive near a fleet of crystal ships, civilian or mercantile "
         "from the looks of them. You pause to scan one but they react "
         "immediately and send an escort to fight you off. Prepare to engage!"
@@ -318,6 +367,7 @@ msgstr  "Вы прибываете неподалеку от флотилии к
         "просканировать одного из них, но они немедленно реагируют и посылают "
         "конвоира, чтобы от вас отбиться. Готовьтесь к битве!"
 
+# REVIEW
 msgid   "You arrive at the beacon and are immediately greeted by an automatic "
         "message or warning of some kind. The translator can't seem to "
         "discern its purpose but after a few short moments an alarm goes off "
@@ -327,12 +377,14 @@ msgstr  "Вы прибываете к маяку и сразу получает�
         "толком распознать его предназначение, как уже через несколько "
         "мгновений раздается тревога и из прыжка выходит враждебный корабль!"
 
+# REVIEW
 msgid   "You receive a message, \"Hah. It looks like another worthless alien-"
         "filled craft. Prepare to meet your maker!\" Weapon locks detected."
 msgstr  "Вы получаете сообщение: \"Ха. Похоже ещё одна бесполезная посудина, "
         "заполненная пришельцами. Готовьтесь к встрече со своим создателем!\" "
         "Обнаружено наведение орудий на вас."
 
+# REVIEW
 msgid   "A Crystalline ship messages you, \"I've heard tales that our "
         "isolation has finally ended. As a warrior I must demand to test my "
         "skills against you!\" Before you can respond they move in to attack."
@@ -340,6 +392,7 @@ msgstr  "Корабль кристалинов сообщает вам: \"До �
         "изоляция наконец закончилась. Как настоящий воин я желаю помериться "
         "с вами силами!\" Прежде чем вы успеваете ответить, они наступают."
 
+# REVIEW
 msgid   "You arrive in a busy sector. At first no one pays any mind to your "
         "alien ship but soon you're registering a number of scan signatures. "
         "You get the feeling you're not wanted here just seconds before "
@@ -350,6 +403,7 @@ msgstr  "Вы прибываете в оживленный сектор. Пон�
         "нежеланный гость, прямо перед тем, как засекаете наведение вражеских "
         "орудий!"
 
+# REVIEW
 msgid   "You jump next to a node busy with traffic, but before long all "
         "nearby ships notice you and keep their distance, uncertain of your "
         "allegiance. After an awkward standoff, a military ship breaks away "
@@ -359,6 +413,7 @@ msgstr  "Вы выходите у узла с оживленным движен�
         "ваших намерениях. После неловкого ожидания, от остальных отделяется "
         "военный корабль и идет в наступление."
 
+# REVIEW
 msgid   "A barrage of rasps and clicks is broadcast over the comm; the "
         "universal translator understands little, but the words 'aliens', "
         "'allowed' and 'no' come through quite clearly. You'll have to prove "
@@ -368,6 +423,7 @@ msgstr  "Поток скрежетаний и щелчков транслиру�
         "\"допускаются\" и \"не\" слышны довольно отчетливо. Придется вам "
         "доказывать в бою свое право тут находиться!"
 
+# REVIEW
 msgid   "A large convoy of lumbering civilian ships appears to be passing "
         "through this region. You show no hostile intentions, but they are "
         "taking no chances, immediately sending their escort to attack!"
@@ -375,6 +431,7 @@ msgstr  "Похоже через этот регион проходит боль
         "гражданских кораблей. Быть может вы и не настроены враждебно, но они "
         "не оставляют вам выбора, посылая своего конвоира в атаку!"
 
+# REVIEW
 msgid   "Crystal shards fly past your ship as soon as you jump. You scan to "
         "find the assailant and discover a Crystalline ship carrying a number "
         "of humans in its cargo bay. It must be hunting the intruding ships!"
@@ -383,17 +440,20 @@ msgstr  "Как только вы выходите из прыжка, мимо �
         "обнаруживаете корабль кристалинов, везущий людей в грузовом отсеке. "
         "Должно быть он охотится на вторгшиеся корабли!"
 
+# REVIEW
 msgid   "As soon as you arrive, a Rebel ship jumps in after you; they must be "
         "really hot on your tail."
 msgstr  "Как только вы прибываете, Корабль повстанцев появляется за вами. "
         "Судя по всему они сидели у вас на хвосте."
 
+# REVIEW
 msgid   "The Rebels must have sent their automated scouts to find you. One "
         "jumps in and immediately moves to attack."
 msgstr  "Повстанцы должно быть отправили своих автоматических разведчиков, "
         "чтобы вас найти. Один такой выходит из прыжка и немедленно движется "
         "атаковать вас."
 
+# REVIEW
 msgid   "Crystal shards fly past the screen as soon as you arrive. Checking "
         "the scanners, it looks like a crystalline ship is engaged with a "
         "Rebel!"
@@ -401,17 +461,21 @@ msgstr  "Как только вы выходите из прыжка, на эк�
         "кристаллов. Проверив сканеры становится понятно, что корабль "
         "кристалинов вступил в схватку с повстанцами."
 
+# REVIEW
 msgid   "Attack the Rebel."
 msgstr  "Атаковать повстанцев."
 
+# REVIEW
 msgid   "You message the Crystalline ship your intentions and move in to "
         "intercept the Rebel ship."
 msgstr  "Вы уведомляете корабль кристалинов о своих намерениях и "
         "направляетесь на перехват судна повстанцев."
 
+# REVIEW
 msgid   "Attack the Crystalline ship."
 msgstr  "Атаковать корабль кристалинов."
 
+# REVIEW
 msgid   "You move in to intercept the Crystalline ship. As soon as the Rebel "
         "scans your ship it takes the opportunity to jump. You have the "
         "sneaking suspicion they will inform the fleet of your position, but "
@@ -421,12 +485,15 @@ msgstr  "Вы выдвигаетесь на перехват корабля кр
         "смутное подозрение, что они предупредят флот о вашем местоположении, "
         "но сейчас это меньшая из ваших проблем."
 
+# REVIEW
 msgid   "Ignore them."
 msgstr  "Игнорировать их."
 
+# REVIEW
 msgid   "With the two ships engaged in combat, you sneak by unnoticed."
 msgstr  "Пока два корабля заняты друг другом, вы проскакиваете незамеченным."
 
+# REVIEW
 msgid   "You discover a number of civilian ships fleeing the area. Shots are "
         "fired and you find the assailant; a Mantis ship is attacking one of "
         "the smaller ships!"
@@ -434,9 +501,11 @@ msgstr  "Вы обнаруживаете несколько убегающих �
         "3вучат выстрелы и вы находите агрессора: корабль мантисов атакует "
         "один из небольших кораблей!"
 
+# REVIEW
 msgid   "Attack the Mantis."
 msgstr  "Атаковать мантиса."
 
+# REVIEW
 msgid   "You activate your impulse engines and fly between the Mantis and "
         "their prey, weapons charging. You appear to have their full "
         "attention."
@@ -444,9 +513,11 @@ msgstr  "Вы активируете свои импульсные двигат�
         "и их жертвой, заряжая орудия. Похоже, вам удалось завладеть их "
         "вниманием."
 
+# REVIEW
 msgid   "You try to keep a low profile and quickly prepare to jump."
 msgstr  "Вы стараетесь держаться в тени и быстро готовитесь к прыжку."
 
+# REVIEW
 msgid   "A pirate ship jumps in right after you arrive at the beacon. It must "
         "have followed once the Long-Range Beacon was reactivated. It almost "
         "charges a small Crystalline transport ship, weapons armed."
@@ -455,20 +526,24 @@ msgstr  "Когда вы прибываете к маяку, следом за �
         "маяк, он последовал сюда. Он почти догнал маленький транспортник "
         "кристалинов, зарядив орудия."
 
+# REVIEW
 msgid   "Attack the pirate."
 msgstr  "Атаковать пирата."
 
+# REVIEW
 msgid   "You chase down the pirate before it has a chance to engage the "
         "civilian ship. When it detects the real threat, it turns to face you."
 msgstr  "Вы нагоняете пирата прежде, чем он успевает напасть на гражданский "
         "корабль. Когда он понимает истинную угрозу, он разворачивается "
         "навстречу."
 
+# REVIEW
 msgid   "You assume the Crystalline ship can handle itself. You have enough "
         "of your own problems."
 msgstr  "По всей видимости корабль кристалинов может справиться сам. Кроме "
         "того у вас и так достаточно своих проблем."
 
+# REVIEW
 msgid   "You contact the Crystalline ship to hear, \"It seems you have "
         "brought war to our doorstep. I hope you're not too surprised that we "
         "don't welcome you with open arms. I should kill you myself...\" They "
@@ -478,6 +553,7 @@ msgstr  "Вы связываетесь с кораблём кристалино�
         "удивлены тем, что вас не встречают с распростертыми объятиями. "
         "Наверно мне следует убить вас самому...\" Они обрывают связь."
 
+# REVIEW
 msgid   "The Crystalline ship messages you, \"You're the one that opened our "
         "sector to the outside, aren't you! Bastards, my home was just "
         "overrun by your 'Rebels'. Just leave us in peace!\" They quickly "
@@ -487,6 +563,7 @@ msgstr  "Корабль кристалинов информирует вас: \"
         "наводнили эти ваши повстанцы. Оставьте нас в покое!\" Они быстро "
         "совершают прыжок отсюда."
 
+# REVIEW
 msgid   "You contact the other ship, \"Thank you for your assistance. It's "
         "glad to know that not all of you foreigners are so barbaric. Take "
         "this as a reward.\""
@@ -494,6 +571,7 @@ msgstr  "Вы выходите на связь с другим кораблём:
         "рад узнать, что не все чужеземцы так варварски себя ведут. Возьмите "
         "это в награду\"."
 
+# REVIEW
 msgid   "The Crystalline ship hails you, \"It's a good thing you came when "
         "you did. We appreciate the assistance. Please take this for your "
         "help.\""
@@ -501,6 +579,7 @@ msgstr  "Корабль кристалинов выходит на связь: \
         "вовремя. Мы ценим ваше содействие. Пожалуйста, примите это за вашу "
         "помощь\"."
 
+# REVIEW
 msgid   "The Crystalline ship messages you, \"Thank you. We were not prepared "
         "for the savagery with which you aliens battle. We will give you one "
         "of our weapons if you intend on assisting our kind in the future.\""
@@ -509,14 +588,17 @@ msgstr  "Корабль кристалинов сообщает вам: \"Спа
         "одно из наших орудий, если вы и дальше будете помогать нашим братьям"
         "\"."
 
+# REVIEW
 msgid   "You're greeted by an unwelcome sight - a Rebel advance ship is "
         "laying down fire on a Crystalline vessel in the distance."
 msgstr  "Вас встречает неприятная картина: продвинутый корабль повстанцев "
         "обстреливает судно кристалинов неподалеку."
 
+# REVIEW
 msgid   "Engage the Rebel ship."
 msgstr  "3аняться кораблём повстанцев."
 
+# REVIEW
 msgid   "Before you can engage, the Crystalline ship scores a direct hit and "
         "obliterates the Rebel ship! They hail: \"You, you are like these "
         "other aliens! You brought them here!\" With that they turn their "
@@ -526,35 +608,43 @@ msgstr  "Прежде чем вы успеваете вступить в бой,
         "связь: \"Вы! Вы такие же, как и другие иноземцы! Вы привели их сюда!"
         "\" С этими словами они разворачивают орудия на вас!"
 
+# REVIEW
 msgid   "Leave them alone."
 msgstr  "Оставить их в покое."
 
+# REVIEW
 msgid   "It's best to take advantage of the rare occasions when the Rebels "
         "aren't shooting at you. You prepare to jump."
 msgstr  "Лучше воспользоваться редким обстоятельством того, что повстанцы в "
         "вас не стреляют. Вы готовитесь к прыжку."
 
+# REVIEW
 msgid   "There appears to be a fight going on nearby. A Crystalline border "
         "guard is chasing a small Federation ship!"
 msgstr  "Похоже неподалеку идет бой. Пограничник кристалинов преследует "
         "маленький корабль Федерации!"
 
+# REVIEW
 msgid   "Save the Federation ship."
 msgstr  "Спасти корабль Федерации."
 
+# REVIEW
 msgid   "It doesn't look like the Fed ship can stand much more pressure. You "
         "fly in and intercept the Crystalline ship."
 msgstr  "Не похоже, что корабль Федерации сможет долго выдерживать натиск. Вы "
         "залетаете к ним и перехватываете корабль кристалинов."
 
+# REVIEW
 msgid   "Prepare to leave."
 msgstr  "Приготовиться уходить."
 
+# REVIEW
 msgid   "With the Federation ship distracting the guard, you are free to "
         "continue on your mission."
 msgstr  "С кораблём Федерации отвлекающим охрану, вы можете продолжать свою "
         "миссию."
 
+# REVIEW
 msgid   "\"Thank you! We heard you jumped into an unknown sector and we "
         "figured it would be a safe enough place to hide from the Rebels. We "
         "were wrong!\" They transfer some excess materials for your trouble."
@@ -563,6 +653,7 @@ msgstr  "\"Спасибо! Мы слышали, что вы совершили �
         "спрятаться от повстанцев. Мы ошибались!\" Они передают немного "
         "лишних материалов за ваши труды."
 
+# REVIEW
 msgid   "The ship looks battered and ready to break apart. You quickly move "
         "in to help rescue the survivors, but it looks like only one person "
         "made it. They offer to join your crew as thanks."
@@ -571,6 +662,7 @@ msgstr  "Корабль выглядит избитым и готов в люб�
         "только один. Он предложил в благодарность присоединиться к вашему "
         "экипажу."
 
+# REVIEW
 msgid   "For a moment you assume it's a glitch,  but no... you've found a "
         "Federation military ship! They hail you and, after some probing, "
         "reveal that they deserted the Federation fleet before stumbling into "
@@ -580,9 +672,11 @@ msgstr  "На мгновение вы подумали, что у вас мер�
         "что вам можно доверять сообщают, что они дезертировали и залетели в "
         "этот сектор в поисках убежища."
 
+# REVIEW
 msgid   "Offer supplies."
 msgstr  "Предложить припасы."
 
+# REVIEW
 msgid   "You send over some supplies to help them on their way and in return "
         "they upload their flight plan to your computer, allowing you to map "
         "the sector! \"The Federation fleet's still standing - get there "
@@ -593,9 +687,11 @@ msgstr  "Вы пересылаете немного припасов, чтобы
         "\"Флот Федерации все ещё успешно сопротивляется, постарайтесь "
         "поскорее попасть к ним!\""
 
+# REVIEW
 msgid   "Attack the traitors."
 msgstr  "Атаковать предателей."
 
+# REVIEW
 msgid   "Deserters cannot be tolerated. You open fire on the cowards - though "
         "it doesn't please you to do so. The Federation needs every soldier "
         "it can get."
@@ -603,14 +699,17 @@ msgstr  "Дезертиры не могут быть прощены. Вы отк
         "хоть вам это и не нравится. Федерации требуется служба каждого "
         "солдата."
 
+# REVIEW
 msgid   "Leave them be."
 msgstr  "Отпустить их с миром."
 
+# REVIEW
 msgid   "You send them a friendly warning regarding the armada of Rebel ships "
         "pursuing you, and then get underway lest they catch you up."
 msgstr  "Вы шлете им дружеское предупреждение, что вас преследует армада "
         "кораблей повстанцев, и вам нужно убираться, пока они вас не настигли."
 
+# REVIEW
 msgid   "You arrive near what appears to be a Crystalline research facility. "
         "A scientist quickly messages you, \"Ah! You're those aliens! Please, "
         "I've heard so much about you and I'm really curious about your "
@@ -621,15 +720,19 @@ msgstr  "Вы прибываете недалеко от того, что выг
         "вас, и я чрезвычайно интересуюсь вашей физиологией! Разрешите ли вы "
         "нам провести несколько простых тестов?\""
 
+# REVIEW
 msgid   "Allow them to run tests on a crew member."
 msgstr  "Разрешить им провести испытания на члене экипажа."
 
+# REVIEW
 msgid   "Refuse."
 msgstr  "Отказаться."
 
+# REVIEW
 msgid   "(Rock Crew Member) Send your Rockman crew."
 msgstr  "(Член экипажа рок) Отправить вашего рока."
 
+# REVIEW
 msgid   "\"Ah! My dear evolutionary cousin! This is truly wonderful! We have "
         "countless historical records of your kind but we lack information on "
         "the past few hundreds of years. We can learn so much from these "
@@ -641,6 +744,7 @@ msgstr  "\"Аа! Мой дорогой эволюционный собрат! Э
         "много узнать из этих исследований, мы должны проанализировать их, "
         "как можно скорее! Пожалуйста, примите это\"."
 
+# REVIEW
 msgid   "After a short time the scientist returns, \"We... must regret... we "
         "have made a grave miscalculation. Your bodies are considerably more "
         "fragile than we expected and your companion is... broken. We "
@@ -650,6 +754,7 @@ msgstr  "Через некоторое время учёный вернулся:
         "мы ожидали, и ваш товарищ... сломан. Приносим свои извинения и в "
         "качестве утешения предлагаем принять отличное военное оружие\"."
 
+# REVIEW
 msgid   "Your crew member is brought on board their station and forced to "
         "undergo a few quick scans and tests. \"Thank you for this "
         "opportunity! We hope to learn much from your kind.\" They transfer "
@@ -659,6 +764,7 @@ msgstr  "Ваш член экипажа доставлен на борт их с
         "возможность! Мы надеемся многое узнать от вашего вида\". Они "
         "передали некоторые материалы в качестве оплаты."
 
+# REVIEW
 msgid   "The large Crystalline Beings escort your crew onto the station and "
         "gingerly help them into a scanning chamber. After a few seconds, "
         "they inform you they have mapped their entire genome and have "
@@ -669,11 +775,13 @@ msgstr  "Эти большие кристаллические существа �
         "генома и у них есть все, что им нужно. Они дают вам схему дрона в "
         "качестве компенсации."
 
+# REVIEW
 msgid   "\"I see. That is a shame. Perhaps the next aliens we meet will have "
         "some respect for the advancement of science.\""
 msgstr  "\"Ну что ж, очень жаль. Может быть следующие пришельцы, которых мы "
         "встретим, проявят какое-то уважение к развитию науки\"."
 
+# REVIEW
 msgid   "\"I see. That is a shame. However we must not let this opportunity "
         "pass us by. Submit and you will be treated reasonably well!\" A "
         "military ship docked nearby detaches and charges you."
@@ -681,6 +789,7 @@ msgstr  "\"Ну что ж, очень жаль. Однако мы не може�
         "Сдавайтесь и с вами будут хорошо обращаться!\" Военный корабль "
         "неподалеку отсоединяется и штурмует вас."
 
+# REVIEW
 msgid   "A small civilian vessel messages you, \"Wow! You're that alien that "
         "opened up the portal, aren't you! Are you busy? Can I ask you a "
         "question?\""
@@ -688,34 +797,43 @@ msgstr  "Небольшое гражданское судно обращаетс
         "пришельцы, которые открыли портал, не так ли! Вы не заняты? Могу я "
         "задать вам вопрос?\""
 
+# REVIEW
 msgid   "Yes."
 msgstr  "Да."
 
+# REVIEW
 msgid   "\"What do you eat? What is your culture like? How long do your "
         "people live?\""
 msgstr  "\"Чем вы питаетесь? Какие у вас культурные предпочтения? Как долго "
         "живут ваши люди?\""
 
+# REVIEW
 msgid   "Try to answer his questions."
 msgstr  "Попытаться ответить на его вопросы."
 
+# REVIEW
 msgid   "\"I don't have time for this.\""
 msgstr  "\"У меня нет на это времени\"."
 
+# REVIEW
 msgid   "\"I see. Oh well. Maybe the next alien I meet will be nicer...\" You "
         "prepare to jump."
 msgstr  "\"Понятно. Ну что ж. Может следующий пришелец, которого я встречу, "
         "будет любезнее...\" Вы готовитесь к прыжку."
 
+# REVIEW
 msgid   "No."
 msgstr  "Нет."
 
+# REVIEW
 msgid   "\"I see... I guess you're busy.\""
 msgstr  "\"Всё ясно... Видимо вы заняты\"."
 
+# REVIEW
 msgid   "(Crystal Crew) Have your crew speak to them."
 msgstr  "(Член экипажа кристалин) Дать вашему кристалину поговорить с ними."
 
+# REVIEW
 msgid   "\"Wow, you're one of us! I didn't know we made an alliance with the "
         "aliens. I guess I won't bother you, but here, have some of our extra "
         "supplies!\""
@@ -723,6 +841,7 @@ msgstr  "\"Ого, один из нас! А я и не знал, что мы з�
         "пришельцами. Пожалуй не стоит вас беспокоить, и вот, возьмите "
         "немного наших припасов!\""
 
+# REVIEW
 msgid   "\"Wow, thanks. Oh look, another alien ship! I wonder if they're as "
         "nice as you.\" Seeing the Rebel decals you doubt they're friendly. "
         "They spot you and move in to attack, while the Crystalline civilian "
@@ -732,6 +851,7 @@ msgstr  "\"Ого, благодарю. Смотрите-ка, ещё кораб�
         "сомневаетесь в их дружелюбии. Они замечают вас и идут в атаку, пока "
         "гражданские кристалины прыгают прочь."
 
+# REVIEW
 msgid   "\"Wow, thanks! I don't know if this is of any use to you, but we "
         "have some supplies we can offer you. Perhaps you can use them on "
         "your trip!\""
@@ -739,12 +859,14 @@ msgstr  "\"Ого, спасибо! Я не знаю, нужно ли это ва
         "вам немного припасов. Наверно вы найдете им применение в вашем "
         "путешествии\"."
 
+# REVIEW
 msgid   "\"Wow, thanks! Perhaps we can fix up a bit of your hull for sating "
         "my curiosity. We're pretty handy with repairs.\""
 msgstr  "\"Ого, спасибо! Наверное, мы можем немного подлатать вашу обшивку за "
         "то, что удовлетворили моё любопытство. Мы довольно умелые ремонтники"
         "\"."
 
+# REVIEW
 msgid   "The moment you arrive you notice a Crystalline ship in the vicinity "
         "keeping its distance. They message you, \"The 'Rebels' that are "
         "trying to hunt YOU down are creating havoc everywhere they go.\""
@@ -752,6 +874,7 @@ msgstr  "В момент вашего прибытия вы замечаете �
         "кристалинов, держащийся на расстоянии. Они сообщают вам: "
         "\"Повстанцы, охотящиеся за вами, сеют хаос повсюду, где они бывают\"."
 
+# REVIEW
 msgid   "\"To minimize their impact on our people, we would like you to give "
         "them your flight path out of our sector. We would like to remain "
         "civil and are willing to pay you in 'scrap' for the increased danger "
@@ -760,9 +883,11 @@ msgstr  "\"Чтобы минимизировать их воздействие �
         "курс вашего полета в нашем секторе. Мы не хотим войны и заплатим вам "
         "'ломом' за опасности, которое это повлечет\"."
 
+# REVIEW
 msgid   "Give them your flight plans."
 msgstr  "Дать им ваши планы полета."
 
+# REVIEW
 msgid   "It was never your intention to lead the Rebels here, and frankly you "
         "could do with the scrap. The Crystalline ship immediately jumps off "
         "to inform the Rebels, leaving you with a fleet to outrun!"
@@ -771,9 +896,11 @@ msgstr  "Вы не ставили себе целью привести сюда 
         "совершает прыжок, чтобы информировать повстанцев, не оставляя вам "
         "выбора, кроме как убегать от их флота."
 
+# REVIEW
 msgid   "Accept the scrap but give them false flight plans."
 msgstr  "Взять лом, но дать им фальшивые планы."
 
+# REVIEW
 msgid   "You apologise for the trouble you've brought them, but explain that "
         "you have no choice. They seem to understand, and break the comm link "
         "to set about preparing defenses."
@@ -781,6 +908,7 @@ msgstr  "Вы извиняетесь за проблемы, что вы им д�
         "у вас нет другого выбора. Они, похоже, понимают, и прерывают канал "
         "связи, чтобы подготовиться к обороне."
 
+# REVIEW
 msgid   "Unable to interpret it themselves, the Crystalline Beings assume "
         "your data will mean something to the Rebels. It should see the "
         "pursuing fleet taking a leisurely cruise before they get back on "
@@ -790,12 +918,14 @@ msgstr  "Неспособные расшифровать их смысл, кри
         "Преследующий вас флот ожидает восхитительный круиз, прежде чем они "
         "снова нападут на ваш след."
 
+# REVIEW
 msgid   "They take one look at your fake telemetry and realize what you've "
         "done. They apparently do not take being lied to well - they "
         "immediately attack!"
 msgstr  "Они с первого взгляда понимают, что данные фальшивы. Им, очевидно, "
         "не слишком нравится быть обманутыми - они немедленно атакуют!"
 
+# REVIEW
 msgid   "A large Crystalline ship is floating in space here. They hail: "
         "\"Aliens?! How curious. We request your aid. We have men buried on a "
         "nearby planet and we must dig them out.\""
@@ -804,9 +934,11 @@ msgstr  "3десь в пространстве дрейфует большой �
         "помощи. Наших людей похоронило на ближайшей планете и мы должны "
         "откопать их\"."
 
+# REVIEW
 msgid   "Send a crew member to help."
 msgstr  "Отправить члена экипажа на помощь."
 
+# REVIEW
 msgid   "You do as you're asked and send a crew member down to the planet to "
         "assist. They discover a massive Crystal excavation operation and it "
         "quickly becomes clear this is a task that will take days, not hours."
@@ -815,9 +947,11 @@ msgstr  "Вы делаете то, о чем вас просят, и посыл�
         "кристалинов и быстро становится ясно, что на это уйдёт скорее "
         "несколько дней, чем часов."
 
+# REVIEW
 msgid   "Leave your crew member behind."
 msgstr  "Оставить там вашего члена экипажа."
 
+# REVIEW
 msgid   "You're committed to both saving the Federation and upholding the "
         "principles it worked to maintain. Your crew-member will remain and "
         "make good on the promise - you still have a galaxy to save. They "
@@ -827,9 +961,11 @@ msgstr  "Вы привержены не только спасению Федер
         "у вас все ещё есть галактика, которую нужно спасти. Они дают вам "
         "немного припасов за доставленные неудобства."
 
+# REVIEW
 msgid   "Pull your guy out."
 msgstr  "3абрать члена экипажа обратно."
 
+# REVIEW
 msgid   "The Crystalline captain contacts you urgently: \"What is the meaning "
         "of this?! Had you no wish to aid us you might simply have declined, "
         "but THIS... is an insult!\" His turns his massive ship on yours and "
@@ -839,9 +975,11 @@ msgstr  "Капитан кристалинов срочно связываетс
         "ТАКОЕ... это оскорбление!\" Он разворачивает свой огромный корабль, "
         "и вы готовитесь к битве не на жизнь, а на смерть."
 
+# REVIEW
 msgid   "Wait."
 msgstr  "Ждать."
 
+# REVIEW
 msgid   "You've made a commitment, and that still means something. You wait "
         "one jump cycle and then inquire with the Crystalline captain about "
         "the status of the operation. \"We respect your strength. The "
@@ -851,6 +989,7 @@ msgstr  "Вы приняли на себя обязательство, а это
         "статус операции. \"Мы уважаем вашу силу. Операция продлится ещё один "
         "цикл\"."
 
+# REVIEW
 msgid   "Another cycle passes while the Rebel fleet draws ever nearer. You "
         "contact the captain again. \"Alien Captain, your knowledge of our "
         "customs has most impressed us. Your crew-member is on their way back "
@@ -860,6 +999,7 @@ msgstr  "Проходит ещё один цикл, пока флот повст
         "знание наших обычаев сильно впечатлило нас. Ваш член экипажа уже в "
         "пути назад к вам, вместе со знаком нашего уважения\"."
 
+# REVIEW
 msgid   "\"We understand. You rely on machines for so much. Yours is a soft "
         "and weak species - we would hardly even have noticed your presence. "
         "Fly well.\""
@@ -867,6 +1007,7 @@ msgstr  "\"Мы понимаем. Вы так сильно полагаетес�
         "и податлив, вряд ли бы мы даже заметили ваше присутствие. Удачного "
         "полета\"."
 
+# REVIEW
 msgid   "You detect a heavily armed Crystalline ship escorting some sort of "
         "prison vessel. Scans indicate there are a number of non-Crystal "
         "based life forms aboard; they must be rounding up all of the "
@@ -879,6 +1020,7 @@ msgstr  "Вы обнаруживаете тяжеловооруженный ко
         "пространства! Прежде чем вы можете что-либо сделать, вы слышите "
         "предательские звуки отправляющегося телепортера."
 
+# REVIEW
 msgid   "You arrive near a small settlement and a lone guard ship moves to "
         "intercept you. You try to contact them but they are refusing all "
         "hails. Suddenly you hear lasers ricocheting from within the ship. "
@@ -888,6 +1030,7 @@ msgstr  "Вы прибываете рядом с маленьким поселе
         "ними, но они отказываются выходить на связь. Внезапно вы слышите "
         "звуки лазеров, отражающихся от стен внутри корабля. К вам высадились!"
 
+# REVIEW
 msgid   "You pick up chatter from a nearby ship, \"Yes... Here are some "
         "interesting specimens. Try to take them alive this time, there's a "
         "lot of money to be had on aliens.\" Scanners indicate a remote "
@@ -897,19 +1040,23 @@ msgstr  "Вы ловите разговор корабля неподалеку:
         "пришельцах можно неплохо навариться\". Сканеры отображают только что "
         "сработавший поблизости телепортер."
 
+# REVIEW
 msgid   "\"We yield, aliens. We have no wish to die fighting you.\""
 msgstr  "\"Мы отступаем, чужаки. Мы не желаем умирать сражаясь с вами\"."
 
+# REVIEW
 msgid   "\"You have bested us! I will no longer underestimate you Outsiders. "
         "Please, let us leave in peace.\""
 msgstr  "\"Вы победили нас! Чужаки, мы больше не будем недооценивать вас. "
         "Пожалуйста, оставьте нас с миром\"."
 
+# REVIEW
 msgid   "They appear to be transmitting the universal signals for surrender. "
         "Will you let them go?"
 msgstr  "Кажется, они посылают стандартный сигнал о капитуляции. Вы позволите "
         "им уйти?"
 
+# REVIEW
 msgid   "They message you, \"I see now there was a misunderstanding and there "
         "is no need for more bloodshed. Will you forgive our lack of "
         "discretion?\""
@@ -917,16 +1064,19 @@ msgstr  "Они присылают сообщение: \"Я вижу, что и�
         "нет нужды в большем кровопролитии. Простите ли вы нам этот "
         "недостаток благоразумия?\""
 
+# REVIEW
 msgid   "\"We cannot beat you, we surrender. Surely there is mercy wherever "
         "you come from.\""
 msgstr  "\"Нам не победить вас, мы сдаёмся. Безусловно, откуда бы вы ни были, "
         "там должно быть сострадание\"."
 
+# REVIEW
 msgid   "\"You have bested us! I will no longer underestimate you invaders. "
         "Please, let us leave in peace.\""
 msgstr  "\"Вы победили нас! 3ахватчики, мы больше не будем недооценивать вас. "
         "Пожалуйста, оставьте нас в покое\"."
 
+# REVIEW
 msgid   "They message you, \"I see now there was a misunderstanding and there "
         "is now no need for more bloodshed. Will you forgive our lack of "
         "discretion?\""
@@ -934,17 +1084,20 @@ msgstr  "Они сообщают вам: \"Теперь я вижу, что пр
         "нет нужды в большем кровопролитии. Вы простите нашу "
         "неосмотрительность?\""
 
+# REVIEW
 msgid   "\"Thank you. We have misjudged you and will not forget your kindness."
         "\" They leave without another word."
 msgstr  "\"Спасибо. Мы ошибались на ваш счет и не забудем вашей доброты\". "
         "Без лишних слов они уходят."
 
+# REVIEW
 msgid   "They respond, \"Good. I'm glad to hear that there are still those "
         "who value life throughout the galaxy.\" They abruptly cut "
         "communications and prepare to jump away."
 msgstr  "Они отвечают: \"Хорошо. Я рад услышать, что в галактике ещё остались "
         "те, кто ценит жизни\". Они резко обрывают связь и готовятся к прыжку."
 
+# REVIEW
 msgid   "\"Thank you. I hope our early aggression will not prevent a future "
         "accord between our peoples.\" They transfer some goods as a means of "
         "compensation."
@@ -952,6 +1105,7 @@ msgstr  "\"Спасибо. Я надеюсь, наша ранняя агресс
         "в будущем сосуществовать\". Они передают некоторое добро в "
         "компенсацию."
 
+# REVIEW
 msgid   "\"Good. I see no need for bloodshed either.\" They release a cargo "
         "crate in your direction. \"Take this as a trophy for clearly besting "
         "us.\""
@@ -959,6 +1113,7 @@ msgstr  "\"Хорошо. Я тоже не вижу смысла в кровоп�
         "вашу сторону ящик с грузом. - Возьмите это в качестве трофея, за то "
         "что так ловко нас обошли\"."
 
+# REVIEW
 msgid   "They thank you for sparing them, their extreme aggression quickly "
         "changing to a calm acceptance. You're not sure if they're mocking "
         "you when they dryly state that \"your species has a knack for warfare"
@@ -968,6 +1123,7 @@ msgstr  "Они благодарят вас за пощаду, их неверо
         "знают толк в военном деле\", вы не можете понять насмехаются ли над "
         "вами или же нет."
 
+# REVIEW
 msgid   "\"We would like to apologize for our xenophobia. You have shown that "
         "aliens can be compassionate, a fact unwritten in our history "
         "records. Please, take this.\""
@@ -975,6 +1131,7 @@ msgstr  "\"Мы бы хотели извиниться за нашу ксено�
         "пришельцев есть сострадание, о чем не упоминается в наших "
         "исторических записях. Прошу, примите это\"."
 
+# REVIEW
 msgid   "What appears to be a young soldier pushes its way onto the vid "
         "screen, \"A captain both able and merciful? I have always wanted to "
         "explore beyond our restricted sector... Please, permit me to join "
@@ -984,12 +1141,14 @@ msgstr  "Кто-то похожий на молодого солдата про�
         "хотел исследовать, что же за границей нашего закрытого сектора... "
         "Пожалуйста, разрешите мне присоединиться к вашему экипажу\"."
 
+# REVIEW
 msgid   "\"Great!\" As he brings his few belongings on board, you wonder how "
         "a being made of crystal can move with such lightness and enthusiasm."
 msgstr  "\"Отлично!\" Пока он переносил свои пожитки на борт, вы гадали, как "
         "может создание из кристаллов двигаться с такой легкостью и "
         "непринужденностью."
 
+# REVIEW
 msgid   "\"I understand. We did try to kill you...\" They transfer some "
         "materials over before leaving."
 msgstr  "\"Я понимаю. Мы пытались убить вас...\" Они передают некоторое "

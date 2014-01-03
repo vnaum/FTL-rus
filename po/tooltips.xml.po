@@ -1,82 +1,109 @@
+# REVIEW
 msgid   ""
 msgstr  "Project-Id-Version: ru\n"
         "Content-Type: text/plain; charset=UTF-8\n"
         "Content-Transfer-Encoding: 8bit\n"
 
+# REVIEW
 msgid "Oxygen: Replenishes the ship's oxygen supply."
 msgstr "Кислород: Восполняет уровень кислорода на корабле."
 
+# REVIEW
 msgid "Doors: Allows for remote opening/closing of doors."
 msgstr "Двери: Позволяет дистанционно открывать и закрывать двери."
 
+# REVIEW
 msgid "Shields: Sustains damage-reducing shields. Manning increases shield recharge speed."
 msgstr "Щиты: Уменьшают повреждения. Комплектование личным составом увеличивает скорость восстановления щита."
 
+# REVIEW
 msgid "Piloting: Requires a crew member to evade in combat or jump."
 msgstr "Пилотирование: Требуется член экипажа для маневрирования в бою или совершения прыжка."
 
+# REVIEW
 msgid "Engines: Charges the FTL drive and powers evasion. Manning increases dodge chance."
 msgstr "Двигатели: 3аряжают FTL привод и маневровые двигатели. Комплектование личным составом увеличивает вероятность уклонения"
 
+# REVIEW
 msgid "Sensors: Enables view of all rooms and info for enemy ships."
 msgstr "Сенсоры: Дают информацию о происходящем в ваших отсеках и отсеках вражеского корабля."
 
+# REVIEW
 msgid "Medbay: Heals crewmembers inside the Medbay"
 msgstr "Мед-отсек: Лечит членов экипажа, находящихся внутри."
 
+# REVIEW
 msgid "Weapons: Click on a weapon to charge and fire. Manning reduces charge time."
 msgstr "Орудия: Кликните по пиктограмме орудия, чтобы зарядить его и открыть огонь. Комплектование личным составом ускоряет перезарядку."
 
+# REVIEW
 msgid "Drones: Automated robots for attack and defense."
 msgstr "Дроны: Автоматические роботы для атаки и защиты."
 
+# REVIEW
 msgid "Teleporter: Send crewmembers in the teleporter room to board enemy ships."
 msgstr "Телепортер: Отправьте членов экипажа в комнату телепортера для абордажа корабля."
 
+# REVIEW
 msgid "Cloaking: Temporarily hide from enemies."
 msgstr "Маскировка: Временно скрывает вас от врагов."
 
+# REVIEW
 msgid "Artillery: Beam that automatically fires a 1 damage beam that pierces all shields."
 msgstr "Артиллерия: Луч автоматически пробивает все щиты и наносит 1 единицу повреждения."
 
+# REVIEW
 msgid "Reactor: Unused reactor energy available to power your systems."
 msgstr "Реактор: Неиспользованная энергия, которую можно пустить на питание систем."
 
+# REVIEW
 msgid "Current hull integrity. If it drops to zero, the ship is destroyed."
 msgstr "Текущая целостность корпуса. Если упадет до нуля, корабль будет уничтожен."
 
+# REVIEW
 msgid "Number of Drone Parts.  Using a Drone consumes one Drone Part."
 msgstr "Количество деталей дронов. При использовании дрона расходуется одна деталь."
 
+# REVIEW
 msgid "Amount of fuel. Each jump consumes one fuel."
 msgstr "Количество топлива. При прыжке расходуется 1 единица топлива."
 
+# REVIEW
 msgid "Number of missiles.  Some weapons consume one Missile when fired."
 msgstr "3апас ракет. Некоторые орудия тратят одну ракету при каждом выстреле."
 
+# REVIEW
 msgid "Current scrap total"
 msgstr "Текущее количество лома"
 
+# REVIEW
 msgid "Opens star map to choose jump location."
 msgstr "Открывает звёздную карту, где вы можете выбрать направление следующего прыжка."
 
+# REVIEW
 msgid "Current shield status."
 msgstr "Текущее состояние щита."
 
+# REVIEW
 msgid "Percent chance to dodge incoming fire."
 msgstr "Шанс увернуться от вражеского выстрела."
 
+# REVIEW
 msgid "Ship's current oxygen."
 msgstr "Текущий уровень кислорода."
 
+# REVIEW
 msgid "You're in an asteroid field. Periodically asteroids will strike your ship."
 msgstr "Вы находитесь в астероидном поле. Периодически астероиды будут попадать в ваш корабль."
 
+# REVIEW
 msgid "You're too close to a star. Solar flares will light the ship on fire.  Shields will reduce the effect."
 msgstr "Вы находитесь близко к звезде. Вспышки на поверхности звезды могут поджечь корабль. Щиты снижают эту вероятность."
 
+# REVIEW
 msgid "You're inside of a nebula. Your sensors will not function, but the rebel fleet will advance more slowly towards you."
 msgstr "Вы находитесь внутри туманности. Туманность блокирует работу сенсоров, но также замедляет продвижение флота повстанцев."
 
+# REVIEW
 msgid "This section of the nebula is experiencing a plasma storm. Your main reactor can only function at half capacity."
 msgstr "В этом участке туманности бушует плазменный шторм. Из-за помех реактор генерирует вдвое меньше энергии."

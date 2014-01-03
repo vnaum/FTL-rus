@@ -1,13 +1,16 @@
+# REVIEW
 msgid   ""
 msgstr  "Project-Id-Version: ru\n"
         "Content-Type: text/plain; charset=UTF-8\n"
         "Content-Transfer-Encoding: 8bit\n"
 
+# REVIEW
 msgid   "TIP: Death -   Remember, losing is part of the fun!  ...  No, I'm "
         "serious..."
 msgstr  "СОВЕТ: Смерть - Помните, что проигрыш - неотъемлемая часть "
         "удовольствия от игры! Нет, я серьёзно..."
 
+# REVIEW
 msgid   "TIP: Grinding Sectors -  It can be beneficial to stay in a Sector "
         "for as long as possible to improve the ship since each Sector is "
         "increasingly difficult."
@@ -15,6 +18,7 @@ msgstr  "СОВЕТ: 3ачистка секторов - От каждого се
         "возможное для развития корабля, так как каждый следующий сектор "
         "сложнее предыдущего."
 
+# REVIEW
 msgid   "TIP: Exits -  It's tempting to rush for the sector exits, but "
         "exploring is the only way to upgrade your ship. Try and get as much "
         "out of each sector as possible."
@@ -23,11 +27,13 @@ msgstr  "СОВЕТ: Выход - Несмотря на вполне оправ�
         "единственный способ добыть улучшения для корабля. Старайтесь взять "
         "от каждого сектора максимум того, что он может предложить."
 
+# REVIEW
 msgid   "TIP: Pausing -  Press SPACE at any time to pause the game. You can "
         "still issue orders to crew or manipulate system power while paused."
 msgstr  "СОВЕТ: Пауза - Для постановки игры на паузу, нажмите пробел. Во "
         "время паузы вы можете отдавать приказы и управлять системами корабля."
 
+# REVIEW
 msgid   "TIP: Targets -  Prioritize your targeting in combat.  Weapons and "
         "Shields are usually the best choice, but if they're fleeing, hit "
         "their Engines or Piloting to prevent escape."
@@ -36,6 +42,7 @@ msgstr  "СОВЕТ: Прицеливание - Определитесь с пр
         "намеревается сбежать, логичнее будет целиться в двигатель и "
         "пилотский пульт."
 
+# REVIEW
 msgid   "TIP: Hidden Choices -  When you see a blue colored choice in an "
         "event, it's a special option that has been made available by your "
         "current equipment."
@@ -43,28 +50,33 @@ msgstr  "СОВЕТ: Скрытый выбор - Когда в событии в
         "синим, то это специальная опция которая стала доступна благодаря "
         "вашему оснащению."
 
+# REVIEW
 msgid   "TIP: System Damage -  When a System fully breaks due to fire or "
         "boarders, the hull also takes one damage."
 msgstr  "СОВЕТ: Система повреждений - Если из-за пожара или вторжения система "
         "выходит из строя полностью, то корпус также получает единицу "
         "повреждения."
 
+# REVIEW
 msgid   "TIP: Selling -  Weapons, drones and augments can be sold for 1/2 the "
         "purchasing price at stores.  Click on the SELL tab at the top."
 msgstr  "СОВЕТ: Продажа - Оружие, дроны и усиления могут быть проданы за "
         "полцены в магазинах. Выберите вкладку ПРОДАТЬ."
 
+# REVIEW
 msgid   "TIP: Power Bars - Upgraded systems can be helpful even if you don't "
         "have enough reactor power to use them;  they still absorb one damage."
 msgstr  "СОВЕТ: Полоски энергии - Улучшенные системы могут быть полезны, даже "
         "если мощность вашего реактора недостаточна для их использования; они "
         "способны поглотить одно дополнительное повреждение."
 
+# REVIEW
 msgid   "TIP: Weapons -  You can queue up an attack before the weapon is "
         "charged. It will fire when it's charged."
 msgstr  "СОВЕТ: Орудия - Вы можете поставить в очередь выстрел до того, как "
         "орудие будет заряжено. Оно выстрелит, когда будет заряжено."
 
+# REVIEW
 msgid   "TIP: Cloaking -  Cloaking prevents enemies from firing on your ship "
         "or charging their weapons. It also causes all currently flying shots "
         "to miss your ship."
@@ -72,6 +84,7 @@ msgstr  "СОВЕТ: Маскировка - Маскировка не тольк
         "от выстрелов врага, но и останавливает зарядку его орудий. Также уже "
         "все сделанные по вашему кораблю выстрелы пройдут мимо."
 
+# REVIEW
 msgid   "TIP: Boarding -  If you're having trouble with boarders, fight "
         "within the medbay. If all else fails, vent the rest of the oxygen "
         "out of the ship!"
@@ -79,6 +92,7 @@ msgstr  "СОВЕТ: Абордаж - Если вас берут на аборд
         "медицинским отсеком. Если ничего не помогает, разгерметизируйте "
         "отсеки корабля."
 
+# REVIEW
 msgid   "TIP: Oxygen -  If the ship's room color changes from tan to red, it "
         "means you're losing oxygen.   Crew will be damaged and fires will "
         "burn out in rooms with red hazard stripes."
@@ -86,6 +100,7 @@ msgstr  "СОВЕТ: Кислород - Если отсеки корабля п�
         "розовато-красный, то это значит вы теряете кислород. Команда начнёт "
         "задыхаться, а огонь вскоре погаснет в отсеках с оранжевыми границами."
 
+# REVIEW
 msgid   "TIP: Shield Piercing -  Missiles ignore shields.  Use missiles to "
         "damage a powerful ship's Shields System.  Just remember that Defense "
         "Drones can shoot down missiles!"
@@ -93,12 +108,14 @@ msgstr  "СОВЕТ: Прорыв щита - Ракеты игнорируют �
         "чтобы повредить систему щитов мощных кораблей. Только помните, что "
         "защитные дроны могут сбивать ракеты."
 
+# REVIEW
 msgid   "TIP: Choices -  Results of most choices have multiple outcomes. You "
         "can never be sure what will happen."
 msgstr  "СОВЕТ: Выбор - Результаты большинства выборов будут иметь разные "
         "последствия. Вы никогда не можете быть уверены в том, что может "
         "произойти."
 
+# REVIEW
 msgid   "TIP: Autofire -  Autofire will let a weapon maintain its target. "
         "Just keep an eye on your missile count!"
 msgstr  "СОВЕТ: Автоматическое ведение огня позволит вам беспрерывно вести "
@@ -106,6 +123,7 @@ msgstr  "СОВЕТ: Автоматическое ведение огня поз
         "то, из чего вы ведете огонь. Если из ракет то следите за их "
         "количеством."
 
+# REVIEW
 msgid   "TIP: Evasion -  Evading enemy shots is crucial, but it requires "
         "functioning engines AND a pilot.  Having someone man the engines "
         "will increase your evasion as well."
@@ -115,16 +133,19 @@ msgstr  "СОВЕТ: Уклонение - Способность уклонит�
         "наличие человека в двигательном отсеке повышает шанс на удачный "
         "манёвр."
 
+# REVIEW
 msgid   "TIP: Sensors -  If the ship goes dark, don't panic. Just fix the "
         "Sensors Subsystem."
 msgstr  "СОВЕТ: Сенсоры - Если корабль станет тёмным, не паникуйте. Просто "
         "отремонтируйте подсистему сенсоров."
 
+# REVIEW
 msgid   "TIP: Drones -  If you're struggling against enemy Drones, target the "
         "Drone System to temporarily disable them."
 msgstr  "СОВЕТ: Дроны - Если вы боретесь против вражеских дронов - цельтесь в "
         "систему дронов, для того что бы временно отключить их."
 
+# REVIEW
 msgid   "TIP: Beams -  Beam weapons do damage based on the number of rooms "
         "they hit.   Each Shield bubble will block 1 damage of a beam; it's "
         "best to use beams when their shields are down."
@@ -133,6 +154,7 @@ msgstr  "СОВЕТ: Лучи - Лучевые орудия причиняют �
         "блокирует 1 урон луча; лучше всего использовать лучи когда нет "
         "вражеских щитов."
 
+# REVIEW
 msgid   "TIP: Fire -  If fire is spreading, consider opening airlocks and "
         "doors to vent the oxygen from parts of your ship.  Fire is quickly "
         "extinguished without O2."
@@ -140,11 +162,13 @@ msgstr  "СОВЕТ: Пожар - Если огонь распространяе
         "шлюзов для разгерметизации частей вашего корабля. Без кислорода "
         "пожар быстро гаснет."
 
+# REVIEW
 msgid   "TIP: Health -  Pay attention to your crew's health!  Use the medbay "
         "to keep them patched up."
 msgstr  "СОВЕТ: 3доровье - Уделяйте внимание здоровью экипажа! Используйте "
         "медицинский отсек, чтобы подлечить их."
 
+# REVIEW
 msgid   "TIP: Upgrades -  Don't forget to upgrade your ship!  Often shields "
         "are the highest priority, but don't underestimate the usefulness of "
         "subsystems."
@@ -152,17 +176,20 @@ msgstr  "СОВЕТ: Улучшения - Не забывайте улучшат
         "имеют наивысший приоритет, но не стоит недооценивать полезность "
         "подсистем."
 
+# REVIEW
 msgid   "TIP: Fuel -  Every jump consumes one unit of fuel, so keep an eye on "
         "your reserves.  Buy fuel at stores to avoid being left stranded."
 msgstr  "СОВЕТ: Топливо - Каждый прыжок тратит одну единицу топлива. Следите "
         "за вашими запасами и не забывайте заправляться у торговцев, чтобы не "
         "остаться без возможности перемещения."
 
+# REVIEW
 msgid   "TIP: Sound -  Go into the options menu to turn on or off the sound "
         "effects and music."
 msgstr  "СОВЕТ: 3вук - Отрегулировать громкость звуков и музыки можно в меню "
         "настроек."
 
+# REVIEW
 msgid   "TIP: Asteroids -  Fighting in asteroid fields is dangerous, but use "
         "it to your advantage. Take out enemy shields and let the rocks take "
         "care of the rest."
@@ -171,6 +198,7 @@ msgstr  "СОВЕТ: Астероиды - Сражение в астероидн
         "останется лишь понаблюдать, как метеориты весело дырявят противника "
         "без энерго-щитов в дуршлаг."
 
+# REVIEW
 msgid   "TIP: Nebulas -  Passing through a Nebula will allow you to "
         "temporarily slow down the fleet advancement but they contain their "
         "own unique dangers."
@@ -178,6 +206,7 @@ msgstr  "СОВЕТ: Туманности - Попадание в туманно
         "продвижение флота повстанцев, но в них есть и свои собственные "
         "уникальные опасности."
 
+# REVIEW
 msgid   "TIP: Solar Flares - Solar flares will cause hull damage in addition "
         "to starting fires. Make sure your shields are up to help mitigate "
         "this effect."
@@ -185,11 +214,13 @@ msgstr  "СОВЕТ: Солнечные вспышки - Солнечные вс
         "обшивку корабля, разжигать пожары внутри. Убедитесь что ваши щиты "
         "подняты, если хотите смягчить эффект микроволновки."
 
+# REVIEW
 msgid   "TIP: Score - Your score is based on how many ships you defeat, the "
         "number of beacons explored, and your total scrap collection."
 msgstr  "СОВЕТ: Счёт - Ваш итоговый счёт зависит от количества побеждённых "
         "вами кораблей, посещённых маяков и накопленного лома."
 
+# REVIEW
 msgid   "TIP: Hotkeys -  You can charge or arm weapons using number hotkeys:  "
         "The Weapon Slots are 1-4 on your keyboard, and the Drones are 5-7 "
         "(customizeable in the options)."
@@ -197,22 +228,26 @@ msgstr  "СОВЕТ: Горячие клавиши - Вы можете заря�
         "горячие клавиши клавиатуры: орудия кнопками 1-4, а дроны кнопками "
         "5-7."
 
+# REVIEW
 msgid   "TIP: Augmentations -  Your ship can only hold 3 augmentations.  They "
         "provide unique benifits to a system, the crew or the entire ship."
 msgstr  "СОВЕТ: Усиления - Ваш корабль может содержать только 3 усиления. Они "
         "обеспечивают уникальные эффекты системам, экипажу или всему кораблю."
 
+# REVIEW
 msgid   "TIP: Breaches -  If a room with a breach has no Oxygen, try opening "
         "all the doors surrounding it to make it less hazardous."
 msgstr  "СОВЕТ: Пробоины - Если отсек с пробоиной не имеет кислорода, "
         "попробуйте открыть все окружающие двери, это сделает его менее "
         "опасным."
 
+# REVIEW
 msgid   "TIP: Font Size - Pressing +/- (customizeable in options) will let "
         "you change the event text size."
 msgstr  "СОВЕТ: Шрифт - Нажимая кнопки \"+\" и \"-\", вы можете регулировать "
         "размер шрифта в сообщениях."
 
+# REVIEW
 msgid   "TIP: Rebel Fleet - The rebel fleet (represented by the red circle on "
         "the map) moves closer to your position every time you jump. Certain "
         "events can slow or speed up their movement speed."
@@ -221,6 +256,7 @@ msgstr  "СОВЕТ: Флот повстанцев - Флот повстанце
         "когда вы совершаете прыжок. Некоторые события могут замедлить или "
         "ускорить их передвижение."
 
+# REVIEW
 msgid   "TIP: Weapon Order - Rearrange a weapon or drone schematic by "
         "dragging it into the desired position. The left-most slot will be "
         "the last to power down if the system is damaged."
@@ -228,6 +264,7 @@ msgstr  "СОВЕТ: Порядок орудий - Изменяйте поряд
         "перетащив их на желаемую позицию. При повреждении систем слоты "
         "отключаются справа налево."
 
+# REVIEW
 msgid   "TIP: Ion Weapons - Ion weapons de-power and lock a System for a "
         "time.  If they hit the enemy shields they deal their stun damage "
         "directly to the Shields System."
@@ -235,6 +272,7 @@ msgstr  "СОВЕТ: Ионные орудия - Ионные орудия об�
         "систему на некоторое время. Если они попали во вражеские щиты - они "
         "причинят оглушающий урон напрямую системе щитов."
 
+# REVIEW
 msgid   "TIP: Bomb Weapons - Bombs teleport directly onto either ship.  They "
         "bypass Shields AND Defense Drones.  However they affect crew and "
         "Systems; they do no damage to the ships hull."
@@ -242,6 +280,7 @@ msgstr  "СОВЕТ: Бомбы - Бомбы телепортируются на
         "щиты и защитных дронов. Однако они повреждают только экипаж и "
         "системы, корпус корабля от них не страдает."
 
+# REVIEW
 msgid   "TIP: Door Subsystem - Upgrading your doors once will greatly reduce "
         "the chance fire will spread between rooms.  Upgrading them again "
         "will cause doors to significantly slow boarder movement."
@@ -250,15 +289,19 @@ msgstr  "СОВЕТ: Подсистема дверей - Однократное 
         "Повторное улучшение позволит существенно замедлить передвижение "
         "абордажной команды."
 
+# REVIEW
 msgid   "You are able to salvage scrap from the ship's debris."
 msgstr  "Вам удалось собрать лом с обломков корабля."
 
+# REVIEW
 msgid   "Death Test"
 msgstr  "Испытание Смерти"
 
+# REVIEW
 msgid   "Crew Test"
 msgstr  "Проверка экипажа"
 
+# REVIEW
 msgid   "This is a prototype ship which utilizes advanced cloaking "
         "technology. The trade off is lack of shields or weaponry. Take "
         "advantage of the cloaking device's ability to make enemy shots miss."
@@ -267,6 +310,7 @@ msgstr  "Это прототип корабля, который использу
         "Воспользуйтесь возможностью маскировки, чтобы вражеские выстрелы в "
         "вас не попали."
 
+# REVIEW
 msgid   "This ship was based on designs that existed before shielding "
         "technology was standard in all ships. Its armored hull and increased "
         "mobility are its primary assets."
@@ -275,6 +319,7 @@ msgstr  "Этот корабль основан на конструкции, к�
         "Бронированный корпус и повышенная мобильность являются основным его "
         "достоинством."
 
+# REVIEW
 msgid   "This ship is designed to test the Federation's new advanced shield "
         "recharging technology. Unfortunately, you're being forced to test it "
         "alone."
@@ -282,6 +327,7 @@ msgstr  "Этот корабль Федерации предназначен д�
         "технологии перезарядки щитов. К сожалению, Вас заставили тестировать "
         "его в одиночку."
 
+# REVIEW
 msgid   "This ship was designed for troop transport behind enemy lines. As "
         "such, it isn't equipped with weapons by default but is crewed by the "
         "best of the best."
@@ -289,6 +335,7 @@ msgstr  "Этот корабль был предназначен для пере
         "таковой, он не оснащён орудиями по умолчанию, но зато его экипаж - "
         "лучшие из лучших."
 
+# REVIEW
 msgid   "This ship is a modified mining vessel that contained advanced AI for "
         "drone management. It isn't quite combat ready, but hopefully the "
         "drones will cover its shortcomings."
@@ -297,6 +344,7 @@ msgstr  "Этот корабль представляет собой модиф�
         "не совсем готов к битве, но будем надеяться, что дроны покроют его "
         "недостатки."
 
+# REVIEW
 msgid   "Your new vessel is equipped with state of the art androids and beam "
         "weaponry. It was difficult to find a full crew since the androids "
         "are rather terrifying to work with."
@@ -304,6 +352,7 @@ msgstr  "Ваше новое судно оснащено современным�
         "Трудно было найти полный экипаж, так как с роботами довольно страшно "
         "работать."
 
+# REVIEW
 msgid   "The engineer who designed this ship clearly loved missiles.  Few "
         "opponents will be able to withstand this ship's missile barrage, but "
         "be sure to watch your ammo reserves."
@@ -311,6 +360,7 @@ msgstr  "Инженер, который проектировал этот кор
         "многие оппоненты могут выстоять перед огненным валом ракет этого "
         "корабля, но обязательно следите за вашими запасами боеприпасов."
 
+# REVIEW
 msgid   "Congratulations, that's the end of the training simulation! As a "
         "final lesson, you'll experience what it's like to be destroyed by a "
         "more powerful enemy. This pirate is equipped with our most advanced "
@@ -325,25 +375,30 @@ msgstr  "Поздравляем с окончанием обучения! В к�
         "собирался пришельцами, известными как лучшие инженеры галактики. А "
         "ещё мы отключили ваши двигатели, так что нет смысла пытаться убежать."
 
+# REVIEW
 msgid   "Impossible! He was supposed to be unbeatable! Even the simulation "
         "creators haven't done that. Continue on, you've earned it."
 msgstr  "Невозможно! Он должен был быть непобедимым! Даже у создателей "
         "симуляции это не получилось. Продолжай, ты это заслужил."
 
+# REVIEW
 msgid   "We've come out in an asteroid field! We'll have to wait for the FTL "
         "to charge before we can get out of here, let's hope the ship holds "
         "up."
 msgstr  "Вы залетели в поле астероидов. Придётся дожидаться, пока зарядится "
         "FTL привод и надеяться, что корабль доживёт до этого момента."
 
+# REVIEW
 msgid   "Your ship is currently not equipped with a drone system. You reduce "
         "the drone schematic to scrap."
 msgstr  "Ваш корабль не оснащён системой управления дронами. Вы пустили "
         "чертежи дрона на лом."
 
+# REVIEW
 msgid   "Continue..."
 msgstr  "Продолжить..."
 
+# REVIEW
 msgid   "You stumble across a hidden Federation research laboratory!  They "
         "have been experimenting with some unique ship designs.  You download "
         "their blueprints for future use."

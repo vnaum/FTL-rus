@@ -1,8 +1,10 @@
+# REVIEW
 msgid   ""
 msgstr  "Project-Id-Version: ru\n"
         "Content-Type: text/plain; charset=UTF-8\n"
         "Content-Transfer-Encoding: 8bit\n"
 
+# REVIEW
 msgid   "You've entered Zoltan territory. This species is not renowned for "
         "giving anything for nothing, but you can always be assured a fair "
         "hearing."
@@ -10,18 +12,21 @@ msgstr  "Вы входите на территорию золтанцев. Эт�
         "репутацией добрых самаритян, раздающих всё за просто так. Но тут вы "
         "всегда можете быть уверены в справедливом суде."
 
+# REVIEW
 msgid   "The Zoltan patrol their borders but let you pass when you ID as "
         "Federation. Let's hope they won't be so courteous to the Rebels."
 msgstr  "3олтанцы охраняют свои границы и пропустят вас только в случае "
         "наличия ID Федерации. Будем надеяться они не настолько учтивы к "
         "повстанцам."
 
+# REVIEW
 msgid   "You arrive in Zoltan space. From what you have heard they "
         "anticipated the coming war and made preparations to hold their "
         "borders."
 msgstr  "Вы прибыли в пространство золтанцев. Насколько вы слышали, они "
         "ожидали грядущую войну и подготовились удерживать свои границы."
 
+# REVIEW
 msgid   "You're far from Federation home space here in Zoltan territory, and "
         "it's not clear whether the authorities will have any goodwill "
         "remaining. Still, you have to push forward."
@@ -29,12 +34,14 @@ msgstr  "3десь, на территории золтанцев, вы дале�
         "Федерации, и неясно, будут ли власти к вам благосклонны. Однако, вы "
         "должны двигаться дальше."
 
+# REVIEW
 msgid   "The Zoltan are fascinated by other species, and have set up "
         "something of an alien knick-knack shop here. Why not take a look?"
 msgstr  "Один золтанец, не на шутку увлёкшийся другими видами, установил "
         "здесь что-то вроде инопланетного магазинчика безделушек. Почему бы "
         "не взглянуть?"
 
+# REVIEW
 msgid   "A human ship hails: \"My friends! Please, there is nothing I don't "
         "have, and there is nothing worth wanting that I can't get. Why not "
         "take a look around my shop?\""
@@ -43,6 +50,7 @@ msgstr  "Человеческий корабль приветствует: \"Д�
         "бы достать. Пожалуйста, чувствуйте себя как дома, взгляните на товары"
         "\"."
 
+# REVIEW
 msgid   "A Mantis crew here has hunkered down in the abdomen of a long-dead "
         "space-whale - the only way, presumably, for them to operate their "
         "black-market trade without detection. Worth a look?"
@@ -50,12 +58,14 @@ msgstr  "Отряд мантисов укрылся в брюхе давно у�
         "видимому для них это единственный способ управления черным рынком "
         "без обнаружения. Стоит заглянуть?"
 
+# REVIEW
 msgid   "There are some mineral-rich asteroids here that the Zoltan have left "
         "idle, but you've none of the necessary equipment to mine them."
 msgstr  "Несколько богатых минералами астероидов были оставлены \"на потом\" "
         "местными золтанцами. Жаль, но у вас нет необходимого оборудования, "
         "чтобы разрабатывать их."
 
+# REVIEW
 msgid   "You have to admit - Zoltan space is a beautiful and peaceful place "
         "indeed. However, re-engaging the FTL and finishing your mission is "
         "your priority, not sight-seeing."
@@ -63,6 +73,7 @@ msgstr  "Вы должны признать - территория золтан�
         "мирное место. Однако, ваш главный приоритет - перезарядка FTL и "
         "завершение миссии, а не осмотр достопримечательностей."
 
+# REVIEW
 msgid   "A light asteroid field is entering the atmosphere of a nearby planet "
         "- a fireworks show on a galactic scale. There's little for it but to "
         "take in the ambiance and program the next jump."
@@ -70,6 +81,7 @@ msgstr  "Поток астероидов, входящий в атмосферу
         "галактического масштаба. Можно пару минут насладиться зрелищем перед "
         "тем, как начать расчёт следующего прыжка."
 
+# REVIEW
 msgid   "You stumble upon some Zoltan military vessels engaging in combat "
         "training. Their Energy Shields are impressive, but you note how "
         "quickly beam and ion weaponry take them down."
@@ -77,12 +89,14 @@ msgstr  "Вы наткнулись на несколько военных кор
         "боевых тренировках, Их энергощиты впечатляют, но заметьте, как "
         "быстро их сносит лучевое и ионное оружие."
 
+# REVIEW
 msgid   "You don't have time to hail the Zoltan ship that was waiting at this "
         "beacon before it jumps away. They are a careful race."
 msgstr  "У вас не хватило времени даже на то, чтобы поприветствовать корабль "
         "золтанцев, чего-то ждавший на этом маяке, прежде чем он ушёл отсюда. "
         "Это очень осторожная раса."
 
+# REVIEW
 msgid   "A Zoltan shipyard is stationed at this beacon. You admire the "
         "display of hundreds of glowing Zoltan performing delicate exterior "
         "work on a massive transport ship."
@@ -90,6 +104,7 @@ msgstr  "Верфь кораблей золтанцев находится на 
         "наблюдая за сотнями сверкающих золтанцев, что выполняют тонкую "
         "работу снаружи громадного транспортного корабля."
 
+# REVIEW
 msgid   "A message broadcast from a nearby planet announces the presence of "
         "an ancient Zoltan monastery available for visiting. Likely just a "
         "tourist trap, but still too bad you don't have the time to visit."
@@ -98,6 +113,7 @@ msgstr  "Широковещательное сообщение с ближайш
         "это лишь уловка для туристов, впрочем у вас всё равно нет времени на "
         "визит."
 
+# REVIEW
 msgid   "Your jump interrupts a Zoltan security ship as it follows a Mantis "
         "pirate into an asteroid field. They message you, \"Your presence "
         "here will continue to be tolerated - but please, do not interfere.\""
@@ -106,9 +122,11 @@ msgstr  "Ваш появление чуть не помешало золтанс
         "вас: \"Ваше присутствие здесь по прежнему допустимо, но пожалуйста, "
         "не вмешиваетесь\"."
 
+# REVIEW
 msgid   "Interfere and save the Mantis ship."
 msgstr  "Вмешаться и спасти корабль мантисов."
 
+# REVIEW
 msgid   "Sometimes you have to bet on the underdog - even on the rare "
         "occasions that the underdog is a Mantis warship. You set off for the "
         "heart of the asteroid field and engage the Zoltan there."
@@ -116,22 +134,27 @@ msgstr  "Иногда вы должны поставить на аутсайде
         "когда это военный корабль мантисов. Вы направляетесь в центр поля "
         "астероидов и встречаете золтанцев боем."
 
+# REVIEW
 msgid   "Interfere and help the Zoltan ship."
 msgstr  "Вмешаться и помочь кораблю золтанцев."
 
+# REVIEW
 msgid   "You overtake the Zoltan and catch up with the Mantis ship in the "
         "asteroid belt. Time to make some friends."
 msgstr  "Вы догоняете корабль золтанцев и перехватываете вместе с ним корабль "
         "мантисов в астероидном поле. Время заводить новых друзей."
 
+# REVIEW
 msgid   "Don't interfere."
 msgstr  "Не вмешиваться."
 
+# REVIEW
 msgid   "The Zoltan know their business better than most - best to leave them "
         "to it. You prepare to jump."
 msgstr  "3олтанцы знаются в своих делах лучше, чем кто бы то ни был - "
         "наилучшим вариантом будет оставить их. Вы готовитесь к прыжку."
 
+# REVIEW
 msgid   "You arrive to find a lumbering Zoltan freighter with no one at the "
         "helm. It's a mystery what happened to the crew, but it'd be a shame "
         "to let the opportunity go to waste."
@@ -139,46 +162,56 @@ msgstr  "Вы прибыли на огромный, неуклюжий, нике
         "золтанцев. Остаётся загадкой, что стало с экипажем, но было бы "
         "стыдно не воспользоваться такой возможностью."
 
+# REVIEW
 msgid   "You come to a Zoltan trade and supply hub - everything the weary "
         "traveller needs, provided they have the right documentation."
 msgstr  "Вы прибыли в отделение торговли и поставок золтанцев - всё что нужно "
         "уставшему путнику, конечно же при условии, что у него есть "
         "соответствующие документы."
 
+# REVIEW
 msgid   "Try to talk your way in."
 msgstr  "Попытаться убедить их."
 
+# REVIEW
 msgid   "(Teleporter) Beam directly to the civilian deck."
 msgstr  "(Телепортер) Перенестись прямо на гражданскую платформу."
 
+# REVIEW
 msgid   "You re-materialise in a dark corner of the main concourse and are "
         "able to conduct your investigations in peace."
 msgstr  "Вы повторно материализовались в темном углу главного зала и имеете "
         "возможность мирно проводить свои исследования."
 
+# REVIEW
 msgid   "Continue..."
 msgstr  "Продолжить..."
 
+# REVIEW
 msgid   "(Zoltan) Have your crewmember present his official documentation and "
         "pay the entry fee [ Scrap: -10 ]."
 msgstr  "(Член экипажа золтанец) Попросить вашего члена экипажа представить "
         "свои официальные документы и оплатить вступительный взнос [ Лом: "
         "-10 ]."
 
+# REVIEW
 msgid   "They scan ID that declares your crewmember an official citizen, "
         "collect their fee, and let you pass."
 msgstr  "Они сканируют идентификатор вашего золтанца, в котором тот обозначен "
         "как официальный гражданин. 3атем они взимают пошлину и, наконец, "
         "пропускают вас дальше."
 
+# REVIEW
 msgid   "Leave."
 msgstr  "Уйти."
 
+# REVIEW
 msgid   "You don't have the papers - well, the neuro-laced identity bracelets "
         "- to get in, so best not to try."
 msgstr  "У вас нет бумаг (точнее кожаных нейро-идентификационных браслетов) "
         "для входа внутрь, так что лучше не пробовать."
 
+# REVIEW
 msgid   "They don't see many of your species in these parts, and you stick "
         "out like a Casvagarian Sea Slug in a Plutonian Shrimp Stew. You make "
         "it back to the ship with a gang of Zoltan guards in tow!"
@@ -186,6 +219,7 @@ msgstr  "Они редко видят представителей вашего 
         "выглядите как Касвагарский морской слизняк в плутонском рагу из "
         "креветок. Вы возвращаетесь на корабль с шайкой золтанцев на хвосте!"
 
+# REVIEW
 msgid   "You pose as traders and succeed in bypassing airlock security - "
         "however, it's only a matter of time before someone realizes your ID "
         "cards are counterfeit!"
@@ -193,6 +227,7 @@ msgstr  "Вы представились как торговцы и успешн
         "это только дело времени, до тех пор, пока кто-нибудь не сообразит, "
         "что ваши идентификационные билеты - фальшивка!"
 
+# REVIEW
 msgid   "You head into a ship supply store. It is a well-equipped, self-"
         "service affair. An order is dialled into a terminal, scrap is "
         "deposited, and the item is dispatched from a nearby chute."
@@ -200,6 +235,7 @@ msgstr  "Вы направились в магазин снабжения. Эт�
         "самообслуживания. 3аказ вводится в терминал, с вас взимается плата, "
         "и покупка вываливается из ближайшего желоба."
 
+# REVIEW
 msgid   "You head into the cantina for gossip. Topics of conversation in the "
         "cantina range from crop distribution microbes to the joys of Slug "
         "pleasure cruises."
@@ -207,11 +243,13 @@ msgstr  "Вы направились в бар, чтобы узнать посл
         "здесь начинаются от распространения микробов в урожае, и "
         "заканчиваются радостями от круиза удовольствий слагов."
 
+# REVIEW
 msgid   "You overhear one group discussing a newly discovered planet yet to "
         "have first contact, and note down its location."
 msgstr  "Вы подслушали разговор одной компании, обнаружившей планету ещё до "
         "первого контакта и записали её местонахождение."
 
+# REVIEW
 msgid   "You arrive at the primitive planet that you heard about at the "
         "cantina and are surprised to see a Zoltan ship facing off against a "
         "Rebel assault craft."
@@ -219,6 +257,7 @@ msgstr  "Вы прибыли на примитивную планету, о ко
         "совершенно не ожидая застать корабль золтанцев, выясняющий отношения "
         "с штурмовым судном повстанцев."
 
+# REVIEW
 msgid   "You tap into their frequency and hear the Rebel captain yelling, "
         "\"We are liberating this planet in the name of the new Galactic "
         "government! These aliens will not be left in ignorance where they "
@@ -228,9 +267,11 @@ msgstr  "Подключившись к их частоте вы услышали
         "правительства! Эти инопланетяне не останутся в невежестве, как бы их "
         "не использовали!\""
 
+# REVIEW
 msgid   "Interfere - make first contact with the primitive aliens."
 msgstr  "Вмешаться - сделать первый контакт с примитивными инопланетянами."
 
+# REVIEW
 msgid   "The local people - furry, one-eyed tree lizard things - begin "
         "chanting when they see you. Suddenly the sky is lit by laser fire - "
         "the Zoltan opened fire on your ship! You dash back to the shuttle "
@@ -240,14 +281,17 @@ msgstr  "Местное население (пушистые, одноглазы
         "вспышкой лазера - золтанцы открыли огонь по вашему кораблю! Вы "
         "бросаетесь обратно в корабль и вступаете в битву."
 
+# REVIEW
 msgid   "Protect the aliens' way of life - Attack the Rebel ship."
 msgstr  "3ащитить инопланетян ценой жизни - атаковать корабль повстанцев."
 
+# REVIEW
 msgid   "These creatures should be left to develop at their own pace. You "
         "direct all weapons on the Rebel ship and begin the firing sequence."
 msgstr  "Этих существ следует оставить для развития их собственными темпами. "
         "Вы направляете все орудия на повстанцев и готовитесь открыть огонь!"
 
+# REVIEW
 msgid   "You don't want to alert the Rebels of your presence and you don't "
         "want to anger the Zoltan in their territory. The best solution is to "
         "leave."
@@ -255,6 +299,7 @@ msgstr  "Вы не хотите предупреждать о своём при�
         "более не желаете злить золтанцев на их территории. Лучшее решение - "
         "уйти."
 
+# REVIEW
 msgid   "A Zoltan academy sits docked just outside the beacon perimeter. "
         "They're happy to show you the fruits of their labor, and offer "
         "something to take home with you."
@@ -262,6 +307,7 @@ msgstr  "Академия золтанцев пристыкована прямо
         "счастливы показать вам плоды их труда и предлагают кое-что взять с "
         "собой."
 
+# REVIEW
 msgid   "The Zoltan stationed near this beacon are happy to receive you. As "
         "they give you the formal tour of their ship you spy some local star "
         "charts and mentally log the details."
@@ -271,24 +317,30 @@ msgstr  "3олтанцы, находящиеся неподалеку от эт�
         "вам на глаза попались некоторые звёздные карты, детали которых вы, "
         "не долго думая, запомнили визуально."
 
+# REVIEW
 msgid   "Something strikes you as odd about a moon in the distance."
 msgstr  "Что-то кажется для вас очень странным в этой луне вдалеке."
 
+# REVIEW
 msgid   "Check it out."
 msgstr  "Посмотреть, что там."
 
+# REVIEW
 msgid   "Leave it be."
 msgstr  "Не обращать внимания."
 
+# REVIEW
 msgid   "You try not to fixate on the moon in the aft scanner and you set the "
         "coordinates for the next jump."
 msgstr  "Вы стараетесь не заострять внимание на этой странной луне, всё ещё "
         "видимой в кормовой сканер, и сосредотачиваетесь на вводе координат "
         "следующего прыжка."
 
+# REVIEW
 msgid   "(Boarding Drone) Send a drone to probe the surface."
 msgstr  "(Абордажный дрон) Отправить дрона для зондирования поверхности."
 
+# REVIEW
 msgid   "Initial scans indicate a network of caves not far underground. You "
         "launch a boarding drone and it breaks through the surface into the "
         "cavern below."
@@ -296,6 +348,7 @@ msgstr  "Пробное сканирование сразу же показал�
         "землей. Вы запускаете абордажного дрона и он прорывается через "
         "поверхность в пещеру внизу."
 
+# REVIEW
 msgid   "Your drone discovers a vast cave network and evidence of excavation. "
         "Buried deep below you find a Zoltan scientist, still hard at work. "
         "He tells you that all his colleagues are long dead. You decide not "
@@ -306,16 +359,19 @@ msgstr  "Ваш дрон обнаружил огромную сеть пещер
         "мертвы. Вы решаете задать ему несколько вопросов и предложить "
         "присоединиться к экипажу."
 
+# REVIEW
 msgid   "A closer inspection reveals signs of habitation on the surface, but "
         "nothing else particularly interesting."
 msgstr  "Более подробное исследование показало следы жизни на поверхности и "
         "больше ничего особенно интересного."
 
+# REVIEW
 msgid   "Sending a shuttle to explore a beckoning cave system you discover "
         "signs of a battle - and a still-functioning weapon!"
 msgstr  "Отправив шатл для исследования загадочной системы пещер, вы "
         "обнаружили следы битвы - и всё ещё работоспособное оружие!"
 
+# REVIEW
 msgid   "A deep scan of the surface reveals a cave system that runs for "
         "miles, and what looks like a scrap heap left over from some heavy-"
         "duty construction."
@@ -323,21 +379,25 @@ msgstr  "Глубокое сканирование поверхности пок
         "простирающуюся на многие мили, и нечто, похожее на гору металлолома, "
         "оставшуюся от какого-то очень мощного механизма."
 
+# REVIEW
 msgid   "It looks as if a team could break through the fragile layer of the "
         "moon's surface into a hidden cavern."
 msgstr  "Кажется, команда может прорваться сквозь тонкий слой лунной "
         "поверхности в скрытую пещеру."
 
+# REVIEW
 msgid   "Attempt to detonate some explosives to break through the surface. "
         "[ Missiles: -1 ]"
 msgstr  "Попытаться использовать взрывчатку, чтобы прорваться через "
         "поверхность [Ракеты: -1]."
 
+# REVIEW
 msgid   "Explosives are too valuable to waste on excavation work. Let's get "
         "out of here."
 msgstr  "Взрывчатка слишком ценна для использования в археологических "
         "работах. Давайте убираться отсюда."
 
+# REVIEW
 msgid   "A portion of the surface layer is destroyed in an impressive "
         "display, revealing miles of caves. You don't have time to fully "
         "explore them, but you find some remains of an old subterranean base "
@@ -347,11 +407,13 @@ msgstr  "Часть накрывающего слоя уничтожена и о
         "вот остатки старой подземной базы посетить всё же стоит. Вдруг "
         "найдётся что-нибудь полезное..."
 
+# REVIEW
 msgid   "The explosives are set remotely, but the detonation achieves "
         "nothing. What a waste."
 msgstr  "Взрывчатка была подорвана дистанционно, но взрыв ни к чему не "
         "привёл. Какая бессмысленная трата припасов."
 
+# REVIEW
 msgid   "Your explosives reveal the 'cave' is actually a secret base, located "
         "in a network of bunkers just under the surface. Everyone inside is "
         "dead; some Mantis clearly came through here recently. It looks like "
@@ -363,6 +425,7 @@ msgstr  "Ваша взрывчатка открыла \"пещеру\", что �
         "золтанцы разрабатывали усовершенствованный тип корабельного "
         "вооружения. Вы берёте один из лучших экземпляров на ваш корабль."
 
+# REVIEW
 msgid   "A Zoltan ship makes contact. \"The nature of the day is rotational. "
         "The fever is emaciated. The reason is-\" They've caught some nasty "
         "deep space dementia. Before you can consider finding help for them, "
@@ -372,12 +435,14 @@ msgstr  "Корабль золтанцев связывается в вами: \
         "космическое помешательство. Прежде чем вы обдумали, как же помочь "
         "бедолагам, они открыли по вам огонь."
 
+# REVIEW
 msgid   "You're surprised when a stationary Zoltan ship opens fire. It "
         "appears there are aggressive pugilists even among the 'enlightened'."
 msgstr  "Вы были весьма удивлены, когда неподвижный корабль золтанцев вдруг "
         "открыл огонь. Оказывается и среди \"просвещённых\" попадаются "
         "агрессивные драчуны."
 
+# REVIEW
 msgid   "You receive a message, \"This area is off limits. Submit your ship "
         "to processing.\" It's only one guard ship in a lonely beacon. You "
         "decide to fight your way out."
@@ -385,6 +450,7 @@ msgstr  "Вы получили сообщение: \"Это закрытая з�
         "к осмотру\". У этого одинокого маяка всего один охранный корабль, но "
         "вы решаете не испытывать судьбу и улетаете."
 
+# REVIEW
 msgid   "You discover a number of Zoltan civilian ships fighting off pirates. "
         "Unfortunately one ship mistakes your purpose and moves in to attack! "
         "They are refusing all communication; you have no choice but to fight."
@@ -393,6 +459,7 @@ msgstr  "Вы обнаружили ряд гражданских корабле�
         "и направился к вам! Он игнорирует любые попытки переговоров и вам не "
         "оставляют выбора, кроме как сражаться."
 
+# REVIEW
 msgid   "Like many areas in Zoltan space, the residents of this sector "
         "prepared well for Galactic war. The military here seem to have given "
         "up reasoning with foreigners, preferring instead to attack on sight!"
@@ -401,6 +468,7 @@ msgstr  "Как и во многих других местах обитания 
         "региона даже отказались от попыток разговаривать с приезжими, "
         "предпочитая нападать при первой же встрече!"
 
+# REVIEW
 msgid   "A Zoltan ship is waiting at this beacon. They request your "
         "identification, but radiation from the sun in this system is "
         "disrupting your communications. They take your silence for "
@@ -410,12 +478,14 @@ msgstr  "Корабль золтанцев ожидает на этом маяк
         "ответить. Они воспринимают ваше молчание как агрессию и выдвигаются "
         "в атаку."
 
+# REVIEW
 msgid   "The Zoltan ship patrolling this area hails you: \"This area is off "
         "limits. Secrecy is vital.\" They power their weapons."
 msgstr  "Корабль золтанцев, патрулирующий эту территорию, приветствует вас: "
         "\"Нахождение в этой зоне недопустимо. Наивысший приоритет - "
         "секретность\". Они заряжают свои орудия."
 
+# REVIEW
 msgid   "\"Emergency, all ships in range, we are under attack!\" The "
         "frequency matches a nearby Zoltan ship; you move in on their "
         "pursuer. They take your intervention as a cue to jump away. Cowards."
@@ -424,6 +494,7 @@ msgstr  "\"Внимание, всем кораблям в округе: мы н�
         "неподалёку. Вы начинаете отслеживать его по сигналу. Они, видимо, "
         "расценивают ваше вмешательство как сигнал к прыжку. Трусы."
 
+# REVIEW
 msgid   "You jump just in time to witness a Zoltan ship's FTL drive overload. "
         "In his final moments their captain implores you not to get involved, "
         "but it's too late - their attacker is already upon you!"
@@ -432,6 +503,7 @@ msgstr  "Едва появившись, вы оказываетесь лицом
         "их капитан уговаривает вас не рисковать и не вмешиваться. Но теперь "
         "уже слишком поздно - их противник направляется к вам!"
 
+# REVIEW
 msgid   "Despite their precautions, pirates have begun to harass the local "
         "Zoltan settlements across this sector. One such pirate spots your "
         "ship and moves in to attack."
@@ -439,6 +511,7 @@ msgstr  "Несмотря на все предосторожности, пира
         "местные поселения золтанцев во всем секторе. Один из таких пиратов "
         "заметил ваш корабль и выдвигается в атаку."
 
+# REVIEW
 msgid   "A ship with pirate markings demands your surrender. It is sad times "
         "when even Zoltan space is beset by pirates. You doubt these fools "
         "will be missed."
@@ -446,12 +519,14 @@ msgstr  "Корабль с пиратскими знаками требует о
         "времена, когда даже корабли золтанцев терпят набеги пиратов. Вряд ли "
         "об этих глупцах кто-то станет жалеть, думаете вы, разогревая орудия."
 
+# REVIEW
 msgid   "You spot a pirate ship looting a small Zoltan cruiser. They spot you "
         "and move in to attack before your FTL drive has a chance to recharge."
 msgstr  "Вы застали корабль пиратов за грабежом маленького золтанского "
         "крейсера. Они заметили вас и выдвинулись в атаку ещё до того, как "
         "ваш FTL привод перезарядился."
 
+# REVIEW
 msgid   "You jump just in time to witness a Zoltan ship's FTL drive overload. "
         "In their final moments they implore you not to get involved, but "
         "it's too late - their attacker is already upon you!"
@@ -460,6 +535,7 @@ msgstr  "Едва появившись, вы оказываетесь лицом
         "их капитан уговаривает вас не рисковать и не вмешиваться. Но теперь "
         "уже слишком поздно - их противник направляется к вам!"
 
+# REVIEW
 msgid   "A ship with pirate markings demand that you surrender. It is sad "
         "times when even Zoltan space is beset by pirates. You doubt these "
         "fools will be missed."
@@ -467,6 +543,7 @@ msgstr  "Корабль с пиратскими знаками требует о
         "времена, когда даже корабли золтанцев терпят набеги пиратов. Вряд ли "
         "об этих глупцах кто-то станет жалеть, думаете вы, разогревая орудия."
 
+# REVIEW
 msgid   "You pick up the last broadcast from a rupturing Zoltan freighter: "
         "\"The Mantis, they're here, please-\" You're interrupted by fire off "
         "the port bow!"
@@ -474,6 +551,7 @@ msgstr  "Вы приняли последнюю трансляцию с пове
         "золтанцев: \"Мантисы, они здесь, пожалуйста\"... Вас прервали "
         "выстрелы в левый борт."
 
+# REVIEW
 msgid   "You jump into a debris field that used to be a Zoltan cruiser. "
         "Unfortunately, its Engi escort takes you for the attacker and "
         "retaliates! They refuse all hails."
@@ -482,6 +560,7 @@ msgstr  "Вы закончили прыжок посреди группы обл
         "принял вас за нападавшего, и готовится к ответным мерам. Это инжи, и "
         "они отклоняют любые попытки связаться."
 
+# REVIEW
 msgid   "You arrive in an asteroid field and are greeted by a Zoltan guard, "
         "\"By attempting to access these closed mining fields, you are in "
         "violation of the Natural Mineral Protection Act. Your weaponry will "
@@ -492,6 +571,7 @@ msgstr  "Вы прибыли в скопление астероидов, где 
         "оружие будет конфисковано для проверки\". У вас нет времени на эту "
         "чепуху."
 
+# REVIEW
 msgid   "You pick up a Zoltan life raft floating in space. Its inhabitant "
         "asks you to retake his ship from the pirates who recently "
         "commandeered it. \"I'm certain it is clear,\" he concludes, \"that "
@@ -501,9 +581,11 @@ msgstr  "Вы подобрали блуждающую в космосе меди
         "которые недавно его захватили. \"Я думаю, понятно, - устало добавил "
         "он, - что нужно обезвредить их не разнося мой корабль в пух и прах\"."
 
+# REVIEW
 msgid   "Engage the pirates."
 msgstr  "3аняться пиратами."
 
+# REVIEW
 msgid   "You refuse to get his ship back, but still offer to drop him off at "
         "the next station. The Zoltan is displeased, but directs you to a "
         "nearby starbase just the same."
@@ -511,35 +593,43 @@ msgstr  "Вы отказываетесь спасать его корабль, �
         "ближайшей станции. 3олтанец недоволен, но всё-таки указывает вам на "
         "ближайшую звездную базу."
 
+# REVIEW
 msgid   "He responds haughtily, \"You would presume I would work under your "
         "command after such a display of... prowess? No, I must decline.\""
 msgstr  "Он надменно ответил: \"Вы полагаете, я стану работать под вашим "
         "началом после такого проявления... отваги? Нет, я вынужден отказаться"
         "\"."
 
+# REVIEW
 msgid   "He responds defeatedly, \"I suppose I have nowhere else to go "
         "without a ship. I accept your offer.\""
 msgstr  "Он расстроенно ответил: \"Думаю, мне некуда больше податься без "
         "корабля. Я приму ваше предложение\"."
 
+# REVIEW
 msgid   "What appears to be a Zoltan science ship requests permission to dock."
 msgstr  "Кто-то похожий на исследовательский корабль золтанцев отправил "
         "запрос на стыковку."
 
+# REVIEW
 msgid   "Dock with them."
 msgstr  "Состыковаться с ними."
 
+# REVIEW
 msgid   "Have them keep their distance."
 msgstr  "Держать дистанцию."
 
+# REVIEW
 msgid   "They leave without a word."
 msgstr  "Не сказав ни слова они улетают."
 
+# REVIEW
 msgid   "You allow them to approach, but are caught unaware when they open "
         "fire!"
 msgstr  "Вы пытаетесь подпустить их поближе... Это было безрассудством с "
         "вашей стороны: они открывают огонь."
 
+# REVIEW
 msgid   "\"We have been studying the relationships between the species and "
         "have determined that the \"Federation\" still has potential to be a "
         "net positive for the galaxy. Please accept this gift to aid your "
@@ -549,6 +639,7 @@ msgstr  "\"Мы изучали взаимоотношения между рас�
         "Пожалуйста, примите этот подарок, он поможет вам в этом путешествии"
         "\"."
 
+# REVIEW
 msgid   "You come to a quiet part of Zoltan space and encounter an ancient "
         "Zoltan wise man who has managed to harness the power of a spatial "
         "rift, but seems to have been driven completely mad by the power. "
@@ -559,17 +650,21 @@ msgstr  "Вы прибыли в спокойную часть пространс
         "осознания совсем сошел с ума. \"Выбери свою кончину...\" - требует "
         "он. И почему это вас не удивляет?"
 
+# REVIEW
 msgid   "Mantis."
 msgstr  "Мантисы."
 
+# REVIEW
 msgid   "\"You like a challenge. So be it!\" A wormhole forms and a confused, "
         "angry Mantis ship hurtles toward you!"
 msgstr  "\"Любишь бросать вызов? Так тому и быть!\" Поблизости раскрывается "
         "червоточина, злой и сбитый с толку корабль мантисов мчится к вам."
 
+# REVIEW
 msgid   "Slug."
 msgstr  "Слаги."
 
+# REVIEW
 msgid   "\"Do not be fooled, Federation, by a soft underbelly.\" You detect a "
         "wormhole opening up, and seconds later a Slug ship is attacking from "
         "the other direction!"
@@ -577,9 +672,11 @@ msgstr  "\"Даже не надейтесь, что найдёте слабое 
         "замечаете открывающуюся червоточину, и секундой позже корабль слагов "
         "начинает атаку с другой стороны."
 
+# REVIEW
 msgid   "Rockmen."
 msgstr  "Роки."
 
+# REVIEW
 msgid   "\"A hardened foe for a hardened veteran.\" You detect a wormhole "
         "opening up, and a Rock ship appears with guns blazing. It appears "
         "they were in combat when they were thrust across space-time."
@@ -588,6 +685,7 @@ msgstr  "\"Матерый враг для закаленного ветеран�
         "орудиями. Похоже, они были в бою в то время, когда их настиг прыжок "
         "в гипер-пространство."
 
+# REVIEW
 msgid   "When he sees you have emerged victorious, the Zoltan wise man enters "
         "a rage. Rifts threaten to tear space apart until, instead, the "
         "Zoltan implodes, sending a blast wave of scrap and salvage dragged "
@@ -598,6 +696,7 @@ msgstr  "Видя вашу внезапную победу, мудрец зол�
         "взрывную волну лома и трофеев с отдаленных миров прямо в вашу "
         "сторону."
 
+# REVIEW
 msgid   "You arrive at a Zoltan security checkpoint set up in a perimeter "
         "around the beacon. \"Travelling vessel, you will submit to crew "
         "profiling to identify fugitives of the empire.\""
@@ -605,21 +704,26 @@ msgstr  "Вы прибыли на секретный аванпост золта
         "от маяка. \"Странствующий корабль, предоставьте ваш экипаж для "
         "проверки наличия беглецов империи\"."
 
+# REVIEW
 msgid   "You don't have time for this nonsense. Attack!"
 msgstr  "У вас нет времени на подобные глупости. В атаку!"
 
+# REVIEW
 msgid   "Expecting resistance, their Energy Shield is raised and ready for "
         "combat."
 msgstr  "Предполагая ваше сопротивление, они подняли свой энергетический щит "
         "и подготовились к сражению."
 
+# REVIEW
 msgid   "Submit to profiling."
 msgstr  "Предоставить экипаж."
 
+# REVIEW
 msgid   "(Slug Crew) Have your Slug talk them into letting you go."
 msgstr  "(Член экипажа слаг) Пусть ваш слаг попытается \"убедить\" их "
         "отпустить вас."
 
+# REVIEW
 msgid   "You give the guards permission to dock with the ship, but before "
         "they come on board your crew member slowly advances to meet them. As "
         "far as you can tell no words were exchanged, but the guards offer "
@@ -630,6 +734,7 @@ msgstr  "Вы дали разрешение охранникам состыко�
         "обменялся ни словом, но они предложили вам некоторые припасы и "
         "уведомили о проверке корабля. Лучше не задавать лишних вопросов."
 
+# REVIEW
 msgid   "The Zoltan security staff board your ship and scan the crew's faces "
         "into a computer. After a few tense moments of uncertainty they allow "
         "your ship to pass."
@@ -638,6 +743,7 @@ msgstr  "Отряд безопасности золтанцев взошёл н�
         "напряженных моментов неопределенности, так ничего и не найдя, они "
         "пропустили ваш корабль ."
 
+# REVIEW
 msgid   "The Zoltan security staff board your ship and begin scanning the "
         "crew's faces into a computer. Suddenly alarms go off and the Zoltan "
         "leap on one of your crew! \"This person is wanted on five charges of "
@@ -648,17 +754,21 @@ msgstr  "3олтанский отряд безопасности располо�
         "находится в розыске по пяти обвинениям Уттера Виллиани! Сдайте его "
         "нам!\""
 
+# REVIEW
 msgid   "Give up your crew member."
 msgstr  "Сдать члена вашего экипажа."
 
+# REVIEW
 msgid   "It's a tough call, but Zoltan law holds sway here. Besides, that one "
         "always seemed a bit shifty."
 msgstr  "Это тяжелое решение, но здесь правят законы золтанцев. А вообще, он "
         "всегда казался вам слегка подозрительным."
 
+# REVIEW
 msgid   "Refuse and fight."
 msgstr  "Отказаться и вступить в сражение."
 
+# REVIEW
 msgid   "You're not going to leave anyone behind. You pull away from the "
         "station with the enemy guards on board. Unfortunately, they are able "
         "to sabotage your weapon system in the chaos. It's time to leave!"
@@ -667,6 +777,7 @@ msgstr  "Вы не собираетесь никого оставлять. Вм�
         "они способны превратить ваши системы вооружения в полный хаос. Время "
         "уходить!"
 
+# REVIEW
 msgid   "This nebula turns out to be the hiding place of a terrified rock "
         "crew taking refuge from the Zoltan border police. They don't seem "
         "prepared to risk your leaving with their co-ordinates, and open fire!"
@@ -676,6 +787,7 @@ msgstr  "В туманности вы неожиданно натыкаетес�
         "корабль. Намного безопаснее было бы вас уничтожить. Они открывают "
         "огонь!"
 
+# REVIEW
 msgid   "Inside this nebula you detect a rogue planet drifting through space, "
         "on its surface a huge monolith visible at this distance even to the "
         "naked eye. A Zoltan elder hails you from the planet. \"Through luck "
@@ -687,14 +799,17 @@ msgstr  "Внутри туманности просторы космоса ра�
         "вас: \"Случайно ли, либо по умыслу, вы обнаружили Великий Глаз. "
         "Взглянув в глубины его получит каждый то, чего заслуживает\"."
 
+# REVIEW
 msgid   "Pull the ship in closer."
 msgstr  "Подлететь поближе."
 
+# REVIEW
 msgid   "Your mission is to save the Federation, not discover new wonders "
         "around the galaxy. You prepare to jump."
 msgstr  "Ваша миссия - спасение Федерации, отнюдь не обнаружение чудес по "
         "всей галактике. Вы готовитесь к прыжку."
 
+# REVIEW
 msgid   "As you approach, an ancient alien voice speaks to you: \"Your "
         "mission has brought you great battles, and great losses. This will "
         "help ease the pain.\" A few minutes later someone reports medical "
@@ -704,6 +819,7 @@ msgstr  "Как только вы приблизились, древний ин�
         "Это облегчит вашу боль\"... Несколькими минутами позже кто-то "
         "доложил о внезапном появлении медицинского оборудования на корабле!"
 
+# REVIEW
 msgid   "You approach the planet and wait, but nothing happens. The Zoltan "
         "hail: \"And in the coming times, when the monolith speaks not with a "
         "man he has no future and must be left wanting.\""
@@ -712,6 +828,7 @@ msgstr  "Вы приближаетесь к планете и ждете, но �
         "заговорит с человеком, значит это, что будущее его не определено, и "
         "должен он оставлен быть в стремлении\"."
 
+# REVIEW
 msgid   "You approach the planet carefully, trying to keep your ship from "
         "breaking up in orbit. The monolith, whatever it is, must sense as "
         "much because the next thing you know you have enough scrap to patch "
@@ -722,6 +839,7 @@ msgstr  "Вы осторожно приближаетесь к планете, �
         "окзаалось осознание, что у вас есть столько лома, что его хватило бы "
         "на починку всего корпуса, да ещё и осталось бы."
 
+# REVIEW
 msgid   "As you approach, a kaleidoscope of colours fills the view-screen and "
         "one of your crew begins to age rapidly in reverse, eventually "
         "disappearing into nothingness. Let's hope they've transcended "
@@ -732,6 +850,7 @@ msgstr  "При вашем приближении, калейдоскоп цве
         "они переступили пределы физического существования, а не просто были "
         "избавлены от него."
 
+# REVIEW
 msgid   "You spy two pirate ships lurking in the nebula here. They remain "
         "unaware of your presence; you're able to get your scanners to at "
         "least identify their cargo: One is carrying the fuel supplies, the "
@@ -743,28 +862,35 @@ msgstr  "Вы выследили два пиратских корабля, чт�
         "топливо, второй - вооружение. Под воздействием космического шторма "
         "их начинает слегка относить друг от друга в разные стороны."
 
+# REVIEW
 msgid   "Secure the fuel supply."
 msgstr  "3ахватить корабль с топливом."
 
+# REVIEW
 msgid   "You jet toward the pirate with the fuel supplies and engage - "
         "hopefully you can leave the ship in one piece!"
 msgstr  "Вы подлетаете к кораблю с топливом и вступаете с ним в схватку "
         "(хорошо бы, победив, ещё и не развалить его на кусочки)."
 
+# REVIEW
 msgid   "Secure the ammunition."
 msgstr  "3ахватить корабль с вооружением."
 
+# REVIEW
 msgid   "You jet toward the pirate with the ammunition and engage - hopefully "
         "you can leave the ship in one piece!"
 msgstr  "Вы подлетаете к кораблю с вооружением и вступаете с ним в схватку "
         "(хорошо бы, победив, ещё и не развалить его на кусочки)."
 
+# REVIEW
 msgid   "Let them leave."
 msgstr  "Дать им уйти."
 
+# REVIEW
 msgid   "Sometimes discretion is the better part of valour."
 msgstr  "Иногда рассудительность - лучшая сторона отваги."
 
+# REVIEW
 msgid   "There are few more zealous in their customs checks than the Zoltan. "
         "A team of border police beam on board. There's just a little "
         "confusion over your weapons licences, but things escalate rapidly "
@@ -775,6 +901,7 @@ msgstr  "Еще несколько более усердных, чем обыч�
         "оружие, которое быстро перерастает от разговоров на повышенных тонах "
         "до перестрелки!"
 
+# REVIEW
 msgid   "The Mantis outcasts sometimes make the mistake of taking the Zoltan "
         "for easy game. A scout moves in to attack while a boarding party "
         "beams aboard from a nearby transport!"
@@ -782,6 +909,7 @@ msgstr  "Бродяги мантисы порой вообще не считаю
         "соперниками. Их разведчик атакует вас, попутно высаживая к вам на "
         "борт абордажную бригаду!"
 
+# REVIEW
 msgid   "An unarmed Zoltan transport vessel is slowly making its way toward "
         "the beacon here. They hail: \"This is a Zoltan peace envoy. We carry "
         "no weapons or shielding and rely on the mercy of others to "
@@ -791,12 +919,15 @@ msgstr  "Безоружное транспортное судно золтанц
         "нас нет оружия и щитов, и мы всецело полагаемся на благосклонность "
         "услышавших нас, распространяя наше послание\"."
 
+# REVIEW
 msgid   "Attack them."
 msgstr  "Атаковать их."
 
+# REVIEW
 msgid   "Hear them out."
 msgstr  "Выслушать их."
 
+# REVIEW
 msgid   "They continue. \"We take your silence for interested contemplation."
         "\" They talk at length about peace and harmony, but either it's "
         "beyond your simple mind or it's all nonsense."
@@ -804,6 +935,7 @@ msgstr  "Они продолжают: \"Мы принимаем ваше мол�
         "\". Они начинают длинный разговор о мире и гармонии, но либо это "
         "выше вашего понимания, либо полная чепуха."
 
+# REVIEW
 msgid   "They finish: \"Please, spread the word of enlightenment to those "
         "that have not heard. Once you have, contact our brethren.\" They "
         "transmit coordinates of their so-called \"brethren\"."
@@ -811,19 +943,23 @@ msgstr  "Они заканчивают: \"Пожалуйста, распрост
         "тем, кто ещё не слышал их. Услышав, свяжитесь с нашими собратьями\". "
         "Они передали координаты своих так-называемых \"собратьев\"."
 
+# REVIEW
 msgid   "The galaxy is at war - there's no time for talk of peace. You leave "
         "their hails unanswered and charge the jump drive."
 msgstr  "Галактика погрязла в войне - нет времени на разговоры о мире. Вы "
         "оставляете их возгласы без ответа и заряжаете двигатель для прыжка."
 
+# REVIEW
 msgid   "You charge your weapons - not that this will take much."
 msgstr  "Вы заряжаете ваши орудия - это будет даже слишком просто..."
 
+# REVIEW
 msgid   "Just as you're preparing to attack you detect a nearby jump "
         "signature. A Zoltan defense ship comes to their aid!"
 msgstr  "Прямо перед атакой вы обнаруживаете прыжковый след. 3ащитный корабль "
         "золтанцев идёт им на помощь."
 
+# REVIEW
 msgid   "You arrive at the location specified by the peace-loving Zoltan, but "
         "the only thing nearby is a Rebel ship, closing in fast! \"We've "
         "found you! You're not getting away this time!\""
@@ -831,15 +967,19 @@ msgstr  "Вы прибыли на место указанное миролюби
         "единственное, что тут есть, это корабль повстанцев, и он очень "
         "быстро приближается! \"Мы нашли вас! Теперь вам не уйти!\""
 
+# REVIEW
 msgid   "Attack."
 msgstr  "Атаковать."
 
+# REVIEW
 msgid   "You power your weapons and prepare to fight."
 msgstr  "Вы зарядили ваши орудия и готовитесь к бою."
 
+# REVIEW
 msgid   "Attempt to hail them."
 msgstr  "Попытаться связаться с ними."
 
+# REVIEW
 msgid   "They open communications: \"I can't imagine there's anything you "
         "could say that will save you. The rebellion must destroy those that "
         "are still loyal to the obsolete Federation.\""
@@ -847,28 +987,34 @@ msgstr  "Они неохотно выходят на связь: \"Я даже �
         "должны будете сказать, чтобы это спасло вас. Повстанец обязан "
         "уничтожать каждого, кто до сих пор лоялен исчезающей Федерации\"."
 
+# REVIEW
 msgid   "\"Perhaps there could be a reconciliation of our ideals without war?"
         "\""
 msgstr  "\"Быть может есть путь примирить наши идеалы не развязывая воин?\""
 
+# REVIEW
 msgid   "\"Our ideals are too different to be so easily reconciled. You think "
         "this could end any way but war?\""
 msgstr  "\"Наши идеалы слишком разные, чтобы их можно было примирить. Вы "
         "правда считаете, может быть ещё какое либо решение, кроме войны?\""
 
+# REVIEW
 msgid   "The galaxy is huge, you can find a place for your ideals elsewhere "
         "without causing this destruction."
 msgstr  "\"Галактика огромна, вы можете найти место для воплощения ваших "
         "идеалов в другом месте, не прибегая к разрушению\"."
 
+# REVIEW
 msgid   "\"No! We will not be consigned to the backwaters of space just "
         "because we don't fit into your 'Federation ideals'\" They charge."
 msgstr  "\"Нет! Мы не собираемся прозябать на задворках космоса лишь потому, "
         "что мы не вписываемся в ваши 'идеалы Федерации'\". Они атакуют."
 
+# REVIEW
 msgid   "True progress can only be achieved without bloodshed."
 msgstr  "\"Истинный прогресс может быть достигнут только без кровопролития\"."
 
+# REVIEW
 msgid   "Suddenly all indications of the Rebel ship fade away and a Zoltan "
         "fleet appears around your ship. The captain of the ship you met "
         "previously materializes on your bridge."
@@ -876,6 +1022,7 @@ msgstr  "Вдруг все следы корабля повстанцев исч
         "флот золтан! Капитан корабля, который вы встретили прежде, "
         "материализуется у вас на мостике."
 
+# REVIEW
 msgid   "\"Although your methods are crude and most certainly ineffective, it "
         "is clear you took our previous meeting to heart. If your ship "
         "represents the Federation's willingness to adapt we shall do what we "
@@ -885,19 +1032,23 @@ msgstr  "\"Конечно ваши методы жестоки и в основ�
         "готовность Федерации к компромиссам, то мы сделаем всё, что "
         "возможно, чтобы помочь в этом нелёгком деле\"."
 
+# REVIEW
 msgid   "\"Surrender. Your ultimate destruction is inevitable. We've left "
         "scores of Rebels destroyed in our wake.\""
 msgstr  "\"Сдавайтесь. Ваше уничтожение неизбежно. Мы уничтожили всех "
         "повстанцев на пути сюда\"."
 
+# REVIEW
 msgid   "They shut off communications and immediately engage."
 msgstr  "Они прерывают связь и сразу нападают."
 
+# REVIEW
 msgid   "\"Your Rebellion is causing millions of deaths. Your beliefs are "
         "dividing the galaxy. Unity is the only option!\""
 msgstr  "\"Ваше восстание приносит миллионы смертей. Ваши убеждения "
         "раздробляют галактику. Единство - единственный выбор!\""
 
+# REVIEW
 msgid   "\"Humans are treated as 'equal' to aliens in the weak Federation. "
         "The sacrifice of BILLIONS of alien or human lives are justified if "
         "it means we reach our full potential!\" They charge."
@@ -905,12 +1056,15 @@ msgstr  "\"В слабой Федерации к людям относятся �
         "Жертва МИЛЛИАРДОВ людей или пришельцев оправдана, если это "
         "необходимо для достижения нашего полного потенциала!\" Они атакуют."
 
+# REVIEW
 msgid   "Accept their offer."
 msgstr  "Принять их предложение."
 
+# REVIEW
 msgid   "We will not accept surrender!"
 msgstr  "Мы не примем капитуляции!"
 
+# REVIEW
 msgid   "\"Yes, yes, you've demonstrated your species' capacity for violence "
         "quite extensively, well done. If we reward your efforts will you "
         "bother someone else?\""
@@ -919,6 +1073,7 @@ msgstr  "\"Конечно, конечно, вы в достаточной мер
         "быть вы уйдёте терроризировать кого-нибудь другого, если мы заплатим?"
         "\""
 
+# REVIEW
 msgid   "The enemy ship hails; the vidscreen shows their bridge showered in "
         "sparks from malfunctioning equipment - it's safe to assume they're "
         "trying to surrender. Accept their offer?"
@@ -926,6 +1081,7 @@ msgstr  "Вражеский корабль выходит на связь; на 
         "мостик весь в искрах от неисправного оборудования - можно "
         "предположить, что они хотят сдаться. Принять их предложение?"
 
+# REVIEW
 msgid   "Communications report that the Zoltan are broadcasting on all "
         "frequencies. The captain appears on screen and says, \"Yes, I am not "
         "surprised, your species hardly looks enlightened. Fine. Take what "
@@ -934,6 +1090,7 @@ msgstr  "Анализ сообщений показывает, что золта
         "Капитан появляется на экране и говорит: \"Да, я не удивлен, что ваш "
         "вид выглядит не очень просвещённым. Ладно. Берите, что хотите\"."
 
+# REVIEW
 msgid   "The Zoltan captain hails and mutters something about the border "
         "patrol force catching up with you someday; you're more interested in "
         "his offer of surrender."
@@ -941,11 +1098,13 @@ msgstr  "3олтанский капитан приветствует и что-�
         "граничный патруль вас в итоге нагонит; но вас больше интересует его "
         "предложение капитуляции, нежели это."
 
+# REVIEW
 msgid   "\"We assumed that your species intelligence was directly "
         "proportional to your brute strength. We yield.\""
 msgstr  "\"Мы предполагали, что у вашего вида интеллект прямо пропорционален "
         "вашей грубой силе. Мы сдаёмся\"."
 
+# REVIEW
 msgid   "\"You have bested us. If only your species' efforts were put to use "
         "improving the galaxy rather than your military might.\""
 msgstr  "\"Вы победили нас. Вот если бы ваш вид вкладывал столько же усилий в "

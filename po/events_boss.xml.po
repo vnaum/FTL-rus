@@ -1,8 +1,10 @@
+# REVIEW
 msgid   ""
 msgstr  "Project-Id-Version: ru\n"
         "Content-Type: text/plain; charset=UTF-8\n"
         "Content-Transfer-Encoding: 8bit\n"
 
+# REVIEW
 msgid   "This is it. You are just a few jumps from the 14th Federation "
         "Fleet's Headquarters, the last refuge for Federation supporters. Get "
         "to the command as soon as possible."
@@ -10,6 +12,7 @@ msgstr  "Ну вот и всё. Вы всего в нескольких прыж
         "Федерации, последнего опорного пункта лоялистов. Доберитесь туда как "
         "можно скорее."
 
+# REVIEW
 msgid   "You arrive at the heart of the last Federation Fleet. Your access "
         "codes get you past initial security and a direct feed to the capital "
         "ship's war room. Admiral Tully speaks first saying, \"What is the "
@@ -19,9 +22,11 @@ msgstr  "Вы прибываете в самое сердце последнег
         "совещаний. Адмирал Тулли первым спрашивает вас: \"Что это значит?! "
         "Кто вы?\""
 
+# REVIEW
 msgid   "Explain your mission."
 msgstr  "Изложить суть вашего задания."
 
+# REVIEW
 msgid   "Your explanation is met with murmurs of cynicism and disbelief among "
         "the officers. General Turzil of the Engi Brigade speaks up, \"Intel "
         "suggests potential counter to Rebel technology. Risk all or save "
@@ -32,9 +37,11 @@ msgstr  "Ваши объяснения встречаются возгласам
         "противодействия технологиям повстанцев. Либо рискнём всем, либо "
         "потеряем всё\"."
 
+# REVIEW
 msgid   "Explain the weakness of the enemy fleet, the Rebel flagship."
 msgstr  "Объяснить слабости вражеского флота и флагмана повстанцев."
 
+# REVIEW
 msgid   "Tully responds, \"It's settled. The Rebels will be here in a matter "
         "of moments. We will do what we can to hold off their war ships but "
         "you must succeed in destroying this flagship. We will refuel your "
@@ -45,19 +52,23 @@ msgstr  "Тулли отвечает: \"Решено. Повстанцы буд�
         "вы должны уничтожить этот флагман. Мы сейчас дозаправим ваше судно и "
         "наши станции, по мере возможностей, предложат вам помощь. Удачи\"."
 
+# REVIEW
 msgid   "It appears this ship is also equipped with an advanced AI system. "
         "Now that the crew is dead, it has taken control!"
 msgstr  "Кажется, это судно оборудовано продвинутой системой ИИ. Теперь, "
         "когда команда мертва, она взяла контроль на себя!"
 
+# REVIEW
 msgid   "Its explosion rocks your ship and you shudder with relief.  You did "
         "it. The Federation is saved...."
 msgstr  "Ударная волна от взрыва сотрясает ваш корабль и вы вздрагиваете с "
         "облегчением. Получилось! Федерация спасена..."
 
+# REVIEW
 msgid   "Continue..."
 msgstr  "Продолжить..."
 
+# REVIEW
 msgid   "Thanks for playing!  Keep in mind this is still in beta and we have "
         "not created a satisfying conclusion to the game. Head to our forums "
         "to give us some feed back and let us know that you beat it.  Thanks!"
@@ -65,6 +76,7 @@ msgstr  "Спасибо, что прошли игру! Это всё ещё бе
         "нормальной концовки мы пока не придумали. Посетите наш форум, чтобы "
         "поделиться с нами впечатлениями. Ещё раз спасибо!"
 
+# REVIEW
 msgid   "Just as you finally gain the upper hand it finds a way to make an "
         "FTL jump. In its new state, it will have to get closer to the base "
         "to be a threat. You've bought some time, but you've got to keep up "
@@ -74,12 +86,14 @@ msgstr  "Как раз в тот момент, когда вы начали бр
         "чтобы открыть огонь. Вы выиграли время, но расслабляться рано - "
         "нужно продолжать сражение!"
 
+# REVIEW
 msgid   "This is it... The Rebel flagship. If you are able to destroy this "
         "monstrosity, the Federation fleet will have a chance of surviving. "
         "There's no turning back!"
 msgstr  "Ну вот и он... Флагман повстанцев. Если вы сможете уничтожить это "
         "чудовище, у Федерации появится шанс на выживание. Пути назад нет!"
 
+# REVIEW
 msgid   "You chase down the flagship and discover it is heavily damaged from "
         "the previous fight. Scans indicate that it has redirected "
         "considerable power to its drones. Get ready for a fight."
@@ -87,6 +101,7 @@ msgstr  "Вы догнали флагман и обнаружили, что в �
         "повредили. Сканирование показало, что он перенаправил значительныую "
         "часть мощностей на дронов. Готовтесь к бою."
 
+# REVIEW
 msgid   "You're not certain how it's able to keep fighting with the amount of "
         "damage it has sustained. It looks like it's transferred power to the "
         "teleporter as well as... some kind of super weapon. Be prepared... "
@@ -95,6 +110,7 @@ msgstr  "Непонятно, как этот корабль может прод�
         "тяжёлые повреждения. Кажется, его капитан направляет энергию в "
         "телепортер и в... какое-то супер-орудие? Готовьтесь к худшему..."
 
+# REVIEW
 msgid   "There is a a mobile ship construction platform stationed at this "
         "beacon. After a brief exchange they give you clearance to receive "
         "emergency repairs and military supplies."
@@ -102,12 +118,14 @@ msgstr  "Возле этого маяка находится мобильная 
         "короткого обмена сообщениями, диспетчер подтверждает ваш допуск и "
         "даёт санкцию на ремонт и снабжение."
 
+# REVIEW
 msgid   "An Engi civilian ship-yard has been converted into a military "
         "refueling station. They offer you the chance to patch up your ship "
         "and refresh some supplies."
 msgstr  "Гражданская верфь инжи, переделанная в военную станцию снабжения, "
         "предлагает вам ремонт и пополнение припасов."
 
+# REVIEW
 msgid   "Chatter on the comm suggests the nearby Federation base is outfitted "
         "with a repair station. When you forward your mission priority they "
         "quickly help repair your ship and give you some supplies."
@@ -116,12 +134,14 @@ msgstr  "Голос из коммуникатора предлагает пос�
         "индекс приоритета вашей миссии, они бегом хватаются за инструменты и "
         "чинят ваш корабль, после чего ещё и отгружают вам припасы."
 
+# REVIEW
 msgid   "A forward construction station is in the process of repairing "
         "damaged war ships. Your command codes convince them to do a quick "
         "patch job on your ship."
 msgstr  "Передовая ремонтная станция занята починкой поврежденных кораблей. "
         "Ваши командные коды убеждают их подлатать вас вне очереди."
 
+# REVIEW
 msgid   "A trade station was abandoned nearby. Some Federation engineers re-"
         "purposed their shipyard to perform military repairs. They offer to "
         "help fix your ship."
@@ -129,11 +149,13 @@ msgstr  "Недалеко есть заброшенная торговая ст�
         "переделали её верфи для ремонта боевых судов во время войны. Они "
         "могут починить ваш корабль."
 
+# REVIEW
 msgid   "Although this sector is still under Federation control, a small "
         "scout has slipped by the fleet. You move in to engage."
 msgstr  "Хотя этот сектор всё ещё находится под контролем Федерации, "
         "маленький разведчик проскользнул мимо флота. Вы атакуете его."
 
+# REVIEW
 msgid   "Long range scanners show this system is empty of any capital ships. "
         "Clearly it is not of strategic value. Wait... FTL signatures show a "
         "Rebel scout just jumped nearby!"
@@ -141,6 +163,7 @@ msgstr  "Сканеры дальнего действия показывают, 
         "боевых кораблей. Подождите... следы FTL показывают, что разведчик "
         "повстанцев только что вышел из прыжка поблизости!"
 
+# REVIEW
 msgid   "Sensors indicate that the Rebels are setting up a forward Jump "
         "Beacon behind the nearby planet's moon. More importantly, a number "
         "of ships are passing by; prepare for a fight!"
@@ -148,6 +171,7 @@ msgstr  "Датчики показывают что повстанцы уста�
         "луной ближайшей планеты.Что более важно, поблизости проходит много "
         "судов; готовтесь к бою!"
 
+# REVIEW
 msgid   "Federation ships are scarce in this region of space despite a number "
         "of civilian space stations. You see a small bomber squadron engaged "
         "with some Federation scouts and quickly move in to assist."
@@ -156,11 +180,13 @@ msgstr  "Несмотря на наличие гражданских станц�
         "бомбардировщиков, сражающихся с разведчиками Федерации, и спешите на "
         "помощь."
 
+# REVIEW
 msgid   "As soon as you arrive at the beacon, a Rebel scout turns to engage. "
         "Power up the weapons!"
 msgstr  "Как только вы достигаете маяка, разведчик повстанцев атакует вас. "
         "Готовьте орудия!"
 
+# REVIEW
 msgid   "You scan the area, finding signatures for only a small trade vessel. "
         "However, as it approaches you see the silhouette of a Rebel scout!  "
         "You run the scanners again and discover their registration is fake. "
@@ -171,30 +197,37 @@ msgstr  "Вы сканируете область, и находите толь�
         "вы запускаете сканеры снова и обнаруживаете, что у них поддельный "
         "регистрационный номер. Время наказать их."
 
+# REVIEW
 msgid   "Prepare to fight the Rebel ship!"
 msgstr  "Приготовьтесь к бою с кораблём повстанцев!"
 
+# REVIEW
 msgid   "You move in to intercept."
 msgstr  "Вы отправляетесь на перехват."
 
+# REVIEW
 msgid   "There's no time, get ready to jump."
 msgstr  "Нет времени, приготовтесь к прыжку."
 
+# REVIEW
 msgid   "You try to block out the horrors of war and focus on your mission."
 msgstr  "Вы пытаетесь не обращать внимания на ужасы войны и сосредоточиться "
         "на боевой задаче."
 
+# REVIEW
 msgid   "Shots fly by your port windows followed by a Rebel scout in pursuit "
         "of a damaged cruiser. Should we move in to engage?"
 msgstr  "Выстрелы пролетают возле ваших иллюминаторов, вслед за ними "
         "разведчик повстанцев, преследующий поврежденный крейсер. Должны ли "
         "мы вмешаться?"
 
+# REVIEW
 msgid   "There seems to be a small Federation colony under attack by a Rebel "
         "forward scout. Will you protect them?"
 msgstr  "Похоже что небольшая колония Федерации под огнем разведчика "
         "повстанцев. Вы отправитесь защитить их?"
 
+# REVIEW
 msgid   "A number of large transports are being pursued by a Rebel bombing "
         "squadron. One bomber has managed to slip through the defensive fire, "
         "and is poised to wreak havoc among the enormous yet vulnerable "
@@ -205,6 +238,7 @@ msgstr  "Несколько больших транспортных корабл
         "уязвимых транспортников. Еще есть время чтобы выдвинутся и "
         "уничтожить его."
 
+# REVIEW
 msgid   "A battle rages nearby between small fighters; apparently fighting "
         "over a space station. The Federation appears to be losing ships "
         "fast. Shall we assist them?"
@@ -212,23 +246,27 @@ msgstr  "Неподалеку бушует битва среди небольш�
         "борьба идет за космическую станцию. Похоже что Федерация быстро "
         "теряет корабли. Отправимся на помощь?"
 
+# REVIEW
 msgid   "A civilian ship is broadcasting a request for assistance on a secure "
         "Federation channel.  They are being harassed by Rebel scouts. Will "
         "you respond?"
 msgstr  "Гражданское судно передает запрос о помощи на защищенном канале "
         "Федерации. Их преследуют разведчики повстанцев. Вы ответите?"
 
+# REVIEW
 msgid   "The people you rescued were primarily refugees fleeing the conflict. "
         "They offer you their sincere gratitude."
 msgstr  "Люди, которых вы спасли - беженцы, бегущие из зоны конфликта. Они "
         "передают вам свою искреннюю благодарность."
 
+# REVIEW
 msgid   "You are hailed, \"Thank you!  It's not much but we can repair a bit "
         "of damage before you jump off into the war. Good luck!\""
 msgstr  "Вам приходит сообщение: \"Спасибо! Мы, увы, не сможем вас как "
         "следует отблагодарить - разве что малость подлатать перед следующим "
         "боем. Удачи вам!\""
 
+# REVIEW
 msgid   "The survivors send a message, \"Thanks for the support, I don't know "
         "how much longer we could have held on. Take some supplies, we "
         "probably won't need them at this point.\""
@@ -236,6 +274,7 @@ msgstr  "Выжившие присылают сообщение: \"Спасиб�
         "мы ещё продержимся. Возьмите наши припасы - нам они, скорее всего, "
         "уже не понадобятся\"."
 
+# REVIEW
 msgid   "You receive a message on encrypted Federation channels.  It says, "
         "\"Thanks for helping us, Captain. We're in the process of setting up "
         "another emergency repairs station. Transmitting coordinates now.\""
@@ -243,35 +282,42 @@ msgstr  "Вы получаете сообщение на зашифрованн�
         "сообщается: \"Спасибо за помощь, капитан. Мы подготавливаем другую "
         "экстренную станцию ремонта. Передаем координаты\"."
 
+# REVIEW
 msgid   "With the Rebel ship destroyed you are free to contact their would-be "
         "victim."
 msgstr  "Корабль повстанцев уничтожен, и теперь можно связаться с его "
         "несостоявшимися жертвами."
 
+# REVIEW
 msgid   "Contact the survivors."
 msgstr  "Связаться с выжившими."
 
+# REVIEW
 msgid   "With the Rebel ship defeated you quickly salvage what you can and "
         "move to contact their prey."
 msgstr  "Уничтожив корабль повстанцев, вы быстро собираете все трофеи, "
         "которые можно, и выходите на связь с его жертвой."
 
+# REVIEW
 msgid   "You arrive to see a number of Federation forward-carriers and "
         "dreadnoughts. This must be a system of high importance to warrant "
         "such a fleet."
 msgstr  "Вы прибываете, и видите ряд авианосцев и дредноутов Федерации. Эта "
         "система должно быть очень важна, раз здесь такой флот."
 
+# REVIEW
 msgid   "There are a few Federation fleets in the nearby area as well as a "
         "lot of wreckage. There must have been minor skirmishes in the area."
 msgstr  "Здесь несколько флотов Федерации, а также множество обломков. Должно "
         "быть, тут была небольшая перепалка."
 
+# REVIEW
 msgid   "A few scattered heavy vessels are left to defend the nearby "
         "Federation settlement. They seem to be in the process of evacuation."
 msgstr  "Несколько разных тяжелых кораблей были оставлены для защиты "
         "близлежащего поселения Федерации. Кажется, оно в процессе эвакуации."
 
+# REVIEW
 msgid   "A large host of Federation heavy vessels are in formation around the "
         "beacon. Sensors run hot with missile locks, but once you transmit "
         "your ship signature they leave you alone."
@@ -280,6 +326,7 @@ msgstr  "Крупное формирование тяжелых судов Фе�
         "систем ракетного огня. Но как только вы передаете идентификатор "
         "своего корабля, они оставляют вас в покое."
 
+# REVIEW
 msgid   "A battalion  of Federation fighters are fighting around a nearby "
         "moon with their carriers waiting in the distance. They must have "
         "encountered a Rebel scout squadron."
@@ -287,12 +334,14 @@ msgstr  "Батальон истребителей Федерации сража
         "корабли носители ждут на расстоянии. Должно быть им встретилась "
         "эскадрилья разведчиков повстанцев."
 
+# REVIEW
 msgid   "Sensors indicate evidence of a huge battle nearby, but the immediate "
         "vicinity seems quiet. You try to lay low and keep out of the "
         "fighting."
 msgstr  "Датчики указывают на огромное сражение неподалеку, но вблизи вас все "
         "тихо. Вы пытаетесь спрятаться, и держаться в стороне от битвы."
 
+# REVIEW
 msgid   "You arrive to find two fleets crashing against each other.  Sensors "
         "are tracking the extent of the carnage. You quietly wait for the FTL "
         "drive to charge, knowing that the only way you can help is by "
@@ -302,6 +351,7 @@ msgstr  "Вы прибываете, и обнаруживаете два фло�
         "перезарядки FTL привода, зная, что единственный способ, которым вы "
         "можете помочь, это закончить вашу миссию."
 
+# REVIEW
 msgid   "A battle rages in the distance. Sensors suggest the presence of many "
         "vulnerable escape pods, but you know you cannot stop to help. The "
         "mission is paramount."
@@ -309,23 +359,27 @@ msgstr  "Сражение бушует на большом расстоянии.
         "спасательных капсул, но вы не можете остановиться, чтобы помочь. "
         "Ваша миссия важнее."
 
+# REVIEW
 msgid   "A battle rages on in the distance. As much as you would like to help "
         "in the fight, you know the importance of your mission."
 msgstr  "Неподалеку бушует сражение. Как бы вам ни хотелось помочь в борьбе, "
         "вы помните о важности вашего задания."
 
+# REVIEW
 msgid   "You don't need advanced sensors to tell there is a battle going on. "
         "You look out of the window quietly, waiting to jump. There's no way "
         "you can help in this fight."
 msgstr  "Безо всяких сенсоров видно, что сражение в самом разгаре. Вы молча "
         "смотрите в окно, ожидая прыжка. Нет никакой возможности помочь своим."
 
+# REVIEW
 msgid   "Two fleets are volleying shots at each other. Luckily no one seems "
         "interested in your ship. You prepare to make another jump."
 msgstr  "Два флота залпами стреляют друг в друга. К счастью никто не "
         "заинтересован вашим кораблём. Вы готовитесь совершить ещё один "
         "прыжок."
 
+# REVIEW
 msgid   "You arrive in the middle of a raging battle. Both sides are taking "
         "heavy losses. A small squadron flies past and a fighter breaks off, "
         "moving toward your position."
@@ -333,6 +387,7 @@ msgstr  "Вы прибываете в центр бушующего сражен
         "потери. Мимо пролетает небольшая эскадрилья, истребитель покидает "
         "свою позицию и движется к вам."
 
+# REVIEW
 msgid   "Two fleets fight nearby. You try to skirt around the edges of the "
         "battle and keep out of weapons range, but a Rebel scout spots you "
         "and moves in."
@@ -340,18 +395,21 @@ msgstr  "Поблизости сражаются два флота. Вы пыт�
         "сражение и держаться вне зоны поражения орудий, но разведчик "
         "повстанцев замечает вас и движется в вашу сторону."
 
+# REVIEW
 msgid   "It's hard to tell who is winning the nearby battle. Before you have "
         "a chance to figure it out, a fighter moves in to attack."
 msgstr  "Трудно сказать, кто побеждает в сражении поблизости. Один из "
         "истребителей замечает вас и переходит в атаку до того, как у вас "
         "появился шанс это выяснить."
 
+# REVIEW
 msgid   "The sheer scale of the destruction in the distance is almost breath-"
         "taking. Unfortunately, your position as an independent observer "
         "doesn't last for long!"
 msgstr  "Масштабы разрушений вдалеке захватывают дух. К сожалению, ваша "
         "позиция стороннего наблюдателя длится недолго!"
 
+# REVIEW
 msgid   "The destruction in the distance is almost awe-inspiring. However "
         "you're dragged back to reality as sensors indicate you are under "
         "attack."
@@ -359,11 +417,13 @@ msgstr  "Чудовищные разрушения со всех сторон, �
         "повергают в трепет. В реальность вас возвращает пронзительный писк "
         "сенсоров, сообщающих о приближении противника."
 
+# REVIEW
 msgid   "You don't have any time to worry about the battle in the distance. "
         "The fight is coming to you really quickly!"
 msgstr  "У вас нет времени беспокоиться о сражении неподалеку. Тем более, что "
         "битва и сама приближается к вам очень быстро."
 
+# REVIEW
 msgid   "Although you were expecting the Rebels, you never imagined their "
         "fleet could have grown so fast. You scanners can hardly register "
         "them all before a fighter stationed nearby moves in to attack."
@@ -371,6 +431,7 @@ msgstr  "Вы ожидали повстанцев, но не думали что
         "быстро. Ваши сканеры с трудом успевают зарегистрировать их всех до "
         "того, как истребитель, находящийся неподалеку, переходит в атаку."
 
+# REVIEW
 msgid   "This system is flooded with Rebel warships. Luckily your ship's "
         "signature is disguised as a civilian transport. Most heavy vessels "
         "ignore you but a small fighter is approaching with weapons hot!"
@@ -379,6 +440,7 @@ msgstr  "Эта система заполнена военными корабл�
         "транспорта. Тяжелые суда игнорируют вас, но маленький истребитель "
         "приближается с разогретыми орудиями!"
 
+# REVIEW
 msgid   "You arrive to find a Rebel battalion encircling a nearby planet, "
         "launching landing parties. A small scout moves toward your position. "
         "Prepare for a fight!"
@@ -387,6 +449,7 @@ msgstr  "По прибытию вы оказываетесь лицом к ли�
         "группы. Небольшой разведчик направляется в вашу сторону. "
         "Приготовиться к сражению!"
 
+# REVIEW
 msgid   "As soon as you arrive you find yourself in the debris of a fierce "
         "battle. However, only Rebel warships remain and you find yourself "
         "immediately under attack."
@@ -394,12 +457,14 @@ msgstr  "По прибытии вы обнаруживаете огромное 
         "отчаянной битвы. На поле боя остались лишь корабли повстанцев, и они "
         "разворачиваются в вашу сторону. Готовьтесь отражать атаку."
 
+# REVIEW
 msgid   "Shots fly by and your computer registers multiple weapon locks as "
         "soon as you arrive. Evasive action!"
 msgstr  "Мимо вас летят выстрелы, бортовой компьютер регистрирует "
         "многочисленные орудия, нацеленные на ваш корабль. Манёвр уклонения, "
         "немедленно!"
 
+# REVIEW
 msgid   "What was once a great series of space stations is now nothing but a "
         "small ring of debris around the nearby moon. There's no time to "
         "mourn the dead; an enemy approaches!"
@@ -408,6 +473,7 @@ msgstr  "То, что когда-то было великолепной груп
         "поблизости. Это страшное зрелище, но сейчас не время оплакивать "
         "мёртвых, враг приближается!"
 
+# REVIEW
 msgid   "The Federation seems to have put up a good fight. A number of Rebel "
         "ships lie broken or wounded. However their overwhelming numbers "
         "force the remaining Federation forces to retreat. Hopefully you can "
@@ -417,11 +483,13 @@ msgstr  "Федерация, кажется, дала хороший бой по
         "вынуждают оставшиеся силы Федерации ускорить отступление. К счастью, "
         "вы также успеете уйти вовремя."
 
+# REVIEW
 msgid   "There's no time to salvage all of the wreck, the fleet is still "
         "nearby. Get ready to jump!"
 msgstr  "Нет времени обыскивать обломки, их флот всё ещё рядом. Готовьтесь к "
         "прыжку!"
 
+# REVIEW
 msgid   "There isn't time to salvage the enemy ship but your crew made off "
         "with a few nearby materials. Prepare to jump."
 msgstr  "Нет времени обыскивать вражеский корабль, но кое-что ваша команда "

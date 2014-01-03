@@ -1,8 +1,10 @@
+# REVIEW
 msgid   ""
 msgstr  "Project-Id-Version: ru\n"
         "Content-Type: text/plain; charset=UTF-8\n"
         "Content-Transfer-Encoding: 8bit\n"
 
+# REVIEW
 msgid   "You've entered a poorly charted area of space that's known to be "
         "home to the Mantis.  Ensure your hull plating is up to scratch and "
         "that you have enough fuel in the tank to make it through."
@@ -10,6 +12,7 @@ msgstr  "Вы входите в плохо исследованную зону �
         "домашний мир мантисов. Убедитесь, что ваша обшивка не боится "
         "царапин, и что у вас достаточно топлива, чтобы здесь пробраться."
 
+# REVIEW
 msgid   "Upon arriving at the beacon, you're hailed by a well-spoken Mantis, "
         "\"Hail, traveler.  These are dangerous times.  Perhaps you find "
         "yourself in need of our services?\"  He appears to be a trader."
@@ -17,6 +20,7 @@ msgstr  "По прибытии к маяку вас приветствует х�
         "\"3дравствуй, путник. Настали опасные времена. Может тебе нужны наши "
         "услуги?\" Кажется, он торговец."
 
+# REVIEW
 msgid   "Uncertain about what you'll discover at this beacon, you scan the "
         "surroundings.   You detect several warnings on wide-band channels "
         "discouraging any violence in protected trade-space.  Perhaps you can "
@@ -26,6 +30,7 @@ msgstr  "Неуверенные в том, что вы обнаружите у �
         "отбивающих всякое желание воевать в защищенной торговой зоне. Может "
         "удастся найти поблизости какие-нибудь товары?"
 
+# REVIEW
 msgid   "Merchants are not highly respected among the Mantis race, so few "
         "undertake the profession.  You're mildly surprised to receive an "
         "advertisement from a nearby space dock.  You decide to see what they "
@@ -35,6 +40,7 @@ msgstr  "Торговцев не слишком уважают среди рас
         "рекламу из ближайшего космического дока. Вы решаете взглянуть на то, "
         "что они предлагают."
 
+# REVIEW
 msgid   "Identifying a Mantis trading post ahead, you signal them so that "
         "your approach won't be taken as a threat. The leader hails you: "
         "\"You have scrap? Quickly, come dock before the warriors see you.\""
@@ -43,6 +49,7 @@ msgstr  "Увидев впереди торговый пост мантисов,
         "приветствует вас: \"У вас есть лом? Быстрее стыкуйтесь, пока войска "
         "вас не увидели\"."
 
+# REVIEW
 msgid   "A struggling Mantis cargo ship headed for the node raises what's "
         "left of shields as you jump in. You power up your weapons as a show "
         "of force, and they reluctantly agree to offload some of their cargo "
@@ -52,6 +59,7 @@ msgstr  "Грузовой корабль мантисов из последни�
         "щитов. Вы разогреваете орудия, чтобы показать свою мощь, и они с "
         "неохотой соглашаются отдать часть своего груза. 3а небольшую плату."
 
+# REVIEW
 msgid   "The rebels are already here! The crew braces for impact, but none "
         "comes. The sensors report the unmanned rebel supply ship is "
         "malfunctioning and is stuck in vending mode - for a little scrap you "
@@ -61,6 +69,7 @@ msgstr  "Повстанцы уже здесь! Экипаж готовится �
         "снабжения повстанцев сломался и застрял в торговом режиме. 3а "
         "небольшую плату вы можете что-нибудь выбрать."
 
+# REVIEW
 msgid   "At this point you almost expect a fight with the Mantis, but this "
         "beacon appears to be entirely devoid of other ships.   You take the "
         "time to catch your breath and double check the ship's systems."
@@ -68,12 +77,14 @@ msgstr  "В этой точке вы ожидали битвы с мантиса
         "полностью отсутствуют другие корабли. Не торопясь, вы переводите дух "
         "и ещё раз проверяете системы корабля."
 
+# REVIEW
 msgid   "The only thing this beacon offers is a view of deep space and a "
         "brief respite from battles. For some this must be a welcome refuge."
 msgstr  "Единственная вещь, которую может предложить этот маяк - вид на "
         "глубокий космос и небольшая передышка от битв. Для кого-то это было "
         "бы желанным убежищем."
 
+# REVIEW
 msgid   "A nearby Mantis mining operation is clearly using heavy Engi slave "
         "labor.  You briefly consider the possibility of emancipating the "
         "slaves, but the Mantis presence is too formidable.  You decide to "
@@ -83,6 +94,7 @@ msgstr  "Неподалеку мантисы проводят горную до�
         "освобождения рабов, но влияние мантисов здесь слишком велико. Вы "
         "решаете не рисковать."
 
+# REVIEW
 msgid   "There aren't so many parts of Mantis space that aren't dotted by the "
         "wrecks of battles past, but this is one of them. You take a deep "
         "breath and prepare to move on."
@@ -90,16 +102,19 @@ msgstr  "Не так уж много мест в пространстве ман
         "развалинами былых битв, но это место как раз одно из таких. Вы "
         "переводите дыхание и готовитесь двигаться дальше."
 
+# REVIEW
 msgid   "There's nothing here but space debris and some uninhabitable "
         "planetoids."
 msgstr  "3десь ничего нет, кроме космического мусора и необитаемых "
         "планетоидов."
 
+# REVIEW
 msgid   "You fancy you see something moving in the shadow of the beacon, but "
         "all remains still."
 msgstr  "Вам показалось, что видели какое-то движение в тени маяка, но все "
         "спокойно."
 
+# REVIEW
 msgid   "You come across an Engi wreck with one life-sign aboard; it turns "
         "out to be the sole survivor of the Mantis boarding party that wiped "
         "out the ship's crew. He's in no state to fight and he's brought "
@@ -110,24 +125,30 @@ msgstr  "Вы наталкиваетесь на развалившийся ко�
         "корабля. Он не в состоянии сопротивляться, и вы переносите его к "
         "себе на корабль."
 
+# REVIEW
 msgid   "Release him."
 msgstr  "Отпустить его."
 
+# REVIEW
 msgid   "Kill him."
 msgstr  "Убить его."
 
+# REVIEW
 msgid   "(Mantis Crew Member) Interrogate him."
 msgstr  "(Член экипажа мантис) Допросить его."
 
+# REVIEW
 msgid   "You help patch up the Engi ship and he takes off without another "
         "word."
 msgstr  "Вы помогаете залатать корабль инжи и он улетает без лишних слов."
 
+# REVIEW
 msgid   "He takes your mercy as a sign of weakness and rigged up a small "
         "timed explosive before making off in the Engi vessel."
 msgstr  "Он расценивает вашу жалость как признак слабости, и подкладывает "
         "маленькую часовую бомбу, прежде чем удрать на судно инжи."
 
+# REVIEW
 msgid   "The Mantis commando shows no fear as the airlock's inner doors are "
         "sealed and space prepares to take him. You press the switch and then "
         "he's gone, whisked out into the great black."
@@ -135,12 +156,14 @@ msgstr  "Мантис-десантник не выказывает никако�
         "двери шлюза закрываются и космос готовится принять его. Вы нажимаете "
         "на кнопку и он пропадает, растворяясь в великой пустоте."
 
+# REVIEW
 msgid   "You strip the Engi ship before preparing to deal with the Mantis.  "
         "However, the commando immediately realises your intentions and "
         "attacks!"
 msgstr  "Вы обыскиваете корабль инжи перед тем, как разобраться с мантисом. "
         "Однако, десантник уже догадался о ваших планах и атакует!"
 
+# REVIEW
 msgid   "It's not clear what occurs between the two Mantis behind the locked "
         "door, but when they emerge the commando is prepared to provide "
         "telemetry on the local sector.  He then leaves on the Engi ship.  "
@@ -150,6 +173,7 @@ msgstr  "Не очень понятно, о чём говорили за зак�
         "телеметрии этого сектора. 3агрузив информацию, он вернулся на "
         "корабль инжи. Ваша карта обновлена."
 
+# REVIEW
 msgid   "After a short time alone with the commando, you are told he wishes "
         "to join the crew. Although you are surprised at the commandos "
         "willingness to swap allegiances, you trust your crew members' "
@@ -159,6 +183,7 @@ msgstr  "Спустя некоторое время наедине с десан
         "желанием перейти на вашу сторону, но иногда следует довериться "
         "мнению экипажа."
 
+# REVIEW
 msgid   "This node is currently home to a Mantis leisure ship: a place of "
         "brothels and combat arenas for warriors to release steam. When they "
         "scan your inventory they indicate that you're eligible to engage in "
@@ -168,29 +193,36 @@ msgstr  "Этот узел на данный момент является до�
         "желающих выпустить пар. Просканировав ваше имущество они дали "
         "понять, что вам желательно поучаствовать в главной азартной игре."
 
+# REVIEW
 msgid   "You don't gamble with crooks.  Prepare to jump."
 msgstr  "Вы не играете в азартные игры с мошенниками. Приготовиться к прыжку."
 
+# REVIEW
 msgid   "Bet 50 scrap on the warrior with blue paint."
 msgstr  "Поставить 50 лома на воина в синих штанах."
 
+# REVIEW
 msgid   "You watch over the view-screen as two Mantis juveniles are pitched "
         "at one another in combat."
 msgstr  "Через экран вы наблюдаете, как двое молодых мантисов сходятся друг с "
         "другом в схватке."
 
+# REVIEW
 msgid   "Continue..."
 msgstr  "Продолжить..."
 
+# REVIEW
 msgid   "Bet 50 scrap on the warrior with red paint."
 msgstr  "Поставить 50 лома на воина в красных штанах."
 
+# REVIEW
 msgid   "The one in blue gets pressed into a corner, but he lashes out at the "
         "last moment, decapitating his opponent.  You claim your winnings!"
 msgstr  "Тот, что в синем, зажат в угол. И тут, в последний момент, он "
         "набрасывается и обезглавливает своего оппонента. Вы забираете свой "
         "выигрыш!"
 
+# REVIEW
 msgid   "The blue Mantis seems assure to win, scoring numerous hits on his "
         "enemy.  However the one in red ends the fight with a single key "
         "swipe."
@@ -198,17 +230,21 @@ msgstr  "Похоже что синий мантис уверенно побеж
         "своему противнику. Однако тот, что в красном, заканчивает бой одним "
         "сильным ударом."
 
+# REVIEW
 msgid   "Pay what you owe."
 msgstr  "3аплатить то, что вы должны."
 
+# REVIEW
 msgid   "You transfer over the scrap that you bet and quit while you still "
         "have a ship to sail off in."
 msgstr  "Вы передаете лом, который поставили, и уходите, пока у вас ещё есть "
         "корабль, чтобы отчалить."
 
+# REVIEW
 msgid   "(Adv. Engines) Dodge the debt and power up the engines."
 msgstr  "(Улучшенные двигатели) Уклониться от уплаты и завести двигатели."
 
+# REVIEW
 msgid   "You are able to get out of firing range of the cruiser before they "
         "can react.  However a smaller ship breaks off from a patrol and "
         "moves in to engage."
@@ -216,6 +252,7 @@ msgstr  "Вам удалось уйти из сектора обстрела к�
         "среагировали. Однако меньший корабль отделяется от патруля и "
         "движется к вам, чтобы атаковать."
 
+# REVIEW
 msgid   "The blue Mantis seems assure to win, scoring numerous hits on his "
         "enemy.  However the one in red ends the fight with a single key "
         "swipe.   You claim your winnings!"
@@ -223,12 +260,14 @@ msgstr  "Похоже что синий мантис уверенно побеж
         "своему противнику. Однако тот, что в красном, заканчивает бой одним "
         "сильным ударом. Вы забираете свой выигрыш!"
 
+# REVIEW
 msgid   "The one in blue gets pressed into a corner, but he lashes out at the "
         "last moment, decapitating his opponent."
 msgstr  "Тот, что в синем, зажат в угол. И тут, в последний момент, он "
         "набрасывается и обезглавливает своего оппонента. Вы забираете свой "
         "выигрыш!"
 
+# REVIEW
 msgid   "You recall the scrap you prepared to send and are able to get out of "
         "the cruiser's firing range before they can react.  However a smaller "
         "ship breaks off from a patrol and moves in to engage."
@@ -237,11 +276,13 @@ msgstr  "Вы прячете обратно лом, который пригот�
         "меньший корабль отделяется от патруля и движется к вам, чтобы "
         "атаковать."
 
+# REVIEW
 msgid   "A Mantis military ship appears on local radar alongside the remains "
         "of a human freighter.  Prepare for a hostile encounter!"
 msgstr  "На местном радаре появляется корабль мантисов рядом с остатками "
         "грузоперевозчика людей. Готовьтесь к стычке с врагами!"
 
+# REVIEW
 msgid   "A Mantis military scout hails your ship.  \"Foolish alien!  Your "
         "kind has stifled our greatness for too long!  You will rue the day "
         "you backed the Federation!\""
@@ -249,6 +290,7 @@ msgstr  "Военный разведчик мантисов связываетс
         "пришельцы! Слишком долго ваш вид сдерживал нашу мощь! Вы проклянете "
         "тот день, когда поддержали Федерацию!\""
 
+# REVIEW
 msgid   "A small Mantis cruiser is broadcasting a repeating message on a wide-"
         "band frequency, \"All non-Mantis ships that enter our territory are "
         "forfeit.  Lower your shields and surrender if you value your lives.\""
@@ -257,6 +299,7 @@ msgstr  "Маленький крейсер мантисов вещает зац�
         "нашу территорию, конфискуются. Опустите ваши щиты и сдавайтесь, если "
         "цените свои жизни\"."
 
+# REVIEW
 msgid   "You detect a small military outpost and a few freighters nearby.  "
         "This mineral rich planet in an isolated location would be perfect "
         "for an illegal Mantis mining operation.  As you consider your "
@@ -267,6 +310,7 @@ msgstr  "Вы обнаруживаете маленький военной ав�
         "работ мантисов. Пока вы обдумываете варианты, к вам с аванпоста "
         "отправляется корабль. Готовьтесь к бою."
 
+# REVIEW
 msgid   "You discover yet another unlicensed and uncharted Mantis colony.  "
         "They certainly waste no time expanding their claims.  A Mantis ship "
         "moves to intercept you before you can jump away."
@@ -275,6 +319,7 @@ msgstr  "Вы обнаруживаете ещё одну незарегистр�
         "владения. Корабль мантисов движется перехватить вас, прежде чем вы "
         "совершите прыжок отсюда."
 
+# REVIEW
 msgid   "A Mantis military scout seems to have just finished a salvage op on "
         "a nearby wreck.  They have no time to waste with warnings and appear "
         "to wish to fight."
@@ -282,6 +327,7 @@ msgstr  "Военный разведчик мантисов, похоже, то�
         "остатков кораблекрушения поблизости. Не тратя времени на "
         "предупреждения, они проявляют желание сразиться."
 
+# REVIEW
 msgid   "A small military craft hails you and a Mantis captain appears on "
         "your receiver.  \"All local human colonies have been punished for "
         "the Federation's transgressions.  Submit to processing.\""
@@ -289,11 +335,13 @@ msgstr  "Маленькое военное судно выходит с вами
         "появляется на приемнике: \"Все местные колонии людей были наказаны "
         "за преступления Федерации. Сдавайтесь\"."
 
+# REVIEW
 msgid   "A nearby Mantis ship begins aggressive maneuvers.   You prepare for "
         "the worst."
 msgstr  "Ближайший корабль мантисов начинает агрессивные маневры. Вы "
         "готовитесь к худшему."
 
+# REVIEW
 msgid   "A stream of clicks and gurgling comes on the comm from a hostile "
         "Mantis scout.  The universal translator might be on the blink, but "
         "his intent is obvious."
@@ -301,32 +349,39 @@ msgstr  "Поток щелчков и урчаний доносится из п�
         "разведчика мантисов. Универсальный переводчик наверное сбоит, но его "
         "намерения очевидны."
 
+# REVIEW
 msgid   "The Mantis ship is pleased to see you, and fires up its weapon "
         "systems."
 msgstr  "Корабль мантисов рад вас видеть, и разогревает свои орудия."
 
+# REVIEW
 msgid   "You recognize the outline of a Mantis ship against the blackness. "
         "Engage!"
 msgstr  "Вы узнаете очертания корабля мантисов на фоне черноты. К бою!"
 
+# REVIEW
 msgid   "Something red looms. It's the Mantis."
 msgstr  "Маячит что-то красное. Это мантис."
 
+# REVIEW
 msgid   "A Mantis vessel hails you. \"This hail is merely a distraction!\" "
         "You notice their shields and weapons have come online."
 msgstr  "Судно мантисов выходит на связь: \"Это послание всего лишь должно "
         "отвлечь вас!\" Вы замечаете, что их щиты и орудия включились."
 
+# REVIEW
 msgid   "You notice a flurry of laser fire glance by the port window. The "
         "Mantis are upon you."
 msgstr  "Вы замечаете сполохи шквального лазерного огня в иллюминаторе. "
         "Мантисы прямо над вами."
 
+# REVIEW
 msgid   "The Mantis hail you. Their captain says, \"I claim this vessel for "
         "my clan. Good hunting!\""
 msgstr  "Мантисы выходят на связь. Их капитан говорит: \"Я присвою это судно "
         "для моего клана. Хорошей охоты, братья!\""
 
+# REVIEW
 msgid   "A Mantis female comes on the vidscreen.  The females don't make it "
         "to authority unless they're particularly vicious.  You power the "
         "weapons."
@@ -334,11 +389,13 @@ msgstr  "На экране возникает женская особь мант
         "пользуются авторитетом только если они особо жестоки. Вы "
         "разогреваете орудия."
 
+# REVIEW
 msgid   "A Mantis ship with the markings of a warrior tribe breaks position "
         "and attacks!"
 msgstr  "Корабль мантисов с опознавательными знаками воина срывается с места "
         "и атакует!"
 
+# REVIEW
 msgid   "A Mantis ship hails: \"Ah! Fine prey. Fine prey! We honour you with "
         "our most eviscerating arsenal!\" You sense a cloud to this silver "
         "lining and power the weapons."
@@ -346,6 +403,7 @@ msgstr  "Корабль мантисов сообщает: \"Ах, какая д
         "уважить вас нашим самым разрушительным оружием!\" Вы чувствуете, что "
         "дело запахло керосином, и включаете орудия."
 
+# REVIEW
 msgid   "Children on Earth are told terrible tales of the blood red Mantis "
         "invasion ships - much like the one bearing down on you now - which "
         "once threatened the planet. You order weapons free!"
@@ -354,6 +412,7 @@ msgstr  "Детям на 3емле рассказывают ужасные ис�
         "дело), которые однажды угрожали планете. Вы приказываете открыть "
         "огонь!"
 
+# REVIEW
 msgid   "A youthful-looking Mantis captain hails. \"You, prey, must know. "
         "Your death, Kaaazthwak's final kill before maturity. Kaaazthwak pay "
         "respects.\" Seems respects in Mantis culture are paid with lasers."
@@ -362,23 +421,29 @@ msgstr  "Молодо выглядящий капитан мантисов пр�
         "совершеннолетием. Кааазтвак отдаёт дань уважения\". Похоже что "
         "уважение в культуре мантисов выказывают лазерами."
 
+# REVIEW
 msgid   "Attack the ship."
 msgstr  "Атаковать судно."
 
+# REVIEW
 msgid   "Attempt to remain concealed."
 msgstr  "Попытаться остаться незамеченным."
 
+# REVIEW
 msgid   "(Cloaking) Cloak to stay hidden."
 msgstr  "(Маскировка) Активировать маскировку, чтобы оставаться незамеченными."
 
+# REVIEW
 msgid   "You're greeted by a rare sight: a Mantis ship that appears not to "
         "have noticed you."
 msgstr  "Вам довелось стать свидетелем редкого стечения обстоятельств: "
         "корабль мантисов, который вас не заметил."
 
+# REVIEW
 msgid   "For once, you see the Mantis before they see you."
 msgstr  "На этот раз удалось заметить мантисов прежде, чем они увидели вас."
 
+# REVIEW
 msgid   "When they see the Mantis warship waiting in ambush at your intended "
         "coordinates, your crew is relieved to note you've jumped someway off "
         "the mark."
@@ -386,12 +451,14 @@ msgstr  "Ваш экипаж, увидев боевой корабль мант�
         "вами координатам, облегченно вздыхает, так как вы каким-то образом "
         "вышли из прыжка не у маяка."
 
+# REVIEW
 msgid   "You overhear Mantis comm chatter: \"Negative, I have killed more "
         "humans!\" You gulp noticeably, but luckily they don't see you yet."
 msgstr  "Вы подслушиваете разговор мантисов по передатчику: \"Неправда, я "
         "убил больше человеков!\" Вы шумно сглатываете, но к счастью они вас "
         "пока не видят."
 
+# REVIEW
 msgid   "You overhear Mantis comm chatter: \"The one on the right is starting "
         "to rot. Take him down. Take off his fingers. Put him out of the "
         "airlock.\"  They certainly don't seem to be friendly..."
@@ -399,11 +466,13 @@ msgstr  "Вы подслушиваете разговор мантисов по 
         "справа, уже начал гнить. Отнеси его вниз. Отрежь ему пальцы. Выкинь "
         "его в шлюз\". Они определенно не кажутся дружелюбными..."
 
+# REVIEW
 msgid   "You overhear Mantis comm chatter: \"Agreed. Next ship is your turn. "
         "Good hunting.\" They don't see you yet."
 msgstr  "Вы подслушиваете разговор мантисов по передатчику: \"Договорились. "
         "Следующий корабль - твой. Хорошей охоты\". Они пока вас не видят."
 
+# REVIEW
 msgid   "You power down non-essential systems and wait for the FTL drive to "
         "charge.  They either don't want to fight or have failed to notice "
         "your ship, the later being more likely."
@@ -411,11 +480,13 @@ msgstr  "Вы отключаете несущественные системы �
         "зарядится. Они или не хотят ввязываться в бой, или не заметили ваш "
         "корабль, что куда больше похоже на правду."
 
+# REVIEW
 msgid   "Before you have a chance to slink away the Mantis ship notices you "
         "and powers up their weapons."
 msgstr  "Прежде чем вам удается ускользнуть, корабль мантисов засекает вас и "
         "включает орудия."
 
+# REVIEW
 msgid   "You power down non-essential systems in an attempt to remain "
         "unnoticed.  It looks like they are about to leave when suddenly they "
         "turn and set course toward you, weapons powered."
@@ -423,97 +494,118 @@ msgstr  "Вы выключаете несущественные системы �
         "незамеченным. Похоже что они собираются улететь, но внезапно они "
         "разворачиваются и летят к вам с заряженными орудиями."
 
+# REVIEW
 msgid   "You quickly cloak the ship and move out of immediate scanning "
         "range.  You appear to have gotten away undetected."
 msgstr  "Вы быстро маскируете корабль и уходите из непосредственного радиуса "
         "сканирования. Похоже вам удалось уйти незаметно."
 
+# REVIEW
 msgid   "You cloak and shut down non-essential systems.  In a short time the "
         "Mantis ship jumps away, no doubt in search of prey."
 msgstr  "Вы маскируетесь и отключаете несущественные системы. Спустя пару "
         "мгновений корабль мантисов совершает прыжок, без сомнения в поисках "
         "очередной жертвы."
 
+# REVIEW
 msgid   "You quickly cloak the ship, but not quickly enough.  They spot you "
         "and move in to engage."
 msgstr  "Вы быстро маскируете корабль, но недостаточно быстро. Они засекают "
         "вас и движутся в вашу сторону в атаку."
 
+# REVIEW
 msgid   "Aid the civilian ship."
 msgstr  "Помочь гражданскому кораблю."
 
+# REVIEW
 msgid   "You frown, power up the weapons and prepare to engage the Mantis "
         "ship. Not today."
 msgstr  "Нахмурившись, вы заряжаете орудия и готовитесь к бою с кораблём "
         "мантисов. Только не сегодня."
 
+# REVIEW
 msgid   "Stay out of it."
 msgstr  "Держаться подальше."
 
+# REVIEW
 msgid   "A Mantis vessel flashes past your view-screen, weapons and engines "
         "at full. A tiny blip on the sensor readout marks its quarry."
 msgstr  "Судно мантисов проносится через ваше обзорное окно, с полностью "
         "заряженными орудиями и двигателями. Крошечная точка на сенсоре "
         "отмечает их жертву."
 
+# REVIEW
 msgid   "You spot a Mantis ship hunting in the distance."
 msgstr  "Вы заметили корабль мантисов, занятый охотой на большом расстоянии "
         "от вас."
 
+# REVIEW
 msgid   "A Mantis ship engaging a civilian hails you. Sparks fly about his "
         "cockpit as he yells, \"Stay out of this human! Else you are next!\""
 msgstr  "Корабль мантисов, атакующий гражданского, пытается выйти с вами на "
         "связь. Вокруг его кабины летают искры, и он кричит: \"Не вмешивайся, "
         "человек! Или ты следующий!\""
 
+# REVIEW
 msgid   "Local sensors pick up two ships engaged in a heated battle. It seems "
         "the Mantis military ship will surely defeat its prey."
 msgstr  "Сенсоры ближнего радиуса действия улавливают пару кораблей, "
         "сражающихся друг с другом. Похоже, военный корабль мантисов легко "
         "одолеет свою жертву."
 
+# REVIEW
 msgid   "You pick up a distress call from a civilian ship. It's being chased "
         "by a Mantis ship!"
 msgstr  "Вы ловите аварийный вызов гражданского корабля. Его преследует "
         "корабль мантисов!"
 
+# REVIEW
 msgid   "Smoking, the civilian ship limps on. You set your sights on the "
         "future."
 msgstr  "Дымясь, гражданский корабль кое-как движется дальше. Вы стараетесь "
         "не думать о его судьбе и сконцентрироваться на будущем."
 
+# REVIEW
 msgid   "The noise of the FTL spinning up almost drowns out the explosions. "
         "Almost."
 msgstr  "Шум раскручивающегося FTL почти тонет в звуках взрывов. Почти."
 
+# REVIEW
 msgid   "You let them pass and try not to think about it."
 msgstr  "Вы даёте им уйти и стараетесь не думать об этом."
 
+# REVIEW
 msgid   "You detect and retrieve an escape pod floating nearby. You consider "
         "returning it to space when you learn it's Mantis."
 msgstr  "Вы обнаруживаете и вылавливаете спасательную капсулу, плавающую "
         "поблизости. Вы уже думали выкинуть её обратно в космос, как "
         "замечаете она принадлежит мантисам."
 
+# REVIEW
 msgid   "Jettison the pod."
 msgstr  "Выкинуть капсулу."
 
+# REVIEW
 msgid   "You send the pod back out the airlock. You're not stupid."
 msgstr  "Вы запускаете капсулу обратно в космос. Вы же не идиот."
 
+# REVIEW
 msgid   "Pry it open."
 msgstr  "Полюбопытствовать, открыв."
 
+# REVIEW
 msgid   "The Mantis inside is FURIOUS. He cuts the closest person in half "
         "with a single swipe.  Kill it before anyone else is hurt."
 msgstr  "Мантис внутри в ЯРОСТИ. Одним мощным ударом он разрубает пополам "
         "ближайшего к нему члена экипажа. Придётся убить его, пока кто-нибудь "
         "ещё не пострадал."
 
+# REVIEW
 msgid   "The Mantis inside considers you a messenger from the god of mercy "
         "and demands to join your crew."
 msgstr  "Мантис внутри считает вас посланником божьим и просится в ваш экипаж."
 
+# REVIEW
 msgid   "A man bursts out of the life-pod screaming and claws his way into a "
         "corner. A rare survivor of Mantis captivity.  Once calm, the "
         "survivor offers to join your crew for a time."
@@ -521,11 +613,13 @@ msgstr  "Из капсулы выскакивает орущий незнако�
         "увидишь выжившего после захвата мантисов. Успокоившись, выживший "
         "предлагает на время присоединиться к вашему экипажу."
 
+# REVIEW
 msgid   "Who knows why the Mantis would venture so close to a sun. Perhaps it "
         "makes for more of a challenge?"
 msgstr  "Кто знает, зачем мантис рискует, оказавшись так близко к солнцу. "
         "Может он ищет более трудных испытаний?"
 
+# REVIEW
 msgid   "A derelict and still smoking Mantis vessel floats by. The battle "
         "must have been recent; its surviving crew beam aboard.  Prepare for "
         "a fight!"
@@ -533,16 +627,19 @@ msgstr  "Недавно брошенный и до сих пор дымящий�
         "мимо. Похоже битва прошла совсем недавно; выживший экипаж "
         "телепортируется к вам на борт. Готовьтесь к бою!"
 
+# REVIEW
 msgid   "Your world, all of a sudden, changes. The Mantis are on board your "
         "ship."
 msgstr  "Внезапно, спокойное течение вашей жизни меняется. На борту корабля "
         "высадились мантисы."
 
+# REVIEW
 msgid   "You hear a grating rattle and a soft clicking. You reach for your "
         "pistol."
 msgstr  "Вы слышите скрежетание и мягкое пощёлкивание. Вы тянетесь к "
         "пистолету."
 
+# REVIEW
 msgid   "You cross paths with a Mantis ship that looks to have had dozens of "
         "layers of armor-plating added over what must have been a hundred "
         "year career. Its captain is legendary thief KazaaakplethKilik. Your "
@@ -551,9 +648,11 @@ msgstr  "Вы пересекаетесь с кораблём мантисов, �
         "слоев брони, нашитых наверное после сотни лет работы. Его капитан - "
         "легендарный вор КазааакплетКилик. Ваш экипаж выглядит испуганным."
 
+# REVIEW
 msgid   "(Mantis crew member) Attempt to hail him."
 msgstr  "(Член экипажа мантис) Попытаться приветствовать его."
 
+# REVIEW
 msgid   "Your Mantis crew-member steps forward. He and KazaaakplethKilik "
         "perform a weird kind of alien haka. You, meanwhile, charge the "
         "battle systems."
@@ -561,32 +660,40 @@ msgstr  "Ваш мантис выходит вперед. Он и Казааак
         "типа странного инопланетного обряда. Тем временем вы заряжаете "
         "боевые системы."
 
+# REVIEW
 msgid   "Prepare to fight"
 msgstr  "Приготовиться к сражению"
 
+# REVIEW
 msgid   "No more life signs are detected aboard their ship.  You appear to "
         "have won."
 msgstr  "На борту их корабля больше не обнаружено признаков жизни. Похоже вы "
         "победили."
 
+# REVIEW
 msgid   "Move in to strip their ship."
 msgstr  "Двинуться внутрь, чтобы обчистить их корабль."
 
+# REVIEW
 msgid   "It seems almost a waste for such a fierce foe to die in such an "
         "anticlimactic fashion.  You shrug it off and take what you can."
 msgstr  "Какая, должно быть, трагедия для такого жестокого врага - погибнуть "
         "так бесславно. Вы приходите в себя и забираете все, что можете."
 
+# REVIEW
 msgid   "(Teleporter) Quickly teleport additional crew and check for "
         "survivors."
 msgstr  "(Телепортер) Быстро телепортировать экипаж и поискать выживших."
 
+# REVIEW
 msgid   "You find KazaaakplethKilik slumped in a corner dying."
 msgstr  "Вы находите умирающего КазааакплетКилика, завалившегося в углу."
 
+# REVIEW
 msgid   "Put him out of his misery."
 msgstr  "Без жалости прикончить его."
 
+# REVIEW
 msgid   "Thus ends the life of the famed captain, KazaaakplethKilik...  You "
         "wonder what secrets went with him to the grave as you thoroughly "
         "loot his ship."
@@ -594,9 +701,11 @@ msgstr  "Так заканчивается жизнь прославленног
         "Вы гадаете какие секреты он унесёт с собой в могилу, пока тщательно "
         "грабите его корабль."
 
+# REVIEW
 msgid   "Listen to what he has to say."
 msgstr  "Послушать, что он скажет."
 
+# REVIEW
 msgid   "In his dying moments he gives up the location of his secret stash.  "
         "You strip the ship wondering what other secrets went with him to the "
         "grave."
@@ -604,9 +713,11 @@ msgstr  "В предсмертный момент он указывает вам
         "секретной заначки. Вы обчищаете корабль, гадая какие ещё секреты он "
         "унёс с собой в могилу."
 
+# REVIEW
 msgid   "(Adv. Medbay) Quickly teleport him back to the medbay."
 msgstr  "(Улучшенный мед-отсек) Быстрее телепортировать его в мед-отсек."
 
+# REVIEW
 msgid   "Your haste has paid off and you are able to bring him back from the "
         "brink of death.  When his senses return he says, \"I never thought I "
         "would see this day, but... I am willing to devote myself and my "
@@ -616,9 +727,11 @@ msgstr  "Ваша спешка окупилась и вы смогли верн�
         "увижу этот день, но... Я хочу посвятить себя и свои корабли служению "
         "вам\"."
 
+# REVIEW
 msgid   "Accept."
 msgstr  "Принять."
 
+# REVIEW
 msgid   "KazaaakplethKilik joins your crew, offers the coordinates for a "
         "nearby stash of stolen military goods and transmits the coordinates "
         "for a custom cruiser he has been working on.  You forward it to the "
@@ -628,6 +741,7 @@ msgstr  "КазааакплетКилик присоединяется к ваш
         "координаты особого крейсера, над которым он работал. Вы "
         "переправляете их Федерации, они точно найдут ему хорошее применение."
 
+# REVIEW
 msgid   "You arrive at small asteroid field and discover the hidden cache "
         "among the debris.  You input the codes given to you by "
         "KazaaakplethKilik and find a weapon inside."
