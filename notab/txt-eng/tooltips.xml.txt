@@ -1,0 +1,26 @@
+Oxygen: Replenishes the ship's oxygen supply.
+Doors: Allows for remote opening/closing of doors.
+Shields: Sustains damage-reducing shields. Manning increases shield recharge speed.
+Piloting: Requires a crew member to evade in combat or jump.
+Engines: Charges the FTL drive and powers evasion. Manning increases dodge chance.
+Sensors: Enables view of all rooms and info for enemy ships.
+Medbay: Heals crewmembers inside the Medbay
+Weapons: Click on a weapon to charge and fire. Manning reduces charge time.
+Drones: Automated robots for attack and defense.
+Teleporter: Send crewmembers in the teleporter room to board enemy ships.
+Cloaking: Temporarily hide from enemies.
+Artillery: Beam that automatically fires a 1 damage beam that pierces all shields.
+Reactor: Unused reactor energy available to power your systems.
+Current hull integrity. If it drops to zero, the ship is destroyed.
+Number of Drone Parts.  Using a Drone consumes one Drone Part.
+Amount of fuel. Each jump consumes one fuel.
+Number of missiles.  Some weapons consume one Missile when fired.
+Current scrap total
+Opens star map to choose jump location.
+Current shield status.
+Percent chance to dodge incoming fire.
+Ship's current oxygen.
+You're in an asteroid field. Periodically asteroids will strike your ship.
+You're too close to a star. Solar flares will light the ship on fire.  Shields will reduce the effect.
+You're inside of a nebula. Your sensors will not function, but the rebel fleet will advance more slowly towards you.
+This section of the nebula is experiencing a plasma storm. Your main reactor can only function at half capacity.
