@@ -1,0 +1,8 @@
+#!/usr/bin/perl
+use warnings;
+use strict;
+
+while(<>)
+{
+  print $2, "\n" if m(^\s*<(\w+)>(.*)</\1>\s*$);
+}
