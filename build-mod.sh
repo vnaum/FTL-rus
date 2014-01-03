@@ -18,6 +18,14 @@ do
   ./apply-po $POFILE < $f > build-tmp/data/$BN
 done
 
+for f in orig-xml/achievements.xml orig-xml/tooltips.xml
+do
+  BN=`basename $f`
+  POFILE="po/$BN.po"
+  echo "translating $f + $POFILE -> build-tmp/data/$BN"
+  ./apply-po-anytag $POFILE < $f > build-tmp/data/$BN
+done
+
 TESTGAMEDIR=$HOME/games/FTL_rus_test
 
 cd build-tmp
