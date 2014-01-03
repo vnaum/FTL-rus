@@ -64,9 +64,9 @@ msgid   "The rebels are already here! The crew braces for impact, but none "
         "comes. The sensors report the unmanned rebel supply ship is "
         "malfunctioning and is stuck in vending mode - for a little scrap you "
         "can take your pick."
-msgstr  "Повстанцы уже здесь! Экипаж готовится к стычке, но никто не "
+msgstr  "Мятежники уже здесь! Экипаж готовится к стычке, но никто не "
         "наступает. Сенсоры докладывают о том, что беспилотный корабль "
-        "снабжения повстанцев сломался и застрял в торговом режиме. 3а "
+        "снабжения мятежников сломался и застрял в торговом режиме. 3а "
         "небольшую плату вы можете что-нибудь выбрать."
 
 # REVIEW

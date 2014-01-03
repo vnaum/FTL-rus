@@ -155,7 +155,7 @@ msgid   "As you arrive at the beacon, a hostile ship immediately registers on "
         "your scanners. You didn't expect to see rebels extending their reach "
         "into Slug territory. Charge the weapons!"
 msgstr  "Как только вы прибываете к маяку, ваши сканеры регистрируют "
-        "вражеский корабль. Вы не ожидали, что повстанцы заберутся на "
+        "вражеский корабль. Вы не ожидали, что мятежники заберутся на "
         "территорию слагов. 3аряжайте орудия!"
 
 # REVIEW
@@ -164,7 +164,7 @@ msgid   "You jump into empty space and are relieved to see your sensors blink "
         "register a rebel ship on an approach vector!"
 msgstr  "Вы выныриваете из прыжка в открытом космосе и с облегчением видите, "
         "как ваши сенсоры возвращаются к жизни. Но то, что они регистрируют "
-        "корабль повстанцев по направлению движения, вас не очень радует."
+        "корабль мятежников по направлению движения, вас не очень радует."
 
 # REVIEW
 msgid   "You receive a message from a nearby ship, \"Looks like our "

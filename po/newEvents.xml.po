@@ -203,7 +203,7 @@ msgid   "TIP: Nebulas -  Passing through a Nebula will allow you to "
         "temporarily slow down the fleet advancement but they contain their "
         "own unique dangers."
 msgstr  "СОВЕТ: Туманности - Попадание в туманность временно замедлит "
-        "продвижение флота повстанцев, но в них есть и свои собственные "
+        "продвижение флота мятежников, но в них есть и свои собственные "
         "уникальные опасности."
 
 # REVIEW
@@ -251,7 +251,7 @@ msgstr  "СОВЕТ: Шрифт - Нажимая кнопки \"+\" и \"-\", в
 msgid   "TIP: Rebel Fleet - The rebel fleet (represented by the red circle on "
         "the map) moves closer to your position every time you jump. Certain "
         "events can slow or speed up their movement speed."
-msgstr  "СОВЕТ: Флот повстанцев - Флот повстанцев (представлен на карте в "
+msgstr  "СОВЕТ: Флот мятежников - Флот мятежников (представлен на карте в "
         "виде красных кругов) продвигается ближе к вашей позиции каждый раз "
         "когда вы совершаете прыжок. Некоторые события могут замедлить или "
         "ускорить их передвижение."

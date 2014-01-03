@@ -290,7 +290,7 @@ msgstr  "Пиратский корабль прекратил преследов
 msgid   "Upon closer inspection, you realize the ship under attack was a "
         "Rebel scout! It's too damaged to put up much of a fight."
 msgstr  "Внимательнее присмотревшись к атакованному кораблю, вы понимаете, "
-        "что это разведчик повстанцев! Он сильно потрёпан и не способен "
+        "что это разведчик мятежников! Он сильно потрёпан и не способен "
         "оказать существенное сопротивление."
 
 # REVIEW
@@ -325,7 +325,7 @@ msgid   "\"Thank you for the aid! I'm an arms dealer that usually only works "
         "with rebels, but considering the circumstances I'll make an "
         "exception.\""
 msgstr  "\"Спасибо за помощь! Я - торговец оружием, обычно я работаю только с "
-        "повстанцами, но, учитывая обстоятельства, сделаю исключение\"."
+        "мятежниками, но, учитывая обстоятельства, сделаю исключение\"."
 
 # REVIEW
 msgid   "\"Thank the heavens you showed up! We don't have much to offer as a "

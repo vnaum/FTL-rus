@@ -102,7 +102,7 @@ msgstr "Вы находитесь близко к звезде. Вспышки �
 
 # REVIEW
 msgid "You're inside of a nebula. Your sensors will not function, but the rebel fleet will advance more slowly towards you."
-msgstr "Вы находитесь внутри туманности. Туманность блокирует работу сенсоров, но также замедляет продвижение флота повстанцев."
+msgstr "Вы находитесь внутри туманности. Туманность блокирует работу сенсоров, но также замедляет продвижение флота мятежников."
 
 # REVIEW
 msgid "This section of the nebula is experiencing a plasma storm. Your main reactor can only function at half capacity."
