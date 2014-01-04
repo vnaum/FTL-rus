@@ -181,142 +181,108 @@ msgstr "Добраться на стелс-крейсере до сектора 
 msgid "Robotic Warfare"
 msgstr "Война роботов"
 
-# REVIEW
 msgid "With the Engi Cruiser, have 3 drones functioning at the same time."
-msgstr "3апустить с крейсера энжи трёх дронов одновременно."
+msgstr "На крейсере энжи включить трёх дронов одновременно."
 
-# REVIEW
 msgid "I hardly lifted a finger"
 msgstr "Да я и пальцем не пошевелил!"
 
-# REVIEW
 msgid "With the Engi Cruiser, destroy an enemy ship using only drones (no weapons)."
 msgstr "Пилотируя крейсер энжи, уничтожить противника, используя только дронов (без применения оружия)."
 
-# REVIEW
 msgid "The guns... They've stopped"
 msgstr "Пушки... пушки замолчали..."
 
-# REVIEW
 msgid "Have 4 enemy systems or subsystems ioned at the same time while using the Engi Cruiser."
 msgstr "Ионизировать одновременно четыре вражеские подсистемы, пилотируя крейсер энжи."
 
-# REVIEW
 msgid "Is it warm in here?"
 msgstr "Разве здесь жарко?"
 
-# REVIEW
 msgid "Have your crew kill a burning enemy on their ship while using the Rock Cruiser."
 msgstr "Пилотируя крейсер роков, убить горящего противника на его корабле."
 
-# REVIEW
 msgid "Defense Drones Don't Do D'anything!"
 msgstr "3ащитные дроны бесполезны!"
 
-# REVIEW
 msgid "While using the Rock Cruiser, destroy an enemy ship which has a defense drone deployed using only missiles."
 msgstr "Пилотируя крейсер роков, уничтожить вражеский корабль с защитным дроном, используя только ракеты."
 
-# REVIEW
 msgid "Ancestry"
 msgstr "Происхождение"
 
-# REVIEW
 msgid "Find the secret sector with the Rock Cruiser"
 msgstr "Найти секретный сектор, пилотируя крейсер роков."
 
-# REVIEW
 msgid "Take no prisoners!"
 msgstr "Пленных не брать!"
 
-# REVIEW
 msgid "Kill the crew of 20 ships by sector 6 in the Mantis Cruiser."
-msgstr "Пилотруя крейсер мантисов, уничтожить экипажи не менее чем двадцати кораблей к моменту прибытия в сектор б."
+msgstr "Пилотируя крейсер мантисов, уничтожить экипажи не менее чем двадцати кораблей до прибытия в сектор 6."
 
-# REVIEW
 msgid "Avast, ye scurvy dogs!"
 msgstr "На абордаж, трюмные крысы!"
 
-# REVIEW
 msgid "Kill 5 enemy crew in a fight without taking hull damage or losing a crew member while using the Mantis Cruiser."
 msgstr "Пилотируя крейсер мантисов, убить 5 членов экипажа противника, не потеряв ни одного своего и не получив повреждений корпуса."
 
-# REVIEW
 msgid "Battle Royale"
 msgstr "Королевская Битва"
 
-# REVIEW
 msgid "While using the Mantis Cruiser, kill the last enemy with your last crew member on their ship."
-msgstr "Пилотируя крейсер мантисов, взять вражеский корабль на абордаж и убить последнего врага последним членом своего экипажа."
+msgstr "Пилотируя крейсер мантисов, убить последнего врага на вражеском корабле последним членом своего экипажа."
 
-# REVIEW
 msgid "We're in Position!"
 msgstr "Мы на позиции!"
 
-# REVIEW
 msgid "While using the Slug Cruiser, have vision of every room of the enemy ship without functioning sensors."
-msgstr "Пилотируя крейсер слагов, получить изображение из всех отсеков вражеского корабля, не имея действующих сенсоров."
+msgstr "Пилотируя крейсер слагов, получить изображение всех отсеков вражеского корабля, не имея действующих сенсоров."
 
-# REVIEW
 msgid "Home Sweet Home"
 msgstr "Дом, милый дом"
 
-# REVIEW
 msgid "Jump to 30 nebula locations before sector 8."
-msgstr "Посетить 30 туманностей прежде чем прибыть в сектор 8."
+msgstr "Посетить 30 туманностей до прибытия в сектор 8."
 
-# REVIEW
 msgid "Disintegration Ray"
 msgstr "Дезинтегрирующий луч"
 
-# REVIEW
 msgid "While using the Slug Cruiser, kill 3 enemy crew members with one shot from the Anti-Bio Beam."
 msgstr "При использовании крейсера слагов, уничтожить трёх членов экипажа врага одним выстрелом из Анти-био луча."
 
 # REVIEW
 msgid "Master of Patience"
-msgstr "Артиллерийское мастерство"
+msgstr "Королевское терпение"
 
-# REVIEW
 msgid "Use only the Artillery Beam to destroy an enemy ship while taking no hull damage."
-msgstr "Используя только Артиллерийский луч уничтожить вражеский корабль, не получив при этом никаких повреждений корпуса."
+msgstr "Уничтожить вражеский корабль одним лишь артиллерийским лучом, не получив при этом никаких повреждений."
 
-# REVIEW
 msgid "Diplomatic Immunity"
 msgstr "Дипломатическая неприкосновенность"
 
-# REVIEW
 msgid "While using the Federation Cruiser, use your crew in 4 special blue event choices by sector 5."
-msgstr "Пилотируя крейсер Федерации, четыре раза использовать \"синие\" варианты действий экипажа к моменту прибытия в сектор 5."
+msgstr "На крейсере Федерации четырежды использовать \"синие\" варианты действий экипажа до прибытия в сектор 5."
 
-# REVIEW
 msgid "Artillery Mastery"
-msgstr "Королевское терпение"
+msgstr "Артиллерийское мастерство"
 
-# REVIEW
 msgid "Get to sector 5 in the Federation Cruiser without upgrading your weapons system."
 msgstr "Добраться до сектора 5 на крейсере Федерации, ни разу не усовершенствовав орудийную систему."
 
-# REVIEW
 msgid "Sweet Revenge"
 msgstr "Сладкая месть"
 
-# REVIEW
 msgid "Destroy an enemy ship with a shard from the Crystal Vengeance augment (unique to the Crystal Cruiser)."
-msgstr "Уничтожить вражеский корабль осколком Кристалла мести (уникально для крейсера кристалинов)."
+msgstr "Уничтожить вражеский корабль осколком Кристалла мести (только для крейсера кристалинов)."
 
-# REVIEW
 msgid "No Escape"
 msgstr "Некуда бежать"
 
-# REVIEW
 msgid "While using the Crystal Cruiser, trap 4 enemy crew in a single room using the Crystal Being power or a Lockdown Bomb."
-msgstr "Используя крейсер кристалинов поймайте 4 вражеских члена экипажа в одной комнате, использовав силу кристального существа или запирающую бомбу."
+msgstr "Используя крейсер кристалинов, заприте четверых врагов в одной комнате при помощи способности кристалина или запирающей бомбы."
 
-# REVIEW
 msgid "Clash of the Titans"
 msgstr "Битва титанов"
 
-# REVIEW
 msgid "Destroy 15 Rock Ships (pirates count) using the Crystal Cruiser."
 msgstr "Уничтожить 15 кораблей роков (считая пиратские), пилотируя крейсер кристалинов."
