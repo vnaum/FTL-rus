@@ -48,11 +48,10 @@ msgid   "While waiting, you managed to navigate out of the asteroid field "
 msgstr  "В ожидании вам удалось вывести корабль из астероидного поля, "
         "используя только импульс ваших двигателей."
 
-# REVIEW
 msgid   "Your ship already has this augment and its effect cannot stack. You "
         "break it down into scrap."
-msgstr  "У вашего корабля уже есть это улучшение их эффекты не могут быть "
-        "суммированы. Вы разбираете его на лом."
+msgstr  "У вашего корабля уже есть одно такое устройство, от второго никакого толка не будет. "
+        "Вы разбираете его на лом."
 
 # REVIEW
 msgid   "The data you carry is vital to the remaining Federation fleet. "
@@ -65,64 +64,52 @@ msgstr  "Данные разведки, которые вы несёте, жиз
         "отправиться дальше. Добраться до выхода желательно раньше, чем флот "
         "мятежников сможет вас догнать."
 
-# REVIEW
 msgid   "The last hope of the Federation dies as your ship breaks apart."
-msgstr  "Последняя надежда Федерации умирает, в тот момент, когда "
-        "разваливается ваш корабль."
+msgstr  "Вместе с вашим кораблём гибнет последняя надежда Федерации."
 
-# REVIEW
 msgid   "Welcome to FTL! You are the captain of a Federation starship on a "
         "very important mission."
 msgstr  "Добро пожаловать в FTL! Вы - капитан космического корабля Федерации с особо важным заданием."
 
-# REVIEW
 msgid   "Continue..."
 msgstr  "Далее..."
 
-# REVIEW
 msgid   "The Federation is currently being torn apart by vicious rebels. Your "
         "ship is carrying data vital to the defense of the Federation."
 msgstr "Сейчас для Федерации настали тяжёлые времена - мятежники одерживают верх. Ваш корабль может доставить сведения, необходимые для обороны."
 
-# REVIEW
 msgid   "You will be traveling through dangerous sectors of the galaxy with "
         "the Rebel fleet in hot pursuit. Make it to the exit beacon of each "
         "sector before the Rebels can catch you."
 msgstr "Ваш путь будет лежать через полные опасностей сектора галактики, а за вами по пятам будет гнаться весь мятежный флот. Надо добраться до выхода из сектора до того, как они вас догонят."
 
-# REVIEW
 msgid   "Start Tutorial."
 msgstr  "Начать обучение."
 
-# REVIEW
 msgid   "Every new location will have an event like this. You might have "
         "multiple choices available to you at an event. In this example, a "
         "weak pirate ship is trying to destroy you."
 msgstr  "У каждого маяка что-нибудь да случится. Иногда надо будет выбрать один из нескольких вариантов действий. Сейчас, например, нас атакует мелкий пиратский корабль."
 
-# REVIEW
 msgid   "Special BLUE choices like these are unlocked by having certain "
         "upgrades or equipment. They are nearly always a good choice."
 msgstr  "При наличии подходящего оборудования будут предложены варианты, выделенные синим цветом (как этот). Почти всегда эти варианты - наилучшие."
 
-# REVIEW
 msgid   "You destroyed the pirate ship! As salvage, you gain some scrap and a "
         "weapon."
 msgstr  "Пиратский корабль уничтожен! В качестве трофея вы получаете его оружие и некоторое количество обломков."
 
-# REVIEW
 msgid   "You killed all of the pirates! You scrap the ship and discover a "
         "weapon."
 msgstr  "Вы убили всех пиратов! Разбирая захваченный корабль на лом вы "
         "обнаружили оружие, пригодное для использования."
 
-# REVIEW
 msgid   "Your ship cannot support any more active crew-members. You apologize "
         "and leave the extra crew at the nearest friendly outpost. They pay "
         "you for your troubles."
-msgstr  "Ваш корабль не может вместить больше членов экипажа. Вы с "
+msgstr  "Ваш корабль не может вместить больше экипажа. Вы с "
         "извинениями высаживаете лишних на ближайшем аванпосту и получаете "
-        "небольшую компенсацию."
+        "небольшую компенсацию за беспокойство."
 
 # REVIEW
 msgid   "Welcome to a new sector! Get to the exit beacon and jump to the next "
@@ -130,7 +117,6 @@ msgid   "Welcome to a new sector! Get to the exit beacon and jump to the next "
 msgstr  "Добро пожаловать в новый сектор! Доберитесь до маяка выхода и "
         "прыгните в следующий сектор раньше, чем вас нагонят мятежники!"
 
-# REVIEW
 msgid   "You've arrived at the Long-Range Beacon. When the FTL Drive is "
         "charged you can jump to the next Sector."
 msgstr  "Вы долетели до маяка дальнего действия. Когда FTL привод зарядится, "
