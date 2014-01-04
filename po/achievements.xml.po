@@ -4,239 +4,180 @@ msgstr  "Project-Id-Version: ru\n"
         "Content-Type: text/plain; charset=UTF-8\n"
         "Content-Transfer-Encoding: 8bit\n"
 
-# REVIEW
 msgid "Just Getting Started"
-msgstr "Это лишь начало"
+msgstr "Это только начало"
 
-# REVIEW
 msgid "Federation Base in Range"
 msgstr "База Федерации в пределах видимости"
 
-# REVIEW
 msgid "Federation Victory (Easy)"
 msgstr "Победа Федерации (Легкий)"
 
-# REVIEW
 msgid "Beat the boss on Easy."
 msgstr "Победить босса на лёгком уровне сложности."
 
-# REVIEW
 msgid "Federation Victory (Normal)"
 msgstr "Победа Федерации (Нормальный)"
 
-# REVIEW
 msgid "Beat the boss on Normal."
 msgstr "Победить босса на нормальном уровне сложности."
 
-# REVIEW
 msgid "Your Own Fleet"
 msgstr "Собственный флот"
 
-# REVIEW
 msgid "Unlock every playable ship."
-msgstr "Разблокировать все доступные для игры корабли."
+msgstr "Разблокировать корабли в игре."
 
-# REVIEW
 msgid "Rule Ten: Greed is Eternal"
 msgstr "Десятое правило: Жадность непобедима"
 
-# REVIEW
 msgid "Collect 10,000 scrap across all games."
 msgstr "Собрать 10,000 лома за все игры."
 
-# REVIEW
 msgid "Warlord"
 msgstr "Бог войны"
 
-# REVIEW
 msgid "Defeat 1000 ships across all playthroughs."
 msgstr "Уничтожить 1000 кораблей за все прохождения."
 
-# REVIEW
 msgid "I don't need no stinkin' upgrades!"
 msgstr "Не нужны мне эти ваши модернизации!"
 
-# REVIEW
 msgid "Get to sector 5 with no system/reactor upgrades."
-msgstr "Добраться до сектора 5 без улучшений системы."
+msgstr "Добраться до сектора 5 без улучшений систем и реактора."
 
-# REVIEW
 msgid "Coming in for my Pacifism run!"
 msgstr "Во имя мира!"
 
-# REVIEW
 msgid "Get to sector 5 without firing a shot, using an offensive drone, or teleporting."
-msgstr "Добраться до сектора 5, ни разу не выстрелив, не использовав атакующего дрона и не высадившись на вражеский корабль."
+msgstr "Добраться до сектора 5 без единого выстрела, не используя боевых дронов и телепортатора."
 
-# REVIEW
 msgid "On a Wing and a Prayer"
 msgstr "На честном слове и на одном крыле"
 
-# REVIEW
 msgid "Get to sector 5 without repairing at a store."
 msgstr "Добраться до сектора 5, ни разу не отремонтировавшись в магазине."
 
-# REVIEW
 msgid "Ballistophobia"
 msgstr "Баллистофобия"
 
-# REVIEW
 msgid "Get to sector 8 without using missiles/bombs."
 msgstr "Добраться до сектора 8, ни разу не применив ракеты или бомбы."
 
-# REVIEW
 msgid "Technophobia"
 msgstr "Технофобия"
 
-# REVIEW
 msgid "Get to sector 8 without using drones."
 msgstr "Добраться до сектора 8, ни разу не использовав дронов."
 
-# REVIEW
 msgid "Living off the Land"
 msgstr "Полное самообеспечение"
 
-# REVIEW
 msgid "Get to sector 8 without buying at a store (Repairs are ok)."
 msgstr "Достичь 8-го сектора, ничего не купив в магазине (ремонты разрешены)."
 
-# REVIEW
 msgid "No Redshirts Here"
 msgstr "3десь нет краснорубашечников"
 
-# REVIEW
 msgid "Get to sector 8 without losing a crewmember."
 msgstr "Добраться до сектора 8, не потеряв ни одного члена экипажа."
 
-# REVIEW
 msgid "Some people just like to watch ships burn"
 msgstr "Некоторым просто нравится смотреть, как горят корабли"
 
-# REVIEW
 msgid "Have every square of an enemy ship on fire simultaneously."
-msgstr "Устроить пожар в каждом отсеке вражеского корабля."
+msgstr "Устроить пожар на каждом квадрате вражеского корабля."
 
-# REVIEW
 msgid "Astronomically Low Odds"
 msgstr "Астрономически ничтожная вероятность"
 
-# REVIEW
 msgid "Fail to evade 5 shots in a row with a fully powered and upgraded engine."
 msgstr "Умудриться НЕ увернуться от вражеских выстрелов пять раз подряд, имея полностью усовершенствованный и запитанный двигатель."
 
-# REVIEW
 msgid "They never saw it coming"
 msgstr "Даже пискнуть не успели"
 
-# REVIEW
 msgid "Use the Weapon Pre-Igniter augmentation to destroy an enemy ship in one volley before the enemy can get a single shot off."
 msgstr "Используя \"Предварительное зажигание\", уничтожьте вражеский корабль одним залпом прежде, чем он успеет выстрелить."
 
-# REVIEW
 msgid "BOARDING OBJECTIVE SUCCESSFUL"
 msgstr "АБОРДАЖ ПРОИ3ВЕДЕН УСПЕШНО"
 
-# REVIEW
 msgid "Have a single boarding drone kill 4 crewmembers on one ship."
 msgstr "Убить четырёх членов экипажа одного вражеского корабля одним абордажным дроном."
 
-# REVIEW
 msgid "Trustworthy Auto-Pilot"
 msgstr "Надёжный автопилот"
 
-# REVIEW
 msgid "Defeat an enemy ship with all of your crew aboard it."
 msgstr "Победить вражеский корабль, высадив на него весь свой экипаж."
 
-# REVIEW
 msgid "Slice and Dice"
-msgstr "Мясорубка"
+msgstr "Мелкая нарезка"
 
-# REVIEW
 msgid "Hit every room of a ship with at least one beam in under 5 seconds."
 msgstr "Поразить каждый отсек корабля как минимум одним лучом менее, чем за пять секунд."
 
-# REVIEW
 msgid "Victory through Asphyxiation"
 msgstr "Победа посредством удушения"
 
-# REVIEW
 msgid "Empty the oxygen (Net level less than 5 percent) of a non-automated, hostile enemy ship."
-msgstr "Снизить уровень кислорода на вражеском корабле до пяти процентов (корабль не должен быть автоматизированным)."
+msgstr "Снизить уровень кислорода на пилотируемом вражеском корабле до пяти процентов."
 
-# REVIEW
 msgid "The United Federation"
 msgstr "Объединённая Федерация"
 
-# REVIEW
 msgid "Have six unique aliens on the Kestrel Cruiser simultaneously."
 msgstr "Собрать на борту крейсера \"Кестрел\" членов экипажа шести разных рас."
 
-# REVIEW
 msgid "Full Arsenal"
 msgstr "Полный арсенал"
 
-# REVIEW
 msgid "Have every system and subsystem installed on the Kestrel Cruiser at one time."
 msgstr "Установить на крейсер \"Кестрел\" все возможные системы и подсистемы."
 
-# REVIEW
 msgid "Tough Little Ship"
-msgstr "Маленький, но крепкий"
+msgstr "Крепкий орешек"
 
-# REVIEW
 msgid "As the Kestrel Cruiser, repair back to full health when it only has 1 HP remaining."
 msgstr "Полностью отремонтировать крейсер \"Кестрел\" после того, как у него останется одна единица прочности корпуса."
 
-# REVIEW
 msgid "Shields Holding"
 msgstr "Щит выдержал"
 
-# REVIEW
 msgid "Destroy a ship before it gets through the Zoltan Shield."
 msgstr "Уничтожить вражеский корабль до того, как тот пробьёт золтанский щит."
 
-# REVIEW
 msgid "Givin' her all she's got, Captain!"
 msgstr "Работает на полную, капитан!"
 
-# REVIEW
 msgid "With the Zoltan Cruiser, have 29 power in systems at the same time."
 msgstr "Использовать 29 единиц энергии для питания систем золтанского крейсера."
 
-# REVIEW
 msgid "Manpower"
 msgstr "Педальный привод"
 
-# REVIEW
 msgid "Get to sector 5 without upgrading your reactor in the Zoltan Cruiser."
 msgstr "Добраться до сектора 5 на золтанском крейсере, ни разу не усовершенствовав реактор."
 
-# REVIEW
 msgid "Bird of Prey"
 msgstr "Хищная птица"
 
-# REVIEW
 msgid "Destroy a ship at full health during a single cloak in the Stealth Cruiser."
-msgstr "Уничтожить полностью исправный вражеский корабль за время, пока действует один заряд маскировочного поля на крейсере Стелс."
+msgstr "Уничтожить полностью исправный вражеский корабль за время действия маскировочного поля на стелс-крейсере."
 
-# REVIEW
 msgid "Phase Shift"
 msgstr "Фазовый сдвиг"
 
-# REVIEW
 msgid "With the Stealth Cruiser, avoid 9 points of damage during a single cloak."
-msgstr "Пилотируя стелс-крейсер, избежать получения 9 единиц урона за время, пока действует один заряд маскировочного поля."
+msgstr "Пилотируя стелс-крейсер, избежать получения 9 единиц урона за время действия маскировочного поля."
 
-# REVIEW
 msgid "Tactical Approach"
 msgstr "Тактический подход"
 
-# REVIEW
 msgid "With the Stealth Cruiser, get to sector 8 without jumping to a beacon with an environmental danger."
-msgstr "Добраться на стелс-крейсере до сектора 8, ни разу не попав в систему с опасной средой (туманность, метеориты и т.п.)."
+msgstr "Добраться на стелс-крейсере до сектора 8, избежав природных опасностей."
 
-# REVIEW
 msgid "Robotic Warfare"
 msgstr "Война роботов"
 
