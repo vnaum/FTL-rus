@@ -75,12 +75,12 @@ msgid   "The centre of a hydrogen cloud doesn't seem like a very usual place "
         "for a store, but the Engi aren't a usual species. Wouldn't hurt to "
         "take a look."
 msgstr  "Центр водородного облака - не совсем обычное место для магазина, но "
-        "инжи тоже не совсем обычные существа. Взглянуть не помешает."
+        "энжи тоже не совсем обычные существа. Взглянуть не помешает."
 
 # REVIEW
 msgid   "An Engi cargo vessel hails: \"Propose mutually beneficial exchange "
         "of properties.\" That smells like a bargain."
-msgstr  "Грузовое судно инжи приветствует: \"Предлагается взаимовыгодный "
+msgstr  "Грузовое судно энжи приветствует: \"Предлагается взаимовыгодный "
         "обмен имуществом\". Тут пахнет сделкой!"
 
 # REVIEW

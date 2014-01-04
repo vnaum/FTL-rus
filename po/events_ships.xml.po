@@ -511,7 +511,7 @@ msgstr  "Разобравшись с командой, вы просматрив
 msgid   "The rebels destroyed, you pick the bones of their ship and wait for "
         "the small Engi ship to catch up."
 msgstr  "Расправившись с мятежниками, вы забираете всё ценное и ждёте, пока "
-        "маленький корабль инжи вас догонит."
+        "маленький корабль энжи вас догонит."
 
 # REVIEW
 msgid   "The Mantis ship breaks apart."
@@ -519,24 +519,24 @@ msgstr  "Корабль мантисов развалился на части."
 
 # REVIEW
 msgid   "Attempt to contact the Engi."
-msgstr  "Попробовать связаться с инжи."
+msgstr  "Попробовать связаться с энжи."
 
 # REVIEW
 msgid   "No more life signs detected on the Mantis ship. You hasten to "
         "contact the Engi."
 msgstr  "Корабль мантисов больше не подаёт признаков жизни. Вы спешите "
-        "связаться с инжи."
+        "связаться с энжи."
 
 # REVIEW
 msgid   "With the hostile Engi ship destroyed you carefully extract as much "
         "fuel as possible from the wreckage."
-msgstr  "Уничтожив враждебный корабль инжи, вы аккуратно извлекаете из "
+msgstr  "Уничтожив враждебный корабль энжи, вы аккуратно извлекаете из "
         "обломков уцелевшее топливо."
 
 # REVIEW
 msgid   "With the hostile Engies subdued you carefully extract as much fuel "
         "as possible from the ship."
-msgstr  "Уничтожив враждебный корабль инжи, вы аккуратно извлекаете из "
+msgstr  "Уничтожив враждебный корабль энжи, вы аккуратно извлекаете из "
         "обломков уцелевшее топливо."
 
 # REVIEW
@@ -585,7 +585,7 @@ msgstr  "Казааакплеткилик бился до последнего, 
 
 # REVIEW
 msgid   "You strip what you can and contact the Engi ships."
-msgstr  "Вы собрали всё, что смогли, и связались с кораблём инжи."
+msgstr  "Вы собрали всё, что смогли, и связались с кораблём энжи."
 
 # REVIEW
 msgid   "The Mantis defeated, you contact the weakened Slug vessel. \"You "

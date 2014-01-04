@@ -104,7 +104,7 @@ msgid   "You arrive to have a small fleet of Engi ships target you with a "
         "message, \"Piracy results in negative societal impact. Not permitted."
         "\" You assure them of your honest intentions and they allow you to "
         "pass."
-msgstr  "Вы прибыли к небольшому флоту кораблей инжи, они взяли вас в прицел "
+msgstr  "Вы прибыли к небольшому флоту кораблей энжи, они взяли вас в прицел "
         "с сообщением: \"Пиратство негативно влияет на общество. 3апрещено\". "
         "Вы заверяете их в благих намерениях и они пропускают вас."
 

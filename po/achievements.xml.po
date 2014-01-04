@@ -183,7 +183,7 @@ msgstr "Война роботов"
 
 # REVIEW
 msgid "With the Engi Cruiser, have 3 drones functioning at the same time."
-msgstr "3апустить с крейсера инжи трёх дронов одновременно."
+msgstr "3апустить с крейсера энжи трёх дронов одновременно."
 
 # REVIEW
 msgid "I hardly lifted a finger"
@@ -191,7 +191,7 @@ msgstr "Да я и пальцем не пошевелил!"
 
 # REVIEW
 msgid "With the Engi Cruiser, destroy an enemy ship using only drones (no weapons)."
-msgstr "Пилотируя крейсер инжи, уничтожить противника, используя только дронов (без применения оружия)."
+msgstr "Пилотируя крейсер энжи, уничтожить противника, используя только дронов (без применения оружия)."
 
 # REVIEW
 msgid "The guns... They've stopped"
@@ -199,7 +199,7 @@ msgstr "Пушки... пушки замолчали..."
 
 # REVIEW
 msgid "Have 4 enemy systems or subsystems ioned at the same time while using the Engi Cruiser."
-msgstr "Ионизировать одновременно четыре вражеские подсистемы, пилотируя крейсер инжи."
+msgstr "Ионизировать одновременно четыре вражеские подсистемы, пилотируя крейсер энжи."
 
 # REVIEW
 msgid "Is it warm in here?"

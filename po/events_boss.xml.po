@@ -32,7 +32,7 @@ msgid   "Your explanation is met with murmurs of cynicism and disbelief among "
         "suggests potential counter to Rebel technology. Risk all or save "
         "none.\""
 msgstr  "Ваши объяснения встречаются возгласами цинизма и недоверия среди "
-        "офицеров. Генерал Турзил из отряда инжи высказывается первым: "
+        "офицеров. Генерал Турзил из отряда энжи высказывается первым: "
         "\"Служба разведки подтверждает потенциальную возможность "
         "противодействия технологиям мятежников. Либо рискнём всем, либо "
         "потеряем всё\"."
@@ -122,7 +122,7 @@ msgstr  "Возле этого маяка находится мобильная 
 msgid   "An Engi civilian ship-yard has been converted into a military "
         "refueling station. They offer you the chance to patch up your ship "
         "and refresh some supplies."
-msgstr  "Гражданская верфь инжи, переделанная в военную станцию снабжения, "
+msgstr  "Гражданская верфь энжи, переделанная в военную станцию снабжения, "
         "предлагает вам ремонт и пополнение припасов."
 
 # REVIEW
