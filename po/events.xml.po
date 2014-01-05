@@ -53,15 +53,14 @@ msgid   "Your ship already has this augment and its effect cannot stack. You "
 msgstr  "У вашего корабля уже есть одно такое устройство, от второго никакого толка не будет. "
         "Вы разбираете его на лом."
 
-# REVIEW
 msgid   "The data you carry is vital to the remaining Federation fleet. "
         "You'll need supplies for the journey, so make sure to explore each "
         "sector before moving on to the next. But get to the exit before the "
         "pursuing Rebel fleet can catch up!"
 msgstr  "Данные разведки, которые вы несёте, жизненно необходимы для "
-        "оставшегося флота Федерации. Вам потребуются припасы для полётов, "
-        "поэтому удостоверьтесь, что исследовали каждый сектор, перед тем как "
-        "отправиться дальше. Добраться до выхода желательно раньше, чем флот "
+        "оставшегося флота Федерации. В полёте пригодится всё, что вы успеете собрать, "
+        "поэтому постарайтесь исследовать каждый сектор перед тем как "
+        "отправиться дальше. Однако лучше покинуть сектор до того, как флот "
         "мятежников сможет вас догнать."
 
 msgid   "The last hope of the Federation dies as your ship breaks apart."
@@ -122,64 +121,52 @@ msgid   "You've arrived at the Long-Range Beacon. When the FTL Drive is "
 msgstr  "Вы долетели до маяка дальнего действия. Когда FTL привод зарядится, "
         "вы сможете прыгнуть в следующий сектор."
 
-# REVIEW
 msgid   "This Long-Range Beacon is almost hidden within a nebula. When the "
         "FTL Drive is charged you can jump to the next Sector."
-msgstr  "Маяк дальнего действия почти скрыт туманностью. Когда FTL привод "
+msgstr  "Этот маяк дальнего действия скрыт туманностью. Когда FTL привод "
         "зарядится, вы сможете прыгнуть в следующий сектор."
 
-# REVIEW
 msgid   "The Rebel fleet has found you, and a nearby scout turns to engage. "
         "You must flee before their cruisers open fire!"
-msgstr  "Флот мятежников настиг вас! Один из кораблей-разведчиков отправился "
-        "на перехват. Вам нужно спасаться из системы, пока мятежнические "
-        "крейсера не открыли огонь!"
+msgstr  "Флот мятежников настиг вас! Ближайший корабль-разведчик вступает "
+        "в бой. Надо быстрее исчезнуть, пока не подоспели их основные силы!"
 
-# REVIEW
 msgid   "You've found the exit beacon but the Rebels got here first! You must "
         "survive long enough to be able to jump to the next sector."
-msgstr  "Вы обнаружили маяк выхода, но мятежники добрались до него раньше "
-        "вас! Нужно продержаться достаточно долго, чтобы успел зарядится "
-        "сверхсветовой двигатель, и бежать в следующий сектор."
+msgstr  "Вы обнаружили маяк выхода, но мятежники добрались до него раньше! "
+        "Нужно продержаться пока заряжается сверхсветовой двигатель, и бежать в следующий сектор."
 
-# REVIEW
 msgid   "Your jump leads you to nothing but empty space. This Jump Beacon "
         "serves no purpose other than as a connection."
-msgstr  "Ваш прыжок привёл вас лишь к пустому пространству. Этот маяк тут "
-        "служит лишь ориентиром для дальнейшего прокладывания маршрутов."
+msgstr  "Ваш прыжок закончился в океане выкуума. Этот маяк "
+        "всего лишь ориентир для дальнейшего прокладывания маршрутов."
 
-# REVIEW
 msgid   "You jump into an unremarkable system. No life signs detected within "
         "scanning range."
-msgstr  "Вы прыгаете в ничем не примечательную систему. В пределах диапазона "
-        "сканирования признаков жизни не обнаружено."
+msgstr  "Эта система ничем не примечательна. Признаков жизни в пределах диапазона "
+        "сканирования не обнаружено."
 
-# REVIEW
 msgid   "Your scans reveal a mining base on a nearby planet long since "
         "abandoned. No life signs detected."
-msgstr  "Ваши сканеры обнаружили на одной из планет давно заброшенную шахту. "
+msgstr  "Ваши сканеры обнаружили заброшенную шахтёрскую базу на ближайшей планете. "
         "Никаких признаков жизни не зарегистрировано."
 
-# REVIEW
 msgid   "Your scans reveal an ore refinery and several factories, all "
         "standing still and empty. No life signs detected."
 msgstr  "Ваши сканеры обнаружили пустующий завод по переработке руды и "
         "несколько заброшенных фабрик. Никаких признаков жизни не "
         "зарегистрировано."
 
-# REVIEW
 msgid   "You discover a nearby planet speckled with settlements, although "
         "none respond to your hails."
 msgstr  "Вы обнаружили, что близлежащая планета усеяна поселениями. Несмотря "
-        "на это, никто не реагирует на ваши вызовы."
+        "на это, никто не отвечает на ваши попытки выйти на связь."
 
-# REVIEW
 msgid   "This beacon has been built for a nearby civilian space-station. No "
         "one hails your ship."
-msgstr  "Этот маяк был построен для располагающейся неподалёку гражданской "
+msgstr  "Этот маяк был построен для расположенной неподалёку гражданской "
         "космической станции. Никто не приветствует ваш корабль."
 
-# REVIEW
 msgid   "The nearby planet shows sign of habitation and great beauty. A "
         "rudimentary automated planetary defense system is looping its "
         "message into space: \"Warning! Quarantine Level 5 in effect under "
@@ -187,75 +174,62 @@ msgid   "The nearby planet shows sign of habitation and great beauty. A "
 msgstr  "Близлежащая планета кажется обитаемой и выглядит необычайно красиво. "
         "Простейшая автоматизированная система планетарной защиты передает в "
         "космос одно и то же сообщение: \"Внимание! Действует 5 уровень "
-        "карантина в соответствии с актом ФЖА 22, статья 11.2. Внимание! "
+        "карантина в соответствии с актом FHA 22, статья 11.2. Внимание! "
         "Действует 5 уровень...\""
 
-# REVIEW
 msgid   "Your jump leads to a completely unremarkable binary star system. "
         "There is nothing else around."
-msgstr  "Ваш прыжок приводит к совершенно обыкновенной бинарной звёздной "
-        "системе. Вокруг пустота."
+msgstr  "Ваш прыжок приводит к совершенно обыкновенной системе двойной звёзды. "
+        "Вокруг пустота."
 
-# REVIEW
 msgid   "Your jump leads to a remarkable binary star system. The view is "
         "beautiful, but there is nothing else around."
-msgstr  "Ваш прыжок приводит к примечательной бинарной звёздной системе. Вид "
-        "потрясает, но вокруг ничего нет."
+msgstr  "Ваш прыжок приводит к совершенно удивительной системе двойной звёзды. Вид "
+        "потрясающий, но больше вокруг ничего нет."
 
-# REVIEW
 msgid   "Scans reveal a large asteroid field nearby. Short-range scanners may "
         "discover useful materials while we wait for the FTL to recharge."
 msgstr  "Сканеры обнаружили большое астероидное поле неподалёку. Сканеры "
         "малой дальности могут обнаружить полезные минералы, пока мы ждём "
-        "перезарядки FTL привода."
+        "перезарядки FTL-двигателя."
 
-# REVIEW
 msgid   "Explore the asteroid field"
 msgstr  "Исследовать поле астероидов."
 
-# REVIEW
 msgid   "Too dangerous. We'll just wait for the FTL to charge."
-msgstr  "Это слишком опасно. Подождём, пока зарядится FTL привод, и улетаем."
+msgstr  "Это слишком опасно. Подождём, пока зарядится FTL-привод, и улетаем."
 
-# REVIEW
 msgid   "(Scrap Recovery Arm) Attempt to mine the asteroids."
 msgstr  "(Кран для сбора лома) Попытаться добыть минералы из астероидов."
 
-# REVIEW
 msgid   "You carefully extract as much usable material as possible from the "
         "nearest asteroids while waiting for the FTL to charge."
 msgstr  "Вы осторожно извлекаете как можно больше полезных минералов из "
-        "ближайших астероидов, пока заряжается FTL привод."
+        "ближайших астероидов, пока заряжается FTL-привод."
 
-# REVIEW
 msgid   "A brief exploration yields nothing of interest."
 msgstr  "Беглый осмотр показал, что ничего интересного здесь нет."
 
-# REVIEW
 msgid   "Scans reveal a number of asteroids with useful compositions. You "
         "extract some fuel."
 msgstr  "Сенсоры обнаружили несколько астероидов, богатых нестабильными "
         "элементами. Вам удалось обработать их и добыть немного топлива."
 
-# REVIEW
 msgid   "You discover the remains of ship embedded into an asteroid. It still "
         "has some functional missiles."
 msgstr  "Вы нашли останки корабля, столкнувшегося с астероидом. На борту "
         "оказалось несколько исправных ракет."
 
-# REVIEW
 msgid   "You happen upon an abandoned mining site. A few mining drones were "
         "left behind and could be re-purposed"
-msgstr  "Вы наткнулись на заброшенную шахту. Несколько оставленных здесь "
-        "дронов-шахтёров можно было бы переоборудовать во что-нибудь полезное."
+msgstr  "Вы наткнулись на заброшенную шахту. Нескольких оставленных здесь "
+        "роботов-шахтёров можно переоборудовать во что-нибудь полезное."
 
-# REVIEW
 msgid   "The asteroid field proved more dangerous than expected. Some "
         "asteroids managed to get through your ship's defenses."
 msgstr  "Астероидное поле оказалось более опасным, чем вы ожидали - "
-        "нескольким камням удалось повредить обшивку корабля."
+        "нескольким камням удалось повредить корпус корабля."
 
-# REVIEW
 msgid   "A pirate ship hiding behind one of the larger asteroids attacks you!"
 msgstr  "3а одним из крупных астероидов прятался пиратский корабль. Он "
         "атакует!"
