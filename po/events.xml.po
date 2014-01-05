@@ -68,7 +68,8 @@ msgstr  "Вместе с вашим кораблём гибнет последн
 
 msgid   "Welcome to FTL! You are the captain of a Federation starship on a "
         "very important mission."
-msgstr  "Добро пожаловать в FTL! Вы - капитан космического корабля Федерации с особо важным заданием."
+msgstr  "Добро пожаловать в FTL! Вы - капитан космического корабля Федерации "
+        "с особо важным заданием."
 
 msgid   "Continue..."
 msgstr  "Далее..."
@@ -234,11 +235,9 @@ msgid   "A pirate ship hiding behind one of the larger asteroids attacks you!"
 msgstr  "3а одним из крупных астероидов прятался пиратский корабль. Он "
         "атакует!"
 
-# REVIEW
 msgid   "Hire the mercenary to delay the Rebels."
-msgstr  "Нанять наемников, чтобы задержать мятежников."
+msgstr  "Нанять наемников чтобы задержать мятежников."
 
-# REVIEW
 msgid   "The mercenary ship masks its jump signature to mimic your own and "
         "then jumps off in the opposite direction. This should keep the "
         "Rebels guessing."
@@ -246,120 +245,99 @@ msgstr  "Корабль наёмников настраивает сигнату
         "она точно копировала вашу, и прыгает в противоположном от вас "
         "направлении. Это должно сбить мятежников со следа."
 
-# REVIEW
 msgid   "Hire the mercenary to scout the sector."
 msgstr  "Нанять наемников для разведки сектора."
 
-# REVIEW
 msgid   "Your map has been updated."
 msgstr  "Ваша карта обновлена."
 
-# REVIEW
 msgid   "Fight the ship."
 msgstr  "Атаковать корабль."
 
-# REVIEW
 msgid   "Mercenaries are worse than rebels. The only honorable course is to "
         "engage the mercenary in battle."
 msgstr  "Наемники ещё хуже мятежников. Они заслуживают только того, чтобы "
         "быть уничтоженными в бою."
 
-# REVIEW
 msgid   "You have no need of his services."
 msgstr  "Вам не нужны его услуги."
 
-# REVIEW
 msgid   "You find a mercenary for hire at this Beacon. Their unique skills "
         "can sometimes prove to be useful."
 msgstr  "Возле маяка вы встречаете наёмника. Его навыки могут оказаться "
         "полезными."
 
-# REVIEW
 msgid   "A mercenary hails you: \"Greetings, friend! We've heard tell of your "
         "quest and are here to offer our valuable services.\""
-msgstr  "Наёмник приветствует вас: \"Привет, друг! Мы слышали о твоём задании "
-        "и решили предложить свои услуги\"."
+msgstr  "Наёмник приветствует вас: «Привет, друг! Мы слышали о твоём задании "
+        "и решили предложить свою помощь»."
 
-# REVIEW
 msgid   "There's a ship with pirate markings orbiting the nearby planet. You "
         "receive his hail: \"Anything is possible, for the right price\""
 msgstr  "Возле планеты кружит корабль с пиратскими знаками. Вы получаете "
-        "сообщение: \"Всё возможно, за правильную цену\"."
+        "сообщение: «Я готов на любую работу - за правильную цену»."
 
-# REVIEW
 msgid   "The captain of this ship claims he can provide \"services\" as long "
         "as you've got the scrap."
-msgstr  "Капитан корабля заявляет, что может оказать вам помощь за некоторое "
-        "количество лома."
+msgstr  "Капитан корабля заявляет, что может оказать вам «помощь» - "
+        "если есть чем заплатить."
 
-# REVIEW
 msgid   "Mercenaries are swarming the galaxy now, knowing that their less-"
         "than-legal services are in demand during this period of unrest. One "
         "is waiting at this beacon and hails you."
 msgstr  "В эти смутные дни Галактика просто кишит наёмниками. Они хорошо "
-        "понимают, что их не совсем легальные услуги пользуются высоким "
-        "спросом во времена всеобщего неспокойствия. Один из них встречает "
-        "вас у маяка."
+        "понимают, что их не совсем легальные услуги пользуются сейчас высоким "
+        "спросом. Один из них встречает вас у маяка."
 
-# REVIEW
 msgid   "A ship hails you: \"Good, sir! It seems you're having some troubles "
         "with the Rebels. I'd like to help you, but I can't afford the upkeep "
         "required on this hunk of junk I'm flying... maybe we can come to an "
         "arrangement?\""
-msgstr  "Капитан корабля приветствует вас: \"Добрый день! Похоже, что у вас "
-        "есть кое-какие проблемы с мятежниками. Я бы рад помочь вам, но мне "
-        "самому трудно удерживать эту посудину на плаву. Возможно, мы могли "
-        "бы прийти к какому-нибудь соглашению?\""
+msgstr  "Капитан корабля приветствует вас: «Добрый день! Похоже, что у вас "
+        "есть кое-какие проблемы с мятежниками. Я бы рад помочь вам, но у меня "
+        "недостаточно денег чтобы удерживать эту посудину на плаву. Возможно, мы могли "
+        "бы прийти к какому-нибудь соглашению?»"
 
-# REVIEW
 msgid   "Scans show a remote settlement being blockaded by a pirate ship. The "
         "ship hastily messages you, \"Stay out of this, or you'll be next!..."
         "Concentrate fire on...\""
 msgstr  "Сенсоры обнаружили одинокое поселение, над которым завис на орбите "
-        "пиратский корабль. С корабля приходит сообщение: \"Не лезь, а то "
-        "получишь!\""
+        "пиратский корабль. С корабля приходит сообщение: «Не лезь, а то "
+        "получишь!»"
 
-# REVIEW
 msgid   "Attack the pirate."
-msgstr  "Атаковать пиратский корабль."
+msgstr  "Атаковать пирата."
 
-# REVIEW
 msgid   "\"You asked for it!\" They pull away from the planet and move in to "
         "engage."
-msgstr  "\"Ну ты сам напросился!\" Пират покидает орбиту планеты и мчится на "
+msgstr  "«Ну ты сам напросился!» - пират покидает орбиту планеты и мчится на "
         "вас в атаку."
 
-# REVIEW
 msgid   "Ignore them."
 msgstr  "Пролететь мимо."
 
-# REVIEW
 msgid   "It's just not possible to save every civilian affected by this war. "
         "You prepare to jump."
 msgstr  "Всех гражданских спасти невозможно - война есть война. Вы готовитесь "
         "к прыжку."
 
-# REVIEW
 msgid   "(Fire Beam) Show the pirate how to intimidate settlers: burn their "
         "crops!"
 msgstr  "(Огненный луч) Показать пиратам как запугивать поселенцев: сжечь их "
-        "урожай!"
+        "посевы!"
 
-# REVIEW
 msgid   "The pirate watches as you start to light the meager crops on fire. "
         "In a few moments the settlement surrenders, offering tribute to "
         "leave them alone. The pirate seems impressed."
-msgstr  "Пираты наблюдают как вы поджигаете скудный урожай. Через несколько "
+msgstr  "Пираты наблюдают, как полыхают под вашим лучом скудные посевы. Через несколько "
         "мгновений поселенцы сдаются, предлагая дань, чтобы вы оставили их в "
         "покое. Пираты, похоже, впечатлены."
 
-# REVIEW
 msgid   "(Fire Bomb) Show the pirate how to intimidate settlers: start fires "
         "in their crude dwellings"
 msgstr  "(Огненная бомба) Показать пиратам, как запугивать поселенцев: "
         "поджечь их убогие лачуги!"
 
-# REVIEW
 msgid   "The pirate watches as you teleport an incendiary explosive into the "
         "settlement. As the settlers scramble to put out the fires, their "
         "rudimentary planetary defenses power down. Forcing their surrender "
@@ -369,91 +347,75 @@ msgstr  "Пират наблюдает, как вы телепортируете
         "поселенцы борются с пожарами, их слабенькие системы планетарной обороны "
         "отключаются. 3аставить их сдаться оказалось до смешного просто, "
         "но пират, кажется, был впечатлён вашей тактикой и согласился "
-        "поделиться с вами \"данью\"."
+        "поделиться с вами «данью»."
 
-# REVIEW
 msgid   "With the pirates gone you signal the station. \"We appreciate what "
         "you've done, but there'll just be another ship looking to profit "
         "from our isolation soon enough. Sorry we can't give you more.\""
-msgstr  "Когда пираты исчезли, к вам пришёл сигнал со станции: \"Мы "
-        "благодарны за то, что вы сделали, но скоро сюда прибудет новый "
-        "корабль, ищущий прибыли из нашего уединения. Простите, мы не можем "
-        "дать вам больше\"."
+msgstr  "Когда пираты исчезли, вы связываетесь со станцией. «Мы "
+        "благодарны за то, что вы сделали, но мы беззащитны - скоро сюда прилетят "
+        "другие пираты. Простите, мы не можем дать вам больше»."
 
-# REVIEW
 msgid   "\"Alright! We give up! We're terrible at this pirating thing "
         "anyway...\""
-msgstr  "\"Всё, хватит! Мы сдаёмся! Всё равно у нас с этим пиратством ничего "
-        "толком не получалось...\""
+msgstr  "«Всё, хватит! Мы сдаёмся! Всё равно у нас с этим пиратством ничего "
+        "толком не получалось...»"
 
-# REVIEW
 msgid   "Let them go."
 msgstr  "Отпустить их."
 
-# REVIEW
 msgid   "Piracy cannot be forgiven. Attack!"
 msgstr  "Пиратство - преступление, караемое смертью. Огонь!"
 
-# REVIEW
 msgid   "They look like they don't want to fight. They are trying to escape."
 msgstr  "Похоже, они не хотят сражаться и пытаются скрыться."
 
-# REVIEW
 msgid   "You pick through the remains and contact the settlement."
 msgstr  "Вы бегло осматриваете обломки и запрашиваете связь с поселением."
 
-# REVIEW
 msgid   "Give them the fuel."
-msgstr  "Дать топливо."
+msgstr  "Дать им топлива."
 
-# REVIEW
 msgid   "You give them the fuel."
 msgstr  "Вы отгрузили им немного топлива."
 
-# REVIEW
 msgid   "Apologize, wish them luck, and continue on."
 msgstr  "Извиниться, пожелать удачи и отправиться дальше."
 
-# REVIEW
 msgid   "\"We understand... Please send help our way if you meet anyone "
         "trustworthy.\""
-msgstr  "\"Мы всё понимаем... Если встретите кого-нибудь надёжного - "
-        "отправьте нам на помощь, хорошо?\""
+msgstr  "«Мы всё понимаем... Если встретите кого-нибудь надёжного - "
+        "отправьте нам на помощь, хорошо?»"
 
-# REVIEW
 msgid   "\"Thank you so much! We don't have much to offer, but have a look at "
         "the sector scans we took.\" Your map is updated."
-msgstr  "\"Огромное спасибо! Увы, нам нечем вас отблагодарить. Разве что "
-        "поделиться результатами сканирования сектора\". Ваша карта обновлена."
+msgstr  "«Огромное спасибо! Увы, нам нечем вас отблагодарить. Разве что "
+        "поделиться результатами сканирования сектора». Ваша карта обновлена."
 
-# REVIEW
 msgid   "\"Thank you. Here, have this extra scrap as payment.\""
-msgstr  "\"Спасибо. Примите в качестве благодарности немного лома\"."
+msgstr  "«Спасибо. Примите в качестве благодарности немного лома»."
 
-# REVIEW
 msgid   "\"Thank the Gods. We can finally get out of here!  We're jumping "
         "straight home so take this extra weapon. We won't need it, hopefully."
         "\""
-msgstr  "\"Какое счастье! Наконец-то мы сможем выбраться отсюда! Мы "
+msgstr  "«Какое счастье! Наконец-то мы сможем выбраться отсюда! Мы "
         "отправляемся прямо домой, так что примите в качестве благодарности "
-        "это оружие - нам оно уже не понадобится\"."
+        "это оружие - нам оно уже не понадобится»."
 
-# REVIEW
 msgid   "\"Greetings! It is so good to see you! We've been out of fuel and "
         "floating out here for weeks. We were terrified a pirate or those "
         "damn Rebels would find us first. Could you spare some fuel?\""
-msgstr  "\"Приветствуем! Очень рады вас видеть! Мы тут уже которую неделю "
+msgstr  "«Приветствуем! Очень рады вас видеть! Мы тут уже которую неделю "
         "болтаемся с сухими баками. Хорошо, что нас нашли вы, а не пираты или "
-        "мятежники. Не поделитесь ли топливом?\""
+        "мятежники. Не поделитесь ли топливом?»"
 
-# REVIEW
 msgid   "You arrive to find a ship floating among some debris. \"Hello. Our "
         "impulse drives are shot and we can't jump. Could you give us some "
         "fuel?\""
-msgstr  "Вы находите висящий среди обломков корабль. \"3дравствуйте. У нас "
-        "кончилось топливо, и мы не можем прыгнуть. Поможете?\""
+msgstr  "Вы находите висящий среди обломков корабль. «3дравствуйте. "
+        "Наши прыжковые двигатели подстрелили во время сражения, "
+        "и мы не можем прыгнуть. Не поделитесь ли топливом?»"
 
-# REVIEW
 msgid   "A small civilian ship flies over as soon as you arrive. You're "
         "prepared to fight but they just inform you that they're out of FTL "
         "fuel and can't jump."
@@ -461,58 +423,49 @@ msgstr  "Маленький гражданский корабль подлета
         "Вы уже готовитесь защищаться, но тут они передают, что у них "
         "кончилось топливо для FTL привода."
 
-# REVIEW
 msgid   "\"Hello. We used our last FTL fuel to jump to this station.\" They "
         "indicate a burnt out husk of debris and warped metal. \"As you can "
         "see the war must have spread to this sector. We've been stranded "
         "ever since.\""
-msgstr  "\"3дравствуйте. Мы израсходовали последнее топливо на прыжок к этой "
+msgstr  "«3дравствуйте. Мы израсходовали последнее топливо на прыжок к этой "
         "станции, - капитан указывает на облака оплавленных обломков и "
         "покорёженного металла. - Как видите, война добралась и сюда. Теперь "
-        "мы тут застряли\"."
+        "мы тут застряли»."
 
-# REVIEW
 msgid   "The ship emitting the distress beacon messages you, \"Sorry to "
         "bother you, but we're out of fuel and can't get out of this barren "
         "sector. Could you help us out?"
 msgstr  "С корабля, передающего сигнал бедствия, приходит сообщение: "
-        "\"Простите, что беспокоим вас, но у нас совсем не осталось топлива, "
-        "и мы не можем отсюда выбраться. Не поможете нам?\""
+        "«Простите, что беспокоим вас, но у нас совсем не осталось топлива, "
+        "и мы не можем выбраться из этой богом забытой дыры. Не поможете нам?»"
 
-# REVIEW
 msgid   "The distress beacon is coming from a civilian ship. It appears it is "
         "being chased by a pirate."
 msgstr  "Сигнал бедствия исходит от гражданского корабля. Похоже, за ним "
         "гонится пират."
 
-# REVIEW
 msgid   "Aid the civilian ship."
 msgstr  "Помочь гражданским."
 
-# REVIEW
 msgid   "You power up your weapons and engage the pirate ship."
 msgstr  "Вы включаете оружие и бросаетесь в атаку на пиратский корабль."
 
-# REVIEW
 msgid   "Stay out of it."
 msgstr  "Не вмешиваться."
 
-# REVIEW
 msgid   "The fight brings them out of your immediate scanning range; however, "
         "after a time the distress calls stop."
 msgstr  "В бою их относит за пределы диапазона ваших сканеров. Как бы там ни "
         "было, через некоторое время сигнал бедствия стихает."
 
-# REVIEW
 msgid   "(Improved Weapons) Fire a warning shot from your strongest weapon."
-msgstr  "(Улучшенные орудия) Сделать предупредительный залп из вашего самого "
+msgstr  "(Улучшенные орудия) Сделать предупредительный выстрел из вашего самого "
         "сильного орудия."
 
-# REVIEW
 msgid   "Detecting the greater threat (and potential reward), they turn and "
         "engage your ship."
-msgstr  "Прикинув потенциальную прибыль и ещё раз взвесив свои шансы, они в "
-        "конце концов разворачиваются и атакуют ваш корабль."
+msgstr  "Заметив более серьёзную угрозу (и более серьёзную добычу), они "
+        "разворачиваются и атакуют ваш корабль."
 
 # REVIEW
 msgid   "It seems the pirate wasn't looking for a fight with someone who "
