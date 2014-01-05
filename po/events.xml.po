@@ -467,7 +467,6 @@ msgid   "Detecting the greater threat (and potential reward), they turn and "
 msgstr  "Заметив более серьёзную угрозу (и более серьёзную добычу), они "
         "разворачиваются и атакуют ваш корабль."
 
-# REVIEW
 msgid   "It seems the pirate wasn't looking for a fight with someone who "
         "could fight back. They leave and you move to contact the civilian "
         "ship."
@@ -475,150 +474,126 @@ msgstr  "Кажется пираты не рассчитывали на прот
         "сопротивляться. Они разворачивают своё судно и улетают, а вы тем "
         "временем направляетесь к гражданскому кораблю."
 
-# REVIEW
 msgid   "It appears the distress beacon is coming from the surface of a "
         "nearby moon. Your sensors are picking up a single life form."
 msgstr  "Похоже, сигнал бедствия исходит с поверхности одной из лун. Сенсоры "
         "засекли одно живое существо."
 
-# REVIEW
 msgid   "Go down to the surface to investigate."
 msgstr  "Спуститься на поверхность и выяснить, в чём дело."
 
-# REVIEW
 msgid   "Ignore the signal."
 msgstr  "Игнорировать сигнал."
 
-# REVIEW
 msgid   "You find a colony that seems to have been recently attacked. "
         "Exploring the devastation, you find a lone survivor."
 msgstr  "Вы обнаружили колонию, которая недавно подверглась нападению. В "
-        "живых остался лишь один поселенец. Вы поднимаете его на борт."
+        "живых остался лишь один поселенец."
 
-# REVIEW
 msgid   "Invite him to join your crew."
 msgstr  "Предложить ему место в вашей команде."
 
-# REVIEW
 msgid   "He happily offers his services for a time in exchange for \"getting "
         "off that rock\"."
 msgstr  "Он с радостью предлагает свои услуги, в обмен на возможность "
-        "\"убраться с этого чертового камня\"."
+        "«убраться с этого чёртового камня»."
 
-# REVIEW
 msgid   "Take him home to his family on a nearby planet in this system"
 msgstr  "Отвезти его к родственникам на соседнюю планету этой же системы."
 
-# REVIEW
 msgid   "You find a man living alone in a cave. From the appearance of his "
         "wrecked ship, it seems he's been here for many years. He looks "
         "healthy, but his mental state is questionable."
 msgstr  "Вы находите человека, живущего в одиночестве в пещере. По виду его "
-        "разрушенного корабля кажется, что он здесь уже много лет. Он "
+        "разрушенного корабля ясно, что он здесь уже много лет. Он "
         "выглядит здоровым, но его психическое состояние вызывает сомнения."
 
-# REVIEW
 msgid   "Bring him back to your ship in hopes of finding some help for him."
-msgstr  "Доставить его обратно на ваш корабль, в надежде, помочь ему."
+msgstr  "Доставить его на ваш корабль - возможно, ему ещё можно помочь."
 
-# REVIEW
 msgid   "Leave the madman to his ravings, he's not worth the risk."
-msgstr  "Оставьте сумасшедшего в его бреду, он не стоит риска."
+msgstr  "Оставить этого буйно помешанного, не стоит рисковать."
 
-# REVIEW
 msgid   "(Medbay) Bring him to your medbay."
 msgstr  "(Улучшенный мед-отсек) Доставить его в ваш мед-отсек."
 
-# REVIEW
 msgid   "Once inside your advanced medbay, the system is able to identify and "
         "minimize the trauma associated with being alone for so long. Once "
         "awake he states, \"I don't know how to repay you, I feel 10 years "
         "younger... Let me serve on your ship.\""
-msgstr  "Оказавшись внутри вашего улучшенного мед-отсека, система оказалась в "
+msgstr  "Оказавшись внутри вашего улучшенного мед-отсека, больной уснул. Cистема оказалась в "
         "состоянии определить и свести к минимуму травму, полученную в связи "
-        "с таким долгим одиночеством. Проснувшись, он заявил: \"Я не знаю, "
+        "с таким долгим одиночеством. Проснувшись, он заявил: «Я не знаю, "
         "как отблагодарить вас, я чувствую себя на 10 лет моложе... Позвольте "
-        "мне служить на вашем корабле\"."
+        "мне служить на вашем корабле»."
 
-# REVIEW
 msgid   "(Slugman Crew Member)\"Sir, allow me to assess his mental state.\""
-msgstr  "(Член экипажа слаг) \"Капитан, позвольте мне оценить его психическое "
-        "состояние\"."
+msgstr  "(Член экипажа слаг) «Капитан, позвольте мне оценить его психическое "
+        "состояние»."
 
-# REVIEW
 msgid   "The family apparently owns one of the most valuable mining "
         "enterprises in the sector. For the safe return of his son, the "
         "patron of the family offers you a substantial reward."
 msgstr  "Эта семья, судя по всему, владеет одним из самых крупных предприятий "
-        "горной промышленности в секторе. 3а безопасное возвращение их сына, "
-        "покровитель семьи обещает вам крупное вознаграждение."
+        "горной промышленности в секторе. 3а безопасное возвращение их сына "
+        "глава семьи обещает вам крупное вознаграждение."
 
-# REVIEW
 msgid   "The survivor's family is of modest means, yet they manage to offer "
         "you a reward for your virtuous deed."
-msgstr  "У этой семьи очень скромные средства, но все же им удается "
+msgstr  "У этой семьи очень скромные средства, но все же им удаётся "
         "предложить вам вознаграждение за ваш добрый поступок."
 
-# REVIEW
 msgid   "Overjoyed with the return of their son, the family of the survivor "
         "arranges to repair your ship's hull as compensation."
 msgstr  "Нарадовавшись возвращению сына, эта семья проводит ремонт корпуса "
         "вашего корабля в качестве компенсации."
 
-# REVIEW
 msgid   "Once back in orbit, the man turns increasingly violent. Eventually "
         "he turns on your crew and manages to kill one before you can subdue "
         "him."
-msgstr  "После возвращения на орбиту человек стал значительно агрессивнее. В "
-        "конце концов он накинулся на вашу команду и успел убить одного, до "
-        "того как его вырубили."
+msgstr  "Оказавшись снова в космосе, человек совсем взбесился. В "
+        "конце концов он набросился на ваших людей и успел убить одного до "
+        "того, как его остановили."
 
-# REVIEW
 msgid   "He seems to improve immensely upon getting back to the ship. It "
         "might take a while for him to truly be well again, but until then he "
         "seems happy to serve as a member of your crew."
-msgstr  "После возвращения на корабль он, похоже, выглядит значительно лучше. "
-        "Конечно понадобится ещё какое то время, чтобы он действительно "
+msgstr  "После возвращения на корабль ему стало значительно лучше. "
+        "Конечно, понадобится ещё какое то время, чтобы он действительно "
         "выздоровел, но уже даже сейчас спасённый готов служить в вашей "
         "команде."
 
-# REVIEW
 msgid   "Being back in space terrifies him. He goes mad and nearly blows a "
         "hole in the side of your ship with a makeshift explosive in an "
         "attempt to \"escape this metal prison.\" He dies in the explosion."
 msgstr  "Возвращение в космос приводит его в ужас. Он сходит с ума и "
-        "проделывает дыру в обшивке вашего корабля самодельной взрывчаткой в "
-        "попытке \"сбежать из этой железной тюрьмы\". Во время взрыва он "
+        "пробивает дыру в обшивке вашего корабля самодельной взрывчаткой в "
+        "попытке «сбежать из этой железной тюрьмы». Во время взрыва он "
         "погибает."
 
-# REVIEW
 msgid   "It seems he was in worse health than we first thought. He did not "
         "survive the trip up to the ship..."
 msgstr  "Он был в худшем состоянии, чем мы думали. Он не пережил "
         "транспортировку на корабль..."
 
-# REVIEW
 msgid   "(Adv. Medbay) Quickly bring him to the medbay."
-msgstr  "(Улучшенный мед-отсек) Быстро несите его в мед-отсек."
+msgstr  "(Улучшенный мед-отсек) Быстрее несите его в мед-отсек!"
 
-# REVIEW
 msgid   "Your improved medbay was able to resuscitate him. After a short time "
         "he recovers greatly saying, \"I really thought I was a goner... I "
         "haven't eaten for days. Would you mind if I stayed on your ship?\""
 msgstr  "Вам удалось реанимировать его в улучшенном мед-отсеке. Прошло "
-        "немного времени, он очнулся и произнёс: \"Я действительно думал, что "
-        "я покойник... Я не помню когда я в последний раз ел. Вы не станете "
-        "возражать, если я останусь на вашем корабле?\""
+        "немного времени, он очнулся и произнёс: «Я уж думал, что "
+        "мне не жить... Я не помню когда я в последний раз ел. Вы не станете "
+        "возражать, если я останусь на вашем корабле?»"
 
-# REVIEW
 msgid   "You bring the ship closer. The Slug enters a trance-like state for 1 "
         "to 2 seconds, then quickly snaps out of it. He states, \"This person "
         "is clearly unstable. It is best we leave them alone.\""
 msgstr  "Вы подводите корабль ближе. Слаг входит в транс на пару секунд, и "
-        "быстро приходит в себя. Он сообщает: \"Этот субъект явно нестабилен. "
-        "Лучше оставить его\"."
+        "быстро приходит в себя. Он сообщает: «Этот субъект явно нестабилен. "
+        "Лучше оставить его»."
 
-# REVIEW
 msgid   "You bring the ship closer and the Slug, after a pause, says that the "
         "person is stable and with good intentions. You offer a position in "
         "your crew and it is graciously accepted."
@@ -626,7 +601,6 @@ msgstr  "Вы подводите корабль ближе и слаг, посл
         "стабилен и намерения у него добрые. Вы предлагаете ему место в вашей "
         "команде и он любезно соглашается."
 
-# REVIEW
 msgid   "You arrive at the beacon and immediately detect a pirate ship. It "
         "seems this distress beacon was a trap!"
 msgstr  "Вы прибываете к сигналу бедствия и немедленно обнаруживаете "
