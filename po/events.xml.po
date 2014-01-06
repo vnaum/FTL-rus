@@ -759,16 +759,14 @@ msgstr  "Как только вы прибыли на место сигнала 
         "вышел из строя FTL-навигатор, и мы не можем проложить курс до "
         "ближайшего ремонтного дока. Вы не можете проводить нас туда?»"
 
-# REVIEW
 msgid   "Lead them to their destination."
-msgstr  "Сопроводить их до места назначения."
+msgstr  "Отвести их к месту назначения."
 
-# REVIEW
 msgid   "\"Take this bit of scrap as a down-payment.  We'll use your jump "
         "signatures to follow you.  You're really helping us out here.\""
-msgstr  "\"Возьмите немного лома в качестве аванса. Мы будем использовать "
+msgstr  "«Возьмите немного лома в качестве задатка. Мы будем использовать "
         "следы ваших прыжков, чтобы проследовать за вами. Вы нас очень "
-        "выручаете\"."
+        "выручаете»."
 
 # REVIEW
 msgid   "Decline."
