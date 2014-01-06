@@ -19,8 +19,8 @@ msgid   "You arrive at the heart of the last Federation Fleet. Your access "
         "meaning of this?! Who are you?\""
 msgstr  "Вы прибываете в самое сердце последнего Флота Федерации. Ваши коды "
         "доступа дают вам право прохода и вы попадаете на флагман, в комнату "
-        "совещаний. Адмирал Тулли первым спрашивает вас: \"Что это значит?! "
-        "Кто вы?\""
+        "совещаний. Адмирал Тулли первым спрашивает вас: «Что это значит?! "
+        "Кто вы?»"
 
 # REVIEW
 msgid   "Explain your mission."
@@ -33,9 +33,9 @@ msgid   "Your explanation is met with murmurs of cynicism and disbelief among "
         "none.\""
 msgstr  "Ваши объяснения встречаются возгласами цинизма и недоверия среди "
         "офицеров. Генерал Турзил из отряда энжи высказывается первым: "
-        "\"Служба разведки подтверждает потенциальную возможность "
+        "«Служба разведки подтверждает потенциальную возможность "
         "противодействия технологиям мятежников. Либо рискнём всем, либо "
-        "потеряем всё\"."
+        "потеряем всё»."
 
 # REVIEW
 msgid   "Explain the weakness of the enemy fleet, the Rebel flagship."
@@ -47,10 +47,10 @@ msgid   "Tully responds, \"It's settled. The Rebels will be here in a matter "
         "you must succeed in destroying this flagship. We will refuel your "
         "ship now, and our stations will offer help wherever possible. Good "
         "luck."
-msgstr  "Тулли отвечает: \"Решено. Мятежники будет здесь в считанные минуты. "
+msgstr  "Тулли отвечает: «Решено. Мятежники будет здесь в считанные минуты. "
         "Мы сделаем всё, что сможем, чтобы задержать их военные корабли, но "
         "вы должны уничтожить этот флагман. Мы сейчас дозаправим ваше судно и "
-        "наши станции, по мере возможностей, предложат вам помощь. Удачи\"."
+        "наши станции, по мере возможностей, предложат вам помощь. Удачи»."
 
 # REVIEW
 msgid   "It appears this ship is also equipped with an advanced AI system. "
@@ -262,25 +262,25 @@ msgstr  "Люди, которых вы спасли - беженцы, бегущ
 # REVIEW
 msgid   "You are hailed, \"Thank you!  It's not much but we can repair a bit "
         "of damage before you jump off into the war. Good luck!\""
-msgstr  "Вам приходит сообщение: \"Спасибо! Мы, увы, не сможем вас как "
-        "следует отблагодарить - разве что малость подлатать перед следующим "
-        "боем. Удачи вам!\""
+msgstr  "Вам приходит сообщение: «Спасибо! Мы, увы, не сможем вас как следует "
+        "отблагодарить - разве что малость подлатать перед следующим боем. "
+        "Удачи вам!»"
 
 # REVIEW
 msgid   "The survivors send a message, \"Thanks for the support, I don't know "
         "how much longer we could have held on. Take some supplies, we "
         "probably won't need them at this point.\""
-msgstr  "Выжившие присылают сообщение: \"Спасибо за помощь. Не знаем, сколько "
+msgstr  "Выжившие присылают сообщение: «Спасибо за помощь. Не знаем, сколько "
         "мы ещё продержимся. Возьмите наши припасы - нам они, скорее всего, "
-        "уже не понадобятся\"."
+        "уже не понадобятся»."
 
 # REVIEW
 msgid   "You receive a message on encrypted Federation channels.  It says, "
         "\"Thanks for helping us, Captain. We're in the process of setting up "
         "another emergency repairs station. Transmitting coordinates now.\""
 msgstr  "Вы получаете сообщение на зашифрованных каналах Федерации. В нем "
-        "сообщается: \"Спасибо за помощь, капитан. Мы подготавливаем другую "
-        "экстренную станцию ремонта. Передаем координаты\"."
+        "сообщается: «Спасибо за помощь, капитан. Мы подготавливаем другую "
+        "экстренную станцию ремонта. Передаем координаты»."
 
 # REVIEW
 msgid   "With the Rebel ship destroyed you are free to contact their would-be "

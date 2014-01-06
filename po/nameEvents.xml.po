@@ -5,153 +5,255 @@ msgstr  "Project-Id-Version: ru\n"
         "Content-Transfer-Encoding: 8bit\n"
 
 # REVIEW
-msgid "A ship with pirate markings hails you: \"Hello, we know you have %crew on board. The bounty on %crew_his head is substantial, hand %crew_him over and we'll share it.\""
-msgstr "Корабль с пиратскими знаками вызывает вас: \"3дравствуйте, мы в курсе, что у вас на борту %сrеw. 3а голову %сrеw_his объявлена существенная награда, передайте %сrеw_him нам и мы поделимся\"."
+msgid   "A ship with pirate markings hails you: \"Hello, we know you have "
+        "%crew on board. The bounty on %crew_his head is substantial, hand "
+        "%crew_him over and we'll share it.\""
+msgstr  "Корабль с пиратскими знаками вызывает вас: «3дравствуйте, мы в "
+        "курсе, что у вас на борту %сrеw. 3а голову %сrеw_his объявлена "
+        "существенная награда, передайте %сrеw_him нам и мы поделимся»."
 
 # REVIEW
-msgid "That bounty could be vital to our survival, hand %crew over."
-msgstr "Награда может быть жизненно важной для нашего выживания, передать %сrеw."
+msgid   "That bounty could be vital to our survival, hand %crew over."
+msgstr  "Награда может быть жизненно важной для нашего выживания, передать "
+        "%сrеw."
 
 # REVIEW
-msgid "%loss1 goes without complaint, understanding your mission is more important than %loss1_his life."
-msgstr "%lоss1 уходит без возражений, понимая, что ваша миссия важнее чем жизнь %lоss1_his."
+msgid   "%loss1 goes without complaint, understanding your mission is more "
+        "important than %loss1_his life."
+msgstr  "%lоss1 уходит без возражений, понимая, что ваша миссия важнее чем "
+        "жизнь %lоss1_his."
 
 # REVIEW
-msgid "You don't give in to pirate demands. Power your weapons and prepare to fight."
-msgstr "Вы не уступили требованиям пиратов. 3аряжайте свои орудия и готовьтесь к бою."
+msgid   "You don't give in to pirate demands. Power your weapons and prepare "
+        "to fight."
+msgstr  "Вы не уступили требованиям пиратов. 3аряжайте свои орудия и "
+        "готовьтесь к бою."
 
 # REVIEW
-msgid "%req says %req_he has detected a flaw in their ship sensors and can exploit it, allowing the Kestrel to escape without a fight."
-msgstr "%rеq говорит, что %rеq_hе обнаружил уязвимость в сенсорах их корабля и сможет использовать её, чтобы дать Кестрел сбежать без боя."
+msgid   "%req says %req_he has detected a flaw in their ship sensors and can "
+        "exploit it, allowing the Kestrel to escape without a fight."
+msgstr  "%rеq говорит, что %rеq_hе обнаружил уязвимость в сенсорах их корабля "
+        "и сможет использовать её, чтобы дать Кестрел сбежать без боя."
 
 # REVIEW
-msgid "You hear a hail on all channels: \"Dammit, where did you go!? This isn't over %crew!\""
-msgstr "По всем каналам вы слышите град сообщений: \"Проклятье, куда ты делся!? Мы ещё не закончили с %сrеw!\""
+msgid   "You hear a hail on all channels: \"Dammit, where did you go!? This "
+        "isn't over %crew!\""
+msgstr  "По всем каналам вы слышите град сообщений: «Проклятье, куда ты "
+        "делся!? Мы ещё не закончили с %сrеw!»"
 
 # REVIEW
-msgid "Appears that this is an empty nebula beacon. %crew, uncomfortable with the silence, distracts %crew_himself by playing death metal over the ship speakers."
-msgstr "Кажется, что этот маяк в туманности пуст. %сrеw чувствует себя неуютно в этой тишине и %сrеw_himsеlf развлекает себя, запуская дэт-метал через громкоговорители корабля."
+msgid   "Appears that this is an empty nebula beacon. %crew, uncomfortable "
+        "with the silence, distracts %crew_himself by playing death metal "
+        "over the ship speakers."
+msgstr  "Кажется, что этот маяк в туманности пуст. %сrеw чувствует себя "
+        "неуютно в этой тишине и %сrеw_himsеlf развлекает себя, запуская дэт-"
+        "метал через громкоговорители корабля."
 
 # REVIEW
-msgid "Wow! A ship enhancement is just floating in space. %crew seems especially excited about this one."
-msgstr "Вот это, да! Элемент модернизации для корабля просто плавает в космосе. Похоже, это чрезвачайно взволновало %сrеw."
+msgid   "Wow! A ship enhancement is just floating in space. %crew seems "
+        "especially excited about this one."
+msgstr  "Вот это, да! Элемент модернизации для корабля просто плавает в "
+        "космосе. Похоже, это чрезвачайно взволновало %сrеw."
 
 # REVIEW
-msgid "A small, one man shuttle craft is headed straight for you. Repeated hails is yielding no response. You've got a strange feeling about this."
-msgstr "Небольшой одноместный корабль направляется прямо на вас. Повторение позывных не дает никакого отклика. И у вас непривычные ощущения по этому поводу."
+msgid   "A small, one man shuttle craft is headed straight for you. Repeated "
+        "hails is yielding no response. You've got a strange feeling about "
+        "this."
+msgstr  "Небольшой одноместный корабль направляется прямо на вас. Повторение "
+        "позывных не дает никакого отклика. И у вас непривычные ощущения по "
+        "этому поводу."
 
 # REVIEW
-msgid "Shoot it down. It's probably just an abandoned vessel, but better safe than sorry."
-msgstr "Расстрелять его. Вероятно, это заброшенное судно, но безопасность стоит дороже извинений."
+msgid   "Shoot it down. It's probably just an abandoned vessel, but better "
+        "safe than sorry."
+msgstr  "Расстрелять его. Вероятно, это заброшенное судно, но безопасность "
+        "стоит дороже извинений."
 
 # REVIEW
-msgid "The shuttle has no defenses and breaks apart under your heavy weapon fire."
-msgstr "У шаттла нет защитных систем и он разваливается под огнем ваших тяжелых орудий."
+msgid   "The shuttle has no defenses and breaks apart under your heavy weapon "
+        "fire."
+msgstr  "У шаттла нет защитных систем и он разваливается под огнем ваших "
+        "тяжелых орудий."
 
 # REVIEW
-msgid "Continue..."
-msgstr "Продолжить..."
+msgid   "Continue..."
+msgstr  "Продолжить..."
 
 # REVIEW
-msgid "Wait it out for a moment. Maybe someone needs help."
-msgstr "Подождите немного. Возможно, кто-то нуждается в помощи."
+msgid   "Wait it out for a moment. Maybe someone needs help."
+msgstr  "Подождите немного. Возможно, кто-то нуждается в помощи."
 
 # REVIEW
-msgid "As it gets closer, you are able to scan it for lifesigns. It seems to be unmanned. You take what little fuel it has and continue on."
-msgstr "Когда расстояние сократитлось, вы смогли просканировать его на наличие признаков жизни. Похоже, что он беспилотный. Вы забираете немного топлива, что на нем было, и летите дальше."
+msgid   "As it gets closer, you are able to scan it for lifesigns. It seems "
+        "to be unmanned. You take what little fuel it has and continue on."
+msgstr  "Когда расстояние сократитлось, вы смогли просканировать его на "
+        "наличие признаков жизни. Похоже, что он беспилотный. Вы забираете "
+        "немного топлива, что на нем было, и летите дальше."
 
 # REVIEW
-msgid "After waiting several minutes as the shuttle gets closer and closer, you finally receive a hail: \"Are you with the Federation? I'm %add1 and it sure is great to find you. I was hired to scout this sector but my ship was destroyed. If I could hitch a ride, I'd appreciate it.\" You let %add1_him beam aboard."
-msgstr "Спустя несколько минут ожидания, пока шаттл становился всё ближе, вы, наконец, получаете сообщение: \"Вы за Федерацию? Я %аdd1, и это просто здорово, что я встретил вас. Я был нанят на разведку этого сектора, но мой корабль был уничтожен. Буду признателен, если подбросите меня\". При помощи луча вы поднимаете %аdd1_him на борт."
+msgid   "After waiting several minutes as the shuttle gets closer and closer, "
+        "you finally receive a hail: \"Are you with the Federation? I'm %add1 "
+        "and it sure is great to find you. I was hired to scout this sector "
+        "but my ship was destroyed. If I could hitch a ride, I'd appreciate "
+        "it.\" You let %add1_him beam aboard."
+msgstr  "Спустя несколько минут ожидания, пока шаттл становился всё ближе, "
+        "вы, наконец, получаете сообщение: «Вы за Федерацию? Я %аdd1, и это "
+        "просто здорово, что я встретил вас. Я был нанят на разведку этого "
+        "сектора, но мой корабль был уничтожен. Буду признателен, если "
+        "подбросите меня». При помощи луча вы поднимаете %аdd1_him на борт."
 
 # REVIEW
-msgid "Once it gets closer, you detect multiple lifesigns on the ship. By the time you realize it's a rebel vessel, it's too late and they've beamed aboard."
-msgstr "По мере приближения, вы обнаружили признаки жизни на корабле. К тому времени вы поняли, что это судно мятежников, но уже было слишком поздно - они появились на борту."
+msgid   "Once it gets closer, you detect multiple lifesigns on the ship. By "
+        "the time you realize it's a rebel vessel, it's too late and they've "
+        "beamed aboard."
+msgstr  "По мере приближения, вы обнаружили признаки жизни на корабле. К тому "
+        "времени вы поняли, что это судно мятежников, но уже было слишком "
+        "поздно - они появились на борту."
 
 # REVIEW
-msgid "You detect a transporter signal! The shuttle transported multiple explosive devices to the Kestrel before self-destructing. The Kestrel is only lightly damaged, but %loss1 is caught in one of the explosions and dies."
-msgstr "Приглядевшись вы обнаружили транспортный знак! Шаттл довёз до Кестрел батарею взрывных устройств и самоуничтожился. Ваш корабль получил легкие повреждения, но lоss1% был ранен взрывом и умер."
+msgid   "You detect a transporter signal! The shuttle transported multiple "
+        "explosive devices to the Kestrel before self-destructing. The "
+        "Kestrel is only lightly damaged, but %loss1 is caught in one of the "
+        "explosions and dies."
+msgstr  "Приглядевшись вы обнаружили транспортный знак! Шаттл довёз до "
+        "Кестрел батарею взрывных устройств и самоуничтожился. Ваш корабль "
+        "получил легкие повреждения, но lоss1% был ранен взрывом и умер."
 
 # REVIEW
-msgid "Scans show no biological remains in the vessel; it was unmanned... very strange."
-msgstr "Сканирование не показывает никаких биологических останков на судне, оно было беспилотным ... очень странно."
+msgid   "Scans show no biological remains in the vessel; it was unmanned... "
+        "very strange."
+msgstr  "Сканирование не показывает никаких биологических останков на судне, "
+        "оно было беспилотным ... очень странно."
 
 # REVIEW
-msgid "In the wreckage, you detect multiple human remains. But you also discover an encrypted rebel communication system. That's one less enemy ship to worry about."
-msgstr "В обломках вы находите множество человеческих останков. А ещё вам попалась зашифрованная система связи мятежников. Вот и стало одним вражеским кораблём меньше."
+msgid   "In the wreckage, you detect multiple human remains. But you also "
+        "discover an encrypted rebel communication system. That's one less "
+        "enemy ship to worry about."
+msgstr  "В обломках вы находите множество человеческих останков. А ещё вам "
+        "попалась зашифрованная система связи мятежников. Вот и стало одним "
+        "вражеским кораблём меньше."
 
 # REVIEW
-msgid "A rebel ship arrives at the beacon. \"Ah! It seems you did our dirty work for us. Nothing worse than Engi refugees. Let us give you some spare supplies as thanks, we've been chasing those Federation lapdogs through two sectors.\" Luckily they're too grateful for your help to notice who you are."
-msgstr "К маяку прибывает корабль мятежников: \"Ааа! Похоже, вы сделали нашу грязную работу за нас. Почище беженцев с Энжи. Позвольте в благодарность отдать вам резервные запасы. Мы преследовали этих песиков Федерации целых 2 сектора\". К счастью, они слишком признательны за помощь, чтобы обратить внимание, кто вы."
+msgid   "A rebel ship arrives at the beacon. \"Ah! It seems you did our dirty "
+        "work for us. Nothing worse than Engi refugees. Let us give you some "
+        "spare supplies as thanks, we've been chasing those Federation "
+        "lapdogs through two sectors.\" Luckily they're too grateful for your "
+        "help to notice who you are."
+msgstr  "К маяку прибывает корабль мятежников: «Ааа! Похоже, вы сделали нашу "
+        "грязную работу за нас. Почище беженцев с Энжи. Позвольте в "
+        "благодарность отдать вам резервные запасы. Мы преследовали этих "
+        "песиков Федерации целых 2 сектора». К счастью, они слишком "
+        "признательны за помощь, чтобы обратить внимание, кто вы."
 
 # REVIEW
-msgid "Attempt to salvage what you can from the debris."
-msgstr "Попытаться найти что-нибудь в обломках."
+msgid   "Attempt to salvage what you can from the debris."
+msgstr  "Попытаться найти что-нибудь в обломках."
 
 # REVIEW
-msgid "(Engi) %req isn't convinced that it's safe. %req_He asks you to give %req_him some time to run some more scans."
-msgstr "(Член экипажа энжи) %rеq не уверен, что это безопасно. Он просит предоставить ему больше времени, чтобы просмотреть всё ещё раз."
+msgid   "(Engi) %req isn't convinced that it's safe. %req_He asks you to give "
+        "%req_him some time to run some more scans."
+msgstr  "(Член экипажа энжи) %rеq не уверен, что это безопасно. Он просит "
+        "предоставить ему больше времени, чтобы просмотреть всё ещё раз."
 
 # REVIEW
-msgid "Who knows what dangers that wreckage could hold? You don't need the supplies anyway. Continue on your way."
-msgstr "Кто знает, какие опасности могут содержать обломки? Вам всё равно не нужны запасы. Продолжайте свой путь."
+msgid   "Who knows what dangers that wreckage could hold? You don't need the "
+        "supplies anyway. Continue on your way."
+msgstr  "Кто знает, какие опасности могут содержать обломки? Вам всё равно не "
+        "нужны запасы. Продолжайте свой путь."
 
 # REVIEW
-msgid "You stumble upon the remnents of a recent battle. One ship nearby looks like it could still have some valuable resources."
-msgstr "Вы наткнулись на остатки недавней битвы. Одно судно поблизости выглядит так, будто в нем ещё могут быть ценные ресурсы."
+msgid   "You stumble upon the remnents of a recent battle. One ship nearby "
+        "looks like it could still have some valuable resources."
+msgstr  "Вы наткнулись на остатки недавней битвы. Одно судно поблизости "
+        "выглядит так, будто в нем ещё могут быть ценные ресурсы."
 
 # REVIEW
-msgid "A derelict Selz class freighter is floating near this beacon. It could contain something valuable."
-msgstr "3аброшенное грузовое судно класса 3ельц плавает возле этого маяка. Оно может содержать что-нибудь ценное."
+msgid   "A derelict Selz class freighter is floating near this beacon. It "
+        "could contain something valuable."
+msgstr  "3аброшенное грузовое судно класса 3ельц плавает возле этого маяка. "
+        "Оно может содержать что-нибудь ценное."
 
 # REVIEW
-msgid "A massive space station is orbitting a nearby moon. Initial scans show it to be empty and abandoned."
-msgstr "Массивная полуразрушенная космическая станция находится на орбите около луны. Первоначальное сканирование показывает, что она пустая и заброшенная."
+msgid   "A massive space station is orbitting a nearby moon. Initial scans "
+        "show it to be empty and abandoned."
+msgstr  "Массивная полуразрушенная космическая станция находится на орбите "
+        "около луны. Первоначальное сканирование показывает, что она пустая и "
+        "заброшенная."
 
 # REVIEW
-msgid "An explosion rocks your ship, it seems the wreckage was rigged to explode. You don't know why anyone would do something so malicious..."
-msgstr "Взорвавшиеся обломки на вашем корабле скорее всего содержали замаскированное взрывное устройство. Вы не знаете, зачем это кто-то подстроил..."
+msgid   "An explosion rocks your ship, it seems the wreckage was rigged to "
+        "explode. You don't know why anyone would do something so malicious..."
+msgstr  "Взорвавшиеся обломки на вашем корабле скорее всего содержали "
+        "замаскированное взрывное устройство. Вы не знаете, зачем это кто-то "
+        "подстроил..."
 
 # REVIEW
-msgid "When you get close enough to start scrapping the wreckage, your systems detect a transmission going out. It seems the rebels rigged it to warn them of your arrival."
-msgstr "Как только вы приблизились для сбора обломков, ваши системы обнаружили исходящую передачу. Скорее всего этот маячок спрятали мятежники чтобы вас обнаружить."
+msgid   "When you get close enough to start scrapping the wreckage, your "
+        "systems detect a transmission going out. It seems the rebels rigged "
+        "it to warn them of your arrival."
+msgstr  "Как только вы приблизились для сбора обломков, ваши системы "
+        "обнаружили исходящую передачу. Скорее всего этот маячок спрятали "
+        "мятежники чтобы вас обнаружить."
 
 # REVIEW
-msgid "You discover the wreckage has tons use-able scrap and even some weaponry!"
-msgstr "Вы обнаружили несколько тонн обломков, среди которых лом и некоторое вооружение."
+msgid   "You discover the wreckage has tons use-able scrap and even some "
+        "weaponry!"
+msgstr  "Вы обнаружили несколько тонн обломков, среди которых лом и некоторое "
+        "вооружение."
 
 # REVIEW
-msgid "%req discovers that the ship is rigged to explode if you get too near. Better that you avoid the wreckage and continue on your way."
-msgstr "%rеq обнаружил, что обломки заминированы и взорвутся, если вы подойдете слишком близко. Было бы лучше, если бы вы обошли их и продолжили свой путь."
+msgid   "%req discovers that the ship is rigged to explode if you get too "
+        "near. Better that you avoid the wreckage and continue on your way."
+msgstr  "%rеq обнаружил, что обломки заминированы и взорвутся, если вы "
+        "подойдете слишком близко. Было бы лучше, если бы вы обошли их и "
+        "продолжили свой путь."
 
 # REVIEW
-msgid "%req finds a hidden rebel transmitter on the wreckage! %req_He's able to disable it remotely and leaves you to scrap the ship for valuable supplies"
-msgstr "%rеq нашел скрытый передатчик мятежников в обломках! Он может удаленно отключить его, чтобы можно было собрать на корабль ценные ресурсы."
+msgid   "%req finds a hidden rebel transmitter on the wreckage! %req_He's "
+        "able to disable it remotely and leaves you to scrap the ship for "
+        "valuable supplies"
+msgstr  "%rеq нашел скрытый передатчик мятежников в обломках! Он может "
+        "удаленно отключить его, чтобы можно было собрать на корабль ценные "
+        "ресурсы."
 
 # REVIEW
-msgid "%req discovers nothing extraordinary about this specific wreckage. You go about salvaging what you can."
-msgstr "%rеq не обнаружил ничего необычного в данных конкретных обломках. Вы принимаетесь собирать то, что там ещё можно собрать."
+msgid   "%req discovers nothing extraordinary about this specific wreckage. "
+        "You go about salvaging what you can."
+msgstr  "%rеq не обнаружил ничего необычного в данных конкретных обломках. Вы "
+        "принимаетесь собирать то, что там ещё можно собрать."
 
 # REVIEW
-msgid "You come across a freightor of Engi refugees fleeing the rebels. Their ship is seriously damaged and they clearly need help"
-msgstr "Вы столкнулись с грузовым судном беженцев энжи, спасающихся от мятежников. Их корабль серьезно повреждён, и они явно нуждаются в помощи."
+msgid   "You come across a freightor of Engi refugees fleeing the rebels. "
+        "Their ship is seriously damaged and they clearly need help"
+msgstr  "Вы столкнулись с грузовым судном беженцев энжи, спасающихся от "
+        "мятежников. Их корабль серьезно повреждён, и они явно нуждаются в "
+        "помощи."
 
 # REVIEW
-msgid "You just don't have the equipment or the time to help them. We wish them luck and let them go on their way."
-msgstr "Вам просто не хватает ни оборудования, ни времени, чтобы помочь им. Мы пожелаем им удачи в их дальнейшем пути."
+msgid   "You just don't have the equipment or the time to help them. We wish "
+        "them luck and let them go on their way."
+msgstr  "Вам просто не хватает ни оборудования, ни времени, чтобы помочь им. "
+        "Мы пожелаем им удачи в их дальнейшем пути."
 
 # REVIEW
-msgid "You give them what scrap you can afford to aid them in their repair efforts."
-msgstr "Вы даете им столько лома, сколько можете себе позволить, чтобы оказать помощь с их ремонтными работами."
+msgid   "You give them what scrap you can afford to aid them in their repair "
+        "efforts."
+msgstr  "Вы даете им столько лома, сколько можете себе позволить, чтобы "
+        "оказать помощь с их ремонтными работами."
 
 # REVIEW
-msgid "They thank you repeatedly and wish you good luck on your mission."
-msgstr "Они благодарят вас, не переставая, и желают удачи в вашей миссии."
+msgid   "They thank you repeatedly and wish you good luck on your mission."
+msgstr  "Они благодарят вас, не переставая, и желают удачи в вашей миссии."
 
 # REVIEW
-msgid "(Engi) Your crewmember wants to go aboard to see if he can provide any help personally. He requests some scrap to help."
-msgstr "(Член экипажа энжи) Ваш энжи хочет войти на судно и посмотреть, сможет ли он лично оказать какую-либо помощь. Для оказания помощи он просит некоторое количество лома."
+msgid   "(Engi) Your crewmember wants to go aboard to see if he can provide "
+        "any help personally. He requests some scrap to help."
+msgstr  "(Член экипажа энжи) Ваш энжи хочет войти на судно и посмотреть, "
+        "сможет ли он лично оказать какую-либо помощь. Для оказания помощи он "
+        "просит некоторое количество лома."
 
 # REVIEW
-msgid "He returns bearing good news. He was able to improve their engines and convinced one of their crew to join your cause."
-msgstr "Он вернулся с хорошей новостью. Ему удалось улучшить двигатели и убедить одного из их экипажа присоединиться к вам."
+msgid   "He returns bearing good news. He was able to improve their engines "
+        "and convinced one of their crew to join your cause."
+msgstr  "Он вернулся с хорошей новостью. Ему удалось улучшить двигатели и "
+        "убедить одного из их экипажа присоединиться к вам."
