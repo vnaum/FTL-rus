@@ -1,0 +1,16 @@
+#!/usr/bin/env python
+# vim: fileencoding=utf-8
+import sys
+import polib
+import re
+
+def typeset(s):
+    # doing this twice is enough
+    return s.replace('"', u'«',1).replace('"', u'»',1)
+
+for fn in sys.argv[1:-1]:
+    print "typesetting translation in %s" % fn
+    po = polib.pofile(fn)
+    for entry in po:
+        entry.msgstr = typeset(entry.msgstr)
+    po.save(fn)
