@@ -314,11 +314,9 @@ msgid   "You were too late. A hull breach deprived the crew of oxygen during "
 msgstr  "Вы опоздали. Повреждение корпуса лишило команду кислорода во время "
         "борьбы с пиратами. Вы собираете то что можете."
 
-# REVIEW
 msgid   "The pirate's victim quickly jumps away before you have a chance to "
         "speak to them."
-msgstr  "Жертвы пиратов улетают от вас, до того как вы успеваете пойти на "
-        "контакт с ними."
+msgstr  "Жертвы пиратского нападения улетели до того, как вы с ними связались."
 
 # REVIEW
 msgid   "\"Thank you for the aid! I'm an arms dealer that usually only works "
