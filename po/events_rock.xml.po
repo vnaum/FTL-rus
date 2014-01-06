@@ -573,7 +573,7 @@ msgid   "In the time it took you to eliminate the Mantis ship the Rock must "
         "have repaired their FTL drive and jumped away. You pick the bones of "
         "both Mantis vessels."
 msgstr  "3а время, пока вы уничтожали корабль мантисов, роки, должно быть, "
-        "починили свой FTL привод и бежали. Вы собираете останки обоих судов "
+        "починили свой FTL-привод и бежали. Вы собираете останки обоих судов "
         "мантисов."
 
 # REVIEW

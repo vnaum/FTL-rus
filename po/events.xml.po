@@ -127,12 +127,12 @@ msgstr  "Добро пожаловать в новый сектор! Добер�
 
 msgid   "You've arrived at the Long-Range Beacon. When the FTL Drive is "
         "charged you can jump to the next Sector."
-msgstr  "Вы долетели до маяка дальнего действия. Когда FTL привод зарядится, "
+msgstr  "Вы долетели до маяка дальнего действия. Когда FTL-привод зарядится, "
         "вы сможете прыгнуть в следующий сектор."
 
 msgid   "This Long-Range Beacon is almost hidden within a nebula. When the "
         "FTL Drive is charged you can jump to the next Sector."
-msgstr  "Этот маяк дальнего действия скрыт туманностью. Когда FTL привод "
+msgstr  "Этот маяк дальнего действия скрыт туманностью. Когда FTL-привод "
         "зарядится, вы сможете прыгнуть в следующий сектор."
 
 msgid   "The Rebel fleet has found you, and a nearby scout turns to engage. "
@@ -430,7 +430,7 @@ msgid   "A small civilian ship flies over as soon as you arrive. You're "
         "fuel and can't jump."
 msgstr  "Маленький гражданский корабль подлетает к вам как только вы прибыли. "
         "Вы уже готовитесь защищаться, но тут они передают, что у них "
-        "кончилось топливо для FTL привода."
+        "кончилось топливо для FTL-привода."
 
 msgid   "\"Hello. We used our last FTL fuel to jump to this station.\" They "
         "indicate a burnt out husk of debris and warped metal. \"As you can "
@@ -2962,7 +2962,7 @@ msgid   "The pirates must not have been fully committed to the assault; they "
         "have been charging their FTL. They jump away, presumably to repair "
         "their ship."
 msgstr  "Должно быть пираты не были полностью поглощены боем - они заряжали "
-        "свой FTL привод. Они прыгают прочь, видимо для починки корабля."
+        "свой FTL-привод. Они прыгают прочь, видимо для починки корабля."
 
 # REVIEW
 msgid   "Hail the civilian ship."
@@ -2971,7 +2971,7 @@ msgstr  "Поприветствовать гражданский корабль.
 # REVIEW
 msgid   "The enemy ship appears to be powering up its FTL. It's trying to "
         "escape!"
-msgstr  "Кажется вражеский корабль заряжает FTL привод. Он пытается удрать!"
+msgstr  "Кажется вражеский корабль заряжает FTL-привод. Он пытается удрать!"
 
 # REVIEW
 msgid   "There are no more life-signs remaining on the ship. You strip it of "
@@ -3319,7 +3319,7 @@ msgstr  "Собрать немного лома из развалин."
 # REVIEW
 msgid   "While waiting for the FTL drive to charge, you skirt around the edge "
         "of the station and collect some scrap."
-msgstr  "Ожидая, пока зарядится FTL привод, вы обходите по периметру станции "
+msgstr  "Ожидая, пока зарядится FTL-привод, вы обходите по периметру станции "
         "и собираете лом."
 
 # REVIEW

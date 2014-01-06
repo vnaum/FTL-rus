@@ -476,7 +476,7 @@ msgstr  "Вы подслушиваете разговор мантисов по 
 msgid   "You power down non-essential systems and wait for the FTL drive to "
         "charge.  They either don't want to fight or have failed to notice "
         "your ship, the later being more likely."
-msgstr  "Вы отключаете несущественные системы и ждете, пока FTL привод "
+msgstr  "Вы отключаете несущественные системы и ждете, пока FTL-привод "
         "зарядится. Они или не хотят ввязываться в бой, или не заметили ваш "
         "корабль, что куда больше похоже на правду."
 

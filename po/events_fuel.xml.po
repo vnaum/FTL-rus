@@ -208,7 +208,7 @@ msgid   "You find a small outpost for local travelers, but it seems few ships "
         "in this area employ FTL drives. Their stock of fuel cells is small "
         "and their price high, but beggars can't be choosers..."
 msgstr  "Вы натыкаетесь на небольшую перевалочную станцию для ближних "
-        "путешественников. FTL приводы здесь почти никто не использует, и "
+        "путешественников. FTL-приводы здесь почти никто не использует, и "
         "местный запас топливных ячеек скромен, а цена высока. Но вариантов у "
         "вас нет..."
 
@@ -740,7 +740,7 @@ msgid   "Despite his fragile condition, the Rockman is good to his word and "
         "doesn't power the FTL drive."
 msgstr  "Несмотря на своё... нездоровое состояние, рок сдержал слово и вернул "
         "членов вашей команды, счастливых и благодарных. К сожалению их "
-        "благодарность не заправит FTL приводы."
+        "благодарность не заправит FTL-приводы."
 
 # REVIEW
 msgid   "Refuse."

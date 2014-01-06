@@ -45,7 +45,7 @@ msgstr  "Корабль энжи приветствует: «Улучшение 
 msgid   "The complex arrangements of ship hulls and FTL drive capacitors "
         "floating abandoned in space suggest the Engi were here not too long "
         "ago; but no longer."
-msgstr  "Сложные переплетения корабельных корпусов и ячеек FTL приводов "
+msgstr  "Сложные переплетения корабельных корпусов и ячеек FTL-приводов "
         "плавают, всеми покинутые, в открытом космосе. Всё указывает на то, "
         "что энжи были здесь не так давно. Были и не стало..."
 

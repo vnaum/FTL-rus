@@ -417,7 +417,7 @@ msgid   "You divert all available power to your engines and flee. You caught "
 msgstr  "Вы переводите все возможные мощности на двигатель и сбегаете. Вы "
         "застали их врасплох, но они, похоже, нагоняют вас. К счастью вы "
         "можете держать их на расстоянии достаточно долго, чтобы успеть "
-        "зарядить FTL привод."
+        "зарядить FTL-привод."
 
 # REVIEW
 msgid   "You fire up the engines and try to escape. Their slower ship is "
