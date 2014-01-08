@@ -806,17 +806,15 @@ msgid   "Upon arriving at this beacon, you detect a distress call.  Local "
 msgstr  "Прибыв к маяку, вы обнаружили источник сигнала бедствия. "
         "Это транспорт Федерации под огнём разведчика мятежников!"
 
-# REVIEW
 msgid   "You immediately notice a Rebel ship chasing what appears to be a "
         "civilian transport.  However you are detecting chatter on an "
         "encrypted Federation channel... That transport is carrying "
         "Federation loyalists!"
-msgstr  "Вы неожиданно замечаете корабль мятежников, преследующий что-то "
-        "похожее на гражданский транспорт. И тут вы перехватываете разговор "
-        "на зашифрованном канале Федерации... Этот транспорт перевозит "
+msgstr  "Вы неожиданно замечаете корабль мятежников, преследующий какой-то "
+        "гражданский транспортый корабль. И тут вы перехватываете разговор "
+        "на зашифрованном канале Федерации... Этот транспорт "
         "сторонников Федерации!"
 
-# REVIEW
 msgid   "Your sensors are picking up a distress call on an encrypted "
         "Federation channel.  You eventually find a Federation scout being "
         "chased by a Rebel fighter!"
@@ -824,49 +822,43 @@ msgstr  "Ваши сенсоры засекли сигнал бедствия н
         "Федерации. Выяснилось, что разведчик Федерации находится под атакой "
         "истребителя мятежников!"
 
-# REVIEW
 msgid   "\"Thank you for saving us.  This ship is transporting Federation "
         "civilians on the run from the rebellion and we don't have the "
         "equipment to fight for ourselves.  I don't have much to offer, but I "
         "can inform you of a hidden Federation base nearby.  Perhaps they can "
         "assist you more.\""
 msgstr  "«Спасибо, что спасли нас. Этот корабль перевозит граждан Федерации, "
-        "скрывающихся от мятежников, и нам нечем защищаться. Я не могу "
-        "многого предложить, но я могу сообщить вам о скрытой базе Федерации, "
-        "недалеко отсюда. Может они помогут вам больше нашего»."
+        "спасающихся от бунтовщиков, и нам нечем защищаться. Я не могу "
+        "многого предложить, но сообщу вам о секретной базе Федерации "
+        "неподалеку. Может они помогут вам больше нашего»."
 
-# REVIEW
 msgid   "Their ship looks to be on the verge of destruction and life signs "
         "are fading quickly."
 msgstr  "Их корабль, кажется, на грани разрушения, и признаков жизни всё "
         "меньше и меньше."
 
-# REVIEW
 msgid   "Quickly try to rescue the crew."
-msgstr  "Быстро попытаться спасти команду."
+msgstr  "Попытаться спасти команду как можно скорее."
 
-# REVIEW
 msgid   "Despite your efforts the majority do not survive.  The sole survivor "
         "offers to join your crew and helps you strip the now derelict ship "
         "of useful components."
-msgstr  "Несмотря на ваши попытки, большинство не выжило. Единственный "
+msgstr  "Несмотря на ваши усилия, почти все погибли. Единственный "
         "выживший предлагает присоединиться к вашей команде и помочь "
-        "разобрать брошенный корабль на полезные компоненты."
+        "снять с бесхозного корабля всё, что ещё может пригодиться."
 
-# REVIEW
 msgid   "(Nano Med-bot Dispersal) Pump their ship with nano med-bots to aid "
         "in the rescue."
 msgstr  "(Нано мед-боты энжи) Накачать в их корабль нано мед-ботов, чтобы "
         "помочь в спасении."
 
-# REVIEW
 msgid   "You drag the injured and dying crew on to your ship.  The med-bots "
         "help stabilize their condition, but most perish.  The survivor "
         "offers to join your crew and helps you strip their broken ship of "
         "scrap."
 msgstr  "Вы перенесли раненых и умирающих членов команды на ваш корабль. Мед-"
-        "боты помогли стабилизировать их состояние, но большинство погибло. "
-        "Выживший предлагает присоединиться к вашей команде и помочь "
+        "боты помогли стабилизировать их состояние, но большинство всё равно не выжили. "
+        "Оставшийся в живых предлагает присоединиться к вашей команде и помочь "
         "разобрать его разбитый корабль на лом."
 
 # REVIEW
@@ -875,75 +867,65 @@ msgid   "(Teleporter) Lock on to all remaining life signatures and beam them "
 msgstr  "(Телепортер) 3афиксировать координаты всех оставшихся в живых и "
         "переместить их на ваш корабль."
 
-# REVIEW
 msgid   "Your quick reactions allow you to stabilize a few of the seriously "
         "wounded crew members.  One offers to join your crew and the rest "
         "tell you of a hidden Federation base a few jumps from here."
-msgstr  "Ваша быстрая реакция позволила стабилизировать нескольких тяжело "
-        "раненых членов экипажа. Один предложил присоединиться к вам, а "
-        "остальные рассказали о спрятанной базе Федерации в нескольких "
+msgstr  "Ваша быстрая реакция спасла жизнь нескольким тяжело "
+        "раненым членам экипажа. Один предложил присоединиться к вам, а "
+        "остальные рассказали о тайной базе Федерации в нескольких "
         "прыжках отсюда."
 
-# REVIEW
 msgid   "\"Thanks, we didn't think there would be Rebel ships all the way out "
         "here.  They seem to be searching for something.  Take some extra "
         "supplies as thanks for your aid.\""
-msgstr  "«Спасибо, мы не думали, что встретим тут корабль мятежников. Похоже "
+msgstr  "«Спасибо, мы и не думали встретить корабль мятежников так близко. Кажется, "
         "они искали что-то. Возьмите ещё припасы в качестве благодарности за "
         "вашу помощь»."
 
-# REVIEW
 msgid   "You arrive at the distress beacon near a small asteroid belt and "
         "find a ship with pirate markings partially crushed between two large "
         "rocks. It must have been illegally mining the belt without proper "
         "equipment."
 msgstr  "Вы прибыли к маяку бедствия недалеко от маленького пояса астероидов "
-        "и нашли корабль с пиратскими знаками, частично разбившимся между "
-        "двух больших камней. Он, должно быть, незаконно добывал в поясе без "
-        "надлежащего оборудования."
+        "и нашли корабль с пиратскими отметинами, частично зажатый "
+        "двумя огромными скалами. Он, должно быть, воровал полезные ископаемые "
+        "с астероидов без соблюдения техники безопасности."
 
-# REVIEW
 msgid   "Try to dislodge the ship by shooting at the rocks."
 msgstr  "Попытаться выбить корабль, выстрелив в камни."
 
-# REVIEW
 msgid   "Destroy and loot the ship. They're just pirates."
 msgstr  "Уничтожить и разграбить корабль. Они просто пираты."
 
-# REVIEW
 msgid   "(Beam Weapon) Carefully cut the ship out."
 msgstr  "(Лучевое орудие) Аккуратно вырезать корабль."
 
-# REVIEW
 msgid   "You use your beam to make a few precision cuts in the asteroid. The "
         "ship gives a quick burst of thrust and the rock crumbles away. They "
         "thank you and offer some of the resources they have collected."
-msgstr  "Вы используете ваш луч, чтобы сделать несколько точных разрезов в "
-        "астероиде. Корабль делает быстрый выплеск тяги и камень осыпается. "
-        "Они благодарят вас и предлагают немного тех ресурсов, что собрали."
+msgstr  "Вы делаете несколько точных разрезов своим лучом. "
+        "Корабль включает тягу и осколки астероида разлетаются. "
+        "Они благодарят вас и предлагают немного собранных ресурсов."
 
-# REVIEW
 msgid   "(Beam Drone) Have your drone cut the ship out."
-msgstr  "(Лучевой дрон) Поручить вашему дрону вырезать корабль."
+msgstr  "(Лучевой дрон) Поручить вашему дрону вырезать корабль из камней."
 
-# REVIEW
 msgid   "You program the drone to work carefully around the trapped ship. In "
         "a short time it allows the ship to easily slip out of its cage. They "
         "thank you and offer some of the resources they have collected."
-msgstr  "Вы программируете дрона на аккуратную работу вокруг застрявшего "
-        "корабля. Это позволяет за короткий промежуток времени высвободиться "
-        "кораблю из плена. Они благодарят вас и предлагают немного тех "
-        "ресурсов, что собрали."
+msgstr  "Вы программируете дрона на аккуратное выпиливание скалы вокруг незадачливого "
+        "шахтёра. Это позволяет кораблю за короткий промежуток времени высвободиться "
+        "из плена. Они благодарят вас и предлагают немного собранных "
+        "ресурсов."
 
-# REVIEW
 msgid   "You take a few careful shots but you expose a mineral patch in the "
         "rock that reacts violently with your weapon. A shockwave forces you "
         "back as debris pelts against your hull. When you regain control you "
         "find there is not much left of the ship."
-msgstr  "Вы делаете несколько аккуратных выстрелов, но высвобождаете кусок "
-        "минерала, который бурно реагирует с вашим оружием. Ударная волна "
-        "отбрасывает вас, пока обломки барабанят об ваш корпус. Когда вы "
-        "возвращаете управление, то обнаруживаете, что от корабля почти "
+msgstr  "Вы делаете несколько аккуратных выстрелов, но попадаете в жилу "
+        "какого-то минерала, который бурно реагирует с вашим оружием. Ударная волна "
+        "отбрасывает вас, пока обломки барабанят о ваш корпус. Когда вы "
+        "приходите в себя, то обнаруживаете, что от застрявшего корабля почти "
         "ничего не осталось."
 
 # REVIEW
