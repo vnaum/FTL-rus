@@ -1782,46 +1782,38 @@ msgstr  "В этом секторе бурлит жизнь. Ожидая пер
         "ваше внимание привлекают предложения одного местного барыги с "
         "чёрного рынка."
 
-# REVIEW
 msgid   "Your ship is flooded with advertisement transmissions from nearby "
         "merchants as soon as you arrive at this beacon. You arbitrarily pick "
         "one to examine in detail."
-msgstr  "Как только вы подлетаете к этому маяку, ваш корабль захлестывают "
-        "рекламные объявления от близлежащих торгововых точек. Вы наугад "
-        "выбираете одну, подгоняемые любопытством, что же они могут "
+msgstr  "Как только вы подлетаете к этому маяку, вашу консоль переполняют "
+        "рекламные сообщения от близлежащих торговых точек. Вы наугад "
+        "выбираете одно и смотрите, что же они могут "
         "предложить."
 
-# REVIEW
 msgid   "Despite the barren area, a trader has set up shop at this beacon. He "
         "presents his offer."
-msgstr  "Не смотря на пустующие края, торговец основал магазинчик на этом "
-        "маяке. Он предлагает свои услуги."
+msgstr  "Хотя здесь почти никто не бывает, какой-то торговец открыл магазинчик у этого "
+        "маяка."
 
-# REVIEW
 msgid   "The beacon at first glance seems home to a junk yard. Upon closer "
         "inspection, it reveals itself to be a ramshackle market. One trader "
         "has a deal that catches your eye."
-msgstr  "С первого взгляда маяк похож на место какой-то свалки. Но при "
-        "ближнем рассмотрении оказывается, что это такой невзрачный рынок. "
+msgstr  "На первый взляд этот маяк расположен посреди свалки. "
+        "Но если присмотреться получше, то это не свалка, а огромный блошиный рынок. "
         "Предложение одного из торговцев вас заинтересовало."
 
-# REVIEW
 msgid   "A pawn broker has set up shop at this obscure beacon. He might be "
         "offering something worth looking at."
-msgstr  "Ростовщик открыл магазин на этом Богом забытом маяке. Возможно у "
-        "него и найдётся что-нибудь, что могло бы вам пригодиться..."
+msgstr  "У этого богом забытого маяка вы видите ломбард. Возможно, у ростовщика "
+        "найдётся и что-нибудь стоящее..."
 
-# REVIEW
 msgid   "This is a great opportunity. Let's dock and see if we can find "
         "valuable supplies."
-msgstr  "Это отличная возможность. Давайте пристыкуемся и посмотрим, найдётся "
-        "ли там что-нибудь полезное."
+msgstr  "Это отличная возможность. Давайте пристыкуемся и посмотрим  что там есть."
 
-# REVIEW
 msgid   "We're in a hurry, let's just quickly pull some scrap off the ship."
-msgstr  "Мы торопимся, давайте просто сбудем немного лома с корабля."
+msgstr  "Мы торопимся, давайте просто нарежем немного металлолома лома с корабля."
 
-# REVIEW
 msgid   "Something seems wrong here. Let's just leave."
 msgstr  "Что-то тут не так. Давайте просто уйдем."
 
@@ -1830,14 +1822,12 @@ msgid   "This beacon lies in an empty section of space. You almost move on "
         "before spotting a heavily damaged ship drifting nearby. The ship's "
         "markings are unfamiliar."
 msgstr  "Маяк находится в пустой части космоса. Вы практически пролетаете "
-        "мимо, как замечаете сильно поврежденный корабль, дрейфующий "
+        "мимо, как замечаете сильно повреждённый корабль, дрейфующий "
         "неподалеку. Опознавательные знаки на корабле выглядят незнакомо."
 
-# REVIEW
 msgid   "You share this beacon with just one other ship, but it appears "
         "ancient and long since abandoned."
-msgstr  "Кроме вас возле маяка находится лишь один корабль. Он заброшен и, "
-        "похоже, очень, очень давно."
+msgstr  "Кроме вас возле маяка находится лишь один корабль. Он давным-давно заброшен."
 
 msgid   "Another ship is jumping away just as you arrive. They send out a "
         "quick communication before their jump completes: \"That ruined bulk "
@@ -1848,13 +1838,12 @@ msgstr  "Какой-то корабль прыгает прочь, как тол
         "груды лома больше проблем, чем пользы». Вы видите дрейфующее "
         "заброшенное судно неподалёку."
 
-# REVIEW
 msgid   "There's a heavily damaged ship at this beacon. You briefly pick up a "
         "very distorted communication from the ship but are unable to "
         "understand it. Your sensors detect no life-signs."
-msgstr  "Возле маяка сильно поврежденный корабль. Вы принимаете разрозненные "
-        "передачи с этого корабля, но не способны их различить. Ваши сенсоры "
-        "не обнаружили признаков жизни."
+msgstr  "Возле маяка - сильно повреждённый корабль. Вы принимаете от него искажённый "
+        "сигнал, не поддающийся раскодированию. Сенсоры "
+        "не обнаруживают признаков жизни."
 
 # REVIEW
 msgid   "Your crew complains of hearing strange voices as they work. One "
