@@ -1940,136 +1940,112 @@ msgstr  "Вы теряете одного из команды в бою, но п
 msgid   "The ghosts follow your crew-members back on board the ship!"
 msgstr  "Призраки гонятся за командой и продолжают бой на борту вашего корабля!"
 
-# REVIEW
 msgid   "You arrive at a populated sector.  One merchant seems to be mass-"
         "broadcasting a request for a mercenary ship to aid him.  Shall we "
         "respond?"
 msgstr  "Вы прибыли в густонаселённый сектор. Один из торговцев на общей "
         "частоте предлагает выгодный контракт для наёмников. Откликнуться?"
 
-# REVIEW
 msgid   "Yes."
 msgstr  "Да."
 
-# REVIEW
 msgid   "No."
 msgstr  "Нет."
 
-# REVIEW
 msgid   "\"Great, I was worried no one would respond.  My usual carrier is "
         "days late. I need you to deliver this cargo of drone parts to a "
         "small station a few jumps from here.  I'll pay you a bit of scrap "
         "now, but they will surely tip you generously."
 msgstr  "«Отлично, хоть кто-то отозвался. Мой курьер где-то запропастился, а "
-        "мне срочно нужно передать груз деталей дронов на одну станцию. Это "
-        "недалеко. Я дам немного лома авансом, а они доплатят остальную часть "
-        "суммы после доставки»."
+        "мне срочно нужно перевезти груз деталей дронов на станцию "
+        "в паре прыжков отсюда. Я дам небольшой аванс, остальную часть суммы они доплатят "
+        "после доставки»."
 
-# REVIEW
 msgid   "Accept."
 msgstr  "Согласиться."
 
-# REVIEW
 msgid   "Great!  I uploaded their location to your star map.   I'm running "
         "out of options, so I have no choice but to trust you'll do what you "
         "have agreed to do."
 msgstr  "«По рукам! Передаю координаты станции. Я попал в сложное положение, "
-        "так что у меня нет выбора, кроме как поверить, что вы выполните свою "
+        "так что у меня нет выбора, кроме как поверить вам на слово. Надеюсь, вы выполните свою "
         "часть договора»."
 
-# REVIEW
 msgid   "\"Fine, I'll keep looking for someone who wishes to make some easy "
         "money...\""
-msgstr  "«Ну и ладно. Поищу кого-нибудь, кто понимает, что такие лёгкие "
-        "деньги на дороге не валяются»."
+msgstr  "«Жалко. Поищу кого-нибудь, кто хочет быстро заработать."
 
-# REVIEW
 msgid   "\"Your ship seems reasonably equipped... A freighter carrying a "
         "shipment of my goods is a week late. The fools flew through a pirate-"
         "filled sector in their haste and I fear for the cargo's safety. I'm "
         "looking for a less incompetent captain to investigate."
-msgstr  "«Ваш корабль, похоже, хорошо экипирован... Истребитель, "
-        "транспортирующий мой груз, запаздывает на неделю. Эти дураки из-за "
-        "спешки пролетели через сектор полный пиратов, и я боюсь за "
-        "сохранность груза. Я ищу менее некомпетентного капитана для "
-        "расследования»."
+msgstr  "«Ваш корабль, кажется, подойдёт для этой работы... Грузовое судно "
+        "с партией моего товара запаздывает вот уже на неделю. Эти дураки в "
+        "спешке решили полететь через пиратский сектор, и я боюсь за "
+        "сохранность груза. Я ищу капитана потолковее - "
+        "разузнать, что случилось»."
 
-# REVIEW
 msgid   "\"At least you're confident, for what little that's worth. Here is "
         "their last known location.\""
-msgstr  "«Что ж, вы хоть выглядите достаточно самонадеянно, и похоже знаете, "
-        "за что берётесь. Вот их последнее месторасположение»."
+msgstr  "«Надеюсь, вы знаете, за что берётесь. Вот их последние координаты»."
 
-# REVIEW
 msgid   "\"At least YOU are willing to admit your incompetence. Thank you for "
         "saving me the cost of paying more fools to go to their death.\""
 msgstr  "«Эх, жаль. Ну, в отличие от некоторых, вы хотя бы готовы признать "
         "свою некомпетентность. Спасибо, что избавили меня от дополнительных "
-        "трат на ещё одних дураков, посланных умирать»."
+        "расходов на ещё одних дураков, посланных умирать»."
 
-# REVIEW
 msgid   "You arrive at the location given to you by the merchant.  You are "
         "supposed to deliver drone parts to a station here."
 msgstr  "Вы прибыли в место, указанное торговцем. Вы должны доставить части "
         "дронов на местную станцию."
 
-# REVIEW
 msgid   "You find the small research station and discover that it's putting "
         "out a distress signal.  Strangely, there is no response to your "
         "hails."
 msgstr  "Вы нашли небольшую исследовательскую станцию и обнаружили что она "
-        "дает сигнал бедствия. Странно, они не отвечают на ваше приветствие."
+        "подаёт сигнал бедствия. Странно, они не отвечают на ваше приветствие."
 
-# REVIEW
 msgid   "You find the station and they respond to your hails immediately, "
         "saying, \"It took you long enough! We have practically no use for "
         "these now...  I refuse to pay full price, take this and leave the "
         "cargo in our holds."
 msgstr  "Вы находите станцию и они немедленно отвечают на ваше приветствие: "
-        "«Чего так долго? Теперь они нам почти бесполезны... Я отказываюсь "
-        "платить полную цену, возьмите это и оставьте груз в нашем трюме»."
+        "«Чего так долго? Теперь от этих дронов никакого толку! Я отказываюсь "
+        "платить полную цену. Бери сколько дают и выгружай груз»."
 
-# REVIEW
 msgid   "Accept the paltry payment."
 msgstr  "Принять жалкое вознаграждение."
 
-# REVIEW
 msgid   "You drop the parts off and take your pay."
-msgstr  "Вы сбрасываете запчасти и получаете свою плату."
+msgstr  "Вы выгружаете запчасти и получаете оплату."
 
-# REVIEW
 msgid   "Refuse and keep the drone parts."
 msgstr  "Отказаться и оставить части дронов себе."
 
-# REVIEW
 msgid   "\"Fine, I was bluffing.  I'll pay the full price.\""
-msgstr  "«Погодите! Ладно, ладно, я блефовал. Я заплачу полную стоимость»."
+msgstr  "«Погодите! Это была неудачная шутка. Я заплачу полную стоимость»."
 
-# REVIEW
 msgid   "Accept the new offer."
 msgstr  "Принять новое предложение."
 
-# REVIEW
 msgid   "(Weapons) Remain silent but power up your weapons."
-msgstr  "(Улучшенные орудия) Молча многозначительно начать зарядку орудий."
+msgstr  "(Улучшенные орудия) Молчать, заряжать орудия."
 
-# REVIEW
 msgid   "\"You make a good point.  You traveled all the way out here to "
         "fulfill our request, despite what must have been... a difficult "
         "scenario to cause such a delay.  Here, we'll even tip you for the "
         "inconvenience you must have gone through..."
-msgstr  "«Вы приводите веские доводы. Вы проделали такой путь до сюда, чтобы "
-        "выполнить свое задание, не смотря на... похоже, опасный путь, "
-        "вызвавший такое опоздание. Вот, мы даже приплатим вам за все "
+msgstr  "«Это хороший аргумент. Вы проделали долгий путь досюда, чтобы "
+        "выполнить задание, несмотря на опасности, "
+        "вызвавшие некоторую задержку. Вот, мы даже приплатим вам за все "
         "неудобства, которые вы, наверное, испытали...»"
 
-# REVIEW
 msgid   "You arrive at the last known location of the merchant's delivery.  "
         "You begin to scan for the lost ship."
-msgstr  "Вы прибываете в последнее известное местонахождение поставки "
-        "торговца. Вы начинаете сканировать на наличие потерянного судна."
+msgstr  "Вы прибываете в последнее известное местонахождение грузового судна "
+        "и начинаете сканировать пространство в поисках корабля."
 
-# REVIEW
 msgid   "You find the remains of the ship.  It seems to have severe external "
         "damage, but you cannot pinpoint a cause. The majority of its cargo "
         "seems intact. You manage to discern the ship's intended destination."
@@ -2078,25 +2054,21 @@ msgstr  "Вы наткнулись на остатки корабля. У нег
         "часть груза кажется нетронутой. Вам удается распознать "
         "предполагаемое место назначения корабля."
 
-# REVIEW
 msgid   "Take the cargo and head to its original destination in search of a "
         "reward."
-msgstr  "Взять груз и проследовать до настоящего места назначения в поисках "
-        "награды."
+msgstr  "Доставить груз до места назначения."
 
-# REVIEW
 msgid   "Take the cargo for yourself."
 msgstr  "Оставить груз себе."
 
-# REVIEW
 msgid   "You find a severely damaged ship floating among some debris.  The "
         "crew hails you, \"I can't believe that cheap bastard sent someone "
         "after us!  I thought we would freeze to death.  If you help us "
         "complete the delivery, we'll share the reward and join your crew.\""
-msgstr  "Вы обнаружили сильно поврежденный корабль плавающий посреди каких-то "
-        "обломков. Экипаж приветствует вас: «Я просто не верю, что этот "
-        "скупой скин сын послал кого-то за нами! Я думал мы замерзнем до "
-        "смерти. Если вы поможете нам с доставкой, мы поделимся "
+msgstr  "Вы обнаружили сильно повреждённый корабль, дрейфующий в облаке "
+        "обломков. Экипаж приветствует вас: «Я не могу поверить, что этот "
+        "скупердяй послал таки кого-то за нами! Мы могли замёрзнуть тут насмерть. "
+        "Если вы поможете нам с доставкой, мы поделимся "
         "вознаграждением и присоединимся к вашей команде»."
 
 # REVIEW
