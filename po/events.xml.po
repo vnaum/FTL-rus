@@ -1611,7 +1611,7 @@ msgid   "As soon as you arrive a small Mantis ship detaches from a wreck and "
         "jumps away.  You must have interrupted their salvage operation "
         "because you find a weapon ready to be installed!"
 msgstr  "Как только вы прибываете, небольшой корабль мантисов отделяется от "
-        "останков корабля и прыгает прочь. Должно быть, помешали "
+        "остова разбитого судна и прыгает прочь. Должно быть, вы помешали "
         "им собрать трофеи: среди них вы нашли оружие, готовое к использованию!"
 
 msgid   "A small merchant ship messages you, \"Underground Federation comm "
