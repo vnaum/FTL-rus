@@ -68,7 +68,7 @@ msgstr  "СОВЕТ: Орудия - Вы можете поставить в оч
 msgid   "TIP: Cloaking -  Cloaking prevents enemies from firing on your ship "
         "or charging their weapons. It also causes all currently flying shots "
         "to miss your ship."
-msgstr  "СОВЕТ: Маскировка - Маскировка не только не даёт врагу высрелить в вас, "
+msgstr  "СОВЕТ: Маскировка - Маскировка не только не даёт врагу выстрелить в вас, "
         "но и останавливает зарядку его орудий. "
         "Вероятность попадания из тех орудий, что уже успели выстрелить "
         "будет значительно снижена."
