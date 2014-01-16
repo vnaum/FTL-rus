@@ -115,12 +115,11 @@ msgstr  "Как только вы входите в систему, к вам с
         "направляется пиратский корабль. На вызовы он не отвечает. Готовьтесь "
         "к бою."
 
-# REVIEW
 msgid   "Soon after arriving in the system you are hailed by a small cruiser. "
         "\"What good fortune that we happen to run into each other. Nothing "
         "personal, but you have some information we need!\""
-msgstr  "Сразу по прибытию в систему вас приветствует маленький крейсер: "
-        "«Какая удача, что мы наткнулись на друг друга. Ничего личного, но у "
+msgstr  "Сразу по прибытии в систему вас приветствует маленький пиратский кораблик: "
+        "«Какая удача, что мы наткнулись на вас. Ничего личного, но у "
         "вас информация, которая нам нужна!»"
 
 # REVIEW
@@ -148,7 +147,7 @@ msgid   "Once you arrive, your screen lights up with warnings. A nearby "
         "pirate seems to have advanced hacking tools and they have tried to "
         "shut down our engines. Your crew manages to keep them barely "
         "operational and you move into attack."
-msgstr  "По прибытию на вашем экране загораются предупреждения. По всей "
+msgstr  "По прибытии на вашем экране загораются предупреждения. По всей "
         "видимости пират, оказавшийся неподалёку, разжился современными "
         "инструментами взлома, и сейчас он пытается вырубить ваш двигатель. "
         "Команда как может поддерживает его в рабочем состоянии, пока вы "

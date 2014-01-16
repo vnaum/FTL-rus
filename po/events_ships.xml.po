@@ -14,11 +14,10 @@ msgid   "The ship jumps away without a word. You hope they didn't leave to "
 msgstr  "Корабль улетает без единого слова. Вы надеетесь, что они не вернутся "
         "с подкреплением."
 
-# REVIEW
 msgid   "The pirate ship breaks apart. You hasten to contact the civilian "
         "ship."
 msgstr  "Пиратский корабль развалился на части. Вы поспешили связаться с "
-        "гражданским кораблём."
+        "гражданским судном."
 
 # REVIEW
 msgid   "Contact the civilian ship."
