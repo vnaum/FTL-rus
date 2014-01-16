@@ -2923,145 +2923,125 @@ msgid   "While waiting for the FTL drive to charge, you skirt around the edge "
 msgstr  "Ожидая, пока зарядится FTL-привод, вы огибаете станцию "
         "и собираете лом."
 
-# REVIEW
 msgid   "All around you is the stench of death and decay. The life sign "
         "readings must have been malfunctioning because you really doubt "
         "anything could be alive in here. You quickly return to the ship."
-msgstr  "Все вокруг воняет смертью и разложением. Признаки жизни, должно "
-        "быть, были сбоем, поскольку вы сильно сомневаетесь, что здесь что-"
+msgstr  "Всё вокруг пронизано смрадом смерти и разложения. Обнаруженные признаки жизни, должно "
+        "быть, были ошибкой сенсоров - навряд ли здесь что-"
         "либо может быть живым. Вы быстро возвращаетесь на корабль."
 
-# REVIEW
 msgid   "Human corpses are scattered across the station. You find the source "
         "of the signal, a lone survivor that locked themselves in a storage "
         "closet. You quickly retreat with them in tow back to the ship, and "
         "hope they can recover enough to be of some use."
-msgstr  "Человеческие тела разбросаны повсюду на станции. Вы находите "
-        "источник сигнала: одинокого выжившего, запершегося в складском "
+msgstr  "Повсюду разбросаны человеческие тела. Вы находите "
+        "источник сигнала: один из команды смог выжить, закрывшись в складском "
         "шкафу. Вы поскорее возвращаетесь с ним на корабль, надеясь, что он "
-        "сможет восстановиться и будет полезен."
+        "оправится и будет полезен."
 
-# REVIEW
 msgid   "All around you is the stench of death and decay. Suddenly, one of "
         "your crew bends over and starts retching violently. Some sort of "
         "disease must have wiped out this station. You pull back to the ship, "
         "but it looks like your crew member is not going to make it."
-msgstr  "Все вокруг воняет смертью и разложением. Внезапно, один из вашей "
-        "команды сгибается и его начинает сильно тошнить. Похоже что станцию "
-        "сгубила какая-то эпидемия. Вы разворачиваетесь обратно на корабль, "
-        "но судя по всему ваш член экипажа не выживет."
+msgstr  "Всё вокруг пронизано смрадом смерти и разложения. Внезапно один из вашей "
+        "команды складывается пополам и его начинает сильно тошнить. Видимо, станцию "
+        "сгубила какая-то эпидемия. Вы возвращаетесь обратно на корабль, "
+        "но судя по всему заразившийся долго не протянет..."
 
-# REVIEW
 msgid   "(Improved Medbay) Try to cure the disease."
 msgstr  "(Улучшенный мед-отсек) Попытаться вылечить болезнь."
 
-# REVIEW
 msgid   "Your advanced medical suite is able to isolate the cause of the "
         "problem and administer an antidote. That was a close one."
-msgstr  "Ваш усовершенствованный мед отсек в состоянии изолировать причину "
-        "заболевания и создать противоядие. Конец был близок."
+msgstr  "Ваш усовершенствованный мед-отсек смог установить причину "
+        "заболевания и синтезировать лекарство. Пациент был на волосок от смерти."
 
-# REVIEW
 msgid   "Scanners are showing intelligent life forms on a nearby planet. No "
         "match for them can be found in the database."
 msgstr  "Сканеры обнаружили разумные формы жизни на соседней планете. В базе "
-        "данных они не найдены."
+        "данных таких нет."
 
-# REVIEW
 msgid   "Investigate."
-msgstr  "Обследовать."
+msgstr  "Изучить."
 
-# REVIEW
 msgid   "You land a small shuttle in an enormous field, whose only occupants "
         "are small, brightly colored, six-legged, horse-like animals. Could "
         "they be what your scans picked up?"
 msgstr  "Небольшой челнок высадил вас на огромном поле, занятом маленькими "
-        "шестиногими похожими на ездовых животных существами со светлой "
-        "кожей. Неужели это то, что обнаружили ваши сканеры?"
+        "разноцветными шестиногими существами, "
+        "похожими на земных лошадей. Неужели это то, что обнаружили ваши сканеры?"
 
-# REVIEW
 msgid   "Try to communicate peacefully."
-msgstr  "Попробовать мирно пообщаться."
+msgstr  "Попробовать спокойно поговорить с ними."
 
-# REVIEW
 msgid   "Bring some of the creatures on board to sell."
-msgstr  "Принести несколько существ на борт для продажи."
+msgstr  "Поймать несколько животных на продажу."
 
-# REVIEW
 msgid   "This isn't the time for exobiology. You head back to the ship."
-msgstr  "Сейчас не время для экзобиологии. Вы направляетесь обратно на "
+msgstr  "Сейчас нет времени на астробиологию. Вы возвращаетесь обратно на "
         "корабль."
 
-# REVIEW
 msgid   "(Slugman Crew) Attempt to communicate telepathically."
 msgstr  "(Член экипажа слаг) Попытаться связаться телепатически."
 
-# REVIEW
 msgid   "After a moment, your crew tells you that these are simple beings, "
         "who enjoy a peaceful life. However, this isn't the first time a ship "
         "has landed here. They inform you of a nearby crash site."
-msgstr  "Через некоторое время, команда докладывает вам, что это простые "
-        "существа, живущие мирной жизнью. Однако, это не первый раз когда "
-        "здесь приземлился корабль. Они информируют вас, что недалеко "
-        "находится место крушения."
+msgstr  "Через некоторое время слаг докладывает, что это простые "
+        "существа, живущие мирной жизнью. Однако это не первый корабль "
+        "на этой планете: они указывают ещё одно место крушения недалеко "
+        "отсюда."
 
-# REVIEW
 msgid   "You follow their directions and discover an ancient Engi ship. You "
         "find a deactivated Engi inside and reroute power from your shuttle "
         "to resuscitate it. After a while it reboots, rebuilds itself, and "
         "offers to join your crew."
 msgstr  "Вы следуете их указаниям и обнаруживаете древний корабль энжи. "
-        "Внутри вы находите деактивированного энжи и перенаправляете энергию "
-        "с вашего корабля для его реанимации. Через некоторое время существо "
-        "перезагружается, перестраивает себя, и предлагает присоединиться к "
+        "Внутри вы находите обесточенного энжи и подключаете к нему "
+        "реактор шаттла. Через некоторое время энжи "
+        "перезагружается, чинит себя и предлагает присоединиться к "
         "вашей команде."
 
-# REVIEW
 msgid   "Ignore it."
 msgstr  "Проигнорировать."
 
-# REVIEW
 msgid   "You ignore the readings and prepare to move on."
 msgstr  "Вы игнорируете указания и готовитесь двигаться дальше."
 
-# REVIEW
 msgid   "None of your attempts to communicate seem to work: they just stare "
         "at you silently. As you prepare to leave, one of the creatures "
         "canters forward and forcefully nudges you away from the ship. He "
         "seems to want you to follow him. Eventually, the creatures guide you "
         "to an old Engi ship's crash site. Inside you are able to find and "
         "reactivate an Engi!"
-msgstr  "Похоже ваши попытки установить связь не работают: они просто молча "
-        "на вас смотрят. Как только вы приготовились уйти, одно из существ "
-        "бросается вперед и отталкивает вас от корабля. Кажется он хочет, "
-        "чтобы вы следовали за ним. В конце концов, существа приводят вас на "
-        "место крушения старого корабля энжи. Внутри вы можете найти и "
-        "реанимировать энжи!"
+msgstr  "Вам никак не удаётся наладить с ними контакт: они просто уставились на вас и молчат. "
+        "Когда вы уже собрались уходить, одно из существ "
+        "бросается вперед и отталкивает вас от корабля. Кажется, он хочет "
+        "вас куда-то отвести. В конце концов существа приводят вас на "
+        "место крушения старого корабля энжи. Внутри вам удалось найти и "
+        "включить энжи!"
 
-# REVIEW
 msgid   "You try to communicate in every possible way you can but they just "
         "stand there, silently judging you with their large, expressionless "
         "eyes. You prepare to leave."
-msgstr  "Вы пытаетесь установить с ними связь разными способами, но они "
+msgstr  "Вы пытаетесь установить с ними контакт всевозможными способами, но они "
         "просто стоят и смотрят на вас своими большими, невыразительными "
         "глазами. Вы готовитесь уйти."
 
-# REVIEW
 msgid   "The seemingly docile creatures quickly turn violent when you reveal "
         "your hostile intentions. Their well-organized stampede forces you to "
         "draw weapons and make a rushed and shambolic retreat to the shuttle."
-msgstr  "Безобидные существа быстро стали агрессивными, когда вы раскрыли "
-        "свои враждебные намерения. Хорошо организованными действиями, они "
-        "заставляют вас бросить оружие и отступать к кораблю."
+msgstr  "Безобидные существа быстро стали агрессивными, когда выяснились "
+        "ваши враждебные намерения. Хорошо организованными действиями они "
+        "заставляют вас бросить оружие и отступить к кораблю."
 
-# REVIEW
 msgid   "The seemingly docile creatures quickly turn violent when you show "
         "your hostile intentions. They stampede with terrifying force, "
         "trampling one of your crew before you have time to react. You fight "
         "your way back to the shuttle and prepare to jump."
 msgstr  "Казалось бы, милые существа быстро становятся агрессивными, когда вы "
-        "показываете свою враждебность. Они панически бегут с ужасающей "
-        "силой, затоптав одного из вашей команды. Вы пробиваетесь обратно к "
+        "показываете свою враждебность. Они бегут всем табуном прямо на вас, "
+        "затоптав одного из вашей команды. Вы пробиваетесь обратно к "
         "шаттлу и готовитесь к прыжку."
 
 # REVIEW
