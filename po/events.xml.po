@@ -2745,121 +2745,102 @@ msgid   "You find a pirate ship, damaged and abandoned. You salvage what you "
 msgstr  "Вы находите заброшенный повреждённый пиратский корабль, собираете "
         "всё что можно и двигаетесь дальше."
 
-# REVIEW
 msgid   "You find the decaying remains of some kind of ship coated with ice "
         "or crystal. You send some crew aboard to explore. Nearly everything "
         "is either destroyed or unidentifiable, but one of the weapons "
         "appears salvageable and there's a strange stasis pod that catches "
         "your eye."
-msgstr  "Вы находите разваливающиеся останки какого-то корабля, покрытого "
-        "льдом или кристаллами. Вы посылаете на него экипаж для осмотра. "
-        "Практически все внутри или уничтожено, или неопознаваемо, но похоже "
-        "что одно из орудий пригодно для использования, и ещё вы замечаете "
-        "там странную стазис-капсулу."
+msgstr  "Вы находите разваливающиеся останки корабля, покрытые "
+        "льдом или какими-то кристаллами и отправляете команду, чтобы осмотреть его получше. "
+        "Практически всё внутри разбито настолько, что невозможно понять что это было. "
+        "Вы замечаете пригодное к применению орудие и странную стазис-капсулу."
 
-# REVIEW
 msgid   "It looks like a massive asteroid is in a direct collision course "
         "with the derelict ship! You have to pull your crew out but they want "
         "to grab what they can first. What do they take?"
-msgstr  "Похоже, что огромный астероид скоро столкнется с заброшенным "
-        "кораблём! Вам нужно забирать своих людей, но сначала они хотят "
-        "захватить с собой всё, что смогут. Что им взять?"
+msgstr  "Огромный астероид вот-вот столкнётся с заброшенным "
+        "кораблём! Нужно быстро забирать своих людей, но сначала они хотят "
+        "захватить с собой всё, что успеют. Что им взять?"
 
-# REVIEW
 msgid   "Take the weapon and any spare scrap."
 msgstr  "Взять оружие и любой подвернувшийся лом."
 
-# REVIEW
 msgid   "Your crew grabs what they can and returns to the ship before the "
         "asteroid hits. You take a look at what you've recovered once you "
         "move clear of the asteroid field."
-msgstr  "Ваша команда хватает всё, что можно и возвращается на корабль "
-        "прежде, чем астероид попадает. Теперь, когда вы вылетели из "
-        "астероидного поля, можно спокойно взглянуть на то, что удалось "
-        "вынести."
+msgstr  "Ваша команда хватает всё, что можно и возвращается на корабль за несколько секунд до "
+        "до столкновения с астероидом. Теперь, когда вы вылетели из "
+        "опасной зоны, можно спокойно рассмотреть добытое."
 
-# REVIEW
 msgid   "Grab the stasis chamber."
 msgstr  "Взять стазис-капсулу."
 
-# REVIEW
 msgid   "Your crew drags the pod back to your ship before the asteroid "
         "smashes into the ship, shattering through the crystal coating and "
         "destroying the ship."
-msgstr  "Ваш экипаж затаскивает капсулу обратно на ваше судно, прежде чем "
-        "астероид врезается в корабль, раскалывая кристальное покрытие и "
-        "уничтожая его."
+msgstr  "Ваш экипаж затаскивает капсулу обратно на ваше судно буквально "
+        "за минуту до того, как "
+        "астероид разбивает вдребезги и корабль, и его кристальное покрытие."
 
-# REVIEW
 msgid   "The pod appears to be functioning but you see nothing but shards of "
         "crystal inside. Perhaps someone else will know how to open it."
-msgstr  "Похоже, что капсула функционирует, но вы ничего не видите внутри, "
-        "кроме осколков кристаллов. Возможно кто-то другой знает, как её "
-        "открыть."
+msgstr  "Похоже, что капсула ещё функционирует, но внутри вы не видите ничего, "
+        "кроме осколков кристаллов. Возможно, кому-то удастся "
+        "открыть её."
 
-# REVIEW
 msgid   "You arrive at a Zoltan research facility. They say they are "
         "researching genetic distortion due to stasis sleep and prolonged FTL "
         "travel. They ask if your crew has the time to undergo a few scans."
 msgstr  "Вы прибываете на золтанский исследовательский комплекс. Они говорят, "
-        "что изучают генетические искажения из-за стазис-сна и длительных FTL-"
-        "путешествий. Они спрашивают, не уделит ли ваш экипаж немного времени "
-        "на прохождение нескольких тестов."
+        "что изучают генетические отклонения, вызванные долгим стазисом FTL-"
+        "перелётами. Они просят ваш экипаж принять участие в нескольких экспериментах."
 
-# REVIEW
 msgid   "Participate in their study."
-msgstr  "Участвовать в их исследованиях."
+msgstr  "Поучаствовать в их исследованиях."
 
-# REVIEW
 msgid   "\"Alright. Fly safe.\" You prepare to leave."
 msgstr  "«Хорошо. Удачного вам полёта». Вы готовитесь к отлёту."
 
-# REVIEW
 msgid   "(Advanced Medbay) Give them your medical records."
-msgstr  "(Улучшенный мед-отсек) Дать им свои медицинские записи."
+msgstr  "(Улучшенный мед-отсек) Поделиться своими медицинскими записями."
 
-# REVIEW
 msgid   "\"Thank you! We didn't expect to receive such a significant amount "
         "of data regarding your crew's health during FTL travel. Please, "
         "accept this for your trouble.\""
-msgstr  "«Спасибо! Мы не ожидали получить такой внушительный объем данных о "
-        "состоянии здоровья вашего экипажа во время FTL-путешествий. "
-        "Пожалуйста, примите это за доставленные неудобства»."
+msgstr  "«Спасибо! Мы и не ожидали получить такой внушительный объём данных о "
+        "состоянии здоровья экипажа во время FTL-перелётов. "
+        "Пожалуйста, примите это подарок»."
 
-# REVIEW
 msgid   "(Damaged Stasis Pod) Ask if they can fix this."
-msgstr  "(Сломанная стазис-капсула) Спросить их, смогут ли они починить её."
+msgstr  "(Сломанная стазис-капсула) Спросить, смогут ли они починить такую капсулу."
 
-# REVIEW
 msgid   "\"Interesting. I've never seen a cryogenic system like this. It "
         "appears to still be functioning...\" They hook it up to their system "
         "and run a number of tests on it."
-msgstr  "«Интересно. Я никогда не видел криогенную систему, похожую на эту. "
-        "Похоже что она ещё функционирует...» Они подключают её к своим "
-        "системам и проводят ряд тестов на ней."
+msgstr  "«Интересно. Я никогда не видел криогенную систему такой конструкции. "
+        "Похоже что она ещё работает...» Они подключают её к своим "
+        "системам и что-то проверяют."
 
-# REVIEW
 msgid   "\"Amazing! It has the ability to reconstruct the body if it was "
         "damaged during transit. Watch.\" They reactivate the pod and you "
         "watch as the hunks of crystal inside reform to build a humanoid "
         "structure. The pod slides open and the re-formed alien steps out."
-msgstr  "«Восхитительно! У неё есть возможность реконструировать тело, если "
-        "оно было повреждено во время транспортировки. Смотри»... Они "
-        "реактивируют капсулу и вы наблюдаете, как куски кристаллов внутри "
-        "перестраиваются в гуманоидное тело. Крышка капсулы отодвигается и "
-        "сформированный инопланетянин выбирается оттуда."
+msgstr  "«Вот это да! У неё есть возможность реконструировать тело, даже если "
+        "оно было сильно повреждено. Посмотрим...» Они "
+        "включают капсулу и вы наблюдаете, как куски кристаллов внутри "
+        "складываются в тело гуманоида. Крышка капсулы поднимается и "
+        "заново собранный инопланетянин выбирается оттуда."
 
-# REVIEW
 msgid   "It speaks slowly, \"Greetings. I appear to be in your debt. My "
         "people isolated themselves a long time ago, but perhaps it's time to "
         "re-establish a connection. There's a hidden wormhole near the Rock "
         "home-worlds. Perhaps you can take me there so I can properly repay "
         "you?\""
-msgstr  "Он медленно говорит: «Приветствую. Кажется я у тебя в долгу. Мой "
-        "народ давно самоизолировался, но возможно настало время возобновить "
-        "связь. Есть скрытая червоточина неподалеку от домашней системы "
-        "роков. Может быть ты можешь доставить меня туда, и тогда я смогу "
-        "отплатить тебе?»"
+msgstr  "Он медленно говорит: «Приветствую. Кажется я у вас в долгу. Мой "
+        "народ давно самоизолировался. Возможно, теперь настало время возобновить "
+        "отношения. Неподалёку от домашней системы "
+        "роков есть замаскированная дыра в пространстве-времени. "
+        "Если получится её найти, я смогу отплатить тебе»."
 
 # REVIEW
 msgid   "Your crew calmly lines up for the Zoltans to take their readings. "
