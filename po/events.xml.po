@@ -3121,115 +3121,95 @@ msgid   "The once-dreaded pirate Nights has been killed and you proceed to "
 msgstr  "Наводивший некогда ужас пират Капитан Найтс повержен, теперь можно "
         "спокойно обыскать его корабль."
 
-# REVIEW
 msgid   "You are immediately hailed by an impressive looking Mantis ship, "
         "\"Your ship would make a mighty fine prize. Prepare for battle!\""
 msgstr  "Вас окликает внушительный корабль мантисов: «Ваш корабль станет "
-        "отличным трофеем. Приготовьтесь к бою!»"
+        "отличной добычей. Приготовьтесь к бою!»"
 
-# REVIEW
 msgid   "You pick up more chatter from the enemy ship, \"You know what... "
         "Forget this. Prepare for retreat!\" Looks like they're preparing to "
         "make a hasty get away!"
 msgstr  "Вы ловите переговоры с вражеского корабля: «3наете что... 3абудьте "
-        "об этом. Приготовиться к отступлению!» Похоже они готовятся к "
-        "быстрому уходу!"
+        "об этом. Приготовиться к отступлению!» Кажется, они собрались бежать!"
 
-# REVIEW
 msgid   "The ship made an emergency FTL jump, but it looks like they didn't "
         "mask their signatures. You could easily follow them if you want."
-msgstr  "Их корабль сделал аварийный сверхсветовой прыжок, но, видно, они не "
-        "смогли замести свои следы. Вы легко можете проследовать за ними, "
-        "если захотите."
+msgstr  "Их корабль сделал аварийный сверхсветовой прыжок, но "
+        "скрыть прыжковую сигнатуру им не удалось. Вы легко можете догнать их, "
+        "если хотите."
 
-# REVIEW
 msgid   "After them!"
-msgstr  "3а ними!"
+msgstr  "В погоню!"
 
-# REVIEW
 msgid   "You input their coordinates into your map and prepare to follow."
-msgstr  "Вы вводите их координаты в вашу карту и готовитесь к преследованию."
+msgstr  "Вы вводите их координаты в систему навигации и готовитесь к преследованию."
 
-# REVIEW
 msgid   "Forget it."
-msgstr  "3аняться более важными вещами."
+msgstr  "Пусть летят."
 
-# REVIEW
 msgid   "They're not worth the trouble. You prepare to leave."
-msgstr  "Они не стоят усилий. Вы готовитесь к отбытию."
+msgstr  "Есть дела и поважнее. Вы готовитесь к отбытию."
 
-# REVIEW
 msgid   "Their ship breaks apart and you move in to scrap the remains."
 msgstr  "Их корабль разваливается на части, и вы приближаетесь, чтобы собрать "
         "оставшийся лом."
 
-# REVIEW
 msgid   "With no more crew on board you are free to salvage what you can from "
         "the remains."
-msgstr  "Без команды на борту, вам не составит труда, разобрать корабль на "
+msgstr  "Вам не составит труда разобрать опустошённый корабль на "
         "лом."
 
-# REVIEW
 msgid   "You catch up with the Mantis ship that escaped before, only to see "
         "them transferring their crew into an even bigger ship!"
-msgstr  "Вы нагнали корабль мантисов, что ускользнул ранее, но только для "
-        "того чтобы пронаблюдать как они телепортируют свою команду в ещё "
-        "больший корабль!"
+msgstr  "Вы нагнали беглое судно мантисов и "
+        "наблюдаете, как они телепортируют команду в корабль ещё "
+        "больше прежнего!"
 
-# REVIEW
 msgid   "\"Not YOU again! Do you know how much these repairs are going to "
         "cost me? Time to take out the big guns.\""
-msgstr  "«Только не ВЫ снова! Вы имеете хоть какое-то представление во "
-        "сколько мне обходится ремонт? Настало время применить большие пушки!»"
+msgstr  "«Опять ты! Ты хоть представляешь во "
+        "сколько мне обойдётся ремонт? Настало время применить большие пушки!»"
 
-# REVIEW
 msgid   "They appear to be trying to get away again. You doubt they'll forget "
         "to mask their jump signature this time."
-msgstr  "Кажется они снова пытаются уйти. Вы сомневаетесь, что на этот раз "
-        "они забудут замести свои следы."
+msgstr  "Кажется, они снова пытаются уйти. На этот раз "
+        "они не повторят прежней ошибки."
 
-# REVIEW
 msgid   "Looks like they got away. At least you're able to scrap their "
         "abandoned fighter."
-msgstr  "Похоже, они ушли. По крайней мере, вы сможете собрать лом с их "
-        "истребителей."
+msgstr  "Похоже, они ушли. По крайней мере, вы сможете спокойно порезать на лом "
+        "брошенный ими корабль."
 
 # REVIEW
 msgid   "\"Look you proved your point. We don't want to die... Take this and "
         "let us go. Please?\""
 msgstr  "«Постойте, вы доказали свою правоту. Мы не хотим умирать... Вот, "
-        "возьмите это и опустите нас, пожалуйста!»"
+        "возьмите это и отпустите нас, пожалуйста!»"
 
-# REVIEW
 msgid   "Let them live."
 msgstr  "Пусть живут."
 
-# REVIEW
 msgid   "\"Thank you. But do you have any idea how much repairing TWO ships "
         "will set us back?...\" What an odd Mantis. You prepare to leave."
-msgstr  "«Спасибо. Но ты себе представляешь, как надолго нас остановит счёт "
-        "за ремонт ДВУХ кораблей...» Какой-то странный мантис. Вы готовитесь "
-        "к отлету."
+msgstr  "«Спасибо. Сколько с нас сдерут за ремонт ДВУХ кораблей - даже подумать страшно...» "
+        "Какой-то странный мантис. Вы готовитесь "
+        "к отлёту."
 
-# REVIEW
 msgid   "Finish them off."
-msgstr  "Покончить с ними."
+msgstr  "Добить их."
 
-# REVIEW
 msgid   "\"No! Hurry up, get us out of here! They're crazy!\" You cut "
         "transmissions."
 msgstr  "«Нет! Быстрее, вытащите нас отсюда! Они сумасшедшие!» Вы обрываете "
         "связь."
 
-# REVIEW
 msgid   "Their ship breaks apart and you salvage the two ships."
-msgstr  "Их корабль разваливается, и вы разбираете на лом два корабля."
+msgstr  "Их крейсер распадается на куски. Вы разбираете на лом оба корабля."
 
-# REVIEW
 msgid   "You find an intact weapon on their now empty ship. You take as much "
         "scrap from the ships as possible."
-msgstr  "Вы находите нетронутое оружие на их, теперь уже, пустом корабле. Вы "
-        "забираете так много лома сколько можно унести."
+msgstr  "Вы нашли нетронутое оружие на их опустошённом корабле. Вы "
+        "забираете столько много лома, сколько можете унести."
 
 # REVIEW
 msgid   "You arrive just in time to see an unusually well-armed Engi ship "
