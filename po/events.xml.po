@@ -3251,7 +3251,6 @@ msgid   "Fury sparks in the eyes of the Mantis. He won't go easily, and "
 msgstr  "Ярость вспыхивает в глазах мантиса. Так легко он не сдастся, и "
         "прежде чем вы его обездвиживаете, он наносит серьёзные повреждения."
 
-# REVIEW
 msgid   "The pursuing ship responds with a completely unintelligible message. "
         "The young Mantis jerks to attention and assumes a battle stance. It "
         "was a trap!"
@@ -3259,21 +3258,19 @@ msgstr  "Преследующий корабль выдаёт в эфир что
         "Услышав это, молодой мантис встаёт в боевую стойку. Это "
         "была ловушка!"
 
-# REVIEW
 msgid   "A Rebel ship is patrolling this beacon, and immediately turns to "
         "engage. As your crew scramble to battle readiness, sensors detect a "
         "short-range teleporter signal. An intruder is on board!"
 msgstr  "Корабль мятежников, патрулирующий этот маяк, немедленно "
-        "разворачивается для нападения. Пока ваш экипаж готовится к бою, "
-        "датчики обнаружили короткий сигнал телепортера. Нарушитель на борту!"
+        "разворачивается для нападения. Пока ваш экипаж готовился к бою, "
+        "датчики обнаружили сигнал телепорта. Незваный гость на борту!"
 
-# REVIEW
 msgid   "A flushed and panicky rebel soldier has teleported aboard. The "
         "rebel, who appears unarmed, repeatedly declares his peaceful "
         "intentions. It seems the rebel life has lost its charm."
 msgstr  "Покрасневший и напуганный солдат мятежников телепортируется на ваш "
-        "корабль. Мятежник, появившийся безоружным, постоянно твердит о своих "
-        "мирных намерениях. Похоже, жизнь мятежников его больше не привлекает."
+        "корабль. Он безоружен и постоянно твердит о своих "
+        "мирных намерениях. Похоже, мятеж его больше не привлекает."
 
 # REVIEW
 msgid   "Accept his proposal, and prepare to fight the Rebel ship."
