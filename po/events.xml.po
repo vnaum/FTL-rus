@@ -3211,60 +3211,52 @@ msgid   "You find an intact weapon on their now empty ship. You take as much "
 msgstr  "Вы нашли нетронутое оружие на их опустошённом корабле. Вы "
         "забираете столько много лома, сколько можете унести."
 
-# REVIEW
 msgid   "You arrive just in time to see an unusually well-armed Engi ship "
         "destroying a small pirate craft. A teleporter signal is detected..."
         "intruder on deck!"
-msgstr  "Прибыв вовремя вы наблюдаете картину, как типичный хорошо оснащенный "
-        "корабль энжи разбирает маленькое пиратское судно. 3афиксирован "
+msgstr  "Вы как раз успеваете заметить необычайно хорошо вооружённый "
+        "крейсер энжи, уничтожающий маленький пиратский корабль. 3афиксирован "
         "сигнал телепортера... Вторжение на судно!"
 
-# REVIEW
 msgid   "A young Mantis in a charred uniform has teleported onto the deck. He "
         "begs for sanctuary from the Engi, and offers to serve in exchange "
         "for your protection. The Engi have already traced the teleporter "
         "signal and are offering a deal in exchange for the prisoner."
-msgstr  "Молодой мантис в обугленной форме телепортируется на корабль. Он "
+msgstr  "Молодой мантис в опалённой форме телепортируется на корабль. Он "
         "просит убежища от энжи, и предлагает служить вам в обмен на защиту. "
         "Энжи отследили сигнал телепортера и предлагают сделку в обмен на "
         "заключенного."
 
-# REVIEW
 msgid   "Side with the fugitive and fight the Engi ship."
 msgstr  "Принять сторону беглеца и атаковать корабль энжи."
 
-# REVIEW
 msgid   "Agree to offer up the Mantis in exchange for a bounty"
 msgstr  "Согласиться и обменять мантиса на награду."
 
-# REVIEW
 msgid   "It was a trap! The Mantis sabotages your ship before teleporting "
         "away. We're sitting ducks!"
-msgstr  "Это была ловушка! Перед тем, как вернуться, мантис устроил диверсию "
+msgstr  "Это была ловушка! Перед возвращением мантис устроил диверсию "
         "на вашем корабле. Нас обвели вокруг пальца!"
 
-# REVIEW
 msgid   "He expresses his thanks and prepares to help you fight his pursuer."
 msgstr  "Он выражает вам свою благодарность и говорит, что хочет помочь в "
         "борьбе со своим преследователем."
 
-# REVIEW
 msgid   "The Engi captain is delighted, and quickly arranges for the transfer "
         "of the prisoner."
-msgstr  "Капитан энжи в восторге и быстро организует передачу заключенного."
+msgstr  "Капитан энжи с удовольствием организует передачу заключенного."
 
-# REVIEW
 msgid   "Fury sparks in the eyes of the Mantis. He won't go easily, and "
         "causes serious damage before he can be captured."
-msgstr  "Искры ярости брызжут из глаз мантиса. Так легко он не сдастся, и "
+msgstr  "Ярость вспыхивает в глазах мантиса. Так легко он не сдастся, и "
         "прежде чем вы его обездвиживаете, он наносит серьёзные повреждения."
 
 # REVIEW
 msgid   "The pursuing ship responds with a completely unintelligible message. "
         "The young Mantis jerks to attention and assumes a battle stance. It "
         "was a trap!"
-msgstr  "Преследуемый корабль выдаёт в эфир что-то совершенно неразборчивое. "
-        "Молодой мантис отвлёк внимание, а затем занял боевую позицию. Это "
+msgstr  "Преследующий корабль выдаёт в эфир что-то совершенно неразборчивое. "
+        "Услышав это, молодой мантис встаёт в боевую стойку. Это "
         "была ловушка!"
 
 # REVIEW
