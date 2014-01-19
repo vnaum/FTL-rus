@@ -1,32 +1,28 @@
-# REVIEW
 msgid   ""
 msgstr  "Project-Id-Version: ru\n"
         "Content-Type: text/plain; charset=UTF-8\n"
         "Content-Transfer-Encoding: 8bit\n"
 
-# REVIEW
 msgid   "This is it. You are just a few jumps from the 14th Federation "
         "Fleet's Headquarters, the last refuge for Federation supporters. Get "
         "to the command as soon as possible."
-msgstr  "Ну вот и всё. Вы всего в нескольких прыжках от штаба 14-го Флота "
-        "Федерации, последнего опорного пункта лоялистов. Доберитесь туда как "
+msgstr  "Ну вот и всё. Вы всего в нескольких прыжках от штаба четырнадцатого Флота "
+        "Федерации, последнего опорного пункта союзников. Доберитесь туда как "
         "можно скорее."
 
-# REVIEW
 msgid   "You arrive at the heart of the last Federation Fleet. Your access "
         "codes get you past initial security and a direct feed to the capital "
         "ship's war room. Admiral Tully speaks first saying, \"What is the "
         "meaning of this?! Who are you?\""
-msgstr  "Вы прибываете в самое сердце последнего Флота Федерации. Ваши коды "
-        "доступа дают вам право прохода и вы попадаете на флагман, в комнату "
-        "совещаний. Адмирал Тулли первым спрашивает вас: «Что это значит?! "
+msgstr  "Вы прибываете в самое сердце последнего флота Федерации. Ваши коды "
+        "доступа дают вам право прохода через системы безопасности и вы попадаете "
+        "в комнату совещаний флагманского корабля. "
+        "Адмирал Тулли спрашивает: «Что всё это значит?! "
         "Кто вы?»"
 
-# REVIEW
 msgid   "Explain your mission."
 msgstr  "Изложить суть вашего задания."
 
-# REVIEW
 msgid   "Your explanation is met with murmurs of cynicism and disbelief among "
         "the officers. General Turzil of the Engi Brigade speaks up, \"Intel "
         "suggests potential counter to Rebel technology. Risk all or save "
@@ -37,38 +33,31 @@ msgstr  "Ваши объяснения встречаются возгласам
         "противодействия технологиям мятежников. Либо рискнём всем, либо "
         "потеряем всё»."
 
-# REVIEW
 msgid   "Explain the weakness of the enemy fleet, the Rebel flagship."
-msgstr  "Объяснить слабости вражеского флота и флагмана мятежников."
+msgstr  "Объяснить, что слабое место вражеского флота - флагман мятежников."
 
-# REVIEW
 msgid   "Tully responds, \"It's settled. The Rebels will be here in a matter "
         "of moments. We will do what we can to hold off their war ships but "
         "you must succeed in destroying this flagship. We will refuel your "
         "ship now, and our stations will offer help wherever possible. Good "
         "luck."
-msgstr  "Тулли отвечает: «Решено. Мятежники будет здесь в считанные минуты. "
-        "Мы сделаем всё, что сможем, чтобы задержать их военные корабли, но "
-        "вы должны уничтожить этот флагман. Мы сейчас дозаправим ваше судно и "
-        "наши станции, по мере возможностей, предложат вам помощь. Удачи»."
+msgstr  "Тулли отвечает: «Решено. Мятежники будет здесь с минуты на минуту. "
+        "Мы сделаем всё, чтобы задержать их военные корабли, но флагман - ваша забота. "
+        "Мы дозаправим ваше судно прямо сейчас. "
+        "Наши станции снабжения предоставят вам всё, что смогут. Удачи»."
 
-# REVIEW
 msgid   "It appears this ship is also equipped with an advanced AI system. "
         "Now that the crew is dead, it has taken control!"
-msgstr  "Кажется, это судно оборудовано продвинутой системой ИИ. Теперь, "
-        "когда команда мертва, она взяла контроль на себя!"
+msgstr  "После гибели экипажа искусственный интелект берёт на себя управление флагманом мятежников!"
 
-# REVIEW
 msgid   "Its explosion rocks your ship and you shudder with relief.  You did "
         "it. The Federation is saved...."
 msgstr  "Ударная волна от взрыва сотрясает ваш корабль и вы вздрагиваете с "
         "облегчением. Получилось! Федерация спасена..."
 
-# REVIEW
 msgid   "Continue..."
 msgstr  "Продолжить..."
 
-# REVIEW
 msgid   "Thanks for playing!  Keep in mind this is still in beta and we have "
         "not created a satisfying conclusion to the game. Head to our forums "
         "to give us some feed back and let us know that you beat it.  Thanks!"
@@ -76,7 +65,6 @@ msgstr  "Спасибо, что прошли игру! Это всё ещё бе
         "нормальной концовки мы пока не придумали. Посетите наш форум, чтобы "
         "поделиться с нами впечатлениями. Ещё раз спасибо!"
 
-# REVIEW
 msgid   "Just as you finally gain the upper hand it finds a way to make an "
         "FTL jump. In its new state, it will have to get closer to the base "
         "to be a threat. You've bought some time, but you've got to keep up "
@@ -86,31 +74,27 @@ msgstr  "Как раз в тот момент, когда вы начали бр
         "чтобы открыть огонь. Вы выиграли время, но расслабляться рано - "
         "нужно продолжать сражение!"
 
-# REVIEW
 msgid   "This is it... The Rebel flagship. If you are able to destroy this "
         "monstrosity, the Federation fleet will have a chance of surviving. "
         "There's no turning back!"
 msgstr  "Ну вот и он... Флагман мятежников. Если вы сможете уничтожить это "
         "чудовище, у Федерации появится шанс на выживание. Пути назад нет!"
 
-# REVIEW
 msgid   "You chase down the flagship and discover it is heavily damaged from "
         "the previous fight. Scans indicate that it has redirected "
         "considerable power to its drones. Get ready for a fight."
-msgstr  "Вы догнали флагман и обнаружили, что в предыдущем бою его сильно "
-        "повредили. Сканирование показало, что он перенаправил значительныую "
-        "часть мощностей на дронов. Готовтесь к бою."
+msgstr  "Вы догнали флагман и обнаружили, что в предыдущем бою он был серьёзно "
+        "повреждён. Сканеры показывают, что значительная "
+        "часть энергии его реактора тратится теперь на дронов. Готовьтесь к бою."
 
-# REVIEW
 msgid   "You're not certain how it's able to keep fighting with the amount of "
         "damage it has sustained. It looks like it's transferred power to the "
         "teleporter as well as... some kind of super weapon. Be prepared... "
         "this is it!"
 msgstr  "Непонятно, как этот корабль может продолжать сражаться, имея такие "
-        "тяжёлые повреждения. Кажется, его капитан направляет энергию в "
-        "телепортер и в... какое-то супер-орудие? Готовьтесь к худшему..."
+        "тяжёлые повреждения. Кажется, энергия рекатора теперь идёт на "
+        "телепортер и... какое-то чудо-оружие? Готовьтесь к худшему..."
 
-# REVIEW
 msgid   "There is a a mobile ship construction platform stationed at this "
         "beacon. After a brief exchange they give you clearance to receive "
         "emergency repairs and military supplies."
@@ -118,7 +102,6 @@ msgstr  "Возле этого маяка находится мобильная 
         "короткого обмена сообщениями, диспетчер подтверждает ваш допуск и "
         "даёт санкцию на ремонт и снабжение."
 
-# REVIEW
 msgid   "An Engi civilian ship-yard has been converted into a military "
         "refueling station. They offer you the chance to patch up your ship "
         "and refresh some supplies."
@@ -130,8 +113,8 @@ msgid   "Chatter on the comm suggests the nearby Federation base is outfitted "
         "with a repair station. When you forward your mission priority they "
         "quickly help repair your ship and give you some supplies."
 msgstr  "Голос из коммуникатора предлагает посетить близлежащую базу "
-        "Федерации, оснащенную ремонтной станцией. Но когда вы высылаете "
-        "индекс приоритета вашей миссии, они бегом хватаются за инструменты и "
+        "Федерации, оснащённую ремонтной станцией. Но когда вы объясняете "
+        "важность вашего задания, они хватаются за инструменты и "
         "чинят ваш корабль, после чего ещё и отгружают вам припасы."
 
 # REVIEW
