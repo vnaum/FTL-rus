@@ -108,20 +108,19 @@ msgid   "An Engi civilian ship-yard has been converted into a military "
 msgstr  "Гражданская верфь энжи, переделанная в военную станцию снабжения, "
         "предлагает вам ремонт и пополнение припасов."
 
-# REVIEW
 msgid   "Chatter on the comm suggests the nearby Federation base is outfitted "
         "with a repair station. When you forward your mission priority they "
         "quickly help repair your ship and give you some supplies."
 msgstr  "Голос из коммуникатора предлагает посетить близлежащую базу "
         "Федерации, оснащённую ремонтной станцией. Но когда вы объясняете "
         "важность вашего задания, они хватаются за инструменты и "
-        "чинят ваш корабль, после чего ещё и отгружают вам припасы."
+        "чинят ваш корабль, после чего ещё и отгружают припасы."
 
 # REVIEW
 msgid   "A forward construction station is in the process of repairing "
         "damaged war ships. Your command codes convince them to do a quick "
         "patch job on your ship."
-msgstr  "Передовая ремонтная станция занята починкой поврежденных кораблей. "
+msgstr  "Передовая ремонтная станция занята починкой повреждённых кораблей. "
         "Ваши командные коды убеждают их подлатать вас вне очереди."
 
 # REVIEW
