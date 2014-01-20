@@ -2720,9 +2720,8 @@ msgstr  "Обыскать корабль."
 msgid   "Avoid the area."
 msgstr  "Облететь пояс стороной."
 
-# REVIEW
 msgid   "Discretion is the better part of valor. Better not risk it."
-msgstr  "Лучшая отвага - благоразумие. Лучше не рисковать."
+msgstr  "Благоразумие - лучшая черта храбрости. Не стоит рисковать."
 
 msgid   "(Rock Plating) Make a thorough search for the ship without fear of "
         "stray asteroids."
@@ -3178,10 +3177,9 @@ msgid   "Looks like they got away. At least you're able to scrap their "
 msgstr  "Похоже, они ушли. По крайней мере, вы сможете спокойно порезать на лом "
         "брошенный ими корабль."
 
-# REVIEW
 msgid   "\"Look you proved your point. We don't want to die... Take this and "
         "let us go. Please?\""
-msgstr  "«Постойте, вы доказали свою правоту. Мы не хотим умирать... Вот, "
+msgstr  "«Ваша взяла. Мы не хотим умирать... Вот, "
         "возьмите это и отпустите нас, пожалуйста!»"
 
 msgid   "Let them live."
