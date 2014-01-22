@@ -126,60 +126,50 @@ msgid   "You barely have time to register jump completion before your ship "
 msgstr  "Вы еле успеваете закончить прыжок, как ваш корабль предупреждает, "
         "что на вас идёт корабль с оружием наготове."
 
-# REVIEW
 msgid   "Once you arrive, your screen lights up with warnings. A nearby "
         "pirate seems to have advanced hacking tools and they have tried to "
         "shut down our engines. Your crew manages to keep them barely "
         "operational and you move into attack."
-msgstr  "По прибытии на вашем экране загораются предупреждения. По всей "
+msgstr  "На приборной панели загораются предупреждающие сигналы. По всей "
         "видимости пират, оказавшийся неподалёку, разжился современными "
-        "инструментами взлома, и сейчас он пытается вырубить ваш двигатель. "
-        "Команда как может поддерживает его в рабочем состоянии, пока вы "
-        "разбираетесь с этим «хакером»..."
+        "хакерскими приборами, и пытается сейчас вырубить ваш двигатель. "
+        "Команде едва-едва удаётся поддерживать его в рабочем состоянии. "
+        "Тем временем вы вступаете в бой."
 
-# REVIEW
 msgid   "Aid the civilian ship."
 msgstr  "Помочь гражданскому кораблю."
 
-# REVIEW
 msgid   "You power up your weapons and engage the pirate ship."
 msgstr  "Вы включаете оружие и готовитесь к бою с пиратским кораблём."
 
-# REVIEW
 msgid   "Stay out of it."
-msgstr  "Держаться от него подальше."
+msgstr  "Держаться подальше."
 
-# REVIEW
 msgid   "The fight brings them out of your immediate scanning range. After a "
         "time the distress calls stop."
-msgstr  "Бой выводит их из радиуса действия ваших сканеров. Через некоторое "
-        "время сигнал бедствия пропадает."
+msgstr  "Не прекращая сражения они покидают радиус действия ваших сканеров. "
+        "Через некоторое время сигнал бедствия прекращается."
 
-# REVIEW
 msgid   "You arrive in the system to see a pirate ship pursuing a civilian "
         "ship. You detect messages from the civilian ship on a distress "
         "frequency."
-msgstr  "Вы прибываете в эту систему как раз вовремя, чтобы застать пиратский "
-        "корабль, преследующий гражданских. Жертва отчаянно шлёт передачи на "
-        "частоте сигнала бедствия."
+msgstr  "Вы застали пиратский корабль, преследующий гражданское судно. "
+        "Жертва отчаянно шлёт сигналы бедствия на аварийной частоте."
 
-# REVIEW
 msgid   "Scanners indicate that a battle is taking place nearby. It seems "
         "that someone is under attack by space pirates."
-msgstr  "Сканеры показывают, что неподалеку идёт бой. Похоже кого-то атакуют "
+msgstr  "Сканеры показывают, что неподалеку идёт бой. Похоже, кого-то атакуют "
         "космические пираты."
 
-# REVIEW
 msgid   "You detect two ships, one chasing the other... Scanners show the "
         "pursuer is a pirate!"
 msgstr  "Вы засекли два корабля, один преследует другого... Сканеры "
-        "показывают, что преследователь - пират."
+        "показывают, что преследователь - пират!"
 
-# REVIEW
 msgid   "There are only two ships within range and they seem to be engaged in "
         "battle. One of them has the markings of a space pirate."
-msgstr  "В районе только два корабля и похоже они сражаются. У одного "
-        "пиратские знаки."
+msgstr  "В этом районе только два корабля и, похоже, они сражаются. Корпус одного "
+        "из них покрывают пиратские знаки."
 
 # REVIEW
 msgid   "You arrive at the next beacon only to immediately be hailed by a "
