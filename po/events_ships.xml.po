@@ -1,4 +1,3 @@
-# REVIEW
 msgid   ""
 msgstr  "Project-Id-Version: ru\n"
         "Content-Type: text/plain; charset=UTF-8\n"
@@ -157,10 +156,9 @@ msgstr  "С учетом того, что все мнимые пираты ме�
 msgid   "The pirate jumped away in search of weaker targets."
 msgstr  "Пиратский корабль улетел на поиски более слабых целей."
 
-# REVIEW
 msgid   "You contact the delivery ship, who are grateful for your assistance. "
         "They offer you a reward for saving them."
-msgstr  "Вы связались с кораблём снабжения, команда которого была благодарна "
+msgstr  "Вы связались с грузовым кораблём. Команда была благодарна "
         "за вашу помощь. Они предложили награду за их спасение."
 
 # REVIEW
