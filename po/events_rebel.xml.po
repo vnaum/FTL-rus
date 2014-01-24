@@ -3,13 +3,12 @@ msgstr  "Project-Id-Version: ru\n"
         "Content-Type: text/plain; charset=UTF-8\n"
         "Content-Transfer-Encoding: 8bit\n"
 
-# REVIEW
 msgid   "This sector was bustling with activity just a few years ago.  Now, "
         "more than half of the jump beacons have been destroyed, many "
         "settlements have been abandoned and the Rebels patrol constantly."
-msgstr  "Этот сектор процветал всего несколько лет назад. Теперь, большая "
-        "половина прыжковых маяков уничтожена и многие покинули свои обжитые "
-        "территории, но мятежники продолжают патрулировать сектор."
+msgstr  "Этот сектор процветал всего несколько лет назад. Теперь "
+        "половина прыжковых маяков уничтожена, многие колонии опустели. "
+        "Мятежники постоянно патрулируют пространство."
 
 # REVIEW
 msgid   "This sector was hit hard by the rebellion.   The many alien "
@@ -34,11 +33,10 @@ msgid   "At one point this was one of the most commonly traveled sectors.  "
 msgstr  "В одно время, это был один из самых оживленных секторов. 3ная это, "
         "мятежники установили здесь ряд флотов. Будьте осторожны."
 
-# REVIEW
 msgid   "You will have to be very cautious in this sector.  The Rebels have "
         "full control and are no doubt looking for you."
-msgstr  "Вы должны быть очень осторожными в этом секторе. Мятежники здесь "
-        "имеют полный контроль и без сомнения уже ищут вас."
+msgstr  "Вы должны быть очень осторожны в этом секторе. Мятежники полностью "
+        "его контролируют и, несомненнно, уже ищут вас."
 
 # REVIEW
 msgid   "You discover a re-supply station used by rebels and civilians "
@@ -50,21 +48,18 @@ msgstr  "Вы обнаруживаете станцию снабжения, ис
         "удостоверение корабля, и на этот раз всё проходит удачно. Готовясь к "
         "стыковке, вы стараетесь стать похожим на местного."
 
-# REVIEW
 msgid   "You arrive at a small space station that is putting out wide-band "
         "broadcasts on black-market channels.  You doubt they would turn away "
         "any business, regardless of allegiances."
-msgstr  "Вы прибываете на маленькую космическую станцию, широко вещающую на "
-        "частотах черного рынка. Вряд ли они откажутся от торговли, несмотря "
-        "на вашу принадлежность."
+msgstr  "Вы прибываете на маленькую космическую станцию, ведущую передачу на "
+        "частотах чёрного рынка. Такие обычно торгуют с кем угодно."
 
-# REVIEW
 msgid   "You receive generic advertisements from a nearby public ship-yard.  "
         "It seems they are willing to work on any ship, not only those of "
         "Rebel hue."
-msgstr  "Вы принимаете типичные рекламные сообщения от близлежащего "
-        "публичного дока. Похоже, что они согласны работать на любом корабле, "
-        "а не только на окрашенных как мятежнические."
+msgstr  "Вы принимаете рекламное сообщение от близлежащего "
+        "дока. Они согласны работать с любым кораблём, "
+        "не только с мятежниками."
 
 # REVIEW
 msgid   "You enter a system bustling with Rebel activity.  Supply freighters "
@@ -88,14 +83,12 @@ msgstr  "Вы прибываете неподалеку от маленькой 
         "приблизился. Единственное сообщение, что вы получили - отказ на ваш "
         "запрос пристыковаться."
 
-# REVIEW
 msgid   "There is not much of interest nearby.   A small sun in the distance "
         "with a few orbiting planets in nearby space provide little of "
         "interest."
 msgstr  "Поблизости нет ничего интересного. Маленькая звезда с несколькими "
-        "планетами, вращающимися вокруг неё вас не интересует."
+        "планетами, вращающимися вокруг неё, вас не интересует."
 
-# REVIEW
 msgid   "There are no other ships near this beacon, however you detect a "
         "small communication relay.  You tap into it without a problem; there "
         "are no encryptions.  Most of the chatter revolves around troop and "
@@ -106,7 +99,6 @@ msgstr  "У этого маяка не видно никаких других к
         "разговор идёт о войсках и передвижениях флота, ничего особо "
         "интересного."
 
-# REVIEW
 msgid   "There is a small planet nearby with scattered settlements.  A small "
         "Rebel fleet is in orbit with many ships ferrying back and forth.  It "
         "must be a more recently 'liberated' planet."
@@ -115,27 +107,24 @@ msgstr  "Поблизости находится небольшая планет
         "мятежников - то там, то тут летают десятки их кораблей. Должно быть "
         "это одна из «освобождённых» планет."
 
-# REVIEW
 msgid   "You discover one of the Rebel's autonomous scouts. The ship's AI "
         "wastes no time in engaging your ship."
 msgstr  "Вы обнаружили один из беспилотных разведчиков мятежников. ИИ корабля "
-        "разведчика незамедлительно даёт команду напасть на ваш корабль."
+        "разведчика незамедлительно идёт в атаку на ваш корабль."
 
-# REVIEW
 msgid   "Your ship is hailed: \"This is an automated message. Resisting our "
         "takeover is pointless. Prepare to die.\" It appears this Rebel ship "
         "is run by an AI."
 msgstr  "Ваш корабль приветствуют: «Это автоматическое сообщение. "
-        "Сопротивление бесполезно. Приготовьтесь умереть». Похоже этот "
-        "корабль мятежников под управлением ИИ."
+        "Сопротивление бесполезно. Приготовьтесь умереть». Похоже, это "
+        "корабль мятежников под управлением компьютера."
 
-# REVIEW
 msgid   "A Rebel autonomous scout is exploring this beacon. You attempt to "
         "hide behind a nearby moon, but the ship finds you and begins its "
         "assault."
-msgstr  "Автоматический разведчик мятежников исследует этот регион. Вы "
+msgstr  "Этот участок исследует фвтоматический разведчик мятежников. Вы "
         "пытаетесь спрятаться за ближайшей луной, но он находит вас и "
-        "начинает наступление."
+        "вступает в сражение."
 
 msgid   "The AI of a nearby small Rebel scout immediately identifies you as a "
         "threat and engages."
