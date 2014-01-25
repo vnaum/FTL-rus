@@ -10,43 +10,40 @@ msgstr  "Этот сектор процветал всего несколько 
         "половина прыжковых маяков уничтожена, многие колонии опустели. "
         "Мятежники постоянно патрулируют пространство."
 
-# REVIEW
 msgid   "This sector was hit hard by the rebellion.   The many alien "
         "settlements and stations located here are now watched over by almost "
         "an equal number of Rebel bases, heavy-handedly 'keeping the peace'."
-msgstr  "В этом секторе было восстание. 3а многими обособленными поселениями "
-        "и станциями, расположенными здесь, следят почти равнозначные "
-        "скопления баз мятежников, властно 'сохраняя мир'."
+msgstr  "Восстание не прошло незамеченным в этом секторе. Почти к каждому "
+        "поселению, к любой колонии теперь приставлены корабли и базы мятежников, "
+        "стоящие на страже мира с оружием в руках."
 
-# REVIEW
 msgid   "Once the Federation forces were scattered, the Rebels came down hard "
         "on the locals here.  Between the 'tax collectors' and military "
         "bases, the Rebel presence in this sector is high."
-msgstr  "После рассеивания войск Федерации, мятежники обрушились на местных "
-        "жителей. От 'сборщиков налогов' до военных баз, мятежники в этом "
-        "секторе везде."
+msgstr  "После разгона федеративного флота мятежники крепко взялись за местных "
+        "жителей. Тут и «сборщики налогов», и военные базы, и флот - в общем, мятежники в этом "
+        "секторе буквально повсюду."
 
-# REVIEW
 msgid   "At one point this was one of the most commonly traveled sectors.  "
         "Knowing that, the Rebels have stationed a number of fleets here.  Be "
         "careful."
-msgstr  "В одно время, это был один из самых оживленных секторов. 3ная это, "
-        "мятежники установили здесь ряд флотов. Будьте осторожны."
+msgstr  "Когда-то этот сектор был важным транспортным узлом. "
+        "Именно поэтому мятежники буквально наводнили его своими кораблями. "
+        "Будьте предельно осторожны."
 
 msgid   "You will have to be very cautious in this sector.  The Rebels have "
         "full control and are no doubt looking for you."
 msgstr  "Вы должны быть очень осторожны в этом секторе. Мятежники полностью "
         "его контролируют и, несомненнно, уже ищут вас."
 
-# REVIEW
 msgid   "You discover a re-supply station used by rebels and civilians "
         "alike.  You transmit your fake ship identification and for once, "
         "they don't seem to recognize your ship.  You try to assume the air "
         "of a local as you prepare to dock."
-msgstr  "Вы обнаруживаете станцию снабжения, используемую как мятежниками, "
-        "так и гражданскими лицами. Вы предъявляете свое фальшивое "
-        "удостоверение корабля, и на этот раз всё проходит удачно. Готовясь к "
-        "стыковке, вы стараетесь стать похожим на местного."
+msgstr  "Вы обнаруживаете базу снабжения, используемую мятежниками и "
+        "сочувствующими. Вы предъявляете свои фальшивые корабельные "
+        "документы, и в этот раз всё проходит удачно. Готовясь к "
+        "стыковке, вы стараетесь вести себя как местный."
 
 msgid   "You arrive at a small space station that is putting out wide-band "
         "broadcasts on black-market channels.  You doubt they would turn away "
@@ -61,27 +58,25 @@ msgstr  "Вы принимаете рекламное сообщение от б
         "дока. Они согласны работать с любым кораблём, "
         "не только с мятежниками."
 
-# REVIEW
 msgid   "You enter a system bustling with Rebel activity.  Supply freighters "
         "and re-supply stations are dwarfed by a few heavy warships.  "
         "Luckily, no one seems to be paying attention to small cruisers.  No "
         "ships are scanning or messaging you."
-msgstr  "Вы входите в систему с оживленной деятельностью мятежников. Грузовые "
-        "суда и станции снабжения кажутся незначительными в сравнении с "
-        "несколькими тяжелыми крейсерами. К счастью, никто не обращает "
-        "внимания на маленькие корабли. Другие корабли не сканируют и не "
-        "связываются с вами."
+msgstr  "Вы входите в систему, кишащую мятежниками. Грузовые "
+        "суда и станции снабжения кажутся маленькими в сравнении с "
+        "тяжёлыми крейсерами. К счастью, никто не обращает "
+        "внимания на маленькие корабли. Вас никто не сканирует и не "
+        "пытается выйти на связь."
 
-# REVIEW
 msgid   "You arrive near a small Rebel refueling depot.  Your ship is being "
         "scanned multiple times so they must recognize you, but there appears "
         "to be no combat-ready ships in the vicinity.  The only message you "
         "receive is a denial to your request to dock at the depot."
-msgstr  "Вы прибываете неподалеку от маленькой станции дозаправки мятежников. "
-        "Ваш корабль сканируют несколько раз и кажется, что теперь то они уж "
-        "точно узнают вас. Однако ни один боевой корабль к вам так и не "
-        "приблизился. Единственное сообщение, что вы получили - отказ на ваш "
-        "запрос пристыковаться."
+msgstr  "Вы подлетаете к маленькой заправочной станции мятежников. "
+        "Ваш корабль непрерывано сканируют и наверняка уже знают, что вы не один из них. "
+        "Но никаких боевых кораблей поблизости нет. "
+        "Единственное сообщение, что вы получили - отказ от "
+        "стыковки."
 
 msgid   "There is not much of interest nearby.   A small sun in the distance "
         "with a few orbiting planets in nearby space provide little of "
@@ -131,98 +126,82 @@ msgid   "The AI of a nearby small Rebel scout immediately identifies you as a "
 msgstr  "ИИ маленького разведчика мятежников немедленно опознаёт вас как "
         "угрозу и атакует."
 
-# REVIEW
 msgid   "A Rebel ship moves in to engage. You attempt to open communications, "
         "but realize the futility of that action when you see the ship is run "
         "by an AI."
-msgstr  "Корабль мятежников двигается к вам для атаки. Вы пытаетесь связаться "
-        "с ним, но понимаете бесполезность этого, когда видите, что корабль "
-        "пилотирует ИИ."
+msgstr  "На вас нападает корабль мятежников. Вы пытаетесь связаться "
+        "с ними, но это бесполезно - корабль ведёт комьютер."
 
-# REVIEW
 msgid   "This must be one of the Rebels' unmanned scout ships. Looks like "
         "there's no way around a fight."
-msgstr  "Должно быть это один из беспилотных разведывательных кораблей "
-        "мятежников. Похоже что боя никак не избежать."
+msgstr  "Это, должно быть, один из беспилотных разведывательных кораблей "
+        "мятежников. Битва неизбежна."
 
-# REVIEW
 msgid   "Another unmanned ship patrols this area. You prepare the ship for "
         "combat."
-msgstr  "Еще один беспилотный корабль патрулирует эту зону. Вы готовите "
+msgstr  "Эту зону патрулирует беспилотник. Вы готовите "
         "корабль к битве."
 
-# REVIEW
 msgid   "This beacon is being patrolled by a unmanned scout. A fight is "
         "unavoidable."
 msgstr  "Маяк охраняется беспилотным разведчиком. Готовьтесь к бою."
 
-# REVIEW
 msgid   "A small shuttle appears on the local radar. Turns out it is a Rebel "
         "automated scout!"
-msgstr  "Небольшой челнок появляется на радаре. Оказывается это "
+msgstr  "На радаре появляется небольшой челнок. Это "
         "автоматический разведчик мятежников!"
 
-# REVIEW
 msgid   "Your arrival is greeted by numerous computer alerts. The nearby "
         "automated Rebel scout has deployed a virus and disrupted your shield "
         "system. Hopefully it won't cause further problems before you can "
         "destroy it."
-msgstr  "Ваше прибытие знаменуется лихорадочными миганиями индикаторов "
-        "безопасности. Автоматический разведчик мятежников, что был "
-        "неподалёку, внедрил вирус и нарушил работу ваших щитов. Остаётся "
+msgstr  "После завершения прыжка индикаторы "
+        "безопасности начинают лихорадочно мигать. Автоматический разведчик мятежников "
+        "смог внедрить вирус и нарушить работу ваших щитов. Остаётся "
         "только надеяться, что это не станет причиной более серьёзных "
         "проблем, прежде чем вы сможете уничтожить его."
 
-# REVIEW
 msgid   "Your ship is hailed. \"We've found you at last. Prepare to die!\""
-msgstr  "Ваш корабль принимает сообщение: «Наконец то мы вас отыскали. "
+msgstr  "Вы принимаете сообщение: «Ну вот вы и попались! "
         "Готовьтесь умереть!»"
 
-# REVIEW
 msgid   "A small Rebel ship is docked at a small station. You try to lay low "
         "but it spots you. Power up the weapons!"
 msgstr  "Небольшой корабль мятежников пришвартован у маленькой станции. Вы "
         "стараетесь тихонечко прошмыгнуть мимо, но всё напрасно - враг "
-        "заметил вас. Разогреть орудия!"
+        "заметил вас. Орудия к бою!"
 
-# REVIEW
 msgid   "A Rebel ship has been patrolling this region. As soon as you arrive "
         "it begins its assault."
-msgstr  "Корабль мятежников патрулировал этот регион. Как только вы "
-        "прибываете, он начинает нападение."
+msgstr  "Этот регион патрулирует корабль мятежников. Он идёт в атаку сразу, как только замечает вас."
 
-# REVIEW
 msgid   "A Rebel ship hails you: \"Federation scum! We've waited a long time "
         "for this!\""
-msgstr  "Корабль мятежников передаёт вам: «Отморозок из Федерации! Мы долго "
-        "этого ждали!»"
+msgstr  "Сообщение от корабля мятежников: «Федеративные подонки! Мы долго "
+        "ждали этого момента!»"
 
-# REVIEW
 msgid   "You receive a transmission: \"Sorry sir, this is nothing personal "
         "but we're under orders.\" The Rebel ship's weapons go hot."
-msgstr  "Вы получаете передачу: «Простите, у нас приказ, ничего личного». "
-        "Орудия корабля мятежников разогреваются."
+msgstr  "Вы получаете сообщение: «Простите, ничего личного, но у нас приказ». "
+        "Корабль мятежников наводит на вас орудия."
 
-# REVIEW
 msgid   "By the time you notice the Rebel ship behind the beacon, it's too "
         "late to avoid a fight."
-msgstr  "К тому моменту, когда вы замечаете корабль мятежников, уже поздно "
+msgstr  "Когда вы заметили корабль мятежников, было уже слишком поздно "
         "пытаться избежать схватки."
 
-# REVIEW
 msgid   "A Rebel ship hails. \"We did not fight a war to let a single "
         "Federation ship shatter our dreams of a better galaxy!\" He locks "
         "weapons."
-msgstr  "Корабль мятежников передаёт: «Не для того мы развязали эту войну, "
+msgstr  "Корабль мятежников передаёт: «Не для того мы сражались в этой войне, "
         "чтобы позволить одному кораблю Федерации разрушить наши мечты о "
         "лучшей галактике!» Он наводит орудия."
 
-# REVIEW
 msgid   "A Rebel ship approaches cautiously. \"Personally,\" says the "
         "captain, \"I'd have stuck with the Federation. But I'm a soldier, "
         "sir, and I'm no use without a war to fight. Raise your shields!\""
-msgstr  "Корабль мятежников осторожно приближается. «Лично я, - говорит "
-        "капитан, - лучше бы был на стороне Федерации. Но я - солдат, и от "
+msgstr  "К вам приближается корабль мятежников. «Лично я, - говорит "
+        "капитан, - не считаю Федерацию такой уж плохой. Но я - солдат, и от "
         "меня не будет проку без войны и сражений. 3ащищайтесь!»"
 
 # REVIEW
@@ -231,150 +210,122 @@ msgid   "You're hailed by a Rebel ship: \"When the rebellion is complete "
         "the point.\" They arm weapons."
 msgstr  "С вами связывается корабль мятежников: «Когда восстание завершится, "
         "вы увидите, что мы обеспечиваем более безопасный мир. Точнее, "
-        "конкретно вы - не увидите, но вы меня поняли». Они заряжают оружие."
+        "конкретно вы - не увидите, но вы меня поняли». Они заряжают орудия."
 
-# REVIEW
 msgid   "A Rebel ship is guarding this beacon. You order a pursuit course and "
         "prepare to scratch up one more."
-msgstr  "Корабль мятежников охраняет этот маяк. Вы приказываете лечь на их "
-        "курс и готовитесь оставить пару царапин на обшивке очередного "
-        "мятежника."
+msgstr  "Этот маяк находится под охраной корабля мятежников. Вы приказываете "
+        "догнать его и готовитесь оставить пару царапин на его обшивке."
 
-# REVIEW
 msgid   "You stumble across a forward scout of the Rebel fleet."
-msgstr  "Вы натыкаетесь на передового разведчика флота мятежников."
+msgstr  "Вы наткнулись на разведчика флота мятежников."
 
-# REVIEW
 msgid   "You come across a Rebel automated scout ship pursuing a civilian "
         "ship, weapons engaged."
-msgstr  "Вы сталкиваетесь с автоматическим разведчиков мятежников, "
-        "преследующим гражданский корабль. Разведчик уже привёл орудия в "
+msgstr  "Вы едва не столкнулись с роботом-разведчиком мятежников "
+        "настигающим гражданский корабль. "
+        "Разведчик уже привёл орудия в "
         "полную боевую готовность."
 
-# REVIEW
 msgid   "Aid the civilian ship."
 msgstr  "Помочь гражданскому кораблю."
 
-# REVIEW
 msgid   "Power up your weapons and engage the automated ship."
 msgstr  "Включить ваши орудия и вступить в бой с автоматическим кораблём."
 
-# REVIEW
 msgid   "Stay out of it."
 msgstr  "Держаться подальше."
 
-# REVIEW
 msgid   "The fight brings them out of your immediate scanning range."
-msgstr  "Бой выводит их из вашего непосредственного радиуса сканирования."
+msgstr  "Сражаясь, они улетают всё дальше и дальше - и, наконец, пропадают с радаров."
 
-# REVIEW
 msgid   "You detect a Rebel scout on an attack approach to a small refueling "
         "outpost. Their weapons are charged, but they're not firing yet."
-msgstr  "Вы засекаете разведчика мятежников, идущего в атаку на маленький "
-        "заправочный аванпост. Их орудия заряжены, но они пока не стреляют."
+msgstr  "Вы засекли разведчика мятежников на подходе к маленькой "
+        "заправочной станции. Их орудия готовы к бою, но стрельбы пока нет."
 
-# REVIEW
 msgid   "Intervene to defend the outpost."
-msgstr  "Вмешаться и защитить аванпост."
+msgstr  "Вмешаться и защитить станцию."
 
-# REVIEW
 msgid   "The rebel responds to your threat, \"I don't know who you are, but "
         "no one defies the Rebel Fleet!\"  They move in to engage."
 msgstr  "Мятежники отвечают на вашу угрозу: «Я не знаю кто вы, но никто не "
-        "встаёт на пути флота мятежников!» Они двигаются к вам, чтобы "
-        "атаковать."
+        "встаёт на пути флота восстания!» Они нападают. "
 
-# REVIEW
 msgid   "Avoid the conflict."
 msgstr  "Избежать конфликта."
 
-# REVIEW
 msgid   "The Rebel ship fires some warning shots but eventually powers down "
         "their weapons. The outpost seems to have given them what they "
         "demanded."
-msgstr  "Корабль мятежников делает несколько предупредительных выстрелов, но "
-        "позже отключает орудия. Похоже что аванпост дал им то, что они "
-        "требовали."
+msgstr  "Корабль мятежников делает несколько предупредительных выстрелов, "
+        "затем прекращает огонь. Наверное, станция предпочла откупиться.
 
-# REVIEW
 msgid   "You detect an automated Rebel scout attacking a small re-fueling "
         "outpost."
-msgstr  "Вы обнаруживаете автоматический разведчик мятежников, атакующий "
-        "маленький заправочный аванпост."
+msgstr  "Вы обнаруживаете маленький заправочный аванпост, атакуемый "
+        "автоматическим разведчиком мятежников."
 
 # REVIEW
 msgid   "Detecting the higher threat, the automated ship moves in to engage "
         "your ship."
-msgstr  "Определив приоритетную цель, автоматический корабль приближается, "
-        "чтобы атаковать вас."
+msgstr  "Автоматический разведчик идёт в атаку на вас, так как вы "
+        "представляете собой большую опасность."
 
-# REVIEW
 msgid   "You steer clear of the conflict. The outpost receives a beating but "
         "the ship stops its attack before it's destroyed."
-msgstr  "Вы держитесь подальше от конфликта. Аванпост подвергся обстрелу, но "
-        "корабль прекратил атаку, прежде чем тот был разрушен."
+msgstr  "Вы держитесь подальше от конфликта. Корабль обстреливает аванпост, но "
+        "не уничтожает его до конца."
 
-# REVIEW
 msgid   "You detect a Rebel automated ship nearby. It does not engage and "
         "seems to be patrolling around a long-range sensor station."
-msgstr  "Вы обнаруживаете автоматический корабль мятежников неподалеку. Он не "
-        "атакует и, кажется, патрулирует вокруг станции обнаружения дальнего "
-        "действия."
+msgstr  "Вы обнаруживаете автоматический корабль мятежников. Он не "
+        "нападает и, кажется, просто патрулирует пространство вокруг станции "
+        "обнаружения дальнего действия."
 
-# REVIEW
 msgid   "Attack the automated ship to get to the sensor station."
 msgstr  "Атаковать автоматический корабль, чтобы пробраться к станции."
 
-# REVIEW
 msgid   "Avoid provoking the ship."
 msgstr  "Постараться не провоцировать корабль."
 
-# REVIEW
 msgid   "(Sensors) Use your sensors to attempt to access the data."
 msgstr  "(Улучшенные сенсоры) Использовать сенсоры и попытаться получить "
         "доступ к данным."
 
-# REVIEW
 msgid   "(Teleporter) Beam directly onto the station to try to avoid "
         "detection."
-msgstr  "(Телепортер) Отправиться прямиком на станцию и попытаться избежать "
-        "обнаружения."
+msgstr  "(Телепортер) Отправиться прямиком на станцию, стараясь остаться незамеченным."
 
-# REVIEW
 msgid   "Once on board, your crew is able to access and download the long-"
         "range scanner's archived information. Your map has been updated."
 msgstr  "Оказавшись на борту, ваш экипаж смог получить доступ и скачать "
-        "информацию из архивов сканера дальнего действия. Ваша карта "
+        "информацию из архивов радара дальнего действия. Ваша карта "
         "обновлена."
 
-# REVIEW
 msgid   "Your improved sensors are able to remotely access and download the "
         "public radar station's local map data."
-msgstr  "Ваши улучшенные сенсоры смогли удаленно получить доступ и скачать "
-        "карту местности общественного радара."
+msgstr  "С момощью ваших улучшенных сенсоров вы смогли удалённо получить доступ и скачать "
+        "обновлённые карты местности с радарной станции."
 
-# REVIEW
 msgid   "The automated ship must be remotely connected to the station; as "
         "soon as you attempt to log on, the ship activates and charges you."
-msgstr  "Автоматический корабль, видимо, был удаленно соединен со станцией; "
-        "как только вы попытались войти в компьютер, корабль активировался и "
-        "атаковал вас."
+msgstr  "Автоматический корабль, видимо, поддерживал постоянную связь со станцией. "
+        "Как только вы попытались войти в компьютер, корабль был приведён в боевую готовность и "
+        "атаковал."
 
-# REVIEW
 msgid   "An advanced Rebel automated ship remains stationed near a small "
         "Rebel space-station. Sensors indicate it's a storage vessel for "
         "military goods."
 msgstr  "Усовершенствованный автоматический корабль мятежников находится "
         "рядом с маленькой космической станцией мятежников. Сенсоры "
-        "показывают, что это склад для хранения военного имущества."
+        "показывают, что это склад военного имущества."
 
-# REVIEW
 msgid   "Attack the automated ship to get to the storage cache."
 msgstr  "Атаковать автоматический корабль, чтобы добраться до склада."
 
-# REVIEW
 msgid   "(Cloaking) Attempt to cloak and access the cache."
-msgstr  "(Маскировка) Попытаться замаскироваться и открыть склад."
+msgstr  "(Маскировка) Попытаться замаскироваться и подобраться к складу."
 
 # REVIEW
 msgid   "The ship patrols wide around the area, successfully approaching the "
@@ -382,18 +333,15 @@ msgid   "The ship patrols wide around the area, successfully approaching the "
 msgstr  "Облетев окрестности, корабль успешно приближается к станции, избегая "
         "обнаружения."
 
-# REVIEW
 msgid   "Continue..."
-msgstr  "Продолжить..."
+msgstr  "Дальше..."
 
-# REVIEW
 msgid   "Before you can get close enough to scan the station, the automated "
         "ship detects you and moves in to attack!"
 msgstr  "Прежде чем вы смогли подобраться достаточно близко, чтобы "
         "просканировать станцию, автоматический корабль засекает вас и "
         "движется в атаку."
 
-# REVIEW
 msgid   "The station was either abandoned or stripped clean. It seems to have "
         "lain unused for quite some time. You find nothing useful."
 msgstr  "Станция была заброшена или ограблена подчистую. Похоже, что её "
