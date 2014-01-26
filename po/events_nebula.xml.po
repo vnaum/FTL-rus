@@ -556,7 +556,7 @@ msgstr  "Отвратительны?! 3арядить орудия!"
 
 # REVIEW
 msgid   "(Rock Crew Member) Offer to lead them out of the nebula."
-msgstr  "(Член экипажа рок) Предложить вывести их из туманности."
+msgstr  "(Рок в команде) Предложить вывести их из туманности."
 
 # REVIEW
 msgid   "The rock grudgingly transfer control of their helm to you and you "

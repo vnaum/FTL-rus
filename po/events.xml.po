@@ -526,7 +526,7 @@ msgstr  "Оказавшись внутри вашего улучшенного �
         "моложе... Позвольте мне служить на вашем корабле»."
 
 msgid   "(Slugman Crew Member)\"Sir, allow me to assess his mental state.\""
-msgstr  "(Член экипажа слаг) «Капитан, позвольте мне оценить его психическое "
+msgstr  "(Слаг в команде) «Капитан, позвольте мне оценить его психическое "
         "состояние»."
 
 msgid   "The family apparently owns one of the most valuable mining "
@@ -774,7 +774,7 @@ msgstr  "«Ладно, если нам не по пути, то ничего н�
 
 msgid   "(Advanced FTL Navigation) Have your navigation software calculate "
         "and upload route instructions to their ship."
-msgstr  "(Улучшенная FTL навигация) Пусть ваша навигационная программа "
+msgstr  "(Улучшенная FTL-навигация) Пусть ваша навигационная программа "
         "просчитает и загрузит маршрут на их корабль."
 
 msgid   "\"We're receiving your transmission... Wow, I didn't know that chain-"
@@ -1090,7 +1090,7 @@ msgstr  "Вы используете корабельную систему ма�
         "отключаете её. Владельцы благодарят вас и предлагают награду."
 
 msgid   "(Engi Crew) Remotely repair its targeting system."
-msgstr  "(Член экипажа энжи) Удалённо починить их систему наведения."
+msgstr  "(Энжи в команде) Удалённо починить их систему наведения."
 
 msgid   "Your crew-member is able to remotely fix the glitch in the defense "
         "AI, allowing the repair crew to close in and finish the job. The "
@@ -1124,7 +1124,7 @@ msgstr  "Вы хладнокровно отключили связь и приг
         "было сделать."
 
 msgid   "(Rock Crew) Send your Rock crew-member in."
-msgstr  "(Член экипажа рок) Отправить внутрь рока."
+msgstr  "(Рок в команде) Отправить внутрь рока."
 
 msgid   "Your Rock soldier tears through the airlock directly into the fire. "
         "You've never seen someone that large move that fast. It disperses as "
@@ -1224,7 +1224,7 @@ msgstr  "К сожалению, ваша миссия слишком важна 
         "своим экипажем. Вы готовитесь двигаться дальше."
 
 msgid   "(Rock Crew) Send your Rock crew-member to prevent a riot."
-msgstr  "(Член экипажа рок) Отправить рока, чтобы предотвратить бунт."
+msgstr  "(Рок в команде) Отправить рока, чтобы предотвратить бунт."
 
 msgid   "It's unlikely the Rock's impressive immune system is susceptible to "
         "a human virus so you send it in. It is able to intimidate the "
@@ -1238,7 +1238,7 @@ msgstr  "Вряд ли впечатляющая иммунная система 
         "они найдут лекарство в кратчайшие сроки."
 
 msgid   "(Engi Crew) Send your Engi to calm down the infected."
-msgstr  "(Член экипажа энжи) Отправить энжи, чтобы успокоить заражённых."
+msgstr  "(Энжи в команде) Отправить энжи, чтобы успокоить заражённых."
 
 msgid   "With no fear of catching the disease, your Engi crew member helps "
         "reassure and organize the infected humans. Calmed by its extensive "
@@ -2872,7 +2872,7 @@ msgid   "Better not risk it. The Rock people are unlikely to respond well to "
 msgstr  "Лучше не рисковать. Роки вряд ли хорошо отнесутся к вандализму."
 
 msgid   "(Crystal Crew) Reactivate it."
-msgstr  "(Член экипажа кристалин) Включить устройство."
+msgstr  "(Кристалин в команде) Включить устройство."
 
 msgid   "Your Crystalline companion says, \"It looks like we have found the "
         "abandoned link to my home worlds. I can reactivate it.\" He "
@@ -2979,7 +2979,7 @@ msgstr  "Сейчас нет времени на астробиологию. В�
         "корабль."
 
 msgid   "(Slugman Crew) Attempt to communicate telepathically."
-msgstr  "(Член экипажа слаг) Попытаться связаться телепатически."
+msgstr  "(Слаг в команде) Попытаться связаться телепатически."
 
 msgid   "After a moment, your crew tells you that these are simple beings, "
         "who enjoy a peaceful life. However, this isn't the first time a ship "
@@ -3064,7 +3064,7 @@ msgid   "\"I sssee... However you have no choice in the matter!\" They move "
 msgstr  "«Ясссно... Но это ничего не меняет!» Они идут в атаку."
 
 msgid   "(Slugman Crew) Engage in a duel of the mind."
-msgstr  "(Член экипажа слаг) Устроить поединок разумов."
+msgstr  "(Слаг в команде) Устроить поединок разумов."
 
 msgid   "Your Slug crewman's eyes glaze over as the two telepaths "
         "concentrate. You can only wonder what is happening. After a short "

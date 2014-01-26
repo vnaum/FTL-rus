@@ -135,7 +135,7 @@ msgstr  "Убить его."
 
 # REVIEW
 msgid   "(Mantis Crew Member) Interrogate him."
-msgstr  "(Член экипажа мантис) Допросить его."
+msgstr  "(Мантис в команде) Допросить его."
 
 # REVIEW
 msgid   "You help patch up the Engi ship and he takes off without another "
@@ -650,7 +650,7 @@ msgstr  "Вы пересекаетесь с кораблём мантисов, �
 
 # REVIEW
 msgid   "(Mantis crew member) Attempt to hail him."
-msgstr  "(Член экипажа мантис) Попытаться приветствовать его."
+msgstr  "(Мантис в команде) Попытаться приветствовать его."
 
 # REVIEW
 msgid   "Your Mantis crew-member steps forward. He and KazaaakplethKilik "

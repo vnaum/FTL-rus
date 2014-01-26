@@ -190,7 +190,7 @@ msgstr  "Продолжить..."
 # REVIEW
 msgid   "(Zoltan) Have your crewmember present his official documentation and "
         "pay the entry fee [ Scrap: -10 ]."
-msgstr  "(Член экипажа золтанец) Попросить вашего члена экипажа представить "
+msgstr  "(Золтанец в команде) Попросить вашего члена экипажа представить "
         "свои официальные документы и оплатить вступительный взнос [ Лом: "
         "-10 ]."
 
@@ -719,7 +719,7 @@ msgstr  "Предоставить экипаж."
 
 # REVIEW
 msgid   "(Slug Crew) Have your Slug talk them into letting you go."
-msgstr  "(Член экипажа слаг) Пусть ваш слаг попытается «убедить» их отпустить "
+msgstr  "(Слаг в команде) Пусть ваш слаг попытается «убедить» их отпустить "
         "вас."
 
 # REVIEW

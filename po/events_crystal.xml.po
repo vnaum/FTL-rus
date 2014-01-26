@@ -188,7 +188,7 @@ msgstr  "Исследовать тайник."
 # REVIEW
 msgid   "(Crystal Crew Member) Have your Crystalline Being recalibrate your "
         "weapons."
-msgstr  "(Член экипажа кристалин) Попросить ваше кристаллическое существо "
+msgstr  "(Кристалин в команде) Попросить ваше кристаллическое существо "
         "перенастроить орудия."
 
 # REVIEW
@@ -728,7 +728,7 @@ msgstr  "Отказаться."
 
 # REVIEW
 msgid   "(Rock Crew Member) Send your Rockman crew."
-msgstr  "(Член экипажа рок) Отправить вашего рока."
+msgstr  "(Рок в команде) Отправить вашего рока."
 
 # REVIEW
 msgid   "\"Ah! My dear evolutionary cousin! This is truly wonderful! We have "
@@ -829,7 +829,7 @@ msgstr  "«Всё ясно... Видимо вы заняты»."
 
 # REVIEW
 msgid   "(Crystal Crew) Have your crew speak to them."
-msgstr  "(Член экипажа кристалин) Дать вашему кристалину поговорить с ними."
+msgstr  "(Кристалин в команде) Дать вашему кристалину поговорить с ними."
 
 # REVIEW
 msgid   "\"Wow, you're one of us! I didn't know we made an alliance with the "

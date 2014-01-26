@@ -435,7 +435,7 @@ msgstr  "«Прекрасссно... Не каждый ценит хорошие
 # REVIEW
 msgid   "(Slug crew member) Our Slug senses someone aboard the ship. "
         "Investigate it."
-msgstr  "(Член экипажа слаг) Наш слаг чувствует кого-то на борту корабля. "
+msgstr  "(Слаг в команде) Наш слаг чувствует кого-то на борту корабля. "
         "Разузнать в чём дело."
 
 # REVIEW
@@ -929,7 +929,7 @@ msgstr  "Ожидание в неизвестности тяготит. Поэт
 
 # REVIEW
 msgid   "(Slug Crew) Have your crew member monitor their life signatures."
-msgstr  "(Член экипажа слаг) Попросить слага прощупать признаки жизни."
+msgstr  "(Слаг в команде) Попросить слага прощупать признаки жизни."
 
 # REVIEW
 msgid   "You try to stay just far enough away that they won't detect your "
@@ -1046,7 +1046,7 @@ msgstr  "Слаг сделал вид что обиделся на ваш отк
 
 # REVIEW
 msgid   "(Rock Crew) Have your Rockman pose as captain."
-msgstr  "(Член экипажа рок) Пусть ваш рок изобразит капитана."
+msgstr  "(Рок в команде) Пусть ваш рок изобразит капитана."
 
 # REVIEW
 msgid   "You take a cautious gulp. It's foul, but doesn't do any lasting "
@@ -1231,7 +1231,7 @@ msgstr  "Вы хорошо знаете, что значит поверить с
 
 # REVIEW
 msgid   "(Mantis Crew) Have your Mantis oversee the repairs."
-msgstr  "(Член экипажа мантис) Пусть ваш мантис руководит ремонтом."
+msgstr  "(Мантис в команде) Пусть ваш мантис руководит ремонтом."
 
 # REVIEW
 msgid   "Once on board, it becomes clear that nothing is wrong with their O2 "

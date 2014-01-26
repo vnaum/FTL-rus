@@ -825,7 +825,7 @@ msgstr  "Вы знаете, что лучше не иметь дел со сла
 
 # REVIEW
 msgid   "(Slug Crew) Have your Slug make the purchase."
-msgstr  "(Член экипажа слаг) Попросите своего слага сделать покупку."
+msgstr  "(Слаг в команде) Попросите своего слага сделать покупку."
 
 # REVIEW
 msgid   "As soon as he sees your crew member the Slug stops his incessant "

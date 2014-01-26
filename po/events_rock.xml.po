@@ -256,7 +256,7 @@ msgstr  "Оставить его в покое."
 # REVIEW
 msgid   "(Slug Crew) Check for lifeforms and keep a lookout for ships while "
         "looting the wreck."
-msgstr  "(Член экипажа слаг) Проверить присутствие жизненных форм и быть "
+msgstr  "(Слаг в команде) Проверить присутствие жизненных форм и быть "
         "настороже, обыскивая останки корабля."
 
 # REVIEW
@@ -487,7 +487,7 @@ msgstr  "Прежде чем они успевают что-то сделать,
 
 # REVIEW
 msgid   "(Rock Crew) Put your Rock crew member on the comm."
-msgstr  "(Член экипажа рок) Посадить своего рока за коммуникатор."
+msgstr  "(Рок в команде) Посадить своего рока за коммуникатор."
 
 # REVIEW
 msgid   "The two aliens face one another over the vidscreen. \"Cave-dwelling "
