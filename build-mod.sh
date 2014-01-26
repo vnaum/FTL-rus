@@ -2,6 +2,8 @@
 
 set -e
 
+cd "$(dirname "$0")"
+
 # build mod file
 rm -rf build-tmp
 mkdir build-tmp
