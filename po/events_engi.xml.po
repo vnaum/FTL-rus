@@ -217,7 +217,7 @@ msgstr  "Вы различаете слабые неритмичные низк�
 
 # REVIEW
 msgid   "(Long-Ranged Scanners) Scan the monstrosity."
-msgstr  "(Сканеры широкого охвата) Просканировать чудовище."
+msgstr  "(Сканеры дальнего действия) Просканировать чудовище."
 
 # REVIEW
 msgid   "An Engi ship in the vicinity, seeing you jump in armed to the teeth, "
