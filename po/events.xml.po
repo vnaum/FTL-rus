@@ -2633,8 +2633,7 @@ msgstr  "На корабле не осталось признаков жизни
 
 msgid   "With the crew dead, you are able to take the fuel out of storage. "
         "You also take all the scrap you can manage."
-msgstr  "Экипаж мёртв, вы можете забрать топливо из хранилища. "
-        "А весь лом также в вашем распоряжении."
+msgstr  "Экипаж мёртв, вы можете забрать весь лом и всё топливо из хранилища. "
 
 msgid   "Now that their ship has been emptied of hostiles, you search it. "
         "Eventually you find a prisoner who offers to join your crew."
