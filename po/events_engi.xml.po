@@ -1,68 +1,58 @@
-# REVIEW
 msgid   ""
 msgstr  "Project-Id-Version: ru\n"
         "Content-Type: text/plain; charset=UTF-8\n"
         "Content-Transfer-Encoding: 8bit\n"
 
-# REVIEW
 msgid   "You have arrived in Engi space. The Mantis have been threatening the "
         "Engi core worlds, but you should be able to stock up for your "
         "journey."
 msgstr  "Вы прибыли в пространство энжи. Несмотря на то, что миры энжи "
-        "постоянно под угрозой мантисов, у вас должно получиться достать "
+        "под постоянной угрозой нападения мантисов, у вас должно получиться достать "
         "припасы для путешествия."
 
-# REVIEW
 msgid   "You have arrived in Engi space. The fall of the Federation has "
         "brought tough times for these robotic lifeforms, but they're usually "
         "willing to help."
 msgstr  "Вы прибыли в пространство энжи. После падения Федерации для этих "
-        "механических существ настали тяжелые времена, но обычно они "
+        "механических существ настали тяжёлые времена, но обычно они "
         "стараются помочь."
 
-# REVIEW
 msgid   "The Engi can do remarkable things with just a pile of scrap. The "
         "Engi hive at this beacon are selling equipment for just that."
-msgstr  "Энжи могут делать удивительные вещи из кучки хлама. База энжи у "
-        "этого маяка как раз продает такое оборудование."
+msgstr  "Энжи могут сделать удивительные вещи буквально из кучи хлама. "
+        "Энжи-улей у этого маяка как раз продаёт сделанное."
 
-# REVIEW
 msgid   "A message arrives: \"Your scrap, ours. Our weapons for you.\" You're "
         "about to raise the shields when you realise it's just an Engi trader "
         "looking for a trade."
-msgstr  "Пришло сообщение: «Ваш лом - нам. Наши орудия - вам». Вы уже хотите "
-        "поднять щиты, как понимаете, что это всего лишь предлагающий сделку "
-        "торговец энжи."
+msgstr  "Пришло сообщение: «Ваш лом - нам. Наши орудия - вам». Вы уже собрались было "
+        "включать щиты, но вовремя догадались, что энжи лишь предлагают сделку."
 
-# REVIEW
 msgid   "An Engi ship hails: \"Engine upgrade necessary for travel home. Sale "
         "of equipment necessary for engine upgrade.\""
-msgstr  "Корабль энжи приветствует: «Улучшение двигателей необходимо для "
-        "путешествия домой. Продажа оборудования необходима для улучшения "
-        "двигателей»."
+msgstr  "Корабль энжи приветствует: «Новый двигатель необходим для "
+        "путешествия домой. Продажа оборудования необходима для замены "
+        "двигателя»."
 
-# REVIEW
 msgid   "The complex arrangements of ship hulls and FTL drive capacitors "
         "floating abandoned in space suggest the Engi were here not too long "
         "ago; but no longer."
 msgstr  "Сложные переплетения корабельных корпусов и ячеек FTL-приводов "
-        "плавают, всеми покинутые, в открытом космосе. Всё указывает на то, "
-        "что энжи были здесь не так давно. Были и не стало..."
+        "дрейфуют в пространстве, всеми покинутые. Всё указывает на то, "
+        "что энжи были здесь не совсем недавно. Теперь никого нет."
 
-# REVIEW
 msgid   "You arrive at a green planet with great plains and rolling "
         "waterfalls. It would be of little interest to the Engi nearby."
-msgstr  "Вы прибываете на зелёную планету с роскошными лугами и перекатистыми "
-        "водопадами. Должно быть это место не интересует энжи."
+msgstr  "Вы прибываете на зелёную планету с просторными равнинами и бурлящими "
+        "водопадами. Это место не представляет интереса для энжи."
 
-# REVIEW
 msgid   "You have arrived near an Engi construction yard.  Most Engi's "
         "maintain their bi-pedal appearance out of habit but here you see a "
         "number of Engi hives working together to create massive organic "
         "machines adept at building ships.  Truly a sight to behold."
-msgstr  "Вы прибыли неподалеку от сборочного цеха энжи. Большинство из них по "
-        "привычке сохраняет свой двуногий облик, но вы видите несколько энжи-"
-        "ульев, создающих вместе внушительные биомеханизмы, приспособленные "
+msgstr  "Здесь у энжи сборочный цех. Большинство энжи "
+        "привыкли к двуногой форме и по привычке поддерживают её, но здесь можно заметить несколько энжи-"
+        "ульев, работающих как единый огромный биомеханизм "
         "для строительства кораблей. 3ахватывающее зрелище."
 
 # REVIEW
