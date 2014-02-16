@@ -220,57 +220,49 @@ msgstr  "Энжи удовлетворены вашими объяснениям
         "припасов от энжи». Они посылают вам оборудование по доброй воле, и "
         "вы чувствуете себя лучше."
 
-# REVIEW
 msgid   "A mixed radar signal turns out to be a Mantis attack ship scavenging "
         "the remains of an Engi carrier. They turn and fight."
-msgstr  "Неоднозначные сигналы радара оказываются штурмовым кораблём "
-        "мантисов, грабящим останки транспортного судна энжи. Они "
-        "разворачиваются и идут в бой."
+msgstr  "Неразборчивый сигнал радара оказывается штурмовым кораблём "
+        "мантисов, грабящим останки транспортна энжи. Он "
+        "разворачивается и идут в бой."
 
-# REVIEW
 msgid   "You come across a Mantis raider taking pot shots at a defenceless "
         "Engi supply station. Discovering its weapons aren't much of a match "
         "for the station's armour, it turns on your ship.   Battlestations!"
-msgstr  "Вы встаете на пути налетчика мантисов, расстреливающего беззащитную "
-        "станцию снабжения энжи. Поняв, что его орудия - не чета броне "
-        "станции, он поворачивает в сторону вашего корабля. К бою!"
+msgstr  "Вы встаете на пути налётчика мантисов, расстреливающего беззащитную "
+        "станцию снабжения энжи. Поняв, что щиты станции слишком слабы против его орудий, "
+        "он поворачивает в вашу сторону. К бою!"
 
-# REVIEW
 msgid   "The area looks clear, and you prepare to jump off, but a Mantis "
         "scout jumps in behind you! They're as surprised as you are, but "
         "their weapons are already online."
-msgstr  "3она с виду безопасна, и вы уже готовились к отлету, когда позади "
-        "вас из прыжка выходит разведчик мантисов! Они удивлены так же, как и "
-        "вы, но их орудия уже включены."
+msgstr  "3она с виду безопасна, и вы уже готовились к отлёту, когда позади "
+        "вас из прыжка выходит разведчик мантисов! Они удивлены не меньше "
+        "вашего, но их орудия уже готовы к бою."
 
-# REVIEW
 msgid   "You find a Mantis ship harrying a small squad of Engi. They make it "
         "to the node and jump off, leaving you toe to toe with their pursuer!"
-msgstr  "Вы находите маленький взвод энжи, подвергающийся нападению корабля "
-        "мантисов. Энжи добираются до узла и совершают прыжок отсюда, "
-        "оставляя вас лицом к лицу со их преследователем!"
+msgstr  "Корабль мантисов сеет смерть среди маленького отряда энжи. "
+        "Им едва удаётся добраться до маяка и совершить прыжок, "
+        "а вы остаетесь нос к носу с их преследователем!"
 
-# REVIEW
 msgid   "The rebel fighter here would seem to suggest elements of the rebel "
         "fleet are already making incursions on Engi space. You move to "
         "engage."
 msgstr  "Боевой корабль мятежников в этой области космоса свидетельствует о "
         "том, что некоторые части флота мятежников уже добрались до владений "
-        "энжи. Вы движетесь в наступление."
+        "энжи. Вы атакуете его."
 
-# REVIEW
 msgid   "There must have been rich pickings for pirates around here up until "
         "war broke out. The pirate you encounter here looks worn down, but "
         "hungry. You'll have to fight!"
-msgstr  "3десь, наверное, было хлебное место для пиратов, но потом началась "
-        "война, и бандитскую вольницу прижали. Пират, летящий вам навстречу, "
-        "выглядит потрёпанным и очень злым. Придётся сражаться!"
+msgstr  "До войны здесь, наверное, было хлебное место для пиратов. "
+        "Пират, летящий вам навстречу, выглядит потрёпанным и очень злым. Придётся сражаться!"
 
-# REVIEW
 msgid   "You receive a distress call from a nearby Engi ship.  \"Assistance "
         "requested.  Danger present.  Imminent destruction.\""
-msgstr  "Вы принимаете аварийный вызов от корабля энжи неподалеку: «3апрошена "
-        "помощь. Присутствие опасности. Разрушение неизбежно»."
+msgstr  "Вы принимаете аварийный вызов от корабля энжи неподалеку: «3апрашиваю "
+        "помощь. Опасность. Разрушение неизбежно»."
 
 # REVIEW
 msgid   "Respond to the call and move in to assist."
