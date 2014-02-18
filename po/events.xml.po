@@ -1262,7 +1262,7 @@ msgid   "Your military grade medical computers are easily able to isolate the "
 msgstr  "Ваш медицинский компьютер военного образца легко смог изолировать "
         "источник вируса - ранее неизвестную спору, которая вырвалась наружу "
         "во время раскопок. Вы быстро проинформировали лидеров колонии о "
-        "успешном обратном инжиниринге лекарства."
+        "успешной разработке лекарства."
 
 msgid   "\"Thank you so much! We don't have the funds to hire outside help "
         "and it would have taken our staff weeks to figure that out. Here, "
