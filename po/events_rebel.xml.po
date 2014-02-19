@@ -229,7 +229,7 @@ msgid   "Aid the civilian ship."
 msgstr  "Помочь гражданскому кораблю."
 
 msgid   "Power up your weapons and engage the automated ship."
-msgstr  "Включить ваши орудия и вступить в бой с автоматическим кораблём."
+msgstr  "Вы включаете ваши орудия и вступаете в бой с автоматическим кораблём."
 
 msgid   "Stay out of it."
 msgstr  "Держаться подальше."
