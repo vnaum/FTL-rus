@@ -2260,8 +2260,8 @@ msgstr  "«3дравствуйте, - ваш коммуникатор получ
 
 msgid   "You escort the ship to the requested beacon.  Much to your dismay "
         "you are ambushed by a Rebel ship.  You walked right into their trap!"
-msgstr  "Вы сопроводили корабль к указанному маяку. К вашему ужасу вы попали "
-        "в засаду мятежническов. Вы сами пришли в их ловушку!"
+msgstr  "Вы сопроводили корабль к указанному маяку. К вашему ужасу, вы попали "
+        "в засаду мятежников. Это ловушка!"
 
 msgid   "Shortly after you arrive, the ship you were escorting jumps nearby.  "
         "They thank you for your help and offer you a reward."

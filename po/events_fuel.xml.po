@@ -542,13 +542,12 @@ msgid   "A Rebel ship jumps in and hails you, \"I knew you would slip up some "
 msgstr  "Корабль мятежников совершает прыжок и выходит на связь: «Я знал, что "
         "когда-нибудь вы ошибетесь. Сдавайтесь немедленно!»"
 
-# REVIEW
 msgid   "A ship responding to your distress moves in. Unfortunately it turns "
         "out to be an automated Rebel scout. It immediately reverses thrust "
         "after scanning your ship."
-msgstr  "Приближается корабль, принявший ваш сигнал бедствия. К сожалению это "
-        "оказался автоматизированный разведчик мятежников. После сканирования "
-        "вашего корабля он сразу же улетает."
+msgstr  "Приближается корабль, принявший ваш сигнал бедствия. К сожалению, этим "
+        "кораблём оказался автоматизированный разведчик мятежников. После сканирования "
+        "вашего корабля он сразу же включает двигатели и пытается улететь."
 
 # REVIEW
 msgid   "As you drift through space an Engi ship passes through. From "
