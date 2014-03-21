@@ -515,7 +515,7 @@ msgstr  "Нелегальный торговец оружием плетёт в�
 
 # REVIEW
 msgid   "Purchase an unknown weapon. [Scrap: -65]"
-msgstr  "Купить неизвестное оружие [Лом: -б5]"
+msgstr  "Купить неизвестное оружие [Лом: -65]"
 
 # REVIEW
 msgid   "You transfer the scrap and receive a weapon in return. Lets hope it "
