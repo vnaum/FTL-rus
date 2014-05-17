@@ -286,9 +286,8 @@ msgid   "While using the Slug Cruiser, kill 3 enemy crew members with one "
 msgstr  "При использовании крейсера слагов, уничтожить трёх членов экипажа "
         "врага одним выстрелом из Анти-био луча."
 
-# REVIEW
 msgid   "Master of Patience"
-msgstr  "Королевское терпение"
+msgstr  "Терпение и труд всё перетрут"
 
 msgid   "Use only the Artillery Beam to destroy an enemy ship while taking no "
         "hull damage."

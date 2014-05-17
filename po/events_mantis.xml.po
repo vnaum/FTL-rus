@@ -3,31 +3,28 @@ msgstr  "Project-Id-Version: ru\n"
         "Content-Type: text/plain; charset=UTF-8\n"
         "Content-Transfer-Encoding: 8bit\n"
 
-# REVIEW
 msgid   "You've entered a poorly charted area of space that's known to be "
         "home to the Mantis.  Ensure your hull plating is up to scratch and "
         "that you have enough fuel in the tank to make it through."
 msgstr  "Вы входите в плохо исследованную зону космоса, которая известна как "
-        "домашний мир мантисов. Убедитесь, что ваша обшивка не боится "
-        "царапин, и что у вас достаточно топлива, чтобы здесь пробраться."
+        "домашний мир мантисов. Убедитесь, что ваша обшивка достаточно прочна, "
+        "а топлива хватит чтобы выбраться отсюда."
 
-# REVIEW
 msgid   "Upon arriving at the beacon, you're hailed by a well-spoken Mantis, "
         "\"Hail, traveler.  These are dangerous times.  Perhaps you find "
         "yourself in need of our services?\"  He appears to be a trader."
-msgstr  "По прибытии к маяку вас приветствует хорошо разговаривающий мантис: "
-        "«3дравствуй, путник. Настали опасные времена. Может тебе нужны наши "
-        "услуги?» Кажется, он торговец."
+msgstr  "У маяка вас приветствует необычайно вежливый мантис: "
+        "«3дравствуй, путник. Настали опасные времена. Не пригодятся ли тебе наши "
+        "услуги?» Слава богу, это торговец."
 
-# REVIEW
 msgid   "Uncertain about what you'll discover at this beacon, you scan the "
         "surroundings.   You detect several warnings on wide-band channels "
         "discouraging any violence in protected trade-space.  Perhaps you can "
         "find some wares nearby."
-msgstr  "Неуверенные в том, что вы обнаружите у этого маяка, вы сканируете "
-        "окрестность. Вы получаете несколько широкополосных сигналов с предупреждениями, "
-        "отбивающих всякое желание воевать в защищенной торговой зоне. Может, "
-        "удастся найти поблизости какие-нибудь товары?"
+msgstr  "Ещё не зная, чем вас встретит это маяк, вы сканируете коммуникационные частоты. "
+        "На всех диапазонах передают зацикленное предупреждение о "
+        "недопустимости любых сражений в защищённой торговой зоне. Может, "
+        "удастся что-то купить?"
 
 # REVIEW
 msgid   "Merchants are not highly respected among the Mantis race, so few "
