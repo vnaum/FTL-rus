@@ -68,41 +68,36 @@ msgstr  "Теперь вы уже почти ожидали битвы с ман
         "абсолютно никого нет. Не торопясь, вы переводите дух "
         "и ещё раз проверяете системы корабля."
 
-# REVIEW
 msgid   "The only thing this beacon offers is a view of deep space and a "
         "brief respite from battles. For some this must be a welcome refuge."
-msgstr  "Единственная вещь, которую может предложить этот маяк - вид на "
-        "глубокий космос и небольшая передышка от битв. Для кого-то это было "
-        "бы желанным убежищем."
+msgstr  "Этот маяк может предложить лишь вид на "
+        "глубокий космос и небольшуя передышку между битвами. "
+        "Некоторые могут лишь мечтать об этом."
 
-# REVIEW
 msgid   "A nearby Mantis mining operation is clearly using heavy Engi slave "
         "labor.  You briefly consider the possibility of emancipating the "
         "slaves, but the Mantis presence is too formidable.  You decide to "
         "lay low."
-msgstr  "Неподалеку мантисы проводят горную добычу, и явно используют на "
-        "тяжелых работах энжи, как рабов. Вы недолго обдумываете возможность "
-        "освобождения рабов, но влияние мантисов здесь слишком велико. Вы "
+msgstr  "На шахтах неподалеку мантисы явно используют "
+        "рабский труд энжи. Вы обдумываете возможность "
+        "освобождения рабов, но мантисов слишком много. Вы "
         "решаете не рисковать."
 
-# REVIEW
 msgid   "There aren't so many parts of Mantis space that aren't dotted by the "
         "wrecks of battles past, but this is one of them. You take a deep "
         "breath and prepare to move on."
 msgstr  "Не так уж много мест в пространстве мантисов, не украшенных "
-        "развалинами былых битв, но это место как раз одно из таких. Вы "
+        "обломками былых битв, но это место как раз такое. Вы "
         "переводите дыхание и готовитесь двигаться дальше."
 
-# REVIEW
 msgid   "There's nothing here but space debris and some uninhabitable "
         "planetoids."
-msgstr  "3десь ничего нет, кроме космического мусора и необитаемых "
+msgstr  "3десь ничего нет кроме космического мусора и непригодных для жизни "
         "планетоидов."
 
-# REVIEW
 msgid   "You fancy you see something moving in the shadow of the beacon, but "
         "all remains still."
-msgstr  "Вам показалось, что видели какое-то движение в тени маяка, но все "
+msgstr  "Вам почудилось было какое-то движение в тени маяка, но нет, все "
         "спокойно."
 
 # REVIEW
