@@ -254,40 +254,35 @@ msgstr  "Крейсер мантисов передаёт зацикленное
         "конфискованы. Выключайте ваши щиты и сдавайтесь, если "
         "вам дороги ваши жизни»."
 
-# REVIEW
 msgid   "You detect a small military outpost and a few freighters nearby.  "
         "This mineral rich planet in an isolated location would be perfect "
         "for an illegal Mantis mining operation.  As you consider your "
         "options, a ship launches from the outpost. Prepare for a fight."
-msgstr  "Вы обнаруживаете маленький военной аванпост с несколькими грузовыми "
-        "кораблями поблизости. Эта богатая ископаемыми планета в "
-        "изолированной местности идеально подходит для незаконных горных "
-        "работ мантисов. Пока вы обдумываете варианты, к вам с аванпоста "
+msgstr  "Вы обнаруживаете маленький военный аванпост с несколькими грузовыми "
+        "кораблями. Эта богатая ископаемыми планета в "
+        "отдалении от торговых путей идеально подходит для незаконных шахт "
+        "мантисов. Пока вы обдумываете варианты, с аванпоста "
         "отправляется корабль. Готовьтесь к бою."
 
-# REVIEW
 msgid   "You discover yet another unlicensed and uncharted Mantis colony.  "
         "They certainly waste no time expanding their claims.  A Mantis ship "
         "moves to intercept you before you can jump away."
-msgstr  "Вы обнаруживаете ещё одну незарегистрированную и не отмеченную "
+msgstr  "Вы обнаруживаете ещё одну незарегистрированную и не отмеченную на картах"
         "колонию мантисов. Они определенно не теряют времени, расширяя свои "
-        "владения. Корабль мантисов движется перехватить вас, прежде чем вы "
-        "совершите прыжок отсюда."
+        "владения. Корабль мантисов движется перехватить вас пока вы не успели скрыться."
 
-# REVIEW
 msgid   "A Mantis military scout seems to have just finished a salvage op on "
         "a nearby wreck.  They have no time to waste with warnings and appear "
         "to wish to fight."
-msgstr  "Военный разведчик мантисов, похоже, только что закончил добычу "
-        "остатков кораблекрушения поблизости. Не тратя времени на "
-        "предупреждения, они проявляют желание сразиться."
+msgstr  "Военный разведчик мантисов, похоже, только что закончил собирать "
+        "трофеи с разбитого корабля. Не тратя времени на "
+        "предупреждения, они атакуют."
 
-# REVIEW
 msgid   "A small military craft hails you and a Mantis captain appears on "
         "your receiver.  \"All local human colonies have been punished for "
         "the Federation's transgressions.  Submit to processing.\""
-msgstr  "Маленькое военное судно выходит с вами на связь и капитан мантисов "
-        "появляется на приемнике: «Все местные колонии людей были наказаны за "
+msgstr  "Военное судно выходит с вами на связь и капитан мантисов "
+        "появляется на экране: «Все колонии людей были наказаны за "
         "преступления Федерации. Сдавайтесь»."
 
 # REVIEW
