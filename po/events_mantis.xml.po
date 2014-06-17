@@ -471,72 +471,59 @@ msgid   "You pick up a distress call from a civilian ship. It's being chased "
 msgstr  "Вы получаете аварийный вызов с гражданского корабля. Его преследует "
         "корабль мантисов!"
 
-# REVIEW
 msgid   "Smoking, the civilian ship limps on. You set your sights on the "
         "future."
 msgstr  "Дымясь, гражданский корабль кое-как движется дальше. Вы стараетесь "
         "не думать о его судьбе и сконцентрироваться на будущем."
 
-# REVIEW
 msgid   "The noise of the FTL spinning up almost drowns out the explosions. "
         "Almost."
 msgstr  "Шум раскручивающегося FTL почти тонет в звуках взрывов. Почти."
 
-# REVIEW
 msgid   "You let them pass and try not to think about it."
 msgstr  "Вы даёте им уйти и стараетесь не думать об этом."
 
-# REVIEW
 msgid   "You detect and retrieve an escape pod floating nearby. You consider "
         "returning it to space when you learn it's Mantis."
-msgstr  "Вы обнаруживаете и вылавливаете спасательную капсулу, плавающую "
-        "поблизости. Вы уже думали выкинуть её обратно в космос, как "
-        "замечаете она принадлежит мантисам."
+msgstr  "Вы обнаруживаете и вылавливаете спасательную капсулу, дрейфующую в пространстве. "
+        "Вы уже думали выкинуть её обратно в космос, но это капсула с корабля мантисов..."
 
-# REVIEW
 msgid   "Jettison the pod."
 msgstr  "Выкинуть капсулу."
 
-# REVIEW
 msgid   "You send the pod back out the airlock. You're not stupid."
-msgstr  "Вы запускаете капсулу обратно в космос. Вы же не идиот."
+msgstr  "Вы выбрасываете капсулу обратно в космос."
 
-# REVIEW
 msgid   "Pry it open."
-msgstr  "Полюбопытствовать, открыв."
+msgstr  "Открыть капсулу."
 
-# REVIEW
 msgid   "The Mantis inside is FURIOUS. He cuts the closest person in half "
         "with a single swipe.  Kill it before anyone else is hurt."
-msgstr  "Мантис внутри в ЯРОСТИ. Одним мощным ударом он разрубает пополам "
+msgstr  "Мантис внутри В ЯРОСТИ! Одним мощным ударом он рассекает пополам "
         "ближайшего к нему члена экипажа. Придётся убить его, пока кто-нибудь "
         "ещё не пострадал."
 
-# REVIEW
 msgid   "The Mantis inside considers you a messenger from the god of mercy "
         "and demands to join your crew."
 msgstr  "Мантис внутри считает вас посланником божьим и просится в ваш экипаж."
 
-# REVIEW
 msgid   "A man bursts out of the life-pod screaming and claws his way into a "
         "corner. A rare survivor of Mantis captivity.  Once calm, the "
         "survivor offers to join your crew for a time."
-msgstr  "Из капсулы выскакивает орущий незнакомец и забивается в угол. Редко "
-        "увидишь выжившего после захвата мантисов. Успокоившись, выживший "
-        "предлагает на время присоединиться к вашему экипажу."
+msgstr  "Из капсулы в ужасе вырывается человек и, крича и плача, прячется в углу. "
+        "Попавшим к мантисам в плен нечасто удаётся спастись. "
+        "Придя в себя, выживший предлагает присоединиться к вашему экипажу."
 
-# REVIEW
 msgid   "Who knows why the Mantis would venture so close to a sun. Perhaps it "
         "makes for more of a challenge?"
-msgstr  "Кто знает, зачем мантис рискует, оказавшись так близко к солнцу. "
+msgstr  "Неизвестно зачем мантис рискует, подбираясь так близко к звезде. "
         "Может он ищет более трудных испытаний?"
 
-# REVIEW
 msgid   "A derelict and still smoking Mantis vessel floats by. The battle "
         "must have been recent; its surviving crew beam aboard.  Prepare for "
         "a fight!"
 msgstr  "Недавно брошенный и до сих пор дымящийся корабль мантисов проплывает "
-        "мимо. Похоже битва прошла совсем недавно; выживший экипаж "
+        "мимо. Похоже, битва прошла совсем недавно; выживший экипаж "
         "телепортируется к вам на борт. Готовьтесь к бою!"
 
 # REVIEW
